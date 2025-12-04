@@ -10045,3 +10045,63 @@
 ⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does pharmacological or genetic inhibition of identified epigenetic modifiers reverse xCT expression changes in HPV-positive HNSCC cells?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:30:22.872Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the expression and functional role of xCT (SLC7A11) in HPV-positive versus HPV-negative HNSCC cell lines and patient samples?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.872Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the expression and functional role of xCT (SLC7A11) in HPV-positive versus HPV-negative HNSCC cell lines and patient samples?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.872Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "How do epigenetic drugs (e.g., HDAC inhibitors, DNMT inhibitors) modulate xCT expression and activity in HPV-associated HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.872Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "How do epigenetic drugs (e.g., HDAC inhibitors, DNMT inhibitors) modulate xCT expression and activity in HPV-associated HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.872Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the effect of combining epigenetic drugs with GPX4 inhibitors on ferroptosis induction in HPV-positive HNSCC cells compared to HPV-negative cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.872Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the effect of combining epigenetic drugs with GPX4 inhibitors on ferroptosis induction in HPV-positive HNSCC cells compared to HPV-negative cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.873Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What are the underlying molecular mechanisms (e.g., changes in lipid peroxidation, glutathione metabolism, NRF2 signaling) by which this combination therapy overcomes ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.873Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What are the underlying molecular mechanisms (e.g., changes in lipid peroxidation, glutathione metabolism, NRF2 signaling) by which this combination therapy overcomes ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.873Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Does the combination of epigenetic drugs and GPX4 inhibitors show synergistic anti-tumor efficacy and improved survival in preclinical HPV-positive HNSCC animal models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:22.873Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Does the combination of epigenetic drugs and GPX4 inhibitors show synergistic anti-tumor efficacy and improved survival in preclinical HPV-positive HNSCC animal models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.293Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the baseline expression level and functional activity of xCT/SLC7A11 in HPV-positive versus HPV-negative HNSCC cell lines and patient samples?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.293Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the baseline expression level and functional activity of xCT/SLC7A11 in HPV-positive versus HPV-negative HNSCC cell lines and patient samples?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.293Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "How does HPV infection (specifically E6/E7 oncoproteins) directly or indirectly regulate the transcription or stability of xCT/SLC7A11 mRNA or protein in HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.293Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "How does HPV infection (specifically E6/E7 oncoproteins) directly or indirectly regulate the transcription or stability of xCT/SLC7A11 mRNA or protein in HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.293Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the functional consequence of xCT/SLC7A11 expression on ferroptosis sensitivity (e.g., lipid peroxidation, glutathione levels, cell survival) in HPV-positive HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.293Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "What is the functional consequence of xCT/SLC7A11 expression on ferroptosis sensitivity (e.g., lipid peroxidation, glutathione levels, cell survival) in HPV-positive HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.294Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Which specific epigenetic mechanisms (e.g., DNA methylation, histone modifications at the SLC7A11 promoter) are differentially associated with xCT expression in HNSCC, and are these patterns HPV-status dependent?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.294Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Which specific epigenetic mechanisms (e.g., DNA methylation, histone modifications at the SLC7A11 promoter) are differentially associated with xCT expression in HNSCC, and are these patterns HPV-status dependent?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.294Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Do known HPV-altered signaling pathways (e.g., NRF2, p53, mTOR) mediate the observed changes in xCT expression and ferroptosis resistance in HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:30:44.294Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Do known HPV-altered signaling pathways (e.g., NRF2, p53, mTOR) mediate the observed changes in xCT expression and ferroptosis resistance in HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
