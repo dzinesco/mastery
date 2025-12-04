@@ -9895,3 +9895,153 @@
 ⚰️  **2025-12-04T19:27:04.404Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What is the mechanistic link between viral oncoprotein activity and changes in key ferroptosis regulators (e.g., GPX4, ACSL4, NRF2) that alter susceptibility?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What is the baseline expression level of the cystine-glutamate antiporter (xCT) in HPV-positive versus HPV-negative head and neck squamous cell carcinoma (HNSCC) cell lines or patient samples?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What is the baseline expression level of the cystine-glutamate antiporter (xCT) in HPV-positive versus HPV-negative head and neck squamous cell carcinoma (HNSCC) cell lines or patient samples?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do specific epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) at the promoter or enhancer regions of the SLC7A11 gene (encoding xCT) differ between HPV-positive and HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do specific epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) at the promoter or enhancer regions of the SLC7A11 gene (encoding xCT) differ between HPV-positive and HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does experimental manipulation of these identified epigenetic marks (e.g., using demethylating agents or histone deacetylase inhibitors) directly alter xCT expression levels in HPV-associated HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does experimental manipulation of these identified epigenetic marks (e.g., using demethylating agents or histone deacetylase inhibitors) directly alter xCT expression levels in HPV-associated HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does increased xCT expression, as modulated by epigenetic changes, confer increased resistance to ferroptosis inducers (e.g., erastin, RSL3) in HPV-positive HNSCC cells compared to controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does increased xCT expression, as modulated by epigenetic changes, confer increased resistance to ferroptosis inducers (e.g., erastin, RSL3) in HPV-positive HNSCC cells compared to controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Is the observed ferroptosis resistance, mediated by epigenetically-regulated xCT, a significant contributor to the overall treatment resistance or survival advantage observed in HPV-positive HNSCC tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:52.376Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Is the observed ferroptosis resistance, mediated by epigenetically-regulated xCT, a significant contributor to the overall treatment resistance or survival advantage observed in HPV-positive HNSCC tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which specific DNA methylation patterns (e.g., promoter hypermethylation or hypomethylation) are associated with xCT expression levels in HPV+ HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which specific DNA methylation patterns (e.g., promoter hypermethylation or hypomethylation) are associated with xCT expression levels in HPV+ HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do histone modifications (e.g., acetylation, methylation at specific residues) at the xCT gene locus correlate with its transcriptional activity in HPV+ HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do histone modifications (e.g., acetylation, methylation at specific residues) at the xCT gene locus correlate with its transcriptional activity in HPV+ HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What roles do non-coding RNAs (e.g., miRNAs, lncRNAs) play in post-transcriptionally regulating xCT expression in HPV+ HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What roles do non-coding RNAs (e.g., miRNAs, lncRNAs) play in post-transcriptionally regulating xCT expression in HPV+ HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Do HPV E6/E7 oncoproteins directly bind to the xCT promoter or regulatory elements to alter its transcription?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Do HPV E6/E7 oncoproteins directly bind to the xCT promoter or regulatory elements to alter its transcription?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How does HPV infection indirectly affect xCT expression through modulation of upstream signaling pathways (e.g., NRF2, ATF4) in HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:23.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How does HPV infection indirectly affect xCT expression through modulation of upstream signaling pathways (e.g., NRF2, ATF4) in HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which specific HPV oncoproteins (e.g., E6, E7, E5) are primarily responsible for modulating xCT expression in head and neck squamous cell carcinoma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which specific HPV oncoproteins (e.g., E6, E7, E5) are primarily responsible for modulating xCT expression in head and neck squamous cell carcinoma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What is the direct epigenetic mechanism (e.g., promoter methylation, histone acetylation/methylation) through which HPV infection regulates xCT gene (SLC7A11) transcription in HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What is the direct epigenetic mechanism (e.g., promoter methylation, histone acetylation/methylation) through which HPV infection regulates xCT gene (SLC7A11) transcription in HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How does xCT-mediated cystine import and glutathione synthesis specifically inhibit lipid peroxidation and ferroptosis in HPV-positive HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How does xCT-mediated cystine import and glutathione synthesis specifically inhibit lipid peroxidation and ferroptosis in HPV-positive HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Are there specific histone modification markers (e.g., H3K4me3, H3K27ac, H3K9me3) at the xCT promoter region that differ between HPV-positive and HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Are there specific histone modification markers (e.g., H3K4me3, H3K27ac, H3K9me3) at the xCT promoter region that differ between HPV-positive and HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What DNA methylation patterns (specific CpG sites) in the xCT promoter or enhancer regions correlate with xCT expression levels in HPV-associated HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:28:47.567Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What DNA methylation patterns (specific CpG sites) in the xCT promoter or enhancer regions correlate with xCT expression levels in HPV-associated HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What are the specific DNA methylation patterns (e.g., promoter methylation) associated with xCT expression in HPV-positive HNSCC compared to HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What are the specific DNA methylation patterns (e.g., promoter methylation) associated with xCT expression in HPV-positive HNSCC compared to HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do histone modifications (e.g., acetylation, methylation) at the xCT gene locus differ between HPV-positive and HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do histone modifications (e.g., acetylation, methylation) at the xCT gene locus differ between HPV-positive and HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which non-coding RNAs (e.g., miRNAs, lncRNAs) are differentially expressed in HPV-positive vs. HPV-negative HNSCC and are known to target xCT?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which non-coding RNAs (e.g., miRNAs, lncRNAs) are differentially expressed in HPV-positive vs. HPV-negative HNSCC and are known to target xCT?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do HPV E6 and E7 oncoproteins directly or indirectly modulate xCT expression at the transcriptional or post-transcriptional level?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do HPV E6 and E7 oncoproteins directly or indirectly modulate xCT expression at the transcriptional or post-transcriptional level?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does HPV infection alter cellular susceptibility to ferroptosis in HNSCC models, and is this mediated by changes in xCT expression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:07.558Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does HPV infection alter cellular susceptibility to ferroptosis in HNSCC models, and is this mediated by changes in xCT expression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.777Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What are the differences in DNA methylation patterns at the xCT gene promoter region between HPV-positive and HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.777Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "What are the differences in DNA methylation patterns at the xCT gene promoter region between HPV-positive and HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.777Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do histone modification marks (e.g., H3K4me3, H3K27ac, H3K9me3) at the xCT locus differ between HPV-positive and HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "How do histone modification marks (e.g., H3K4me3, H3K27ac, H3K9me3) at the xCT locus differ between HPV-positive and HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which specific epigenetic modifiers (e.g., DNMTs, HDACs, HATs, KMTs) show altered expression or activity in HPV-positive HNSCC compared to HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Which specific epigenetic modifiers (e.g., DNMTs, HDACs, HATs, KMTs) show altered expression or activity in HPV-positive HNSCC compared to HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Do HPV oncoproteins E6 and E7 directly bind to or recruit epigenetic regulators to the xCT gene regulatory regions in HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Do HPV oncoproteins E6 and E7 directly bind to or recruit epigenetic regulators to the xCT gene regulatory regions in HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does pharmacological or genetic inhibition of identified epigenetic modifiers reverse xCT expression changes in HPV-positive HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:29:30.778Z** - Topic: `"Epigenetic modulation of cystine-glutamate antiporter (xCT) expression and its role in ferroptosis resistance in HPV-associated head and neck squamous cell carcinoma"` - Query: "Does pharmacological or genetic inhibition of identified epigenetic modifiers reverse xCT expression changes in HPV-positive HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
