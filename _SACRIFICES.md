@@ -781,3 +781,18 @@
 ⚰️  **2025-12-04T06:58:22.738Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How do the thematic characteristics of the Christian interpolations in the Testament of Job specifically compare to those in the Testaments of the Twelve Patriarchs?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:58:46.087Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "What specific titles, attributes, or functions (e.g., pre-existence, heavenly enthronement, judicial authority) are applied to the 'Son of Man' in the Parables of Enoch (1 Enoch 37-71) that have direct parallels in the 'Son of Man' sayings in the Gospel of John?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:46.087Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "How does the structural presentation of the eschatological judgment scene in the Parables of Enoch (including roles, sequence, and outcomes) compare to the judgment scene described in Hebrews (e.g., Heb 9:27-28; 10:26-31) in terms of agency, criteria, and finality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:46.087Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "How does the thematic presentation of judgment (e.g., light vs. darkness, truth, eternal life) in the Parables of Enoch compare to the judgment themes developed in the Johannine literature (e.g., John 3:16-21; 5:22-30; 1 John 4:17)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:46.087Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "What specific Wisdom motifs (e.g., agency in creation, divine indwelling, revelation of divine secrets) are associated with the Enochic Son of Man, and which of these appear in the description of the Logos in John's Prologue (John 1:1-18)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:46.087Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "To what extent does the functional role of the Johannine Logos as the unique revealer of God (John 1:18) reflect or diverge from the role of the Enochic Son of Man as a revealer of heavenly wisdom and eschatological secrets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
