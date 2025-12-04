@@ -3205,3 +3205,753 @@
 ⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral infections activate or inhibit enzymes and pathways (e.g., LOXs, POR, FSP1) that drive lipid peroxidation, leading to ferroptotic cell death?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:25:18.621Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise enzymatic function of GPX4 in neutralizing lipid hydroperoxides within cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.621Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise enzymatic function of GPX4 in neutralizing lipid hydroperoxides within cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.621Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid hydroperoxides (e.g., phosphatidylethanolamine hydroperoxides) are the primary substrates for GPX4 in cancer cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid hydroperoxides (e.g., phosphatidylethanolamine hydroperoxides) are the primary substrates for GPX4 in cancer cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity lead to the propagation of lipid peroxidation chains via radical reactions (e.g., Fenton chemistry, lipoxygenase activity)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity lead to the propagation of lipid peroxidation chains via radical reactions (e.g., Fenton chemistry, lipoxygenase activity)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific sources and pools of intracellular iron (e.g., labile iron pool, ferritinophagy) that catalyze lipid peroxidation upon GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific sources and pools of intracellular iron (e.g., labile iron pool, ferritinophagy) that catalyze lipid peroxidation upon GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do alterations in iron metabolism proteins (e.g., transferrin receptor, ferroportin, iron regulatory proteins) modulate cellular sensitivity to GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:18.622Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do alterations in iron metabolism proteins (e.g., transferrin receptor, ferroportin, iron regulatory proteins) modulate cellular sensitivity to GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., SARS-CoV-2, HIV, HCV, influenza) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., SARS-CoV-2, HIV, HCV, influenza) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the molecular evidence linking viral infection to increased lipid peroxidation and iron accumulation in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the molecular evidence linking viral infection to increased lipid peroxidation and iron accumulation in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific cytokines (e.g., TNF-α, IFN-γ) or immune cell-derived factors directly activate or sensitize cells to ferroptosis during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific cytokines (e.g., TNF-α, IFN-γ) or immune cell-derived factors directly activate or sensitize cells to ferroptosis during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which viral proteins or viral replication processes directly inhibit GPX4 activity or system xc- function to promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which viral proteins or viral replication processes directly inhibit GPX4 activity or system xc- function to promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter the expression or activity of iron metabolism regulators (e.g., transferrin receptor, ferritin, hepcidin) to increase intracellular labile iron?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:36.697Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter the expression or activity of iron metabolism regulators (e.g., transferrin receptor, ferritin, hepcidin) to increase intracellular labile iron?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.495Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise biochemical reaction catalyzed by GPX4 that prevents lipid peroxidation in cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.495Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise biochemical reaction catalyzed by GPX4 that prevents lipid peroxidation in cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.495Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity directly lead to the accumulation of specific lipid hydroperoxides (e.g., phospholipid hydroperoxides) within cancer cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.495Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity directly lead to the accumulation of specific lipid hydroperoxides (e.g., phospholipid hydroperoxides) within cancer cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.496Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific iron-dependent processes (e.g., Fenton reaction) that are required to propagate lipid peroxidation following GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.496Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific iron-dependent processes (e.g., Fenton reaction) that are required to propagate lipid peroxidation following GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.496Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do genetic or pharmacological models of GPX4 inhibition (e.g., knockout, knockdown, small molecule inhibitors) differentially affect lipid peroxidation markers and ferroptotic cell death across various cancer cell lines (e.g., from different tissues like lung, breast, or pancreas)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.496Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do genetic or pharmacological models of GPX4 inhibition (e.g., knockout, knockdown, small molecule inhibitors) differentially affect lipid peroxidation markers and ferroptotic cell death across various cancer cell lines (e.g., from different tissues like lung, breast, or pancreas)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.496Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What intrinsic cellular factors (e.g., levels of polyunsaturated fatty acids, iron metabolism genes, or other antioxidant systems) best predict a cancer cell type's vulnerability to ferroptosis upon GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:43.496Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What intrinsic cellular factors (e.g., levels of polyunsaturated fatty acids, iron metabolism genes, or other antioxidant systems) best predict a cancer cell type's vulnerability to ferroptosis upon GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.911Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., SARS-CoV-2, HIV, HCV, HSV) have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., SARS-CoV-2, HIV, HCV, HSV) have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the molecular evidence linking cytokine signaling (e.g., IFN-γ, TNF-α) or immune cell activity (e.g., CD8+ T cells) to the induction of ferroptosis in infected or bystander cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the molecular evidence linking cytokine signaling (e.g., IFN-γ, TNF-α) or immune cell activity (e.g., CD8+ T cells) to the induction of ferroptosis in infected or bystander cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific viruses alter host cell iron metabolism (e.g., via transferrin receptor, ferritin, iron regulatory proteins) to increase intracellular labile iron?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific viruses alter host cell iron metabolism (e.g., via transferrin receptor, ferritin, iron regulatory proteins) to increase intracellular labile iron?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral mechanisms directly target and inhibit the antioxidant defense system, specifically GPX4 activity or system xc- (cystine/glutamate antiporter) function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral mechanisms directly target and inhibit the antioxidant defense system, specifically GPX4 activity or system xc- (cystine/glutamate antiporter) function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses promote lipid peroxidation, either by modulating lipoxygenase activity, depleting antioxidant pools, or altering membrane lipid composition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:55.912Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses promote lipid peroxidation, either by modulating lipoxygenase activity, depleting antioxidant pools, or altering membrane lipid composition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.589Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the direct biochemical function of GPX4 in preventing lipid peroxidation within cell membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.589Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the direct biochemical function of GPX4 in preventing lipid peroxidation within cell membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.589Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing polyunsaturated fatty acids) become peroxidized when GPX4 is inhibited?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing polyunsaturated fatty acids) become peroxidized when GPX4 is inhibited?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity disrupt the glutathione-based antioxidant system, leading to reactive oxygen species accumulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity disrupt the glutathione-based antioxidant system, leading to reactive oxygen species accumulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the sources of labile iron (e.g., from ferritinophagy or iron import) that catalyze lipid peroxidation in the context of GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the sources of labile iron (e.g., from ferritinophagy or iron import) that catalyze lipid peroxidation in the context of GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do downstream events following lipid peroxidation (e.g., membrane damage, organelle dysfunction) specifically execute cell death in ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:02.590Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do downstream events following lipid peroxidation (e.g., membrane damage, organelle dysfunction) specifically execute cell death in ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or replication processes directly interact with host ferroptosis pathways (e.g., GPX4 inhibition, system Xc- disruption)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or replication processes directly interact with host ferroptosis pathways (e.g., GPX4 inhibition, system Xc- disruption)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron metabolism (e.g., iron uptake, storage, or export) to promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron metabolism (e.g., iron uptake, storage, or export) to promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.581Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of specific cytokines (e.g., IFN-γ, TNF-α) or immune signaling pathways in modulating ferroptosis during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.582Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of specific cytokines (e.g., IFN-γ, TNF-α) or immune signaling pathways in modulating ferroptosis during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.582Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do activated immune cells (e.g., macrophages, T cells) influence ferroptosis in virus-infected cells through direct contact or secreted factors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:18.582Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do activated immune cells (e.g., macrophages, T cells) influence ferroptosis in virus-infected cells through direct contact or secreted factors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.703Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise enzymatic function of GPX4 in reducing lipid hydroperoxides within cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise enzymatic function of GPX4 in reducing lipid hydroperoxides within cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing polyunsaturated fatty acids) are the primary targets of peroxidation when GPX4 is inhibited?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing polyunsaturated fatty acids) are the primary targets of peroxidation when GPX4 is inhibited?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity lead to the disruption of cellular redox balance and the accumulation of reactive oxygen species (ROS) specifically on lipids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity lead to the disruption of cellular redox balance and the accumulation of reactive oxygen species (ROS) specifically on lipids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream signaling events or cellular damage pathways (e.g., membrane rupture, organelle dysfunction) activated by lethal levels of lipid peroxidation post-GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream signaling events or cellular damage pathways (e.g., membrane rupture, organelle dysfunction) activated by lethal levels of lipid peroxidation post-GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do alterations in cellular iron uptake, storage, and utilization (e.g., via transferrin receptor, ferritin, iron-sulfur clusters) modulate the sensitivity of cells to GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:26.704Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do alterations in cellular iron uptake, storage, and utilization (e.g., via transferrin receptor, ferritin, iron-sulfur clusters) modulate the sensitivity of cells to GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins (e.g., envelope proteins, non-structural proteins) directly interact with or regulate key ferroptosis components like GPX4, system Xc-, or lipid peroxidation pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins (e.g., envelope proteins, non-structural proteins) directly interact with or regulate key ferroptosis components like GPX4, system Xc-, or lipid peroxidation pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral replication processes (e.g., viral genome replication, assembly, or egress) alter cellular iron metabolism, ROS production, or antioxidant defenses to promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral replication processes (e.g., viral genome replication, assembly, or egress) alter cellular iron metabolism, ROS production, or antioxidant defenses to promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific cytokines (e.g., TNF-α, IFN-γ) or interferons released during viral infection have been shown to either sensitize or protect host cells from ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific cytokines (e.g., TNF-α, IFN-γ) or interferons released during viral infection have been shown to either sensitize or protect host cells from ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do immune cell signaling pathways (e.g., from macrophages, T cells, or NK cells) influence ferroptosis execution in virus-infected cells, and what are the key mediators involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:39.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do immune cell signaling pathways (e.g., from macrophages, T cells, or NK cells) influence ferroptosis execution in virus-infected cells, and what are the key mediators involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.675Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does GPX4 inhibition directly affect the reduction of lipid hydroperoxides to lipid alcohols in cancer cell membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.675Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does GPX4 inhibition directly affect the reduction of lipid hydroperoxides to lipid alcohols in cancer cell membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.675Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What specific polyunsaturated fatty acids (PUFAs) in membrane phospholipids become peroxidized following GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.675Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What specific polyunsaturated fatty acids (PUFAs) in membrane phospholipids become peroxidized following GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.676Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which reactive oxygen species (ROS) and iron-dependent mechanisms (e.g., Fenton reaction) are primarily responsible for initiating lipid peroxidation after GPX4 loss?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.676Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which reactive oxygen species (ROS) and iron-dependent mechanisms (e.g., Fenton reaction) are primarily responsible for initiating lipid peroxidation after GPX4 loss?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.676Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "In which cancer types (e.g., by tissue origin or genetic background) does GPX4 inhibition show the highest cytotoxicity in preclinical models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.676Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "In which cancer types (e.g., by tissue origin or genetic background) does GPX4 inhibition show the highest cytotoxicity in preclinical models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.676Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What tumor microenvironment conditions (e.g., hypoxia, nutrient availability) or oncogenic mutations (e.g., RAS, p53) confer increased sensitivity to GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:47.676Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What tumor microenvironment conditions (e.g., hypoxia, nutrient availability) or oncogenic mutations (e.g., RAS, p53) confer increased sensitivity to GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct neural activation patterns (e.g., in the anterior insula, anterior cingulate cortex, and prefrontal regions) associated with compassion fatigue versus empathy burnout in clinical populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct neural activation patterns (e.g., in the anterior insula, anterior cingulate cortex, and prefrontal regions) associated with compassion fatigue versus empathy burnout in clinical populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do psychological factors such as emotional regulation strategies, attachment styles, and personality traits (e.g., neuroticism, conscientiousness) differentially predict susceptibility to compassion fatigue versus empathy burnout in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do psychological factors such as emotional regulation strategies, attachment styles, and personality traits (e.g., neuroticism, conscientiousness) differentially predict susceptibility to compassion fatigue versus empathy burnout in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the longitudinal impact of chronic exposure to patient trauma on the hypothalamic-pituitary-adrenal (HPA) axis and immune function in clinicians experiencing compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the longitudinal impact of chronic exposure to patient trauma on the hypothalamic-pituitary-adrenal (HPA) axis and immune function in clinicians experiencing compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific clinical workplace factors (e.g., caseload intensity, supervisory support, organizational culture) modulate the development and maintenance of empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific clinical workplace factors (e.g., caseload intensity, supervisory support, organizational culture) modulate the development and maintenance of empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the comparative efficacies of different interventions (e.g., mindfulness-based stress reduction, cognitive-behavioral therapy, institutional policy changes) in mitigating the neural and psychological symptoms of compassion fatigue and empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:49.704Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the comparative efficacies of different interventions (e.g., mindfulness-based stress reduction, cognitive-behavioral therapy, institutional policy changes) in mitigating the neural and psychological symptoms of compassion fatigue and empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or components directly interact with host ferroptosis pathways to trigger lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or components directly interact with host ferroptosis pathways to trigger lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter host iron metabolism (e.g., iron uptake, storage, or export) to promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter host iron metabolism (e.g., iron uptake, storage, or export) to promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.229Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines or inflammatory mediators produced during viral infection directly modulate ferroptosis sensitivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.230Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines or inflammatory mediators produced during viral infection directly modulate ferroptosis sensitivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.230Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cells (e.g., macrophages, T cells) influence ferroptosis execution or protection in infected tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:26:52.230Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cells (e.g., macrophages, T cells) influence ferroptosis execution or protection in infected tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct anatomical and functional characteristics of core versus matrix thalamic neuron types?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct anatomical and functional characteristics of core versus matrix thalamic neuron types?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core thalamic neurons specifically modulate neural circuits involved in empathy processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core thalamic neurons specifically modulate neural circuits involved in empathy processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix thalamic neurons specifically modulate neural circuits involved in compassion processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix thalamic neurons specifically modulate neural circuits involved in compassion processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the measurable differences in thalamocortical oscillation patterns (frequency, synchrony) during high versus low empathy states?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the measurable differences in thalamocortical oscillation patterns (frequency, synchrony) during high versus low empathy states?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do changes in thalamocortical resonance patterns correlate with self-reported measures of empathy fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:10.190Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do changes in thalamocortical resonance patterns correlate with self-reported measures of empathy fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes directly inhibit GPX4 activity during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes directly inhibit GPX4 activity during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron metabolism to create iron overload conditions that promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron metabolism to create iron overload conditions that promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral mechanisms directly increase lipid peroxidation independently of GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral mechanisms directly increase lipid peroxidation independently of GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do virus-induced cytokines (specifically which cytokines) regulate ferroptosis pathways in infected or bystander cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:14.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do virus-induced cytokines (specifically which cytokines) regulate ferroptosis pathways in infected or bystander cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.870Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical pathways (e.g., medial dorsal thalamus to prefrontal cortex, intralaminar nuclei to widespread cortical regions) implicated in empathy and emotional regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.870Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical pathways (e.g., medial dorsal thalamus to prefrontal cortex, intralaminar nuclei to widespread cortical regions) implicated in empathy and emotional regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.870Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do dysfunctions in core (intralaminar/matrix) versus matrix (specific relay) thalamic neurons differentially affect emotional contagion, cognitive empathy, and emotion regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.870Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do dysfunctions in core (intralaminar/matrix) versus matrix (specific relay) thalamic neurons differentially affect emotional contagion, cognitive empathy, and emotion regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.870Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the empirical evidence (from fMRI, EEG, lesion, or animal studies) linking thalamic activity or connectivity changes to reduced empathic responding or increased emotional exhaustion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.871Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the empirical evidence (from fMRI, EEG, lesion, or animal studies) linking thalamic activity or connectivity changes to reduced empathic responding or increased emotional exhaustion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.871Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which psychological processes in clinical populations (e.g., therapists, healthcare workers) — such as emotional detachment, decreased perspective-taking, or increased personal distress — correlate with altered thalamocortical rhythms or connectivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.871Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which psychological processes in clinical populations (e.g., therapists, healthcare workers) — such as emotional detachment, decreased perspective-taking, or increased personal distress — correlate with altered thalamocortical rhythms or connectivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.871Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do thalamocortical mechanisms interact with stress-response systems (e.g., HPA axis) and cortical networks (e.g., default mode, salience) to contribute to compassion fatigue or burnout progression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:33.871Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do thalamocortical mechanisms interact with stress-response systems (e.g., HPA axis) and cortical networks (e.g., default mode, salience) to contribute to compassion fatigue or burnout progression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in human or animal host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in human or animal host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or replication processes directly interact with host ferroptosis pathways (e.g., GPX4 inhibition, system Xc- disruption, or iron metabolism proteins)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or replication processes directly interact with host ferroptosis pathways (e.g., GPX4 inhibition, system Xc- disruption, or iron metabolism proteins)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron homeostasis (e.g., through modulation of iron import/export, storage, or ferritinophagy) to promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron homeostasis (e.g., through modulation of iron import/export, storage, or ferritinophagy) to promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of viral-induced oxidative stress and reactive oxygen species (ROS) in initiating or amplifying lipid peroxidation during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of viral-induced oxidative stress and reactive oxygen species (ROS) in initiating or amplifying lipid peroxidation during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific cytokines (e.g., IFN-γ, TNF-α) or immune signaling pathways regulate ferroptosis sensitivity in virus-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:34.789Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific cytokines (e.g., IFN-γ, TNF-α) or immune signaling pathways regulate ferroptosis sensitivity in virus-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What neuroimaging or electrophysiological findings demonstrate altered thalamocortical connectivity in clinical populations with diagnosed compassion fatigue or empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What neuroimaging or electrophysiological findings demonstrate altered thalamocortical connectivity in clinical populations with diagnosed compassion fatigue or empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific neuromodulators (acetylcholine, norepinephrine, serotonin, dopamine) influence distinct neural circuits involved in affective empathy and cognitive empathy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific neuromodulators (acetylcholine, norepinephrine, serotonin, dopamine) influence distinct neural circuits involved in affective empathy and cognitive empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the functional distinction between 'core' (first-order) and 'matrix' (higher-order) thalamic neurons in processing and relaying emotional versus sensory information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the functional distinction between 'core' (first-order) and 'matrix' (higher-order) thalamic neurons in processing and relaying emotional versus sensory information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which clinical populations show the strongest association between thalamocortical dysfunction and measures of compassion fatigue, and what are the common neurological or psychiatric comorbidities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which clinical populations show the strongest association between thalamocortical dysfunction and measures of compassion fatigue, and what are the common neurological or psychiatric comorbidities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do neuromodulatory systems interact with thalamocortical circuits to regulate emotional arousal and cognitive appraisal during repeated empathic engagement?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:54.534Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do neuromodulatory systems interact with thalamocortical circuits to regulate emotional arousal and cognitive appraisal during repeated empathic engagement?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins (e.g., viral proteases, envelope proteins, non-structural proteins) directly interact with or regulate host ferroptosis pathways (GPX4, system Xc-, iron metabolism)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins (e.g., viral proteases, envelope proteins, non-structural proteins) directly interact with or regulate host ferroptosis pathways (GPX4, system Xc-, iron metabolism)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral replication processes (e.g., membrane remodeling, ROS generation, resource hijacking) lead to increased lipid peroxidation in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral replication processes (e.g., membrane remodeling, ROS generation, resource hijacking) lead to increased lipid peroxidation in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines (e.g., IFN-γ, TNF-α, IL-6) produced during antiviral immune responses have been shown to promote or inhibit ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines (e.g., IFN-γ, TNF-α, IL-6) produced during antiviral immune responses have been shown to promote or inhibit ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How does the activation state of specific immune cells (e.g., macrophages, T cells, NK cells) influence ferroptosis susceptibility in virally infected tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:27:57.240Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How does the activation state of specific immune cells (e.g., macrophages, T cells, NK cells) influence ferroptosis susceptibility in virally infected tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.283Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.284Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.284Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or replication processes directly interact with host iron metabolism pathways (e.g., iron uptake, storage, or export) to cause iron dysregulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.284Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or replication processes directly interact with host iron metabolism pathways (e.g., iron uptake, storage, or export) to cause iron dysregulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.285Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses directly or indirectly activate enzymes (e.g., lipoxygenases, NADPH oxidases) or inhibit antioxidant systems (e.g., GPX4, system xc-) to promote lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.285Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses directly or indirectly activate enzymes (e.g., lipoxygenases, NADPH oxidases) or inhibit antioxidant systems (e.g., GPX4, system xc-) to promote lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.285Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines or inflammatory signals produced during infection (e.g., IFN-γ, TNF-α) are known to sensitize cells to ferroptosis, and through what mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.285Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines or inflammatory signals produced during infection (e.g., IFN-γ, TNF-α) are known to sensitize cells to ferroptosis, and through what mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.286Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cells (e.g., macrophages, T cells) or immune pathways (e.g., type I interferon response) protect against virus-induced ferroptosis, and what evidence supports this?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:12.286Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cells (e.g., macrophages, T cells) or immune pathways (e.g., type I interferon response) protect against virus-induced ferroptosis, and what evidence supports this?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.573Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct functional roles of core and matrix thalamic neurons in processing and gating emotional and empathic information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.573Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct functional roles of core and matrix thalamic neurons in processing and gating emotional and empathic information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific neuromodulators (acetylcholine, dopamine, norepinephrine) differentially regulate core vs. matrix thalamic circuits during sustained empathic engagement?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific neuromodulators (acetylcholine, dopamine, norepinephrine) differentially regulate core vs. matrix thalamic circuits during sustained empathic engagement?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the evidence that thalamocortical dysrhythmia (altered alpha/theta oscillations) correlates with self-reported measures of compassion fatigue or empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the evidence that thalamocortical dysrhythmia (altered alpha/theta oscillations) correlates with self-reported measures of compassion fatigue or empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Do neuroimaging studies show altered functional connectivity between specific thalamic nuclei (e.g., mediodorsal, anterior) and cortical empathy networks (e.g., anterior insula, anterior cingulate) in burnout populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Do neuroimaging studies show altered functional connectivity between specific thalamic nuclei (e.g., mediodorsal, anterior) and cortical empathy networks (e.g., anterior insula, anterior cingulate) in burnout populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Are there experimental models (animal or human) demonstrating that induced disruption of thalamocortical loops impairs empathic accuracy or emotional resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:17.574Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Are there experimental models (animal or human) demonstrating that induced disruption of thalamocortical loops impairs empathic accuracy or emotional resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.375Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes directly interact with cellular ferroptosis pathways (e.g., GPX4, system xc-, iron metabolism)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes directly interact with cellular ferroptosis pathways (e.g., GPX4, system xc-, iron metabolism)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do virus-induced alterations in host lipid metabolism and ROS production promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do virus-induced alterations in host lipid metabolism and ROS production promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines released during viral infection (e.g., IFN-γ, TNF-α) are known to sensitize cells to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines released during viral infection (e.g., IFN-γ, TNF-α) are known to sensitize cells to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do activated immune cells (e.g., macrophages, CD8+ T cells) contribute to ferroptosis in infected or bystander cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:31.376Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do activated immune cells (e.g., macrophages, CD8+ T cells) contribute to ferroptosis in infected or bystander cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific patterns of thalamocortical dysrhythmia observed in individuals with compassion fatigue and empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific patterns of thalamocortical dysrhythmia observed in individuals with compassion fatigue and empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do disruptions in thalamic relay of limbic and prefrontal cortical signals correlate with measurable deficits in empathy and emotional regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do disruptions in thalamic relay of limbic and prefrontal cortical signals correlate with measurable deficits in empathy and emotional regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the distinct contribution of core (first-order) thalamic neurons versus matrix (higher-order) neurons to emotional processing and affective state maintenance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the distinct contribution of core (first-order) thalamic neurons versus matrix (higher-order) neurons to emotional processing and affective state maintenance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do clinical populations with emotional regulation deficits show altered activity or connectivity in core versus matrix thalamic pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do clinical populations with emotional regulation deficits show altered activity or connectivity in core versus matrix thalamic pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which neuromodulatory system (acetylcholine, norepinephrine, serotonin, or dopamine) shows the strongest correlation with early stages of compassion fatigue development?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:38.757Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which neuromodulatory system (acetylcholine, norepinephrine, serotonin, or dopamine) shows the strongest correlation with early stages of compassion fatigue development?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.314Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes directly interact with or dysregulate key ferroptosis regulators like GPX4, system Xc-, or iron metabolism pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes directly interact with or dysregulate key ferroptosis regulators like GPX4, system Xc-, or iron metabolism pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular lipid peroxidation levels or antioxidant defenses to promote ferroptosis execution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular lipid peroxidation levels or antioxidant defenses to promote ferroptosis execution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines (e.g., IFN-γ, TNF-α) or immune signaling pathways (e.g., STING, TLR) during viral infection have been shown to influence ferroptosis sensitivity in infected or bystander cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines (e.g., IFN-γ, TNF-α) or immune signaling pathways (e.g., STING, TLR) during viral infection have been shown to influence ferroptosis sensitivity in infected or bystander cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cell types (e.g., macrophages, T cells) contribute to or protect against ferroptosis in virally infected tissues through direct contact or secreted factors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:51.315Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cell types (e.g., macrophages, T cells) contribute to or protect against ferroptosis in virally infected tissues through direct contact or secreted factors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.741Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the current neuroscientific understanding of thalamocortical circuits involved in empathy and emotional regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.741Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the current neuroscientific understanding of thalamocortical circuits involved in empathy and emotional regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.741Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic empathic engagement or vicarious trauma alter thalamocortical connectivity or rhythmic activity (e.g., thalamocortical dysrhythmia)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic empathic engagement or vicarious trauma alter thalamocortical connectivity or rhythmic activity (e.g., thalamocortical dysrhythmia)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological symptoms of compassion fatigue or empathy burnout correspond to known thalamocortical dysfunction patterns?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological symptoms of compassion fatigue or empathy burnout correspond to known thalamocortical dysfunction patterns?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which thalamic nuclei (e.g., mediodorsal, anterior, pulvinar) show structural or functional changes in individuals with high empathy demands or burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which thalamic nuclei (e.g., mediodorsal, anterior, pulvinar) show structural or functional changes in individuals with high empathy demands or burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do stress hormones (e.g., cortisol) affect thalamic gatekeeping functions and cortical emotional processing in clinical or caregiving populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:28:57.742Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do stress hormones (e.g., cortisol) affect thalamic gatekeeping functions and cortical emotional processing in clinical or caregiving populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes are known to directly or indirectly activate ferroptosis pathways in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What viral proteins or viral replication processes are known to directly or indirectly activate ferroptosis pathways in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron metabolism, lipid peroxidation, or antioxidant defenses (e.g., GPX4, system xc-) to promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viruses alter cellular iron metabolism, lipid peroxidation, or antioxidant defenses (e.g., GPX4, system xc-) to promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines or interferons released during viral infection have been shown to either enhance or suppress ferroptosis in infected or bystander cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.276Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which cytokines or interferons released during viral infection have been shown to either enhance or suppress ferroptosis in infected or bystander cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.277Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cells (e.g., macrophages, T cells, NK cells) influence ferroptosis in virus-infected cells through direct contact or secreted factors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:06.277Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do specific immune cells (e.g., macrophages, T cells, NK cells) influence ferroptosis in virus-infected cells through direct contact or secreted factors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical pathways and neural circuits involved in empathy processing that may become dysregulated in compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical pathways and neural circuits involved in empathy processing that may become dysregulated in compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological mechanisms (e.g., emotional contagion, perspective-taking, emotion regulation) are most vulnerable to disruption in empathy burnout, and how do they relate to thalamocortical function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological mechanisms (e.g., emotional contagion, perspective-taking, emotion regulation) are most vulnerable to disruption in empathy burnout, and how do they relate to thalamocortical function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do neuroimaging studies (fMRI, EEG) show altered thalamocortical connectivity or rhythmic activity (e.g., alpha, theta oscillations) in healthcare workers experiencing empathy burnout compared to controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do neuroimaging studies (fMRI, EEG) show altered thalamocortical connectivity or rhythmic activity (e.g., alpha, theta oscillations) in healthcare workers experiencing empathy burnout compared to controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the role of the thalamus in perceptual constancy (e.g., sensory gating, attentional filtering) and how might its dysregulation contribute to emotional overload in clinical empathy contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the role of the thalamus in perceptual constancy (e.g., sensory gating, attentional filtering) and how might its dysregulation contribute to emotional overload in clinical empathy contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do interventions targeting emotional regulation (e.g., mindfulness, resilience training) affect thalamocortical function and perceptual constancy mechanisms in populations at risk for empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do interventions targeting emotional regulation (e.g., mindfulness, resilience training) affect thalamocortical function and perceptual constancy mechanisms in populations at risk for empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
