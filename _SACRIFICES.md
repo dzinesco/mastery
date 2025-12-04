@@ -11359,3 +11359,363 @@
 ⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific lipid peroxidation products (e.g., 4-HNE, MDA, 15-HETE, oxidized phospholipid species) are elevated or reduced in xCT-depleted versus wild-type HNSCC cells during cystine starvation?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:54:18.350Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species (e.g., phospholipids like PUFA-PLs) show reduced peroxidation in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.350Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species (e.g., phospholipids like PUFA-PLs) show reduced peroxidation in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes or pathways (e.g., GPX4, FSP1, DHODH, GCH1) are upregulated or activated in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes or pathways (e.g., GPX4, FSP1, DHODH, GCH1) are upregulated or activated in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the depletion of xCT alter the cellular lipid composition (e.g., saturation levels of fatty acids) in HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the depletion of xCT alter the cellular lipid composition (e.g., saturation levels of fatty acids) in HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of enzymatic vs. non-enzymatic antioxidant systems in protecting xCT-depleted HNSCC cells from lipid peroxidation during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of enzymatic vs. non-enzymatic antioxidant systems in protecting xCT-depleted HNSCC cells from lipid peroxidation during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells under cystine starvation exhibit changes in the expression or activity of lipoxygenases (LOXs) or other pro-ferroptotic enzymes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:18.351Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells under cystine starvation exhibit changes in the expression or activity of lipoxygenases (LOXs) or other pro-ferroptotic enzymes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species or classes show reduced peroxidation in xCT-depleted HNSCC cells compared to control cells under ferroptosis-inducing conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species or classes show reduced peroxidation in xCT-depleted HNSCC cells compared to control cells under ferroptosis-inducing conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes or pathways (e.g., GPX4-independent pathways, lipoxygenases, antioxidant systems) remain active or upregulated in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes or pathways (e.g., GPX4-independent pathways, lipoxygenases, antioxidant systems) remain active or upregulated in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells alter their fatty acid metabolism (e.g., synthesis, desaturation, or incorporation into membranes) to reduce lipid peroxidation susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells alter their fatty acid metabolism (e.g., synthesis, desaturation, or incorporation into membranes) to reduce lipid peroxidation susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.221Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What changes occur in mitochondrial metabolism (e.g., electron transport chain activity, ROS handling) in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.222Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What changes occur in mitochondrial metabolism (e.g., electron transport chain activity, ROS handling) in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.222Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells upregulate alternative antioxidant systems (e.g., FSP1, DHODH, GCH1 pathways) or metabolic bypasses to compensate for glutathione depletion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:54:40.222Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells upregulate alternative antioxidant systems (e.g., FSP1, DHODH, GCH1 pathways) or metabolic bypasses to compensate for glutathione depletion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What are the specific lipid classes (e.g., phospholipids, polyunsaturated fatty acids) that show increased peroxidation markers in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What are the specific lipid classes (e.g., phospholipids, polyunsaturated fatty acids) that show increased peroxidation markers in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which individual lipid molecular species (identified by lipidomics) accumulate peroxidation products in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which individual lipid molecular species (identified by lipidomics) accumulate peroxidation products in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipoxygenase (LOX) family enzymes to lipid peroxidation in xCT-depleted HNSCC cells, and which specific isoforms are involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipoxygenase (LOX) family enzymes to lipid peroxidation in xCT-depleted HNSCC cells, and which specific isoforms are involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.318Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do cytochrome P450 (CYP) enzymes and other peroxidation systems (e.g., free radical-mediated) contribute to lipid peroxidation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.319Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do cytochrome P450 (CYP) enzymes and other peroxidation systems (e.g., free radical-mediated) contribute to lipid peroxidation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.319Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What metabolic adaptations (e.g., glutathione salvage pathways, alternative antioxidant systems) do xCT-depleted HNSCC cells employ to maintain redox balance during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:05.319Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What metabolic adaptations (e.g., glutathione salvage pathways, alternative antioxidant systems) do xCT-depleted HNSCC cells employ to maintain redox balance during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.120Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific polyunsaturated fatty acid (PUFA)-containing phospholipids show increased peroxidation in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.120Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific polyunsaturated fatty acid (PUFA)-containing phospholipids show increased peroxidation in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.120Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes (e.g., GPX4, FSP1, DHODH, GCH1) show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation that correlate with ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.120Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes (e.g., GPX4, FSP1, DHODH, GCH1) show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation that correlate with ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.120Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, lipid synthesis) are upregulated in xCT-depleted HNSCC cells under cystine starvation to support redox balance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.121Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, lipid synthesis) are upregulated in xCT-depleted HNSCC cells under cystine starvation to support redox balance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.121Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells under cystine starvation increase their utilization of extracellular or intracellular antioxidant resources (e.g., vitamin E, CoQ10, glutathione from other sources) to inhibit ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.121Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells under cystine starvation increase their utilization of extracellular or intracellular antioxidant resources (e.g., vitamin E, CoQ10, glutathione from other sources) to inhibit ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.121Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the cellular lipid composition (e.g., PUFA vs. MUFA/SFA ratio, ether lipid content) change in xCT-depleted HNSCC cells under cystine starvation to reduce peroxidation susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:29.121Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the cellular lipid composition (e.g., PUFA vs. MUFA/SFA ratio, ether lipid content) change in xCT-depleted HNSCC cells under cystine starvation to reduce peroxidation susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.730Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or distribution in xCT-depleted HNSCC cells compared to control cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.730Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or distribution in xCT-depleted HNSCC cells compared to control cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.730Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipoxygenase (LOX) isoforms versus cytochrome P450 oxidoreductase (POR) in promoting lipid peroxidation in xCT-depleted HNSCC cells under cystine deprivation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipoxygenase (LOX) isoforms versus cytochrome P450 oxidoreductase (POR) in promoting lipid peroxidation in xCT-depleted HNSCC cells under cystine deprivation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the expression or activity of ACSL4 and GPX4 change in xCT-depleted HNSCC cells during cystine starvation, and which is more critical for maintaining ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the expression or activity of ACSL4 and GPX4 change in xCT-depleted HNSCC cells during cystine starvation, and which is more critical for maintaining ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, fatty acid synthesis) show increased flux or gene expression changes in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, fatty acid synthesis) show increased flux or gene expression changes in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells upregulate alternative antioxidant systems (e.g., FSP1, DHODH, GCH1) or lipid droplet formation to sequester peroxidizable lipids during cystine deprivation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:55:50.731Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells upregulate alternative antioxidant systems (e.g., FSP1, DHODH, GCH1) or lipid droplet formation to sequester peroxidizable lipids during cystine deprivation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species or classes show reduced peroxidation in xCT-depleted HNSCC cells compared to control cells under ferroptosis-inducing conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species or classes show reduced peroxidation in xCT-depleted HNSCC cells compared to control cells under ferroptosis-inducing conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes or pathways are upregulated or activated in xCT-depleted HNSCC cells that could metabolize or prevent accumulation of lipid peroxides?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which enzymes or pathways are upregulated or activated in xCT-depleted HNSCC cells that could metabolize or prevent accumulation of lipid peroxides?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative metabolic pathways for glutathione synthesis or glutathione-independent antioxidant systems are active in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative metabolic pathways for glutathione synthesis or glutathione-independent antioxidant systems are active in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells maintain redox homeostasis and membrane integrity when deprived of cystine, specifically regarding NADPH regeneration and thioredoxin system activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells maintain redox homeostasis and membrane integrity when deprived of cystine, specifically regarding NADPH regeneration and thioredoxin system activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What transcriptional or signaling adaptations (e.g., NRF2, ATF4) are sustained in xCT-depleted HNSCC cells that enable survival under prolonged cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:13.642Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What transcriptional or signaling adaptations (e.g., NRF2, ATF4) are sustained in xCT-depleted HNSCC cells that enable survival under prolonged cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.982Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells compared to control cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells compared to control cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do cholesterol esters or other non-phospholipid lipid classes demonstrate significant peroxidation resistance or altered metabolism in xCT-depleted HNSCC cells during ferroptosis induction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do cholesterol esters or other non-phospholipid lipid classes demonstrate significant peroxidation resistance or altered metabolism in xCT-depleted HNSCC cells during ferroptosis induction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipid metabolism enzymes (ACSL4, LPCAT3, ALOX15, or others) show differential expression or activity in xCT-depleted HNSCC cells that could explain sustained ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipid metabolism enzymes (ACSL4, LPCAT3, ALOX15, or others) show differential expression or activity in xCT-depleted HNSCC cells that could explain sustained ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the functional contribution of GPX4 activity versus other enzymatic pathways in maintaining ferroptosis resistance in xCT-depleted HNSCC cells under cystine deprivation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the functional contribution of GPX4 activity versus other enzymatic pathways in maintaining ferroptosis resistance in xCT-depleted HNSCC cells under cystine deprivation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which compensatory antioxidant systems (e.g., FSP1, DHODH, GCH1, thioredoxin, or other pathways) are upregulated or activated in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:35.983Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which compensatory antioxidant systems (e.g., FSP1, DHODH, GCH1, thioredoxin, or other pathways) are upregulated or activated in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species (e.g., PUFA-PLs, ether lipids, oxidized lipids) show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells compared to control cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific lipid species (e.g., PUFA-PLs, ether lipids, oxidized lipids) show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells compared to control cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which ferroptosis-related enzymes (GPX4, ACSL4, ALOX15, other LOX isoforms) show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which ferroptosis-related enzymes (GPX4, ACSL4, ALOX15, other LOX isoforms) show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What compensatory metabolic pathways (e.g., glutathione-independent pathways, alternative antioxidant systems, lipid metabolism rewiring) are upregulated in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What compensatory metabolic pathways (e.g., glutathione-independent pathways, alternative antioxidant systems, lipid metabolism rewiring) are upregulated in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells exhibit changes in lipid droplet formation, fatty acid uptake, or phospholipid remodeling under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.743Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells exhibit changes in lipid droplet formation, fatty acid uptake, or phospholipid remodeling under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.744Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the functional contribution of identified enzymes (from sub-question 2) to ferroptosis resistance in xCT-depleted HNSCC cells, as validated by genetic or pharmacological inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:56:57.744Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the functional contribution of identified enzymes (from sub-question 2) to ferroptosis resistance in xCT-depleted HNSCC cells, as validated by genetic or pharmacological inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.880Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What are the specific polyunsaturated fatty acid (PUFA)-containing phospholipid species that accumulate or are depleted in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.880Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What are the specific polyunsaturated fatty acid (PUFA)-containing phospholipid species that accumulate or are depleted in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are cholesterol esters with peroxidizable fatty acids selectively altered in xCT-depleted HNSCC cells during ferroptosis-inducing conditions, and what is their quantitative contribution to lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are cholesterol esters with peroxidizable fatty acids selectively altered in xCT-depleted HNSCC cells during ferroptosis-inducing conditions, and what is their quantitative contribution to lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipid peroxidation enzymes (e.g., specific LOX isoforms, POR, CYPs) show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipid peroxidation enzymes (e.g., specific LOX isoforms, POR, CYPs) show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Does GPX4 protein level, activity, or subcellular localization change in xCT-depleted HNSCC cells during cystine starvation, and is it essential for maintaining ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Does GPX4 protein level, activity, or subcellular localization change in xCT-depleted HNSCC cells during cystine starvation, and is it essential for maintaining ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are the compensatory ferroptosis suppressors FSP1, GCH1, and/or DHODH transcriptionally upregulated or post-translationally activated in xCT-depleted HNSCC cells under cystine starvation, and which one is functionally most critical?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:21.881Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are the compensatory ferroptosis suppressors FSP1, GCH1, and/or DHODH transcriptionally upregulated or post-translationally activated in xCT-depleted HNSCC cells under cystine starvation, and which one is functionally most critical?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells under cystine starvation compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are cholesterol esters or other non-phospholipid lipid classes significantly modified in xCT-depleted HNSCC cells during cystine limitation, and do they contribute to ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are cholesterol esters or other non-phospholipid lipid classes significantly modified in xCT-depleted HNSCC cells during cystine limitation, and do they contribute to ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipoxygenase (LOX) isoforms or other lipid peroxidizing enzymes show increased expression or activity in xCT-depleted HNSCC cells under cystine starvation conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipoxygenase (LOX) isoforms or other lipid peroxidizing enzymes show increased expression or activity in xCT-depleted HNSCC cells under cystine starvation conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Does ACSL4 expression or activity change in xCT-depleted HNSCC cells during cystine limitation, and is it required for their ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.864Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Does ACSL4 expression or activity change in xCT-depleted HNSCC cells during cystine limitation, and is it required for their ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.865Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells alter their fatty acid uptake, synthesis, or desaturation pathways to modify membrane lipid composition under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:57:42.865Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells alter their fatty acid uptake, synthesis, or desaturation pathways to modify membrane lipid composition under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific polyunsaturated fatty acid (PUFA)-containing phospholipid species show altered abundance or peroxidation susceptibility in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the expression and activity level of GPX4 in xCT-depleted HNSCC cells, and does its inhibition restore ferroptosis sensitivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the expression and activity level of GPX4 in xCT-depleted HNSCC cells, and does its inhibition restore ferroptosis sensitivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do the expression and activity of lipid metabolism enzymes (ACSL4, LPCAT3, ALOX15) differ in xCT-depleted HNSCC cells, and which are essential for their ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do the expression and activity of lipid metabolism enzymes (ACSL4, LPCAT3, ALOX15) differ in xCT-depleted HNSCC cells, and which are essential for their ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, nucleotide synthesis) are upregulated in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, nucleotide synthesis) are upregulated in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells maintain redox homeostasis and glutathione synthesis independent of cystine uptake?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:03.041Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells maintain redox homeostasis and glutathione synthesis independent of cystine uptake?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.995Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific phospholipid species (e.g., PE-AA, PE-AdA, or other polyunsaturated fatty acid-containing phospholipids) show altered abundance or peroxidation susceptibility in ferroptosis-resistant versus sensitive HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.995Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific phospholipid species (e.g., PE-AA, PE-AdA, or other polyunsaturated fatty acid-containing phospholipids) show altered abundance or peroxidation susceptibility in ferroptosis-resistant versus sensitive HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the expression or activity of lipid-modifying enzymes (ACSL4, LPCAT3, ALOX15) correlate with ferroptosis resistance in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does the expression or activity of lipid-modifying enzymes (ACSL4, LPCAT3, ALOX15) correlate with ferroptosis resistance in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are there alternative glutathione peroxidase enzymes (e.g., GPX4-independent systems) that maintain lipid peroxide detoxification in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Are there alternative glutathione peroxidase enzymes (e.g., GPX4-independent systems) that maintain lipid peroxide detoxification in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, fatty acid synthesis) show increased activity or gene expression under cystine starvation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which metabolic pathways (e.g., glutamine metabolism, mevalonate pathway, fatty acid synthesis) show increased activity or gene expression under cystine starvation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipid uptake, remodeling, and peroxidation pathways to ferroptosis resistance when xCT function is compromised in HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipid uptake, remodeling, and peroxidation pathways to ferroptosis resistance when xCT function is compromised in HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
