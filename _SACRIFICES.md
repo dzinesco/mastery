@@ -11005,3 +11005,33 @@
 ⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "Which pharmacological inhibitors of NRF2, ATF4, or YAP/TAZ pathways most effectively reduce xCT expression and viability in these cells?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:46:06.167Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Which specific HDAC isoforms (e.g., HDAC1, HDAC2, HDAC3) are most significantly associated with changes in xCT (SLC7A11) mRNA and protein expression levels in HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.168Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Which specific HDAC isoforms (e.g., HDAC1, HDAC2, HDAC3) are most significantly associated with changes in xCT (SLC7A11) mRNA and protein expression levels in HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.168Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Does pharmacological or genetic inhibition of EZH2 alter the expression of xCT and a defined set of mesenchymal markers (e.g., Vimentin, N-cadherin, Zeb1) in HPV-negative HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.168Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Does pharmacological or genetic inhibition of EZH2 alter the expression of xCT and a defined set of mesenchymal markers (e.g., Vimentin, N-cadherin, Zeb1) in HPV-negative HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.169Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Are BET proteins (BRD2, BRD3, BRD4, BRDT) involved in the transcriptional regulation of the SLC7A11 gene and associated EMT transcription factors in HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.169Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Are BET proteins (BRD2, BRD3, BRD4, BRDT) involved in the transcriptional regulation of the SLC7A11 gene and associated EMT transcription factors in HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.169Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "What is the functional consequence of inhibiting the top candidate epigenetic modifier(s) on xCT-mediated cystine uptake, intracellular glutathione levels, and ferroptosis sensitivity in HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.169Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "What is the functional consequence of inhibiting the top candidate epigenetic modifier(s) on xCT-mediated cystine uptake, intracellular glutathione levels, and ferroptosis sensitivity in HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.169Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Do the identified epigenetic modifiers co-occupy the promoter or enhancer regions of the SLC7A11 gene and key mesenchymal program genes in chromatin immunoprecipitation sequencing (ChIP-seq) data from HPV-negative HNSCC tumors or cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:46:06.169Z** - Topic: `Identifying the specific epigenetic modifiers (e.g., HDACs, EZH2, BET proteins) that regulate the expression of xCT and its associated mesenchymal program in HPV-negative HNSCC` - Query: "Do the identified epigenetic modifiers co-occupy the promoter or enhancer regions of the SLC7A11 gene and key mesenchymal program genes in chromatin immunoprecipitation sequencing (ChIP-seq) data from HPV-negative HNSCC tumors or cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
