@@ -5215,3 +5215,543 @@
 ⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:36:54.698Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to inhibit ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to inhibit ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do viruses use to prevent ferroptosis (e.g., targeting GPX4, system Xc-, iron metabolism, or lipid peroxidation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do viruses use to prevent ferroptosis (e.g., targeting GPX4, system Xc-, iron metabolism, or lipid peroxidation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How does ferroptosis evasion contribute to viral persistence, replication, or pathogenesis in vivo?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How does ferroptosis evasion contribute to viral persistence, replication, or pathogenesis in vivo?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as immunomodulatory signals during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:54.699Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as immunomodulatory signals during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.327Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in infected host cells, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.327Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in infected host cells, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.327Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in infected host cells, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.327Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in infected host cells, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.328Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or non-coding RNAs directly target core components of the ferroptosis pathway (e.g., GPX4, System Xc-, ACSL4) to promote evasion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.328Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or non-coding RNAs directly target core components of the ferroptosis pathway (e.g., GPX4, System Xc-, ACSL4) to promote evasion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.328Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate host lipid metabolism and iron homeostasis to create an environment that resists ferroptotic death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.328Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate host lipid metabolism and iron homeostasis to create an environment that resists ferroptotic death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.328Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as signaling molecules during virus-induced ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:13.328Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as signaling molecules during virus-induced ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific neural correlates (e.g., brain regions, networks, neurotransmitter systems) associated with vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific neural correlates (e.g., brain regions, networks, neurotransmitter systems) associated with vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do neurobiological mechanisms of post-traumatic growth differ between direct trauma survivors and clinicians experiencing vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do neurobiological mechanisms of post-traumatic growth differ between direct trauma survivors and clinicians experiencing vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What role does neuroplasticity play in facilitating vicarious resilience and post-traumatic growth in clinicians repeatedly exposed to client trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What role does neuroplasticity play in facilitating vicarious resilience and post-traumatic growth in clinicians repeatedly exposed to client trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do stress response systems (e.g., HPA axis, autonomic nervous system) adapt in clinicians who demonstrate vicarious resilience versus those who experience burnout or compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do stress response systems (e.g., HPA axis, autonomic nervous system) adapt in clinicians who demonstrate vicarious resilience versus those who experience burnout or compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurobiological factors (e.g., genetic predispositions, neural connectivity patterns) predict which trauma-exposed clinicians are more likely to experience post-traumatic growth versus secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:26.979Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurobiological factors (e.g., genetic predispositions, neural connectivity patterns) predict which trauma-exposed clinicians are more likely to experience post-traumatic growth versus secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.991Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.992Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.992Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.992Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.992Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific viral proteins or strategies do viruses inhibit or evade ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.993Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific viral proteins or strategies do viruses inhibit or evade ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.993Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.993Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.993Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:29.993Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.194Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific neurobiological mechanisms outside the thalamocortical system (e.g., limbic, hypothalamic-pituitary-adrenal axis, neuroimmune, neuroplasticity systems) are empirically linked to vicarious resilience and post-traumatic growth in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.194Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific neurobiological mechanisms outside the thalamocortical system (e.g., limbic, hypothalamic-pituitary-adrenal axis, neuroimmune, neuroplasticity systems) are empirically linked to vicarious resilience and post-traumatic growth in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.194Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (parvalbumin-positive) versus matrix (calbindin-positive) thalamic neuron types differentially influence cognitive processes (e.g., attention, executive function) relevant to resilience in clinicians exposed to trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.194Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (parvalbumin-positive) versus matrix (calbindin-positive) thalamic neuron types differentially influence cognitive processes (e.g., attention, executive function) relevant to resilience in clinicians exposed to trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.194Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core versus matrix thalamic neuron types differentially regulate emotional processes (e.g., emotion regulation, empathy, fear extinction) relevant to resilience in clinicians exposed to trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.195Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core versus matrix thalamic neuron types differentially regulate emotional processes (e.g., emotion regulation, empathy, fear extinction) relevant to resilience in clinicians exposed to trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.195Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What distinct neurobiological markers (e.g., patterns of brain activation, connectivity, or neuroendocrine profiles) can reliably differentiate vicarious resilience from post-traumatic growth in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.195Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What distinct neurobiological markers (e.g., patterns of brain activation, connectivity, or neuroendocrine profiles) can reliably differentiate vicarious resilience from post-traumatic growth in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.195Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the measurable differences in functional or structural neuroimaging correlates (e.g., in default mode, salience, or frontoparietal networks) between clinicians exhibiting vicarious resilience versus those exhibiting post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:47.195Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the measurable differences in functional or structural neuroimaging correlates (e.g., in default mode, salience, or frontoparietal networks) between clinicians exhibiting vicarious resilience versus those exhibiting post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in host cells, and through what pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in host cells, and through what pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in host cells, and through what mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in host cells, and through what mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxPLs) act as signaling molecules in the immune system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxPLs) act as signaling molecules in the immune system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.025Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific receptors or signaling pathways (e.g., KEAP1-NRF2, inflammasome activation) do lipid peroxidation products modulate immune cell function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.026Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific receptors or signaling pathways (e.g., KEAP1-NRF2, inflammasome activation) do lipid peroxidation products modulate immune cell function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.026Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which viral proteins or genes have been identified as directly interfering with key ferroptosis regulators (e.g., GPX4, System Xc-, FSP1)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:37:48.026Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which viral proteins or genes have been identified as directly interfering with key ferroptosis regulators (e.g., GPX4, System Xc-, FSP1)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.549Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to have their replication or pathogenesis affected by host ferroptosis pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to have their replication or pathogenesis affected by host ferroptosis pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do viruses use to inhibit or evade ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do viruses use to inhibit or evade ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate cellular iron metabolism or lipid peroxidation to avoid ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate cellular iron metabolism or lipid peroxidation to avoid ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific cytokines or immune signaling molecules are produced in response to lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:04.550Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific cytokines or immune signaling molecules are produced in response to lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.168Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical circuit patterns (e.g., thalamic relay fidelity, cortical feedback modulation) associated with vicarious resilience versus secondary trauma in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.168Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical circuit patterns (e.g., thalamic relay fidelity, cortical feedback modulation) associated with vicarious resilience versus secondary trauma in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (parvalbumin-positive) versus matrix (calbindin-positive) thalamic neurons differ in firing patterns, synchronization, or plasticity in trauma-exposed clinicians with high resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (parvalbumin-positive) versus matrix (calbindin-positive) thalamic neurons differ in firing patterns, synchronization, or plasticity in trauma-exposed clinicians with high resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What changes occur in thalamocortical oscillatory dynamics (e.g., alpha, gamma bands) during empathy or stress tasks in clinicians showing post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What changes occur in thalamocortical oscillatory dynamics (e.g., alpha, gamma bands) during empathy or stress tasks in clinicians showing post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do limbic system structures (amygdala, hippocampus) interact with thalamocortical circuits to regulate emotional processing in clinicians exposed to trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do limbic system structures (amygdala, hippocampus) interact with thalamocortical circuits to regulate emotional processing in clinicians exposed to trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of prefrontal cortex-thalamus connectivity in cognitive reappraisal or meaning-making processes that support vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:07.169Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of prefrontal cortex-thalamus connectivity in cognitive reappraisal or meaning-making processes that support vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.387Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.387Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.387Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.387Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.387Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the molecular mechanisms by which viruses evade or inhibit host ferroptosis, such as through viral protein expression or manipulation of host antioxidant systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.388Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the molecular mechanisms by which viruses evade or inhibit host ferroptosis, such as through viral protein expression or manipulation of host antioxidant systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.388Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation-derived molecules act as immunomodulatory signals during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.388Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation-derived molecules act as immunomodulatory signals during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.388Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do these lipid peroxidation products influence the recruitment, activation, or function of specific immune cells (e.g., macrophages, T cells) in the context of infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:21.388Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do these lipid peroxidation products influence the recruitment, activation, or function of specific immune cells (e.g., macrophages, T cells) in the context of infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways (e.g., mediodorsal thalamus to prefrontal cortex, pulvinar to parietal cortex) show altered functional connectivity in clinicians who report vicarious resilience compared to those who develop secondary trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways (e.g., mediodorsal thalamus to prefrontal cortex, pulvinar to parietal cortex) show altered functional connectivity in clinicians who report vicarious resilience compared to those who develop secondary trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (parvalbumin-positive) and matrix (calbindin-positive) thalamic neurons differ in their firing patterns, synaptic plasticity, or gene expression in animal models of observational trauma with resilient versus vulnerable outcomes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (parvalbumin-positive) and matrix (calbindin-positive) thalamic neurons differ in their firing patterns, synaptic plasticity, or gene expression in animal models of observational trauma with resilient versus vulnerable outcomes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the relationship between thalamic reticular nucleus activity (which gates thalamocortical information flow) and emotional regulation capacity in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the relationship between thalamic reticular nucleus activity (which gates thalamocortical information flow) and emotional regulation capacity in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the default mode network's functional connectivity with the thalamus and cortical regions change during rest or empathy tasks in clinicians showing vicarious resilience versus secondary trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the default mode network's functional connectivity with the thalamus and cortical regions change during rest or empathy tasks in clinicians showing vicarious resilience versus secondary trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What role does the salience network (particularly anterior insula and anterior cingulate cortex) play in modulating thalamocortical signaling during exposure to traumatic narratives, and how does this differ between resilient and vulnerable clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:29.369Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What role does the salience network (particularly anterior insula and anterior cingulate cortex) play in modulating thalamocortical signaling during exposure to traumatic narratives, and how does this differ between resilient and vulnerable clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.569Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.569Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.569Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., Epstein-Barr virus, cytomegalovirus, others) have been shown to inhibit or suppress ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., Epstein-Barr virus, cytomegalovirus, others) have been shown to inhibit or suppress ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or non-coding RNAs directly target and regulate core ferroptosis components (e.g., GPX4, SLC7A11, ACSL4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or non-coding RNAs directly target and regulate core ferroptosis components (e.g., GPX4, SLC7A11, ACSL4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter host lipid metabolism or antioxidant systems (e.g., glutathione synthesis) to prevent lethal lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter host lipid metabolism or antioxidant systems (e.g., glutathione synthesis) to prevent lethal lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific oxidized lipid species (e.g., 4-HNE, 15-HETE, oxysterols) are generated during viral infection and act as signaling molecules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:41.570Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific oxidized lipid species (e.g., 4-HNE, 15-HETE, oxysterols) are generated during viral infection and act as signaling molecules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.123Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits are activated during vicarious resilience and post-traumatic growth in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.123Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits are activated during vicarious resilience and post-traumatic growth in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.123Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical oscillations (e.g., alpha, theta, gamma) differ between clinicians experiencing vicarious resilience versus secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.123Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical oscillations (e.g., alpha, theta, gamma) differ between clinicians experiencing vicarious resilience versus secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.123Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the functional connectivity pattern between the thalamus and specific cortical regions (e.g., insula, anterior cingulate) during empathy regulation in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.124Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the functional connectivity pattern between the thalamus and specific cortical regions (e.g., insula, anterior cingulate) during empathy regulation in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.124Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamic gating of sensory and emotional information relate to the cognitive reappraisal processes in vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.124Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamic gating of sensory and emotional information relate to the cognitive reappraisal processes in vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.124Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What thalamocortical plasticity changes occur in clinicians who demonstrate sustained post-traumatic growth versus those who do not?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:38:57.124Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What thalamocortical plasticity changes occur in clinicians who demonstrate sustained post-traumatic growth versus those who do not?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or replication mechanisms directly trigger lipid peroxidation leading to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or replication mechanisms directly trigger lipid peroxidation leading to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate cellular iron metabolism to promote or suppress ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.234Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate cellular iron metabolism to promote or suppress ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.235Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral mechanisms exist to upregulate or protect cellular antioxidant systems (GPX4, GSH) to prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:00.235Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral mechanisms exist to upregulate or protect cellular antioxidant systems (GPX4, GSH) to prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.384Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific patterns of thalamocortical resonance (e.g., frequency bands, coherence) are observed in individuals exhibiting vicarious resilience or post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific patterns of thalamocortical resonance (e.g., frequency bands, coherence) are observed in individuals exhibiting vicarious resilience or post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (specific) thalamic neurons differ in activity or connectivity compared to matrix (non-specific) thalamic neurons in trauma-exposed clinicians with high resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (specific) thalamic neurons differ in activity or connectivity compared to matrix (non-specific) thalamic neurons in trauma-exposed clinicians with high resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core vs. matrix thalamic neuron activities differ in trauma-exposed clinicians who develop secondary traumatic stress versus those who do not?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core vs. matrix thalamic neuron activities differ in trauma-exposed clinicians who develop secondary traumatic stress versus those who do not?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Which limbic system structures show altered functional connectivity with thalamocortical circuits in clinicians demonstrating vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Which limbic system structures show altered functional connectivity with thalamocortical circuits in clinicians demonstrating vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does prefrontal cortex regulation (e.g., top-down control) interact with thalamocortical loops to support adaptive responses in vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:15.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does prefrontal cortex regulation (e.g., top-down control) interact with thalamocortical loops to support adaptive responses in vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to have their replication or pathogenesis affected by host ferroptosis pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to have their replication or pathogenesis affected by host ferroptosis pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do viruses use to inhibit or evade ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do viruses use to inhibit or evade ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate cellular iron metabolism or antioxidant defenses to prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate cellular iron metabolism or antioxidant defenses to prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.908Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products act as signaling molecules during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:25.909Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products act as signaling molecules during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the established neurobiological mechanisms of the thalamocortical system involved in processing and regulating emotional and sensory information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the established neurobiological mechanisms of the thalamocortical system involved in processing and regulating emotional and sensory information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does vicarious resilience manifest behaviorally and psychologically in trauma-exposed clinicians, and what are its key components?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does vicarious resilience manifest behaviorally and psychologically in trauma-exposed clinicians, and what are its key components?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamic neuron types (core vs. matrix) are known to be involved in processing traumatic versus resilient or growth-related information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamic neuron types (core vs. matrix) are known to be involved in processing traumatic versus resilient or growth-related information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do reciprocal, resonant loops in the thalamocortical system typically function, and what evidence exists for their plasticity or adaptation in response to chronic emotional exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do reciprocal, resonant loops in the thalamocortical system typically function, and what evidence exists for their plasticity or adaptation in response to chronic emotional exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the measurable neural correlates or biomarkers that differentiate clinicians experiencing vicarious resilience from those experiencing vicarious trauma, particularly within thalamocortical pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:33.404Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the measurable neural correlates or biomarkers that differentiate clinicians experiencing vicarious resilience from those experiencing vicarious trauma, particularly within thalamocortical pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.055Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.055Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the known lipid peroxidation products that act as signaling molecules during viral infections?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the known lipid peroxidation products that act as signaling molecules during viral infections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific receptors or signaling pathways do lipid peroxidation products modulate immune responses during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific receptors or signaling pathways do lipid peroxidation products modulate immune responses during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genes have been identified as directly interfering with key ferroptosis regulators (e.g., GPX4, system xc-, ACSL4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:44.056Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genes have been identified as directly interfering with key ferroptosis regulators (e.g., GPX4, system xc-, ACSL4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological mechanisms by which thalamocortical pathways modulate emotional regulation in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological mechanisms by which thalamocortical pathways modulate emotional regulation in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons differ from matrix (higher-order) thalamic neurons in their firing patterns when clinicians are exposed to traumatic client material?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons differ from matrix (higher-order) thalamic neurons in their firing patterns when clinicians are exposed to traumatic client material?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What changes occur in corticothalamocortical loop dynamics when clinicians develop vicarious resilience compared to when they develop secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What changes occur in corticothalamocortical loop dynamics when clinicians develop vicarious resilience compared to when they develop secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamic gating of sensory and emotional information differ between clinicians who experience post-traumatic growth versus those who experience burnout from vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamic gating of sensory and emotional information differ between clinicians who experience post-traumatic growth versus those who experience burnout from vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical oscillatory patterns (e.g., alpha, theta, gamma) correlate with resilience development during repeated exposure to trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical oscillatory patterns (e.g., alpha, theta, gamma) correlate with resilience development during repeated exposure to trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
