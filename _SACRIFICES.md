@@ -9715,3 +9715,183 @@
 ⚰️  **2025-12-04T19:23:41.409Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What are the functional consequences of xCT/SLC7A11 epigenetic silencing for viral latency, cell survival (e.g., ferroptosis resistance), and pathogenesis in EBV- and KSHV-associated cancers?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do EBV and KSHV viral oncoproteins (e.g., LMP1, LANA, vFLIP) directly or indirectly alter the expression or activity of key enzymes in glutathione metabolism (e.g., GCLC, GCLM, GPX4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do EBV and KSHV viral oncoproteins (e.g., LMP1, LANA, vFLIP) directly or indirectly alter the expression or activity of key enzymes in glutathione metabolism (e.g., GCLC, GCLM, GPX4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What specific epigenetic modifications (e.g., DNA methylation, histone modifications, chromatin remodeling) are induced by these viral oncoproteins at the promoters or regulatory regions of glutathione metabolism genes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What specific epigenetic modifications (e.g., DNA methylation, histone modifications, chromatin remodeling) are induced by these viral oncoproteins at the promoters or regulatory regions of glutathione metabolism genes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do these epigenetic changes induced by EBV and KSHV oncoproteins lead to a measurable depletion of intracellular glutathione and/or a reduction in GPX4 activity in associated malignant cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do these epigenetic changes induced by EBV and KSHV oncoproteins lead to a measurable depletion of intracellular glutathione and/or a reduction in GPX4 activity in associated malignant cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How does the observed epigenetic reprogramming of glutathione metabolism by viral oncoproteins functionally increase cellular susceptibility to ferroptosis inducers (e.g., RSL3, erastin) in vitro and in vivo?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How does the observed epigenetic reprogramming of glutathione metabolism by viral oncoproteins functionally increase cellular susceptibility to ferroptosis inducers (e.g., RSL3, erastin) in vitro and in vivo?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Are there differences in the epigenetic regulation of glutathione metabolism and ferroptosis susceptibility between EBV-associated malignancies (e.g., nasopharyngeal carcinoma, Burkitt lymphoma) and KSHV-associated malignancies (e.g., Kaposi sarcoma, primary effusion lymphoma)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:08.438Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Are there differences in the epigenetic regulation of glutathione metabolism and ferroptosis susceptibility between EBV-associated malignancies (e.g., nasopharyngeal carcinoma, Burkitt lymphoma) and KSHV-associated malignancies (e.g., Kaposi sarcoma, primary effusion lymphoma)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What specific epigenetic modifications (DNA methylation, histone modifications, chromatin remodeling) do EBV oncoproteins induce on glutathione metabolism genes (e.g., GCLC, GCLM, GPX4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What specific epigenetic modifications (DNA methylation, histone modifications, chromatin remodeling) do EBV oncoproteins induce on glutathione metabolism genes (e.g., GCLC, GCLM, GPX4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What specific epigenetic modifications (DNA methylation, histone modifications, chromatin remodeling) do KSHV oncoproteins induce on glutathione metabolism genes (e.g., GCLC, GCLM, GPX4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What specific epigenetic modifications (DNA methylation, histone modifications, chromatin remodeling) do KSHV oncoproteins induce on glutathione metabolism genes (e.g., GCLC, GCLM, GPX4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do epigenetic changes induced by EBV and KSHV oncoproteins alter the expression levels of key glutathione metabolism enzymes and transporters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do epigenetic changes induced by EBV and KSHV oncoproteins alter the expression levels of key glutathione metabolism enzymes and transporters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do EBV and KSHV oncoproteins modulate the activity of epigenetic regulators (DNMTs, HDACs, HATs, PRMTs) that target ferroptosis-related genes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do EBV and KSHV oncoproteins modulate the activity of epigenetic regulators (DNMTs, HDACs, HATs, PRMTs) that target ferroptosis-related genes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific viral proteins (LMP1, LANA, vFLIP, others) directly interact with epigenetic machinery to regulate ferroptosis pathway genes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:28.027Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific viral proteins (LMP1, LANA, vFLIP, others) directly interact with epigenetic machinery to regulate ferroptosis pathway genes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, EBNA2, EBNA3C) have been experimentally shown to regulate glutathione metabolism through epigenetic mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, EBNA2, EBNA3C) have been experimentally shown to regulate glutathione metabolism through epigenetic mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., LANA, vGPCR, vFLIP) have been experimentally shown to regulate glutathione metabolism through epigenetic mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., LANA, vGPCR, vFLIP) have been experimentally shown to regulate glutathione metabolism through epigenetic mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What epigenetic modifications (DNA methylation, histone modifications, chromatin remodeling) do EBV oncoproteins induce on genes involved in glutathione synthesis (e.g., GCLC, GCLM) or utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What epigenetic modifications (DNA methylation, histone modifications, chromatin remodeling) do EBV oncoproteins induce on genes involved in glutathione synthesis (e.g., GCLC, GCLM) or utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What epigenetic modifications do KSHV oncoproteins induce on genes involved in glutathione synthesis or utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What epigenetic modifications do KSHV oncoproteins induce on genes involved in glutathione synthesis or utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do EBV oncoproteins alter the expression or activity of epigenetic regulators (DNMTs, HDACs, HMTs) that subsequently affect glutathione metabolic pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:25:58.342Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do EBV oncoproteins alter the expression or activity of epigenetic regulators (DNMTs, HDACs, HMTs) that subsequently affect glutathione metabolic pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) are induced by EBV oncoproteins (e.g., LMP1, EBNA2) on glutathione metabolism genes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) are induced by EBV oncoproteins (e.g., LMP1, EBNA2) on glutathione metabolism genes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) are induced by KSHV oncoproteins (e.g., LANA, vFLIP) on glutathione metabolism genes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) are induced by KSHV oncoproteins (e.g., LANA, vFLIP) on glutathione metabolism genes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do epigenetic changes mediated by EBV/KSHV oncoproteins alter the expression levels of xCT/SLC7A11, GCLC, GCLM, and GPX4 in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do epigenetic changes mediated by EBV/KSHV oncoproteins alter the expression levels of xCT/SLC7A11, GCLC, GCLM, and GPX4 in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do EBV and KSHV oncoproteins use similar or distinct epigenetic mechanisms to regulate the same glutathione metabolism genes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do EBV and KSHV oncoproteins use similar or distinct epigenetic mechanisms to regulate the same glutathione metabolism genes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do the identified epigenetic modifications on glutathione metabolism genes influence cellular susceptibility to ferroptosis in EBV/KSHV-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:18.626Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do the identified epigenetic modifications on glutathione metabolism genes influence cellular susceptibility to ferroptosis in EBV/KSHV-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific glutathione metabolism genes (e.g., GCLC, GCLM, GPX4, SLC7A11) are epigenetically regulated by EBV and KSHV oncoproteins?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific glutathione metabolism genes (e.g., GCLC, GCLM, GPX4, SLC7A11) are epigenetically regulated by EBV and KSHV oncoproteins?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) do EBV and KSHV oncoproteins induce on glutathione metabolism gene promoters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What epigenetic modifications (e.g., DNA methylation, histone acetylation, histone methylation) do EBV and KSHV oncoproteins induce on glutathione metabolism gene promoters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do EBV oncoproteins (e.g., LMP1) and KSHV oncoproteins (e.g., LANA, vFLIP) differentially alter cellular susceptibility to ferroptosis inducers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "How do EBV oncoproteins (e.g., LMP1) and KSHV oncoproteins (e.g., LANA, vFLIP) differentially alter cellular susceptibility to ferroptosis inducers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.648Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What is the functional relationship between viral oncoprotein-mediated epigenetic changes and the expression levels of key ferroptosis regulators (e.g., GPX4, ACSL4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.649Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What is the functional relationship between viral oncoprotein-mediated epigenetic changes and the expression levels of key ferroptosis regulators (e.g., GPX4, ACSL4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.649Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which viral protein-epigenetic modifier complexes (e.g., LANA-HDACs, LMP1-DNMTs) are responsible for regulating ferroptosis pathway genes in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:26:40.649Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which viral protein-epigenetic modifier complexes (e.g., LANA-HDACs, LMP1-DNMTs) are responsible for regulating ferroptosis pathway genes in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA2) have been experimentally shown to alter epigenetic marks (DNA methylation, histone modifications, chromatin accessibility) on genes involved in glutathione synthesis or utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA2) have been experimentally shown to alter epigenetic marks (DNA methylation, histone modifications, chromatin accessibility) on genes involved in glutathione synthesis or utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., LANA, vFLIP, vGPCR) have been experimentally shown to alter epigenetic marks on genes involved in glutathione synthesis or utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., LANA, vFLIP, vGPCR) have been experimentally shown to alter epigenetic marks on genes involved in glutathione synthesis or utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What are the direct epigenetic targets (e.g., promoters, enhancers of GCL, GS, GPX4, GSR genes) of these viral oncoproteins in glutathione metabolic pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What are the direct epigenetic targets (e.g., promoters, enhancers of GCL, GS, GPX4, GSR genes) of these viral oncoproteins in glutathione metabolic pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do EBV and KSHV oncoproteins increase or decrease host cell susceptibility to ferroptosis inducers (e.g., erastin, RSL3) in vitro, and what is the measured effect size?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.403Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "Do EBV and KSHV oncoproteins increase or decrease host cell susceptibility to ferroptosis inducers (e.g., erastin, RSL3) in vitro, and what is the measured effect size?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.404Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What is the mechanistic link between viral oncoprotein activity and changes in key ferroptosis regulators (e.g., GPX4, ACSL4, NRF2) that alter susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:27:04.404Z** - Topic: `"Epigenetic regulation of glutathione metabolism and ferroptosis susceptibility by viral oncoproteins in EBV and KSHV-associated malignancies"` - Query: "What is the mechanistic link between viral oncoprotein activity and changes in key ferroptosis regulators (e.g., GPX4, ACSL4, NRF2) that alter susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
