@@ -394,3 +394,33 @@
 ⚰️  **2025-12-04T06:47:33.152Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What mathematical or computational frameworks beyond IIT might provide tractable measures of integrated information for complex artificial systems?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:49:33.986Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their influence on canonical development` - Query: "What are the key textual discoveries of early Christian apocrypha and pseudepigrapha since the 19th century, and what do they reveal about early Christian communities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:33.986Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their influence on canonical development` - Query: "How do the theological themes and Christological portrayals in apocryphal texts differ from those in canonical New Testament writings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:33.986Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their influence on canonical development` - Query: "In what specific ways did apocryphal texts influence the development of canonical doctrines, liturgical practices, or ecclesiastical structures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:33.987Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their influence on canonical development` - Query: "What criteria did early Christian communities and leaders use to distinguish between canonical and non-canonical texts, and how did this process evolve?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:33.987Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their influence on canonical development` - Query: "How do pseudepigraphical texts attributed to apostolic figures reflect the diversity of early Christian thought and competing interpretations of Jesus' teachings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:46.847Z** - Topic: `"Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"` - Query: "What are the core principles and mechanisms of Global Workspace Theory (GWT) as a computational model of consciousness?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:46.847Z** - Topic: `"Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"` - Query: "What are the core principles and mechanisms of Predictive Processing (PP) as a computational model of consciousness?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:46.847Z** - Topic: `"Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"` - Query: "How have artificial neural networks (ANNs) been used to implement or simulate the key mechanisms of Global Workspace Theory?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:46.847Z** - Topic: `"Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"` - Query: "How have artificial neural networks (ANNs) been used to implement or simulate the key mechanisms of Predictive Processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:49:46.848Z** - Topic: `"Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"` - Query: "What are the primary similarities and differences in how GWT and PP conceptualize and model consciousness, particularly in relation to their potential implementation in ANNs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
