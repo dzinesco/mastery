@@ -10645,3 +10645,63 @@
 ⚰️  **2025-12-04T19:38:24.643Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to xCT inhibition correlate with the identified metabolic subtypes of HPV-negative HNSCC?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:39:13.273Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What is the baseline expression and activity of xCT (SLC7A11) in the mesenchymal subtype of HPV-negative HNSCC compared to other subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.273Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What is the baseline expression and activity of xCT (SLC7A11) in the mesenchymal subtype of HPV-negative HNSCC compared to other subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "How does pharmacological or genetic inhibition of xCT specifically affect intracellular glutathione (GSH) levels and the GSH/GSSG ratio in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "How does pharmacological or genetic inhibition of xCT specifically affect intracellular glutathione (GSH) levels and the GSH/GSSG ratio in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Does modulating xCT activity alter the sensitivity of mesenchymal HPV-negative HNSCC cells to canonical ferroptosis inducers (e.g., erastin, RSL3) in vitro?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Does modulating xCT activity alter the sensitivity of mesenchymal HPV-negative HNSCC cells to canonical ferroptosis inducers (e.g., erastin, RSL3) in vitro?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What are the downstream metabolic consequences of xCT inhibition in these cells, particularly on lipid peroxidation and the activity of glutathione peroxidase 4 (GPX4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What are the downstream metabolic consequences of xCT inhibition in these cells, particularly on lipid peroxidation and the activity of glutathione peroxidase 4 (GPX4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Can targeting xCT or glutathione metabolism in vivo overcome ferroptosis resistance and inhibit tumor growth in a mesenchymal HPV-negative HNSCC preclinical model?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:13.274Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Can targeting xCT or glutathione metabolism in vivo overcome ferroptosis resistance and inhibit tumor growth in a mesenchymal HPV-negative HNSCC preclinical model?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What is the expression level and functional activity of xCT (SLC7A11) in HPV-negative HNSCC mesenchymal subtype cells compared to other subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What is the expression level and functional activity of xCT (SLC7A11) in HPV-negative HNSCC mesenchymal subtype cells compared to other subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "How does pharmacological or genetic inhibition of xCT-mediated cystine uptake affect intracellular glutathione levels and redox balance in HPV-negative HNSCC mesenchymal subtype cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "How does pharmacological or genetic inhibition of xCT-mediated cystine uptake affect intracellular glutathione levels and redox balance in HPV-negative HNSCC mesenchymal subtype cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What is the relationship between glutathione synthesis, glutathione peroxidase 4 (GPX4) activity, and ferroptosis susceptibility in HPV-negative HNSCC mesenchymal subtype cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "What is the relationship between glutathione synthesis, glutathione peroxidase 4 (GPX4) activity, and ferroptosis susceptibility in HPV-negative HNSCC mesenchymal subtype cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "How do key enzymes in glutathione metabolism (e.g., GCLC, GSS) modulate lipid peroxidation levels and ferroptosis resistance in HPV-negative HNSCC mesenchymal subtype cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "How do key enzymes in glutathione metabolism (e.g., GCLC, GSS) modulate lipid peroxidation levels and ferroptosis resistance in HPV-negative HNSCC mesenchymal subtype cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Are there significant differences in cystine uptake, glutathione levels, or GPX4 expression between HPV-negative HNSCC mesenchymal, basal, and classical subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Are there significant differences in cystine uptake, glutathione levels, or GPX4 expression between HPV-negative HNSCC mesenchymal, basal, and classical subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
