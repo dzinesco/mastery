@@ -2755,3 +2755,318 @@
 ⚰️  **2025-12-04T18:21:41.690Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do changes in thalamic neuron firing modes, induced by neuromodulators, affect the information processing of thalamocortical loops?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:21:59.247Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the key mathematical properties (e.g., integration, differentiation, self-modeling, stability) that a framework must capture to model subjective experience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:21:59.247Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do core (first-order) thalamic neurons relay specific sensory information to layer 4 of the cortex, and what is their precise synaptic mechanism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:21:59.247Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do matrix (higher-order) thalamic neurons project diffusely to superficial cortical layers, and what is their role in modulating cortical state and coherence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:21:59.247Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "Which specific transcription factors and epigenetic regulators in thalamic and cortical neurons influence the development and maintenance of thalamocortical connectivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:21:59.247Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do the intrinsic oscillatory dynamics (e.g., alpha, gamma) of thalamocortical loops emerge from the interaction of specific ion channels and synaptic properties governed by genetic programs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:03.920Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the anatomical and functional differences between core and matrix thalamic neurons in terms of their cortical projections and neurotransmitter profiles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:03.920Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core thalamic neuron activities correlate with specific conscious contents (e.g., sensory features) versus matrix neuron activities with global states (e.g., arousal)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:03.920Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What mathematical formalisms (e.g., integrated information theory, global workspace models, predictive coding) best capture the relationship between neural dynamics and subjective experience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:03.920Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How can computational models quantify the emergence of consciousness from neural processes, including metrics like phi (Φ) or other proposed measures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:03.920Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do neuromodulators (acetylcholine, dopamine, serotonin, norepinephrine) individually regulate arousal, attention, and valence in conscious states?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:20.891Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What mathematical frameworks (e.g., integrated information theory, global workspace models, predictive processing) explicitly attempt to quantify or model subjective experience (phenomenality) rather than just cognitive functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:20.891Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do core thalamic neurons (drivers) and matrix thalamic neurons (modulators) differ in their anatomical connectivity and physiological properties?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:20.891Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What specific dynamic systems theory concepts (e.g., attractors, bifurcations, metastability, integrated information) are being used as 'observability criteria' for consciousness?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:20.891Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do the proposed roles of core vs. matrix thalamic neurons align with or differ from established theories of content-specific vs. state-dependent conscious processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:20.892Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What empirical methods (neural recordings, behavioral assays, computational validation) are used to test whether the proposed observability criteria from dynamic systems theory actually correlate with conscious states in humans or animals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:27.624Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "Which specific thalamic nuclei and cortical regions form functional loops that are consistently activated during subjective experiences of compassion versus empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:27.624Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do neural oscillations (e.g., theta, gamma) within thalamocortical circuits correlate with the intensity or quality of compassionate versus empathic states?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:27.624Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the distinct patterns of neurotransmitter release (acetylcholine, dopamine, serotonin, norepinephrine) in key brain regions during experimentally induced empathic versus compassionate states?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:27.625Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do pharmacological manipulations of specific neuromodulatory systems alter behavioral and neural markers of empathy (e.g., pain sharing) versus compassion (e.g., prosocial motivation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:27.625Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What is the phylogenetic distribution of neuropeptide Y (NPY) system components (receptors, ligands) across species with varying social complexity and empathic capacities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:44.358Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the current mathematical frameworks used to model subjective experience (e.g., integrated information theory, global workspace models, Bayesian brain hypothesis), and what are their specific limitations in capturing qualia or first-person perspective?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:44.358Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do core (first-order) thalamic neurons (relaying specific sensory/motor information to cortical layer 4) versus matrix (higher-order) thalamic neurons (broadly projecting to cortical layer 1) differ in their anatomical connectivity, physiological properties, and temporal dynamics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:44.358Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What experimental evidence links the activity patterns of core vs. matrix thalamic neurons to changes in conscious content (e.g., perceptual awareness of specific stimuli) versus conscious state (e.g., wakefulness, sleep, anesthesia)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:44.358Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the documented species-specific variations in the expression patterns of key neuropeptide receptors (e.g., for oxytocin, vasopressin, orexin) in brain regions associated with consciousness (e.g., thalamus, cortex, brainstem)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:44.358Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do these species-specific neuropeptide receptor expression patterns correlate with measurable differences in species-typical conscious behaviors, states (sleep architecture, arousal), or cognitive capacities (social awareness, emotional processing)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:54.130Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the defining anatomical connection patterns of core thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:54.130Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the defining anatomical connection patterns of matrix thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:54.130Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the key physiological properties (e.g., firing patterns, response dynamics) of core thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:54.131Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the key physiological properties (e.g., firing patterns, response dynamics) of matrix thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:22:54.131Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What specific mathematical models (e.g., by author, theory name) are cited in the literature for describing thalamocortical interactions in consciousness?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific molecular mechanisms by which GPX4 inhibition leads to lipid peroxidation in cancer cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific molecular mechanisms by which GPX4 inhibition leads to lipid peroxidation in cancer cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the inhibition of GPX4 affect the cellular antioxidant defense system, particularly in relation to glutathione metabolism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the inhibition of GPX4 affect the cellular antioxidant defense system, particularly in relation to glutathione metabolism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream signaling pathways and cellular consequences (e.g., mitochondrial dysfunction, membrane damage) triggered by GPX4 inhibition in cancer cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream signaling pathways and cellular consequences (e.g., mitochondrial dysfunction, membrane damage) triggered by GPX4 inhibition in cancer cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Are there specific cancer cell types or contexts (e.g., metabolic dependencies, oncogenic mutations) that exhibit heightened sensitivity or resistance to ferroptosis induced by GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.031Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Are there specific cancer cell types or contexts (e.g., metabolic dependencies, oncogenic mutations) that exhibit heightened sensitivity or resistance to ferroptosis induced by GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.032Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What experimental evidence (e.g., genetic knockdown, pharmacological inhibitors) directly links GPX4 loss-of-function to ferroptotic cell death in cancer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:05.032Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What experimental evidence (e.g., genetic knockdown, pharmacological inhibitors) directly links GPX4 loss-of-function to ferroptotic cell death in cancer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:08.098Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the key mathematical frameworks (e.g., integrated information theory, global workspace models, predictive processing) that have been proposed to model subjective experience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:08.098Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do thalamic core neurons (e.g., from specific nuclei) differ from matrix neurons in terms of connectivity, neurotransmitter profiles, and projection patterns?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:08.098Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What experimental evidence links core neuron activity to specific conscious content versus matrix neuron activity to global arousal/state regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:08.098Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the specific neurophysiological, behavioral, or report-based criteria used to operationally define consciousness in empirical studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:08.099Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How are these measurability criteria validated (e.g., through correlation with subjective reports, lesion studies, or pharmacological manipulations)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:16.405Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the distinct patterns of functional connectivity between intralaminar thalamic nuclei and brain regions associated with empathy (e.g., anterior insula, anterior cingulate cortex)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:16.405Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the distinct patterns of functional connectivity between mediodorsal thalamic nuclei and brain regions associated with compassion (e.g., ventral striatum, medial orbitofrontal cortex)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:16.405Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How does oxytocin receptor distribution and signaling in thalamic nuclei and their cortical targets differ between states of empathetic resonance and compassionate motivation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:16.405Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How does dopaminergic modulation of thalamocortical circuits, particularly those involving the ventral tegmental area, differ in the promotion of compassionate action versus empathetic sharing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:16.405Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How does the activity of 'core' (first-order, specific) thalamic nuclei correlate with the cognitive appraisal and contextual understanding components of social emotions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the specific biochemical reaction catalyzed by GPX4 that prevents lipid peroxidation in cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the specific biochemical reaction catalyzed by GPX4 that prevents lipid peroxidation in cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the inhibition of GPX4 directly alter the redox balance of lipid hydroperoxides (specifically phospholipid hydroperoxides) within cell membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the inhibition of GPX4 directly alter the redox balance of lipid hydroperoxides (specifically phospholipid hydroperoxides) within cell membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific lipid substrates (e.g., polyunsaturated fatty acid-containing phospholipids) that become peroxidized upon GPX4 inhibition, and how does this peroxidation propagate?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific lipid substrates (e.g., polyunsaturated fatty acid-containing phospholipids) that become peroxidized upon GPX4 inhibition, and how does this peroxidation propagate?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do the intracellular levels of glutathione (GSH) and the availability of selenium influence the susceptibility to ferroptosis following GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do the intracellular levels of glutathione (GSH) and the availability of selenium influence the susceptibility to ferroptosis following GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the direct molecular link between the accumulation of lipid peroxides and the execution of ferroptotic cell death (e.g., pore formation, organelle damage)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:25.477Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the direct molecular link between the accumulation of lipid peroxides and the execution of ferroptotic cell death (e.g., pore formation, organelle damage)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:39.770Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the minimal mathematical properties (e.g., integration, differentiation, stability) that a formal system must possess to be considered a candidate model of phenomenality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:39.770Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How can qualitative aspects of consciousness (qualia) be mapped onto mathematical structures (e.g., topological spaces, geometric shapes, or algebraic relations) in a non-arbitrary way?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:39.770Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What specific computational or dynamical framework (e.g., integrated information theory, global workspace dynamics, predictive processing) is most amenable to formalizing subjective 'what-it-is-like-ness'?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:39.770Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How would a mathematical model of phenomenality be empirically validated or falsified, given its subjectively inaccessible target?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:39.770Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the core electrophysiological and synaptic properties that distinguish 'core' (first-order, sensory relay) from 'matrix' (higher-order, diffuse projecting) thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.686Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise enzymatic function of GPX4 in reducing lipid hydroperoxides within cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.686Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise enzymatic function of GPX4 in reducing lipid hydroperoxides within cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.686Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing polyunsaturated fatty acids) are the primary targets of peroxidation when GPX4 is inhibited?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.686Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing polyunsaturated fatty acids) are the primary targets of peroxidation when GPX4 is inhibited?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.687Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity lead to the disruption of cellular redox balance and the accumulation of reactive oxygen species (ROS) specifically on lipids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.687Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity lead to the disruption of cellular redox balance and the accumulation of reactive oxygen species (ROS) specifically on lipids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.687Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream signaling events or cellular damage pathways (e.g., membrane rupture, organelle dysfunction) activated by lethal levels of lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.687Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream signaling events or cellular damage pathways (e.g., membrane rupture, organelle dysfunction) activated by lethal levels of lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.687Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do alterations in cellular iron uptake, storage, and utilization (e.g., via transferrin receptor, ferritin, iron-sulfur clusters) modulate the enzymatic activity of lipoxygenases or Fenton chemistry to propagate lipid peroxidation after GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:40.687Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How do alterations in cellular iron uptake, storage, and utilization (e.g., via transferrin receptor, ferritin, iron-sulfur clusters) modulate the enzymatic activity of lipoxygenases or Fenton chemistry to propagate lipid peroxidation after GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:42.929Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the anatomical and functional distinctions between core (specific) and matrix (non-specific) thalamic neurons in terms of their cortical projections and connectivity patterns?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:42.929Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core thalamic neurons influence the content of consciousness through their specific, focal cortical projections to layer IV?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:42.929Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do matrix thalamic neurons influence the global state of consciousness through their diffuse, widespread cortical projections to superficial layers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:42.929Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What experimental evidence exists from lesion studies, optogenetics, or electrophysiology showing differential effects of core vs. matrix thalamic manipulation on content-specific vs. state-level conscious phenomena?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:23:42.929Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core and matrix thalamic systems interact during different conscious states (wakefulness, sleep, anesthesia) to jointly regulate both content and state?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:02.764Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the four specific neural mechanisms explicitly named as 'primary' in the source material, and what is the proposed function of each?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:02.764Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What are the exact criteria or conditions from dynamic systems theory that are being used to define or measure consciousness in this context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:02.765Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do 'core' thalamic neurons specifically regulate the content of consciousness (e.g., specific sensory information)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:02.765Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "How do 'matrix' thalamic neurons specifically regulate the overall state or level of consciousness (e.g., arousal, vigilance)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:02.765Z** - Topic: `https://pmc.ncbi.nlm.nih.gov/articles/PMC9182258/` - Query: "What is the proposed differential or interactive relationship between core and matrix thalamic neurons in generating conscious experience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the specific enzymatic reaction catalyzed by GPX4 that prevents ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the specific enzymatic reaction catalyzed by GPX4 that prevents ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the inhibition of GPX4 directly alter the cellular redox balance regarding lipid hydroperoxides?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the inhibition of GPX4 directly alter the cellular redox balance regarding lipid hydroperoxides?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing PUFAs) are the primary targets of peroxidation when GPX4 is inhibited?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which specific lipid substrates (e.g., phospholipids containing PUFAs) are the primary targets of peroxidation when GPX4 is inhibited?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "In which established cancer cell lines or patient-derived xenograft models has pharmacological or genetic GPX4 inhibition been shown to induce ferroptosis most effectively?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "In which established cancer cell lines or patient-derived xenograft models has pharmacological or genetic GPX4 inhibition been shown to induce ferroptosis most effectively?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Are there specific cancer subtypes (e.g., based on tissue of origin, genetic mutations, or metabolic dependencies) that demonstrate heightened sensitivity to GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.348Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Are there specific cancer subtypes (e.g., based on tissue of origin, genetic mutations, or metabolic dependencies) that demonstrate heightened sensitivity to GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.715Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the anatomical and functional distinctions between core and matrix thalamic neuron types?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.715Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core thalamic neurons specifically influence or regulate conscious content?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.715Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do matrix thalamic neurons specifically influence or regulate conscious state (e.g., arousal, vigilance)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.715Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What is the evidence for differential connectivity of core vs. matrix neurons with cortical layers and networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:06.716Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the four primary neuromodulatory systems (e.g., cholinergic, noradrenergic, dopaminergic, serotonergic) involved in regulating consciousness?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:24.149Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the distinct anatomical and physiological properties of core (first-order) versus matrix (higher-order) thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:24.149Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core thalamic neurons specifically influence the content of consciousness through their sensory relay functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:24.149Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do matrix thalamic neurons specifically influence the state of consciousness through their diffuse cortical projections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:24.149Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What experimental evidence demonstrates differential effects on conscious content versus state when core versus matrix thalamic systems are manipulated?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:24.149Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the functional interactions between core and matrix thalamic systems during different conscious states (wakefulness, sleep, anesthesia)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
