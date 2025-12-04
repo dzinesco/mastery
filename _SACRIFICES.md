@@ -7855,3 +7855,63 @@
 ⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect viral replication, spread, or pathogenesis?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do specific viruses (e.g., HCV, SARS-CoV-2, or others) alter the expression or activity of the enzyme ACSL4 (Acyl-CoA Synthetase Long Chain Family Member 4) in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do specific viruses (e.g., HCV, SARS-CoV-2, or others) alter the expression or activity of the enzyme ACSL4 (Acyl-CoA Synthetase Long Chain Family Member 4) in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "What are the mechanisms by which viruses modulate LPCAT3 (Lysophosphatidylcholine Acyltransferase 3) function to influence membrane phospholipid composition and fluidity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "What are the mechanisms by which viruses modulate LPCAT3 (Lysophosphatidylcholine Acyltransferase 3) function to influence membrane phospholipid composition and fluidity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How does viral infection impact the biosynthesis and incorporation of polyunsaturated fatty acids (PUFAs) into cellular phospholipids, particularly in membrane domains?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How does viral infection impact the biosynthesis and incorporation of polyunsaturated fatty acids (PUFAs) into cellular phospholipids, particularly in membrane domains?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "To what extent do these viral manipulations of ACSL4, LPCAT3, and PUFA pathways collectively inhibit or delay the onset of ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "To what extent do these viral manipulations of ACSL4, LPCAT3, and PUFA pathways collectively inhibit or delay the onset of ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "Are there common or distinct strategies across different virus families (e.g., RNA vs. DNA viruses) in co-opting phospholipid metabolism to evade ferroptosis and promote viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:15.718Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "Are there common or distinct strategies across different virus families (e.g., RNA vs. DNA viruses) in co-opting phospholipid metabolism to evade ferroptosis and promote viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.648Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "Which viral proteins directly bind to ACSL4 and what are the binding domains involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.648Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "Which viral proteins directly bind to ACSL4 and what are the binding domains involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.648Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do viral infections alter ACSL4 phosphorylation, ubiquitination, or other post-translational modifications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.648Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do viral infections alter ACSL4 phosphorylation, ubiquitination, or other post-translational modifications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "What viral mechanisms regulate ACSL4 gene expression or protein degradation during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "What viral mechanisms regulate ACSL4 gene expression or protein degradation during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "Which viral proteins interact with LPCAT3 and how do these interactions affect its enzymatic activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "Which viral proteins interact with LPCAT3 and how do these interactions affect its enzymatic activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do viral infections alter LPCAT3 subcellular localization or membrane association?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do viral infections alter LPCAT3 subcellular localization or membrane association?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
