@@ -526,3 +526,18 @@
 ⚰️  **2025-12-04T06:52:24.068Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What algorithms can dynamically adjust structural connectome edge weights based on simulated or measured neuromodulator state to improve whole-brain model predictions?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:53:03.616Z** - Topic: `The Greek recensions and Christian interpolations in the Testament of the Twelve Patriarchs: textual archaeology to isolate the Jewish core from its later Christian redaction and reuse.` - Query: "What are the major Greek manuscript families of the Testament of the Twelve Patriarchs, and how do they differ in content and wording?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:03.616Z** - Topic: `The Greek recensions and Christian interpolations in the Testament of the Twelve Patriarchs: textual archaeology to isolate the Jewish core from its later Christian redaction and reuse.` - Query: "Which passages in the Testament of the Twelve Patriarchs contain explicit Christian theological concepts (e.g., references to Jesus, the Trinity, or Christian eschatology) that are likely interpolations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:03.616Z** - Topic: `The Greek recensions and Christian interpolations in the Testament of the Twelve Patriarchs: textual archaeology to isolate the Jewish core from its later Christian redaction and reuse.` - Query: "What linguistic, stylistic, or thematic markers distinguish the Jewish core material from the Christian redactional layers in the text?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:03.616Z** - Topic: `The Greek recensions and Christian interpolations in the Testament of the Twelve Patriarchs: textual archaeology to isolate the Jewish core from its later Christian redaction and reuse.` - Query: "How do the Christian interpolations in the Testament of the Twelve Patriarchs align with specific early Christian theological concerns or polemical contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:03.616Z** - Topic: `The Greek recensions and Christian interpolations in the Testament of the Twelve Patriarchs: textual archaeology to isolate the Jewish core from its later Christian redaction and reuse.` - Query: "What comparative evidence from other Jewish pseudepigrapha or early Christian literature helps identify the original Jewish stratum versus later Christian additions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
