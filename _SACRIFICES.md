@@ -9325,3 +9325,333 @@
 ⚰️  **2025-12-04T19:16:06.583Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there documented cases where viral proteins or oncogenes from these viruses directly interact with or regulate components of the ferroptosis defense machinery?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:18:33.577Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific viral oncoproteins encoded by EBV (e.g., LMP1, LMP2A, EBNA1, EBNA2) have been experimentally shown to modulate ferroptosis sensitivity in EBV-associated malignancies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific viral oncoproteins encoded by EBV (e.g., LMP1, LMP2A, EBNA1, EBNA2) have been experimentally shown to modulate ferroptosis sensitivity in EBV-associated malignancies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific viral oncoproteins encoded by KSHV (e.g., vFLIP, LANA, vGPCR, vBcl-2) have been experimentally shown to modulate ferroptosis sensitivity in KSHV-associated malignancies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific viral oncoproteins encoded by KSHV (e.g., vFLIP, LANA, vGPCR, vBcl-2) have been experimentally shown to modulate ferroptosis sensitivity in KSHV-associated malignancies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the common or distinct molecular pathways (e.g., GPX4 regulation, iron metabolism, lipid peroxidation, System Xc- activity) targeted by these EBV and KSHV oncoproteins to confer ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the common or distinct molecular pathways (e.g., GPX4 regulation, iron metabolism, lipid peroxidation, System Xc- activity) targeted by these EBV and KSHV oncoproteins to confer ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How does the ferroptosis resistance mediated by these viral oncoproteins contribute to tumor survival, progression, or therapy resistance in the context of specific EBV- and KSHV-associated cancers (e.g., nasopharyngeal carcinoma, Burkitt lymphoma, Kaposi's sarcoma, primary effusion lymphoma)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How does the ferroptosis resistance mediated by these viral oncoproteins contribute to tumor survival, progression, or therapy resistance in the context of specific EBV- and KSHV-associated cancers (e.g., nasopharyngeal carcinoma, Burkitt lymphoma, Kaposi's sarcoma, primary effusion lymphoma)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Are there any therapeutic strategies or small molecules identified that can overcome this viral oncoprotein-mediated ferroptosis resistance, and what is their proposed mechanism of action?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:33.578Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Are there any therapeutic strategies or small molecules identified that can overcome this viral oncoprotein-mediated ferroptosis resistance, and what is their proposed mechanism of action?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins have been experimentally shown to interact with or regulate components of the ferroptosis pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins have been experimentally shown to interact with or regulate components of the ferroptosis pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins have been experimentally shown to interact with or regulate components of the ferroptosis pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins have been experimentally shown to interact with or regulate components of the ferroptosis pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the direct molecular targets (e.g., GPX4, SLC7A11, ACSL4, NRF2) of these EBV and KSHV oncoproteins in the ferroptosis pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the direct molecular targets (e.g., GPX4, SLC7A11, ACSL4, NRF2) of these EBV and KSHV oncoproteins in the ferroptosis pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific signaling pathways (e.g., NRF2-KEAP1, p53, mTOR) are modulated by these viral oncoproteins to confer ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific signaling pathways (e.g., NRF2-KEAP1, p53, mTOR) are modulated by these viral oncoproteins to confer ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.204Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How does ferroptosis resistance mediated by these oncoproteins enhance survival of virus-infected cells and contribute to tumor initiation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:18:54.205Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How does ferroptosis resistance mediated by these oncoproteins enhance survival of virus-infected cells and contribute to tumor initiation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.475Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (LMP1, LMP2A, EBNA1, or others) have been experimentally shown to regulate genes or proteins involved in ferroptosis pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (LMP1, LMP2A, EBNA1, or others) have been experimentally shown to regulate genes or proteins involved in ferroptosis pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (vFLIP, vGPCR, LANA, or others) have been experimentally shown to regulate genes or proteins involved in ferroptosis pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (vFLIP, vGPCR, LANA, or others) have been experimentally shown to regulate genes or proteins involved in ferroptosis pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV infection or their oncoproteins alter the activity or expression of SREBP transcription factors to affect lipid metabolism and ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV infection or their oncoproteins alter the activity or expression of SREBP transcription factors to affect lipid metabolism and ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV infection or their oncoproteins regulate ACSL3 enzyme activity or expression to influence lipid composition and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV infection or their oncoproteins regulate ACSL3 enzyme activity or expression to influence lipid composition and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What is the role of lipid droplet formation and dynamics in gammaherpesvirus-mediated ferroptosis resistance, and which viral proteins control this process?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:16.476Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What is the role of lipid droplet formation and dynamics in gammaherpesvirus-mediated ferroptosis resistance, and which viral proteins control this process?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.773Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA1, EBNA2, etc.) have been experimentally shown to modulate ferroptosis sensitivity in infected or transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA1, EBNA2, etc.) have been experimentally shown to modulate ferroptosis sensitivity in infected or transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., vFLIP, vGPCR, LANA, vBcl-2, etc.) have been experimentally shown to modulate ferroptosis sensitivity in infected or transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., vFLIP, vGPCR, LANA, vBcl-2, etc.) have been experimentally shown to modulate ferroptosis sensitivity in infected or transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "For EBV, what are the molecular mechanisms (e.g., upregulation of GPX4, SLC7A11/xCT, FSP1, modulation of ACSL4, or iron metabolism genes) by which its identified oncoproteins confer resistance to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "For EBV, what are the molecular mechanisms (e.g., upregulation of GPX4, SLC7A11/xCT, FSP1, modulation of ACSL4, or iron metabolism genes) by which its identified oncoproteins confer resistance to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "For KSHV, what are the molecular mechanisms (e.g., upregulation of GPX4, SLC7A11/xCT, FSP1, modulation of ACSL4, or iron metabolism genes) by which its identified oncoproteins confer resistance to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "For KSHV, what are the molecular mechanisms (e.g., upregulation of GPX4, SLC7A11/xCT, FSP1, modulation of ACSL4, or iron metabolism genes) by which its identified oncoproteins confer resistance to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV oncoproteins directly or indirectly regulate key enzymes in cellular lipid metabolism (e.g., ACSL4, LOXs, PUFA synthesis/incorporation) to reduce peroxidizable lipid pools and inhibit ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:19:39.774Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV oncoproteins directly or indirectly regulate key enzymes in cellular lipid metabolism (e.g., ACSL4, LOXs, PUFA synthesis/incorporation) to reduce peroxidizable lipid pools and inhibit ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.386Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV-encoded proteins (e.g., LMP1, LMP2A, EBNA1) have been experimentally shown to inhibit ferroptosis in infected or transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.386Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV-encoded proteins (e.g., LMP1, LMP2A, EBNA1) have been experimentally shown to inhibit ferroptosis in infected or transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV-encoded proteins (e.g., vFLIP, vGPCR, LANA) have been experimentally shown to inhibit ferroptosis in infected or transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV-encoded proteins (e.g., vFLIP, vGPCR, LANA) have been experimentally shown to inhibit ferroptosis in infected or transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the direct molecular interactions or signaling pathways (e.g., NRF2, GPX4, SLC7A11/xCT) used by these identified EBV and KSHV oncoproteins to confer ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the direct molecular interactions or signaling pathways (e.g., NRF2, GPX4, SLC7A11/xCT) used by these identified EBV and KSHV oncoproteins to confer ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV infection or their oncoproteins alter key lipid metabolic processes (e.g., fatty acid synthesis, desaturation, lipogenesis, lipid droplet formation) in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV infection or their oncoproteins alter key lipid metabolic processes (e.g., fatty acid synthesis, desaturation, lipogenesis, lipid droplet formation) in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "In established malignancies (e.g., Burkitt's lymphoma for EBV, Kaposi's sarcoma for KSHV), what are the key differences in ferroptosis-related gene expression, lipid peroxidation levels, or antioxidant defenses compared to histologically similar non-viral cancers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:00.387Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "In established malignancies (e.g., Burkitt's lymphoma for EBV, Kaposi's sarcoma for KSHV), what are the key differences in ferroptosis-related gene expression, lipid peroxidation levels, or antioxidant defenses compared to histologically similar non-viral cancers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (LMP1, LMP2A, EBNA1, or others) have been experimentally shown to directly or indirectly regulate ferroptosis-related genes or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (LMP1, LMP2A, EBNA1, or others) have been experimentally shown to directly or indirectly regulate ferroptosis-related genes or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the molecular mechanisms by which KSHV proteins (vFLIP, LANA, vGPCR, or others) interact with or modulate lipid peroxidation processes in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What are the molecular mechanisms by which KSHV proteins (vFLIP, LANA, vGPCR, or others) interact with or modulate lipid peroxidation processes in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do KSHV proteins (vFLIP, LANA, vGPCR, or others) affect glutathione metabolism or glutathione-dependent antioxidant systems in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do KSHV proteins (vFLIP, LANA, vGPCR, or others) affect glutathione metabolism or glutathione-dependent antioxidant systems in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.268Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do EBV-associated malignancies (e.g., Burkitt lymphoma, nasopharyngeal carcinoma) show consistent alterations in the expression levels of key ferroptosis regulators (GPX4, SLC7A11, ACSL4) compared to normal tissues or non-viral malignancies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.269Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do EBV-associated malignancies (e.g., Burkitt lymphoma, nasopharyngeal carcinoma) show consistent alterations in the expression levels of key ferroptosis regulators (GPX4, SLC7A11, ACSL4) compared to normal tissues or non-viral malignancies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.269Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do KSHV-associated malignancies (e.g., Kaposi sarcoma, primary effusion lymphoma) show consistent alterations in the expression levels of key ferroptosis regulators (GPX4, SLC7A11, ACSL4) compared to normal tissues or non-viral malignancies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:21.269Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do KSHV-associated malignancies (e.g., Kaposi sarcoma, primary effusion lymphoma) show consistent alterations in the expression levels of key ferroptosis regulators (GPX4, SLC7A11, ACSL4) compared to normal tissues or non-viral malignancies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA1, etc.) have been experimentally shown to inhibit ferroptosis, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA1, etc.) have been experimentally shown to inhibit ferroptosis, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., vFLIP, vGPCR, LANA, etc.) have been experimentally shown to inhibit ferroptosis, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., vFLIP, vGPCR, LANA, etc.) have been experimentally shown to inhibit ferroptosis, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do these identified viral oncoproteins from EBV and KSHV regulate key ferroptosis defense pathways, such as the system xc-/glutathione/GPX4 axis or the FSP1-CoQ10 pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do these identified viral oncoproteins from EBV and KSHV regulate key ferroptosis defense pathways, such as the system xc-/glutathione/GPX4 axis or the FSP1-CoQ10 pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do these viral oncoproteins interact with and alter cellular lipid metabolism (e.g., fatty acid synthesis, desaturation, peroxidation) to reduce the accumulation of lethal lipid peroxides?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do these viral oncoproteins interact with and alter cellular lipid metabolism (e.g., fatty acid synthesis, desaturation, peroxidation) to reduce the accumulation of lethal lipid peroxides?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do EBV and KSHV oncoproteins employ common or distinct strategies (e.g., transcriptional regulation, protein-protein interaction, metabolic reprogramming) to confer ferroptosis resistance to infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:20:42.548Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do EBV and KSHV oncoproteins employ common or distinct strategies (e.g., transcriptional regulation, protein-protein interaction, metabolic reprogramming) to confer ferroptosis resistance to infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.630Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA1, others) have been experimentally shown to modulate ferroptosis, and what is the direction of their effect (promotion or inhibition)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.630Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (e.g., LMP1, LMP2A, EBNA1, others) have been experimentally shown to modulate ferroptosis, and what is the direction of their effect (promotion or inhibition)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.630Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., vFLIP, vGPCR, LANA, others) have been experimentally shown to modulate ferroptosis, and what is the direction of their effect (promotion or inhibition)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.630Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (e.g., vFLIP, vGPCR, LANA, others) have been experimentally shown to modulate ferroptosis, and what is the direction of their effect (promotion or inhibition)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.630Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific lipid metabolism pathways (e.g., fatty acid synthesis, desaturation, lipogenesis, lipid droplet formation) are altered by EBV and KSHV infection or their oncoproteins to promote cell survival against ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.631Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific lipid metabolism pathways (e.g., fatty acid synthesis, desaturation, lipogenesis, lipid droplet formation) are altered by EBV and KSHV infection or their oncoproteins to promote cell survival against ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.631Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV oncoproteins directly or indirectly interact with or regulate the expression or activity of the key ferroptosis regulator GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.631Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV oncoproteins directly or indirectly interact with or regulate the expression or activity of the key ferroptosis regulator GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.631Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV oncoproteins directly or indirectly interact with or regulate the activity of the lipid metabolism master regulators SREBP1/2 or the enzyme ACSL3 to influence ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:01.631Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV oncoproteins directly or indirectly interact with or regulate the activity of the lipid metabolism master regulators SREBP1/2 or the enzyme ACSL3 to influence ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV-encoded oncoproteins have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV-encoded oncoproteins have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV-encoded oncoproteins have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV-encoded oncoproteins have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific lipid metabolism pathways (e.g., fatty acid synthesis, lipid peroxidation, GPX4 regulation) are altered by EBV oncoproteins to promote ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific lipid metabolism pathways (e.g., fatty acid synthesis, lipid peroxidation, GPX4 regulation) are altered by EBV oncoproteins to promote ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific lipid metabolism pathways (e.g., fatty acid synthesis, lipid peroxidation, GPX4 regulation) are altered by KSHV oncoproteins to promote ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific lipid metabolism pathways (e.g., fatty acid synthesis, lipid peroxidation, GPX4 regulation) are altered by KSHV oncoproteins to promote ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV-mediated ferroptosis resistance mechanisms specifically enhance viral persistence in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:20.096Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do EBV and KSHV-mediated ferroptosis resistance mechanisms specifically enhance viral persistence in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (LMP1, LMP2A, EBNA1, EBNA2) have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific EBV oncoproteins (LMP1, LMP2A, EBNA1, EBNA2) have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (vFLIP, vGPCR, LANA) have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Which specific KSHV oncoproteins (vFLIP, vGPCR, LANA) have been experimentally shown to regulate ferroptosis-related genes or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What is the effect of each identified EBV oncoprotein on key ferroptosis regulators such as GPX4, ACSL4, or system xc-?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What is the effect of each identified EBV oncoprotein on key ferroptosis regulators such as GPX4, ACSL4, or system xc-?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What is the effect of each identified KSHV oncoprotein on key ferroptosis regulators such as GPX4, ACSL4, or system xc-?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What is the effect of each identified KSHV oncoprotein on key ferroptosis regulators such as GPX4, ACSL4, or system xc-?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do the identified viral oncoproteins alter cellular iron homeostasis or lipid metabolism to promote ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:21:39.395Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How do the identified viral oncoproteins alter cellular iron homeostasis or lipid metabolism to promote ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific molecular interactions between EBV LMP1 and cellular ferroptosis pathways (e.g., GPX4, SLC7A11, NRF2) confer resistance to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "What specific molecular interactions between EBV LMP1 and cellular ferroptosis pathways (e.g., GPX4, SLC7A11, NRF2) confer resistance to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How does EBV LMP2A influence iron metabolism or lipid peroxidation pathways to protect infected cells from ferroptotic death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "How does EBV LMP2A influence iron metabolism or lipid peroxidation pathways to protect infected cells from ferroptotic death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Through which signaling pathways do KSHV vFLIP and vGPCR alter cellular lipid metabolism (e.g., fatty acid synthesis, desaturation, or peroxidation) to inhibit ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Through which signaling pathways do KSHV vFLIP and vGPCR alter cellular lipid metabolism (e.g., fatty acid synthesis, desaturation, or peroxidation) to inhibit ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.668Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do EBV and KSHV infection lead to increased lipid droplet biogenesis, and if so, which viral proteins are necessary and sufficient for this phenotype?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.669Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Do EBV and KSHV infection lead to increased lipid droplet biogenesis, and if so, which viral proteins are necessary and sufficient for this phenotype?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.669Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Is lipid droplet accumulation induced by EBV and KSHV functionally required for ferroptosis resistance, and do both viruses utilize similar or distinct lipid droplet-associated proteins (e.g., PLIN2, ATGL) for this protection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:03.669Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Is lipid droplet accumulation induced by EBV and KSHV functionally required for ferroptosis resistance, and do both viruses utilize similar or distinct lipid droplet-associated proteins (e.g., PLIN2, ATGL) for this protection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
