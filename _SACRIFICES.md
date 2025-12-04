@@ -11149,3 +11149,93 @@
 ⚰️  **2025-12-04T19:49:26.783Z** - Topic: `"Characterizing the redox adaptation mechanisms and ferroptosis resistance pathways in xCT-depleted mesenchymal HNSCC cells following oxidative stress induction"` - Query: "Which transcriptional regulators (e.g., NRF2, ATF4) are activated in xCT-depleted mesenchymal HNSCC cells to maintain redox homeostasis?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:50:10.037Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What are the specific metabolic pathway alterations (e.g., in glutathione synthesis, nucleotide metabolism, or fatty acid oxidation) observed in xCT-depleted HNSCC cells during cystine starvation compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.037Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What are the specific metabolic pathway alterations (e.g., in glutathione synthesis, nucleotide metabolism, or fatty acid oxidation) observed in xCT-depleted HNSCC cells during cystine starvation compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipid peroxidation products (e.g., specific hydroxyeicosatetraenoic acids, malondialdehyde, or 4-hydroxynonenal) accumulate differentially in xCT-depleted HNSCC cells under cystine starvation versus conditions where ferroptosis occurs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which lipid peroxidation products (e.g., specific hydroxyeicosatetraenoic acids, malondialdehyde, or 4-hydroxynonenal) accumulate differentially in xCT-depleted HNSCC cells under cystine starvation versus conditions where ferroptosis occurs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What compensatory antioxidant mechanisms (e.g., upregulation of GPX4-independent pathways, activation of FSP1, or enhanced NADPH production) are activated in xCT-depleted HNSCC cells to prevent ferroptosis during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What compensatory antioxidant mechanisms (e.g., upregulation of GPX4-independent pathways, activation of FSP1, or enhanced NADPH production) are activated in xCT-depleted HNSCC cells to prevent ferroptosis during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells modulate their lipid composition (e.g., changes in polyunsaturated fatty acid content, phospholipid remodeling, or ether lipid levels) to reduce susceptibility to lipid peroxidation under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells modulate their lipid composition (e.g., changes in polyunsaturated fatty acid content, phospholipid remodeling, or ether lipid levels) to reduce susceptibility to lipid peroxidation under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which key regulatory genes or proteins show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation that correlate with ferroptosis evasion, and are these changes reversible upon restoration of cystine?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:10.038Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which key regulatory genes or proteins show altered expression or activity in xCT-depleted HNSCC cells under cystine starvation that correlate with ferroptosis evasion, and are these changes reversible upon restoration of cystine?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.802Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative cysteine or glutathione synthesis pathways are upregulated in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.802Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alternative cysteine or glutathione synthesis pathways are upregulated in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.802Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which antioxidant systems (e.g., GPX4, FSP1, DHODH, GCH1) show compensatory activation in xCT-depleted HNSCC cells under cystine deprivation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which antioxidant systems (e.g., GPX4, FSP1, DHODH, GCH1) show compensatory activation in xCT-depleted HNSCC cells under cystine deprivation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do lipid peroxidation product profiles (e.g., 4-HNE, MDA, 15-HETE) differ between ferroptosis-sensitive and ferroptosis-resistant HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How do lipid peroxidation product profiles (e.g., 4-HNE, MDA, 15-HETE) differ between ferroptosis-sensitive and ferroptosis-resistant HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific changes occur in membrane phospholipid composition (e.g., PUFA-PL vs. MUFA-PL ratios) in xCT-deficient HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What specific changes occur in membrane phospholipid composition (e.g., PUFA-PL vs. MUFA-PL ratios) in xCT-deficient HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does cystine starvation affect NADPH/NADP+ ratios and other redox couples in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:50:31.803Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does cystine starvation affect NADPH/NADP+ ratios and other redox couples in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.150Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What changes occur in central carbon metabolism (glycolysis, TCA cycle, PPP) in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.150Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What changes occur in central carbon metabolism (glycolysis, TCA cycle, PPP) in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.150Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does glutathione metabolism and redox balance adapt in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.150Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "How does glutathione metabolism and redox balance adapt in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.150Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific lipid peroxidation products (e.g., 4-HNE, MDA, 15-HETE, oxidized phospholipids) are elevated or suppressed in xCT-depleted HNSCC cells that evade ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.150Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which specific lipid peroxidation products (e.g., 4-HNE, MDA, 15-HETE, oxidized phospholipids) are elevated or suppressed in xCT-depleted HNSCC cells that evade ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.151Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alterations occur in lipid metabolism (fatty acid synthesis, desaturation, peroxidation susceptibility) in xCT-depleted HNSCC cells that avoid ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.151Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What alterations occur in lipid metabolism (fatty acid synthesis, desaturation, peroxidation susceptibility) in xCT-depleted HNSCC cells that avoid ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.151Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which alternative cysteine sources or import mechanisms (e.g., transsulfuration pathway, other transporters) become upregulated in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:00.151Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which alternative cysteine sources or import mechanisms (e.g., transsulfuration pathway, other transporters) become upregulated in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
