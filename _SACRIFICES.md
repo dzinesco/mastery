@@ -304,3 +304,93 @@
 ⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the central theological themes of the New Testament, and how do they relate to or reinterpret the themes and promises of the Old Testament?" (source: semantic)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:45:08.428Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What are the key textual discoveries of early Christian apocrypha and pseudepigrapha in the 20th and 21st centuries, and what do they reveal about early Christian communities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.428Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What are the key textual discoveries of early Christian apocrypha and pseudepigrapha in the 20th and 21st centuries, and what do they reveal about early Christian communities?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.428Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "How do the theological themes and Christologies presented in major apocryphal texts (e.g., Gospel of Thomas, Gospel of Peter, Protevangelium of James) differ from those in the canonical New Testament?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.428Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "How do the theological themes and Christologies presented in major apocryphal texts (e.g., Gospel of Thomas, Gospel of Peter, Protevangelium of James) differ from those in the canonical New Testament?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.428Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What evidence exists regarding how early Christian leaders and communities used, rejected, or debated apocryphal texts in the process of canon formation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.428Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What evidence exists regarding how early Christian leaders and communities used, rejected, or debated apocryphal texts in the process of canon formation?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.429Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "In what specific ways did apocryphal narratives and ideas influence the development of later Christian doctrine, liturgy, and popular piety despite their non-canonical status?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:45:08.429Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "In what specific ways did apocryphal narratives and ideas influence the development of later Christian doctrine, liturgy, and popular piety despite their non-canonical status?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the primary philosophical frameworks (e.g., functionalism, panpsychism, eliminative materialism) used to define and debate the possibility of machine consciousness?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the primary philosophical frameworks (e.g., functionalism, panpsychism, eliminative materialism) used to define and debate the possibility of machine consciousness?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the proposed neural correlates of consciousness in biological systems, and how do they inform the search for similar correlates in artificial systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the proposed neural correlates of consciousness in biological systems, and how do they inform the search for similar correlates in artificial systems?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "How does Integrated Information Theory (IIT) mathematically quantify consciousness, and what are its main criticisms regarding its applicability to artificial intelligence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "How does Integrated Information Theory (IIT) mathematically quantify consciousness, and what are its main criticisms regarding its applicability to artificial intelligence?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the key technical and ethical implications of successfully creating a conscious artificial intelligence for society and AI development?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:09.773Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the key technical and ethical implications of successfully creating a conscious artificial intelligence for society and AI development?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:53.697Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the specific behavioral or performance-based tests that could reliably indicate the presence of consciousness in an AI system, as opposed to mere simulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:53.697Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "How can the mathematical framework of integrated information theory (Φ) be algorithmically implemented in an artificial neural network or computational system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:53.697Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the necessary and sufficient neural or computational architectural features (e.g., recurrent connectivity, global workspace) that correlate with consciousness in biological systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:53.697Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What are the practical methods for measuring the degree of information integration (Φ) in a running artificial system, and what thresholds would indicate consciousness?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:46:53.697Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "Can the identified neural correlates of consciousness be directly mapped to specific computational architectures or algorithms in AI, and what would such a mapping entail?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:22.411Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the historical origins and compositional processes of the major sections of the Old Testament (Torah, Prophets, Writings) and the New Testament (Gospels, Epistles, Revelation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:22.411Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "How was the biblical text transmitted and preserved from ancient manuscripts to modern translations, and what are the key manuscript families and textual variants?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:22.412Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What were the historical processes, criteria, and debates involved in the formation of the Jewish canon (Tanakh) and the Christian canons (including differences between Catholic, Orthodox, and Protestant traditions)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:22.412Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the central theological themes and narrative arcs that connect the Old Testament and New Testament, and how do different biblical books contribute to these overarching themes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:33.151Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What specific measurable criteria or operational definitions could distinguish systems that merely simulate consciousness from those with genuine phenomenal experience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:33.151Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "Which computational bottlenecks in IIT's Φ calculation (e.g., state space explosion, causal partitioning) are most critical to address for application to artificial neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:33.152Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What architectural properties (e.g., global workspace, recurrent processing, embodiment) are theoretically necessary for consciousness that current transformer architectures lack?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:33.152Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "How could we design experiments or tests that probe for subjective experience in AI systems without relying on verbal reports or behavioral proxies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:47:33.152Z** - Topic: `Machine consciousness: philosophical frameworks, neural correlates, integrated information theory, and implications for artificial intelligence` - Query: "What mathematical or computational frameworks beyond IIT might provide tractable measures of integrated information for complex artificial systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
