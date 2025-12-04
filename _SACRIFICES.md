@@ -3955,3 +3955,1263 @@
 ⚰️  **2025-12-04T18:29:17.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do interventions targeting emotional regulation (e.g., mindfulness, resilience training) affect thalamocortical function and perceptual constancy mechanisms in populations at risk for empathy burnout?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:29:34.544Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural pathways and thalamocortical loops involved in empathy and emotional processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.544Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural pathways and thalamocortical loops involved in empathy and emotional processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic emotional stress or repeated empathic engagement alter thalamocortical connectivity or function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic emotional stress or repeated empathic engagement alter thalamocortical connectivity or function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which psychological processes of emotional regulation are directly supported by thalamocortical circuits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which psychological processes of emotional regulation are directly supported by thalamocortical circuits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does perspective-taking (a cognitive component of empathy) engage thalamocortical systems differently from emotional sharing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does perspective-taking (a cognitive component of empathy) engage thalamocortical systems differently from emotional sharing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What clinical or neuroimaging evidence exists showing altered thalamocortical activity in populations experiencing compassion fatigue (e.g., healthcare workers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:34.545Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What clinical or neuroimaging evidence exists showing altered thalamocortical activity in populations experiencing compassion fatigue (e.g., healthcare workers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways are implicated in the processing of empathic responses to others' distress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways are implicated in the processing of empathic responses to others' distress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do neural markers of empathy (e.g., activity in anterior insula, anterior cingulate cortex) change with prolonged exposure to suffering in clinical populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do neural markers of empathy (e.g., activity in anterior insula, anterior cingulate cortex) change with prolonged exposure to suffering in clinical populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What distinct neural patterns (e.g., connectivity, activation) differentiate healthcare workers with high compassion fatigue from those with low compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What distinct neural patterns (e.g., connectivity, activation) differentiate healthcare workers with high compassion fatigue from those with low compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.550Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do emotional regulation strategies (e.g., reappraisal, suppression) moderate the relationship between thalamocortical activity and reported compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do emotional regulation strategies (e.g., reappraisal, suppression) moderate the relationship between thalamocortical activity and reported compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What role does cognitive appraisal (e.g., perceived self-efficacy, attribution of responsibility) play in mediating neural empathic responses and burnout symptoms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:29:54.551Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What role does cognitive appraisal (e.g., perceived self-efficacy, attribution of responsibility) play in mediating neural empathic responses and burnout symptoms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific thalamocortical pathways are most consistently activated or deactivated in neuroimaging studies of compassion fatigue and empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific thalamocortical pathways are most consistently activated or deactivated in neuroimaging studies of compassion fatigue and empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do changes in thalamocortical oscillatory patterns (e.g., alpha, beta, gamma bands) correlate with self-reported measures of empathy depletion in helping professionals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do changes in thalamocortical oscillatory patterns (e.g., alpha, beta, gamma bands) correlate with self-reported measures of empathy depletion in helping professionals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the precise role of the anterior cingulate cortex-thalamus circuit in monitoring and regulating emotional exhaustion during prolonged empathic engagement?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the precise role of the anterior cingulate cortex-thalamus circuit in monitoring and regulating emotional exhaustion during prolonged empathic engagement?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which molecular mechanisms (neurotransmitter systems, stress hormones, inflammatory markers) mediate thalamocortical dysregulation in clinical populations with empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which molecular mechanisms (neurotransmitter systems, stress hormones, inflammatory markers) mediate thalamocortical dysregulation in clinical populations with empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific thalamic nuclei (pulvinar, mediodorsal, anterior nuclei) differentially contribute to emotional regulation versus cognitive empathy components that may fail in burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:11.659Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific thalamic nuclei (pulvinar, mediodorsal, anterior nuclei) differentially contribute to emotional regulation versus cognitive empathy components that may fail in burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct roles of core (first-order) and matrix (higher-order) thalamic nuclei in processing emotional and empathic information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct roles of core (first-order) and matrix (higher-order) thalamic nuclei in processing emotional and empathic information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic exposure to others' suffering alter thalamocortical oscillatory patterns (particularly in theta, alpha, and gamma bands) in helping professionals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic exposure to others' suffering alter thalamocortical oscillatory patterns (particularly in theta, alpha, and gamma bands) in helping professionals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific psychological processes (e.g., emotional regulation, perspective-taking, personal distress) show the strongest correlation with thalamic activity changes in compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific psychological processes (e.g., emotional regulation, perspective-taking, personal distress) show the strongest correlation with thalamic activity changes in compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Do clinical populations with empathy burnout show measurable differences in thalamic glutamate/GABA balance or receptor expression compared to controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Do clinical populations with empathy burnout show measurable differences in thalamic glutamate/GABA balance or receptor expression compared to controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Can experimental disruption of thalamocortical synchronization (via TMS or similar methods) produce temporary empathy burnout symptoms in healthy subjects?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:30.767Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Can experimental disruption of thalamocortical synchronization (via TMS or similar methods) produce temporary empathy burnout symptoms in healthy subjects?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.761Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What is the molecular mechanism of ferroptosis, and how does it function as an innate host defense against viral infections?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.761Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What is the molecular mechanism of ferroptosis, and how does it function as an innate host defense against viral infections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.761Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to induce or be susceptible to ferroptosis, and what viral proteins or pathways are involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.761Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to induce or be susceptible to ferroptosis, and what viral proteins or pathways are involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.761Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses evade or inhibit ferroptosis, for example, by modulating lipid peroxidation, glutathione metabolism, or iron homeostasis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.761Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses evade or inhibit ferroptosis, for example, by modulating lipid peroxidation, glutathione metabolism, or iron homeostasis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.762Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA) act as immunomodulatory signals during viral infection, and which immune pathways do they activate or suppress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.762Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA) act as immunomodulatory signals during viral infection, and which immune pathways do they activate or suppress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.762Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How does the interplay between ferroptosis and other cell death pathways (e.g., apoptosis, pyroptosis) influence the overall antiviral immune response and viral pathogenesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:34.762Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How does the interplay between ferroptosis and other cell death pathways (e.g., apoptosis, pyroptosis) influence the overall antiviral immune response and viral pathogenesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.876Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural mechanisms underlying compassion fatigue and empathy burnout, as identified in current neuroscientific literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural mechanisms underlying compassion fatigue and empathy burnout, as identified in current neuroscientific literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does the thalamocortical system function in typical empathy and compassion processing in healthy individuals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does the thalamocortical system function in typical empathy and compassion processing in healthy individuals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What evidence exists for altered thalamic function or thalamocortical connectivity in populations experiencing empathy-related disorders or burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What evidence exists for altered thalamic function or thalamocortical connectivity in populations experiencing empathy-related disorders or burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do psychological models of compassion fatigue and empathy burnout correspond to measurable neurobiological changes in thalamocortical pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do psychological models of compassion fatigue and empathy burnout correspond to measurable neurobiological changes in thalamocortical pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical loops or circuits are implicated in the development or maintenance of compassion fatigue versus typical empathic responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:48.877Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical loops or circuits are implicated in the development or maintenance of compassion fatigue versus typical empathic responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.927Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.927Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or viral replication processes directly interact with key ferroptosis regulators like GPX4, System Xc-, or ACSL4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or viral replication processes directly interact with key ferroptosis regulators like GPX4, System Xc-, or ACSL4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter host lipid metabolism or antioxidant defenses to prevent lethal lipid peroxidation and evade ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter host lipid metabolism or antioxidant defenses to prevent lethal lipid peroxidation and evade ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What is the role of lipid peroxidation-derived signaling molecules (e.g., 4-HNE, MDA) in activating or suppressing innate immune pathways during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:30:52.928Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What is the role of lipid peroxidation-derived signaling molecules (e.g., 4-HNE, MDA) in activating or suppressing innate immune pathways during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical mechanisms (e.g., thalamic relay, cortical feedback loops, oscillatory synchrony) known to support conscious awareness and emotional processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical mechanisms (e.g., thalamic relay, cortical feedback loops, oscillatory synchrony) known to support conscious awareness and emotional processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic empathic engagement alter functional connectivity or activity within thalamocortical networks, as measured by neuroimaging?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic empathic engagement alter functional connectivity or activity within thalamocortical networks, as measured by neuroimaging?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "In clinical populations (healthcare workers, therapists, caregivers), what distinct neural patterns (e.g., reduced thalamic activation, altered cortical connectivity) are observed in thalamocortical systems during states of empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "In clinical populations (healthcare workers, therapists, caregivers), what distinct neural patterns (e.g., reduced thalamic activation, altered cortical connectivity) are observed in thalamocortical systems during states of empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological processes (e.g., emotional regulation, attentional control, self-other distinction) are mediated by thalamocortical circuits and become impaired in compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological processes (e.g., emotional regulation, attentional control, self-other distinction) are mediated by thalamocortical circuits and become impaired in compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do symptoms of compassion fatigue (e.g., emotional numbness, reduced empathy, attentional deficits) map onto specific dysfunctions in thalamocortical communication or arousal regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:08.957Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do symptoms of compassion fatigue (e.g., emotional numbness, reduced empathy, attentional deficits) map onto specific dysfunctions in thalamocortical communication or arousal regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.418Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.419Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.421Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.422Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.422Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the molecular mechanisms by which viruses evade host ferroptosis, such as through viral protein interactions or modulation of antioxidant systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.422Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the molecular mechanisms by which viruses evade host ferroptosis, such as through viral protein interactions or modulation of antioxidant systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.423Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate ferroptosis pathways (e.g., GPX4, system xc-, iron metabolism) to create a favorable environment for viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.423Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate ferroptosis pathways (e.g., GPX4, system xc-, iron metabolism) to create a favorable environment for viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.423Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory signals (e.g., DAMPs, cytokines, lipid mediators) are produced as a result of lipid peroxidation during ferroptosis in viral infections?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:13.423Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory signals (e.g., DAMPs, cytokines, lipid mediators) are produced as a result of lipid peroxidation during ferroptosis in viral infections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct proposed functional mechanisms of core (first-order) versus matrix (higher-order) thalamic neurons in sensory and cognitive processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct proposed functional mechanisms of core (first-order) versus matrix (higher-order) thalamic neurons in sensory and cognitive processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do the specific functions of core and matrix thalamic neurons theoretically contribute to emotional regulation and empathic response?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do the specific functions of core and matrix thalamic neurons theoretically contribute to emotional regulation and empathic response?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What empirical evidence exists showing differential involvement of core versus matrix thalamic pathways in compassion fatigue or empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What empirical evidence exists showing differential involvement of core versus matrix thalamic pathways in compassion fatigue or empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.719Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What clinical studies demonstrate altered thalamocortical connectivity or activity in populations experiencing empathy burnout (e.g., healthcare workers, caregivers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.720Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What clinical studies demonstrate altered thalamocortical connectivity or activity in populations experiencing empathy burnout (e.g., healthcare workers, caregivers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.720Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific psychological symptoms of empathy burnout (e.g., emotional numbness, reduced personal accomplishment) correlate with measures of thalamocortical function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:27.720Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do specific psychological symptoms of empathy burnout (e.g., emotional numbness, reduced personal accomplishment) correlate with measures of thalamocortical function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.567Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to trigger ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.567Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally demonstrated to trigger ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.567Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms (e.g., via viral proteins, modulation of GPX4, iron metabolism, or lipid peroxidation) do specific viruses use to induce or suppress ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.567Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms (e.g., via viral proteins, modulation of GPX4, iron metabolism, or lipid peroxidation) do specific viruses use to induce or suppress ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.568Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses counteract host ferroptosis defenses, for example by upregulating antioxidant pathways (e.g., system xc-, GPX4) or interfering with iron homeostasis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.568Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses counteract host ferroptosis defenses, for example by upregulating antioxidant pathways (e.g., system xc-, GPX4) or interfering with iron homeostasis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.568Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as immunomodulatory signals during virus-induced ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.568Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as immunomodulatory signals during virus-induced ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.568Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do these lipid peroxidation-derived signals influence immune cell recruitment, cytokine production, or antiviral immune responses in the context of viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:29.568Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do these lipid peroxidation-derived signals influence immune cell recruitment, cytokine production, or antiviral immune responses in the context of viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the known thalamocortical pathways involved in empathy processing and emotional regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the known thalamocortical pathways involved in empathy processing and emotional regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic exposure to others' suffering affect thalamocortical connectivity and function in helping professionals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic exposure to others' suffering affect thalamocortical connectivity and function in helping professionals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamic nuclei show altered activity or connectivity in individuals experiencing compassion fatigue compared to healthy controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamic nuclei show altered activity or connectivity in individuals experiencing compassion fatigue compared to healthy controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which cortical regions (e.g., anterior cingulate, insula, prefrontal cortex) demonstrate the most significant changes in clinical empathy depletion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which cortical regions (e.g., anterior cingulate, insula, prefrontal cortex) demonstrate the most significant changes in clinical empathy depletion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do psychological factors like emotional regulation strategies and coping mechanisms interact with thalamocortical mechanisms in compassion fatigue development?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:45.623Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do psychological factors like emotional regulation strategies and coping mechanisms interact with thalamocortical mechanisms in compassion fatigue development?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to be affected by host ferroptosis pathways (either enhanced or inhibited viral replication)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to be affected by host ferroptosis pathways (either enhanced or inhibited viral replication)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific molecular mechanisms do viruses use to evade or suppress ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific molecular mechanisms do viruses use to evade or suppress ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses actively modulate host ferroptosis pathways to benefit viral replication or persistence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses actively modulate host ferroptosis pathways to benefit viral replication or persistence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation-derived molecules function as immunomodulatory signals during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:31:46.534Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation-derived molecules function as immunomodulatory signals during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural mechanisms within the thalamocortical system that regulate emotional processing and empathy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural mechanisms within the thalamocortical system that regulate emotional processing and empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do chronic stress and emotional overexposure alter functional connectivity in thalamocortical loops?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do chronic stress and emotional overexposure alter functional connectivity in thalamocortical loops?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological symptoms and behavioral changes are consistently observed in clinical populations with diagnosed thalamocortical disruptions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological symptoms and behavioral changes are consistently observed in clinical populations with diagnosed thalamocortical disruptions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do different patterns of thalamocortical dysfunction (e.g., hyperconnectivity vs. hypoconnectivity) correlate with varying severity or subtypes of empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do different patterns of thalamocortical dysfunction (e.g., hyperconnectivity vs. hypoconnectivity) correlate with varying severity or subtypes of empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Are there identifiable neurobiological markers in thalamocortical activity that distinguish early-stage compassion fatigue from advanced empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:01.738Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Are there identifiable neurobiological markers in thalamocortical activity that distinguish early-stage compassion fatigue from advanced empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viral pathogens have been experimentally demonstrated to induce ferroptosis in host cells, and in which cell types?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viral pathogens have been experimentally demonstrated to induce ferroptosis in host cells, and in which cell types?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viral pathogens have been experimentally demonstrated to inhibit ferroptosis in host cells, and what is the proposed benefit to the virus?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viral pathogens have been experimentally demonstrated to inhibit ferroptosis in host cells, and what is the proposed benefit to the virus?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) directly modulate the activity of immune cells (e.g., macrophages, T cells) during a viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) directly modulate the activity of immune cells (e.g., macrophages, T cells) during a viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which signaling pathways (e.g., via specific receptors or transcription factors) do lipid peroxidation signals alter the production of cytokines or interferons during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which signaling pathways (e.g., via specific receptors or transcription factors) do lipid peroxidation signals alter the production of cytokines or interferons during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.253Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or viral strategies (e.g., modulation of GPX4, system xc-, or iron metabolism genes) are used to prevent the host cell from undergoing ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:05.254Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or viral strategies (e.g., modulation of GPX4, system xc-, or iron metabolism genes) are used to prevent the host cell from undergoing ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural pathways and neurotransmitter systems involved in thalamocortical circuits that show dysfunction in individuals with compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural pathways and neurotransmitter systems involved in thalamocortical circuits that show dysfunction in individuals with compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core (parvalbumin-positive) thalamic neurons specifically modulate emotional regulation circuits compared to matrix (calbindin-positive) thalamic neurons?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core (parvalbumin-positive) thalamic neurons specifically modulate emotional regulation circuits compared to matrix (calbindin-positive) thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What alterations in thalamocortical resonant frequencies (e.g., alpha, theta, gamma bands) correlate with psychological burnout symptoms in healthcare professionals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What alterations in thalamocortical resonant frequencies (e.g., alpha, theta, gamma bands) correlate with psychological burnout symptoms in healthcare professionals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does thalamic gating of sensory and emotional information differ between individuals with empathy burnout and healthy controls during empathy-eliciting tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.191Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does thalamic gating of sensory and emotional information differ between individuals with empathy burnout and healthy controls during empathy-eliciting tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.192Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What evidence exists for structural or functional changes in specific thalamic nuclei (e.g., mediodorsal, anterior nuclei) in clinical populations with diagnosed burnout syndrome?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:20.192Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What evidence exists for structural or functional changes in specific thalamic nuclei (e.g., mediodorsal, anterior nuclei) in clinical populations with diagnosed burnout syndrome?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.787Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or mechanisms are known to modulate ferroptosis pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or mechanisms are known to modulate ferroptosis pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific molecular mechanisms do viruses inhibit or evade ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific molecular mechanisms do viruses inhibit or evade ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptotic cell death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptotic cell death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced in response to lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:22.788Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced in response to lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the key thalamocortical mechanisms currently proposed to support general consciousness, particularly those involving thalamic nuclei and their cortical connections?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the key thalamocortical mechanisms currently proposed to support general consciousness, particularly those involving thalamic nuclei and their cortical connections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do emotional and empathic responses, as clinically relevant to compassion fatigue and empathy burnout, depend on specific thalamocortical loops (e.g., involving the anterior, mediodorsal, or limbic thalamic nuclei)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do emotional and empathic responses, as clinically relevant to compassion fatigue and empathy burnout, depend on specific thalamocortical loops (e.g., involving the anterior, mediodorsal, or limbic thalamic nuclei)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "In states of compassion fatigue or empathy burnout, what specific dysfunctions or breakdowns are observed in thalamic gating, relay, or modulation of cortical activity related to emotional processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "In states of compassion fatigue or empathy burnout, what specific dysfunctions or breakdowns are observed in thalamic gating, relay, or modulation of cortical activity related to emotional processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Are there measurable differences in the activity or functional connectivity of 'core' (first-order) versus 'matrix' (higher-order) thalamic neurons in individuals experiencing emotional exhaustion and reduced empathy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Are there measurable differences in the activity or functional connectivity of 'core' (first-order) versus 'matrix' (higher-order) thalamic neurons in individuals experiencing emotional exhaustion and reduced empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What evidence exists for altered thalamocortical oscillatory patterns (e.g., in alpha, theta, or gamma bands) during tasks requiring empathy or emotional regulation in clinically burned-out populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:39.880Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What evidence exists for altered thalamocortical oscillatory patterns (e.g., in alpha, theta, or gamma bands) during tasks requiring empathy or emotional regulation in clinically burned-out populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally demonstrated to induce or be affected by ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally demonstrated to induce or be affected by ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally demonstrated to induce or be affected by ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally demonstrated to induce or be affected by ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genetic elements have been identified as directly modulating ferroptosis pathways (GPX4, system xc-, iron metabolism)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genetic elements have been identified as directly modulating ferroptosis pathways (GPX4, system xc-, iron metabolism)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter cellular lipid metabolism or antioxidant defenses to prevent ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter cellular lipid metabolism or antioxidant defenses to prevent ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) are generated during viral infection and detected experimentally?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:40.239Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) are generated during viral infection and detected experimentally?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific roles of thalamocortical feedback loops in regulating emotional and empathic responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific roles of thalamocortical feedback loops in regulating emotional and empathic responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic exposure to others' suffering affect neural plasticity in thalamocortical pathways related to empathy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic exposure to others' suffering affect neural plasticity in thalamocortical pathways related to empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological mechanisms (e.g., emotional contagion, cognitive appraisal) mediate the relationship between thalamocortical function and compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological mechanisms (e.g., emotional contagion, cognitive appraisal) mediate the relationship between thalamocortical function and compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do measures of thalamocortical connectivity (e.g., via fMRI, EEG) correlate with self-reported compassion fatigue in clinical populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do measures of thalamocortical connectivity (e.g., via fMRI, EEG) correlate with self-reported compassion fatigue in clinical populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What differences exist in thalamic relay efficiency or cortical integration between healthcare workers with high vs. low empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:32:59.881Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What differences exist in thalamic relay efficiency or cortical integration between healthcare workers with high vs. low empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis pathways in host cells during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the molecular mechanisms by which viruses evade or inhibit host ferroptosis (e.g., targeting GPX4, system xc-, or lipid peroxidation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the molecular mechanisms by which viruses evade or inhibit host ferroptosis (e.g., targeting GPX4, system xc-, or lipid peroxidation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do lipid peroxidation products (e.g., 4-HNE, MDA) directly activate or suppress specific immune signaling pathways (e.g., NF-κB, inflammasome) during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:00.347Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do lipid peroxidation products (e.g., 4-HNE, MDA) directly activate or suppress specific immune signaling pathways (e.g., NF-κB, inflammasome) during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.776Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways show altered activity or connectivity in individuals diagnosed with compassion fatigue or empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.776Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways show altered activity or connectivity in individuals diagnosed with compassion fatigue or empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.776Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core (parvalbumin-positive) thalamic neurons specifically modulate emotional salience detection and affective processing relevant to empathy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.776Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core (parvalbumin-positive) thalamic neurons specifically modulate emotional salience detection and affective processing relevant to empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.776Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix (calbindin-positive) thalamic neurons specifically contribute to the integration of emotional context and self-other distinction during empathy tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.777Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix (calbindin-positive) thalamic neurons specifically contribute to the integration of emotional context and self-other distinction during empathy tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.777Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the role of thalamocortical dysrhythmia (specifically in alpha/theta bands) in disrupting the conscious allocation of attentional resources toward others' emotional states?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.777Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the role of thalamocortical dysrhythmia (specifically in alpha/theta bands) in disrupting the conscious allocation of attentional resources toward others' emotional states?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.777Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Through which specific psychological mechanisms (e.g., emotional contagion, cognitive appraisal, perspective-taking failure) does disrupted thalamocortical feedback lead to the clinical symptom of empathy depletion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:18.777Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Through which specific psychological mechanisms (e.g., emotional contagion, cognitive appraisal, perspective-taking failure) does disrupted thalamocortical feedback lead to the clinical symptom of empathy depletion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza A virus, SARS-CoV-2, HIV, etc.) have been experimentally demonstrated to trigger ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza A virus, SARS-CoV-2, HIV, etc.) have been experimentally demonstrated to trigger ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or mechanisms (e.g., GPX4 inhibition, iron metabolism manipulation, lipid peroxidation promotion) are known to directly induce or modulate ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or mechanisms (e.g., GPX4 inhibition, iron metabolism manipulation, lipid peroxidation promotion) are known to directly induce or modulate ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses suppress ferroptosis (e.g., upregulation of antioxidant pathways, manipulation of iron storage, interference with lipid peroxidation) to evade this host defense mechanism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses suppress ferroptosis (e.g., upregulation of antioxidant pathways, manipulation of iron storage, interference with lipid peroxidation) to evade this host defense mechanism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as signaling molecules during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products (e.g., 4-HNE, MDA, oxidized phospholipids) act as signaling molecules during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do lipid peroxidation-derived signals influence immune cell recruitment, cytokine production, or antiviral gene expression in the context of viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:20.163Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do lipid peroxidation-derived signals influence immune cell recruitment, cytokine production, or antiviral gene expression in the context of viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.414Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.414Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.414Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.414Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.414Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or genetic elements enable viruses to evade ferroptosis as an antiviral defense?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.415Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral proteins or genetic elements enable viruses to evade ferroptosis as an antiviral defense?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.415Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter host lipid metabolism or antioxidant systems to prevent ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.415Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter host lipid metabolism or antioxidant systems to prevent ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.415Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or danger signals are produced as a result of lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:37.415Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or danger signals are produced as a result of lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct anatomical, physiological, and connectional properties of core (first-order) versus matrix (higher-order) thalamic neurons?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct anatomical, physiological, and connectional properties of core (first-order) versus matrix (higher-order) thalamic neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core thalamic neurons specifically influence the content of conscious experience (e.g., specific sensory features) through their focal, driver projections to primary sensory cortices?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core thalamic neurons specifically influence the content of conscious experience (e.g., specific sensory features) through their focal, driver projections to primary sensory cortices?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix thalamic neurons specifically influence the global state of consciousness (e.g., arousal, vigilance) through their diffuse, modulatory projections to superficial cortical layers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix thalamic neurons specifically influence the global state of consciousness (e.g., arousal, vigilance) through their diffuse, modulatory projections to superficial cortical layers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the evidence that synchronized, resonant activity in specific corticothalamocortical loops (e.g., in the gamma or alpha frequency bands) is necessary and/or sufficient for sustaining a discrete conscious percept?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the evidence that synchronized, resonant activity in specific corticothalamocortical loops (e.g., in the gamma or alpha frequency bands) is necessary and/or sufficient for sustaining a discrete conscious percept?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How could a dysregulation in the proposed thalamocortical mechanisms of state and content regulation lead to the specific affective and cognitive deficits observed in compassion fatigue and empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:33:40.710Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How could a dysregulation in the proposed thalamocortical mechanisms of state and content regulation lead to the specific affective and cognitive deficits observed in compassion fatigue and empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.434Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally shown to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.434Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally shown to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.434Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally shown to induce ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally shown to induce ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which viral proteins or replication mechanisms directly trigger lipid peroxidation leading to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which viral proteins or replication mechanisms directly trigger lipid peroxidation leading to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral mechanisms (e.g., protein expression, metabolic manipulation) inhibit GPX4 activity or glutathione synthesis to evade ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral mechanisms (e.g., protein expression, metabolic manipulation) inhibit GPX4 activity or glutathione synthesis to evade ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate iron metabolism (e.g., transferrin receptor expression, ferritinophagy) to prevent ferroptotic cell death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:00.435Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses modulate iron metabolism (e.g., transferrin receptor expression, ferritinophagy) to prevent ferroptotic cell death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific neural circuits in the anterior insula are consistently activated or deactivated in studies of empathy fatigue versus healthy empathy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific neural circuits in the anterior insula are consistently activated or deactivated in studies of empathy fatigue versus healthy empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does activity in the anterior cingulate cortex differ between states of functional compassion and states of compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does activity in the anterior cingulate cortex differ between states of functional compassion and states of compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the role of prefrontal regions (e.g., dorsolateral, ventromedial) in regulating empathic responses, and how does this regulation fail during fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the role of prefrontal regions (e.g., dorsolateral, ventromedial) in regulating empathic responses, and how does this regulation fail during fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.682Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does the capacity for emotional regulation (e.g., via cognitive reappraisal) change quantitatively in individuals experiencing empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.683Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does the capacity for emotional regulation (e.g., via cognitive reappraisal) change quantitatively in individuals experiencing empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.683Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "To what extent does the psychological mechanism of perspective-taking become impaired or biased during states of compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:07.683Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "To what extent does the psychological mechanism of perspective-taking become impaired or biased during states of compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.715Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally shown to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses (e.g., influenza, HIV, SARS-CoV-2, hepatitis viruses) have been experimentally shown to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms (e.g., via viral proteins, modulation of GPX4, iron metabolism, or lipid peroxidation) do viruses use to trigger or enhance ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms (e.g., via viral proteins, modulation of GPX4, iron metabolism, or lipid peroxidation) do viruses use to trigger or enhance ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific viral strategies (e.g., upregulation of antioxidant pathways, inhibition of lipid peroxidation, manipulation of iron homeostasis) do viruses evade ferroptosis to promote their own survival and replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific viral strategies (e.g., upregulation of antioxidant pathways, inhibition of lipid peroxidation, manipulation of iron homeostasis) do viruses evade ferroptosis to promote their own survival and replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the specific lipid peroxidation-derived signaling molecules (e.g., 4-hydroxynonenal, malondialdehyde, oxidized phospholipids) that act as immunomodulatory signals during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the specific lipid peroxidation-derived signaling molecules (e.g., 4-hydroxynonenal, malondialdehyde, oxidized phospholipids) that act as immunomodulatory signals during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do these lipid peroxidation products modulate immune cell responses (e.g., macrophage polarization, T-cell activation, cytokine production) during viral infections?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:19.716Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do these lipid peroxidation products modulate immune cell responses (e.g., macrophage polarization, T-cell activation, cytokine production) during viral infections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific neural activation patterns in the anterior insula, anterior cingulate cortex, and amygdala are associated with compassion fatigue versus empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific neural activation patterns in the anterior insula, anterior cingulate cortex, and amygdala are associated with compassion fatigue versus empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do emotional regulation failure, persistent empathetic arousal, and cognitive depletion differ in their contributions to compassion fatigue compared to general burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do emotional regulation failure, persistent empathetic arousal, and cognitive depletion differ in their contributions to compassion fatigue compared to general burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "In what ways do therapists, nurses, and physicians experience distinct psychological manifestations of compassion fatigue and empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "In what ways do therapists, nurses, and physicians experience distinct psychological manifestations of compassion fatigue and empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the measurable differences in neural correlates between clinical populations experiencing compassion fatigue and those experiencing general burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the measurable differences in neural correlates between clinical populations experiencing compassion fatigue and those experiencing general burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do the psychological mechanisms of compassion fatigue specifically impact clinical decision-making and patient care in healthcare professionals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:29.537Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do the psychological mechanisms of compassion fatigue specifically impact clinical decision-making and patient care in healthcare professionals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genetic elements are known to modulate ferroptosis pathways during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genetic elements are known to modulate ferroptosis pathways during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what molecular mechanisms do viruses inhibit or suppress ferroptosis to promote their survival?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what molecular mechanisms do viruses inhibit or suppress ferroptosis to promote their survival?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses adapt their replication strategies to avoid triggering ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses adapt their replication strategies to avoid triggering ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immune signaling pathways are activated by lipid peroxidation products during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:35.311Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immune signaling pathways are activated by lipid peroxidation products during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific brain regions and networks are consistently activated during empathy tasks in healthy individuals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific brain regions and networks are consistently activated during empathy tasks in healthy individuals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific brain regions and networks are consistently activated during compassion tasks in healthy individuals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which specific brain regions and networks are consistently activated during compassion tasks in healthy individuals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic stress in clinical caregivers alter functional connectivity within empathy-related neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic stress in clinical caregivers alter functional connectivity within empathy-related neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic stress in clinical caregivers alter functional connectivity within compassion-related neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does chronic stress in clinical caregivers alter functional connectivity within compassion-related neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct psychological symptoms that characterize compassion fatigue compared to general burnout in caregivers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:43.039Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct psychological symptoms that characterize compassion fatigue compared to general burnout in caregivers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in host cells, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis in host cells, and what viral proteins or pathways are involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been shown to modulate (suppress or enhance) ferroptosis in host cells, and what viral proteins or pathways are involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral strategies (e.g., manipulation of GPX4, system xc-, iron metabolism, or lipid peroxidation) are used to evade host ferroptosis as an antiviral defense?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific viral strategies (e.g., manipulation of GPX4, system xc-, iron metabolism, or lipid peroxidation) are used to evade host ferroptosis as an antiviral defense?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the specific lipid peroxidation-derived molecules (e.g., 4-HNE, MDA, oxidized phospholipids) that act as immunomodulatory signals during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the specific lipid peroxidation-derived molecules (e.g., 4-HNE, MDA, oxidized phospholipids) that act as immunomodulatory signals during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific receptors or signaling pathways (e.g., TLRs, inflammasomes, cytokine production) do lipid peroxidation products modulate the immune response during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:34:58.869Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through which specific receptors or signaling pathways (e.g., TLRs, inflammasomes, cytokine production) do lipid peroxidation products modulate the immune response during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural mechanisms in the thalamocortical system that are associated with the development of compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific neural mechanisms in the thalamocortical system that are associated with the development of compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological mechanisms mediate the relationship between thalamocortical activity and empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What psychological mechanisms mediate the relationship between thalamocortical activity and empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core (parvalbumin-positive) thalamic neurons influence emotional regulation in clinical populations with empathy-related disorders?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core (parvalbumin-positive) thalamic neurons influence emotional regulation in clinical populations with empathy-related disorders?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix (calbindin-positive) thalamic neurons affect empathic processing in clinical populations compared to core neurons?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do matrix (calbindin-positive) thalamic neurons affect empathic processing in clinical populations compared to core neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the relationship between thalamocortical resonant loop disruptions and the symptom of emotional exhaustion in burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:01.891Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the relationship between thalamocortical resonant loop disruptions and the symptom of emotional exhaustion in burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.046Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which viral proteins or viral replication processes directly interact with cellular iron metabolism pathways to increase labile iron pools?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.046Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which viral proteins or viral replication processes directly interact with cellular iron metabolism pathways to increase labile iron pools?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.046Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do specific viruses alter the expression or activity of key ferroptosis regulators (GPX4, SLC7A11, ACSL4) during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.046Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do specific viruses alter the expression or activity of key ferroptosis regulators (GPX4, SLC7A11, ACSL4) during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.046Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral mechanisms disrupt cellular antioxidant defenses (particularly glutathione synthesis and utilization) to promote lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.047Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral mechanisms disrupt cellular antioxidant defenses (particularly glutathione synthesis and utilization) to promote lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.047Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses evolve to suppress ferroptosis-associated danger signals (like oxidized phospholipids) that would otherwise alert the immune system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.047Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses evolve to suppress ferroptosis-associated danger signals (like oxidized phospholipids) that would otherwise alert the immune system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.047Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific oxidized lipid species generated during viral infection serve as immunomodulatory signals, and through which receptors do they act?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:17.047Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific oxidized lipid species generated during viral infection serve as immunomodulatory signals, and through which receptors do they act?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways are known to be dysregulated in conditions involving emotional exhaustion and depersonalization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways are known to be dysregulated in conditions involving emotional exhaustion and depersonalization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does thalamic dysfunction directly affect the neural circuits responsible for empathy and emotional regulation in the brain?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does thalamic dysfunction directly affect the neural circuits responsible for empathy and emotional regulation in the brain?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the evidence linking thalamocortical dysrhythmia to symptoms of compassion fatigue in clinical or experimental studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the evidence linking thalamocortical dysrhythmia to symptoms of compassion fatigue in clinical or experimental studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do the core (limbic) thalamic nuclei versus matrix (sensory/cognitive) thalamic nuclei differentially influence empathy networks like the insula and anterior cingulate cortex?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do the core (limbic) thalamic nuclei versus matrix (sensory/cognitive) thalamic nuclei differentially influence empathy networks like the insula and anterior cingulate cortex?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific interactions between the thalamus and amygdala have been observed in populations with impaired emotional regulation or empathy deficits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:21.620Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific interactions between the thalamus and amygdala have been observed in populations with impaired emotional regulation or empathy deficits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.712Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally shown to inhibit ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the specific mechanisms by which lipid peroxidation products modulate immune cell function during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What are the specific mechanisms by which lipid peroxidation products modulate immune cell function during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do lipid peroxidation signals affect cytokine production and immune signaling pathways in the context of viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do lipid peroxidation signals affect cytokine production and immune signaling pathways in the context of viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viral proteins have been identified to directly target and regulate key ferroptosis pathway components (e.g., GPX4, System Xc-, ACSL4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:36.713Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viral proteins have been identified to directly target and regulate key ferroptosis pathway components (e.g., GPX4, System Xc-, ACSL4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.100Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct roles of core (first-order) and matrix (higher-order) thalamic nuclei in processing emotional and empathic information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.100Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the distinct roles of core (first-order) and matrix (higher-order) thalamic nuclei in processing emotional and empathic information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does thalamocortical dysrhythmia specifically manifest in the theta-gamma coupling between thalamus and prefrontal/cingulate cortices during prolonged caregiving?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does thalamocortical dysrhythmia specifically manifest in the theta-gamma coupling between thalamus and prefrontal/cingulate cortices during prolonged caregiving?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which neurotransmitter systems (e.g., glutamate, GABA, dopamine) in thalamocortical circuits show altered function in individuals with clinically diagnosed compassion fatigue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which neurotransmitter systems (e.g., glutamate, GABA, dopamine) in thalamocortical circuits show altered function in individuals with clinically diagnosed compassion fatigue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the relationship between thalamic relay fidelity (signal-to-noise ratio) and behavioral measures of empathic accuracy in fatigued versus non-fatigued caregivers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What is the relationship between thalamic relay fidelity (signal-to-noise ratio) and behavioral measures of empathic accuracy in fatigued versus non-fatigued caregivers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Do structural or functional connectivity changes in specific thalamocortical tracts (e.g., mediodorsal thalamus to prefrontal cortex) predict the onset or severity of empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:38.101Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Do structural or functional connectivity changes in specific thalamocortical tracts (e.g., mediodorsal thalamus to prefrontal cortex) predict the onset or severity of empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.226Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.226Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific viral proteins or strategies do viruses inhibit or evade ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific viral proteins or strategies do viruses inhibit or evade ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptotic cell death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptotic cell death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products act as immunomodulatory signals during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:54.227Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific lipid peroxidation products act as immunomodulatory signals during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical pathways (e.g., mediodorsal thalamus to prefrontal cortex, pulvinar to parietal/temporal cortex) implicated in empathy and emotional processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What are the specific thalamocortical pathways (e.g., mediodorsal thalamus to prefrontal cortex, pulvinar to parietal/temporal cortex) implicated in empathy and emotional processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do alterations in thalamic gating or thalamocortical rhythmicity correlate with measurable symptoms of compassion fatigue (e.g., emotional numbing, reduced empathic concern)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do alterations in thalamic gating or thalamocortical rhythmicity correlate with measurable symptoms of compassion fatigue (e.g., emotional numbing, reduced empathic concern)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which psychological models of emotional regulation (e.g., Gross's process model) map onto the modulation of thalamocortical information flow?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which psychological models of emotional regulation (e.g., Gross's process model) map onto the modulation of thalamocortical information flow?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do cognitive appraisal processes (e.g., perspective-taking vs. personal distress) engage distinct thalamocortical networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do cognitive appraisal processes (e.g., perspective-taking vs. personal distress) engage distinct thalamocortical networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What neuroimaging or electrophysiological findings (e.g., fMRI, EEG, MEG) show disrupted thalamocortical connectivity in helping professionals with diagnosed empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:35:58.924Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What neuroimaging or electrophysiological findings (e.g., fMRI, EEG, MEG) show disrupted thalamocortical connectivity in helping professionals with diagnosed empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.884Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally demonstrated to either induce or be affected by ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.884Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific DNA viruses have been experimentally demonstrated to either induce or be affected by ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.884Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally demonstrated to either induce or be affected by ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.884Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific RNA viruses have been experimentally demonstrated to either induce or be affected by ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.884Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genomic elements have been identified as directly modulating key ferroptosis regulators (e.g., GPX4, SLC7A11, ACSL4)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.884Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What viral proteins or genomic elements have been identified as directly modulating key ferroptosis regulators (e.g., GPX4, SLC7A11, ACSL4)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.885Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter cellular lipid metabolism or iron homeostasis to prevent the accumulation of lethal lipid peroxides?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.885Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses alter cellular lipid metabolism or iron homeostasis to prevent the accumulation of lethal lipid peroxides?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.885Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific oxidized lipid species (e.g., 4-HNE, 15-HETE, oxPLs) produced during ferroptosis have been shown to activate or suppress innate immune signaling pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:15.885Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific oxidized lipid species (e.g., 4-HNE, 15-HETE, oxPLs) produced during ferroptosis have been shown to activate or suppress innate immune signaling pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.846Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways are implicated in empathy processing in healthy individuals?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.846Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What specific thalamocortical pathways are implicated in empathy processing in healthy individuals?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.846Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does prolonged exposure to patient suffering alter thalamocortical connectivity in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.846Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How does prolonged exposure to patient suffering alter thalamocortical connectivity in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.846Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What distinguishes the neural signatures of compassion fatigue from those of general stress or burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.846Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "What distinguishes the neural signatures of compassion fatigue from those of general stress or burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.847Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core thalamic neurons differ from matrix neurons in their connectivity with cortical emotion-regulation regions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.847Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "How do core thalamic neurons differ from matrix neurons in their connectivity with cortical emotion-regulation regions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.847Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which corticothalamocortical loops show the greatest dysregulation in clinicians experiencing empathy burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:16.847Z** - Topic: `The neural and psychological mechanisms of compassion fatigue and empathy burnout in clinical populations` - Query: "Which corticothalamocortical loops show the greatest dysregulation in clinicians experiencing empathy burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.082Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.082Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Which specific viruses have been experimentally demonstrated to induce ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.082Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What molecular mechanisms do specific viruses use to modulate ferroptosis pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific viral proteins or strategies do viruses inhibit or evade ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "Through what specific viral proteins or strategies do viruses inhibit or evade ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "How do viruses manipulate host antioxidant systems to prevent ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:36:36.083Z** - Topic: `"Ferroptosis as a host defense mechanism: viral evasion strategies and immunomodulatory lipid peroxidation signals"` - Query: "What specific immunomodulatory cytokines or chemokines are produced as a result of lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
