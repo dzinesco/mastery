@@ -10945,3 +10945,63 @@
 ⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (H3K4me3, H3K27ac, H3K9me3, etc.) are present at the SLC7A11 locus in mesenchymal HPV-negative HNSCC?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:45:00.408Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the specific role of xCT overexpression in regulating NRF2 signaling pathway activity in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.408Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the specific role of xCT overexpression in regulating NRF2 signaling pathway activity in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.409Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "How does xCT overexpression influence ATF4 pathway activation and its downstream targets in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.409Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "How does xCT overexpression influence ATF4 pathway activation and its downstream targets in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.409Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the relationship between xCT overexpression and YAP/TAZ signaling pathway regulation in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.409Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the relationship between xCT overexpression and YAP/TAZ signaling pathway regulation in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.409Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "How does xCT overexpression affect glutamine metabolism and create specific metabolic dependencies in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.410Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "How does xCT overexpression affect glutamine metabolism and create specific metabolic dependencies in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.410Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the impact of xCT overexpression on cystine metabolism and redox homeostasis in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:00.410Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the impact of xCT overexpression on cystine metabolism and redox homeostasis in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "Which specific upstream signaling pathways (NRF2, ATF4, YAP/TAZ) are activated in mesenchymal HPV-negative HNSCC tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "Which specific upstream signaling pathways (NRF2, ATF4, YAP/TAZ) are activated in mesenchymal HPV-negative HNSCC tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "How does the activation level of each pathway (NRF2, ATF4, YAP/TAZ) correlate with xCT expression in mesenchymal HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "How does the activation level of each pathway (NRF2, ATF4, YAP/TAZ) correlate with xCT expression in mesenchymal HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the relative glutamine consumption rate in xCT-overexpressing mesenchymal HNSCC cells compared to non-overexpressing cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the relative glutamine consumption rate in xCT-overexpressing mesenchymal HNSCC cells compared to non-overexpressing cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the relative cystine dependency and intracellular glutathione levels in xCT-overexpressing mesenchymal HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "What is the relative cystine dependency and intracellular glutathione levels in xCT-overexpressing mesenchymal HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "Which pharmacological inhibitors of NRF2, ATF4, or YAP/TAZ pathways most effectively reduce xCT expression and viability in these cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:45:22.815Z** - Topic: `"Identifying the upstream signaling pathways (e.g., NRF2, ATF4, YAP/TAZ) and metabolic dependencies (e.g., glutamine, cystine) that create a selective vulnerability in xCT-overexpressing mesenchymal HPV-negative HNSCC cells"` - Query: "Which pharmacological inhibitors of NRF2, ATF4, or YAP/TAZ pathways most effectively reduce xCT expression and viability in these cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
