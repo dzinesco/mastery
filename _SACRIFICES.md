@@ -10105,3 +10105,213 @@
 ⚰️  **2025-12-04T19:30:44.294Z** - Topic: `"Targeting xCT-mediated ferroptosis resistance in HPV-associated HNSCC via combination therapies with epigenetic drugs and GPX4 inhibitors"` - Query: "Do known HPV-altered signaling pathways (e.g., NRF2, p53, mTOR) mediate the observed changes in xCT expression and ferroptosis resistance in HNSCC?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic dependencies and pathways (e.g., glutathione synthesis, ferroptosis sensitivity, amino acid metabolism) in HPV-negative HNSCC subtypes, particularly those relevant to xCT (SLC7A11) function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic dependencies and pathways (e.g., glutathione synthesis, ferroptosis sensitivity, amino acid metabolism) in HPV-negative HNSCC subtypes, particularly those relevant to xCT (SLC7A11) function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genes or pathways, when inhibited or knocked down, show a synthetic lethal interaction with xCT inhibition in HPV-negative HNSCC cell lines or models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genes or pathways, when inhibited or knocked down, show a synthetic lethal interaction with xCT inhibition in HPV-negative HNSCC cell lines or models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do metabolic profiles (e.g., reliance on glycolysis, glutaminolysis, or antioxidant defenses) differ among HPV-negative HNSCC subtypes, and which subtypes are most vulnerable to xCT inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do metabolic profiles (e.g., reliance on glycolysis, glutaminolysis, or antioxidant defenses) differ among HPV-negative HNSCC subtypes, and which subtypes are most vulnerable to xCT inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What experimental models (e.g., cell lines, organoids, or in vivo systems) best represent the metabolic heterogeneity of HPV-negative HNSCC for testing synthetic lethal partners of xCT inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What experimental models (e.g., cell lines, organoids, or in vivo systems) best represent the metabolic heterogeneity of HPV-negative HNSCC for testing synthetic lethal partners of xCT inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Are there existing FDA-approved or investigational drugs that target potential synthetic lethal partners of xCT, and what is their efficacy in combination with xCT inhibitors in preclinical HPV-negative HNSCC studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:36.019Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Are there existing FDA-approved or investigational drugs that target potential synthetic lethal partners of xCT, and what is their efficacy in combination with xCT inhibitors in preclinical HPV-negative HNSCC studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the distinct metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are preferentially active or essential in HPV-negative HNSCC subtypes compared to HPV-positive HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the distinct metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are preferentially active or essential in HPV-negative HNSCC subtypes compared to HPV-positive HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific genes or pathways, when inhibited alongside xCT (the cystine/glutamate antiporter SLC7A11), result in selective cell death in HPV-negative HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific genes or pathways, when inhibited alongside xCT (the cystine/glutamate antiporter SLC7A11), result in selective cell death in HPV-negative HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do key metabolic dependencies (e.g., reliance on glutathione synthesis, NADPH production, or redox balance) differ between HPV-negative HNSCC subtypes (e.g., based on genetic drivers like TP53, CDKN2A, or NOTCH1 mutations)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do key metabolic dependencies (e.g., reliance on glutathione synthesis, NADPH production, or redox balance) differ between HPV-negative HNSCC subtypes (e.g., based on genetic drivers like TP53, CDKN2A, or NOTCH1 mutations)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What is the relationship between xCT inhibition and the activation or suppression of specific compensatory metabolic pathways in HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What is the relationship between xCT inhibition and the activation or suppression of specific compensatory metabolic pathways in HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.611Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do variations in metabolic dependencies across HPV-negative HNSCC subtypes correlate with differences in sensitivity to xCT-targeting therapies in preclinical or clinical settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:31:56.612Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do variations in metabolic dependencies across HPV-negative HNSCC subtypes correlate with differences in sensitivity to xCT-targeting therapies in preclinical or clinical settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.752Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are preferentially active or essential in HPV-negative HNSCC subtypes compared to normal tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.752Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are preferentially active or essential in HPV-negative HNSCC subtypes compared to normal tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific metabolic enzymes or transporters show increased expression or activity in HPV-negative HNSCC subtypes, and are they critical for cell survival or proliferation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific metabolic enzymes or transporters show increased expression or activity in HPV-negative HNSCC subtypes, and are they critical for cell survival or proliferation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What genetic or epigenetic alterations in HPV-negative HNSCC drive distinct metabolic dependencies, such as mutations in metabolic regulators or pathway activators?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What genetic or epigenetic alterations in HPV-negative HNSCC drive distinct metabolic dependencies, such as mutations in metabolic regulators or pathway activators?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genes or pathways become essential for cell survival when xCT (cystine/glutamate antiporter) is inhibited in HNSCC cell lines or models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genes or pathways become essential for cell survival when xCT (cystine/glutamate antiporter) is inhibited in HNSCC cell lines or models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Are there specific vulnerabilities in nucleotide synthesis, redox balance, or amino acid metabolism that emerge upon xCT inhibition in HNSCC, and which genes mediate these vulnerabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:19.753Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Are there specific vulnerabilities in nucleotide synthesis, redox balance, or amino acid metabolism that emerge upon xCT inhibition in HNSCC, and which genes mediate these vulnerabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.708Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are essential for the survival and proliferation of HPV-negative HNSCC cell lines or tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are essential for the survival and proliferation of HPV-negative HNSCC cell lines or tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific enzymes or transporters (e.g., GLUT1, GLS, xCT) show increased expression or activity in HPV-negative HNSCC compared to normal tissue or other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific enzymes or transporters (e.g., GLUT1, GLS, xCT) show increased expression or activity in HPV-negative HNSCC compared to normal tissue or other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What genetic or epigenetic alterations (e.g., mutations in metabolic regulators, copy number variations) drive metabolic reprogramming in HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What genetic or epigenetic alterations (e.g., mutations in metabolic regulators, copy number variations) drive metabolic reprogramming in HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which metabolic dependencies are shared across all HPV-negative HNSCC subtypes, and which are specific to individual subtypes (e.g., based on anatomical site or molecular classification)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which metabolic dependencies are shared across all HPV-negative HNSCC subtypes, and which are specific to individual subtypes (e.g., based on anatomical site or molecular classification)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do tumor microenvironment factors (e.g., hypoxia, nutrient availability) influence the metabolic dependencies of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:32:54.709Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do tumor microenvironment factors (e.g., hypoxia, nutrient availability) influence the metabolic dependencies of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.068Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are essential for the survival and proliferation of HPV-negative HNSCC cell lines or tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are essential for the survival and proliferation of HPV-negative HNSCC cell lines or tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific genes or enzymes within these metabolic pathways show increased expression or activity in HPV-negative HNSCC compared to normal tissue or other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific genes or enzymes within these metabolic pathways show increased expression or activity in HPV-negative HNSCC compared to normal tissue or other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What genetic or pharmacological perturbations of metabolic genes or pathways (e.g., knockdown, inhibition) lead to reduced viability or growth specifically in HPV-negative HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What genetic or pharmacological perturbations of metabolic genes or pathways (e.g., knockdown, inhibition) lead to reduced viability or growth specifically in HPV-negative HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genes or pathways, when inhibited or knocked down in combination with xCT (cystine/glutamate antiporter, SLC7A11) inhibition, cause synergistic cell death in HNSCC cell lines or models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genes or pathways, when inhibited or knocked down in combination with xCT (cystine/glutamate antiporter, SLC7A11) inhibition, cause synergistic cell death in HNSCC cell lines or models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do the metabolic profiles (e.g., nutrient uptake, metabolite levels, pathway activities) differ between HPV-positive and HPV-negative HNSCC tumors or cell lines under standard culture conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:16.069Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do the metabolic profiles (e.g., nutrient uptake, metabolite levels, pathway activities) differ between HPV-positive and HPV-negative HNSCC tumors or cell lines under standard culture conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.110Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the distinct metabolic profiles (e.g., glycolysis, glutaminolysis, fatty acid oxidation) of major HPV-negative HNSCC subtypes (e.g., basal, mesenchymal, classical)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.110Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the distinct metabolic profiles (e.g., glycolysis, glutaminolysis, fatty acid oxidation) of major HPV-negative HNSCC subtypes (e.g., basal, mesenchymal, classical)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.110Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which metabolic pathways show the highest essentiality or dependency scores in HPV-negative HNSCC subtypes based on CRISPR or RNAi screens?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.110Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which metabolic pathways show the highest essentiality or dependency scores in HPV-negative HNSCC subtypes based on CRISPR or RNAi screens?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.110Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the known synthetic lethal interactions with xCT (SLC7A11) inhibition in cancer, and which are relevant to HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.111Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the known synthetic lethal interactions with xCT (SLC7A11) inhibition in cancer, and which are relevant to HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.111Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How does xCT inhibition alter glutathione metabolism and reactive oxygen species (ROS) levels in HPV-negative HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.111Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How does xCT inhibition alter glutathione metabolism and reactive oxygen species (ROS) levels in HPV-negative HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.111Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What is the correlation between xCT expression, ferroptosis markers (e.g., lipid peroxidation), and subtype-specific vulnerability to ferroptosis in HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:35.111Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What is the correlation between xCT expression, ferroptosis markers (e.g., lipid peroxidation), and subtype-specific vulnerability to ferroptosis in HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.768Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are differentially active or essential in HPV-negative HNSCC subtypes compared to normal cells or HPV-positive HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.768Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What are the key metabolic pathways (e.g., glycolysis, glutaminolysis, fatty acid oxidation) that are differentially active or essential in HPV-negative HNSCC subtypes compared to normal cells or HPV-positive HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.768Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific metabolic genes or enzymes show increased expression or dependency in HPV-negative HNSCC subtypes, and how do these dependencies vary between subtypes (e.g., mesenchymal, basal, atypical)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.768Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which specific metabolic genes or enzymes show increased expression or dependency in HPV-negative HNSCC subtypes, and how do these dependencies vary between subtypes (e.g., mesenchymal, basal, atypical)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What is the role of xCT (cystine/glutamate antiporter) in maintaining redox balance and supporting proliferation in HPV-negative HNSCC subtypes, and how does its inhibition affect cell viability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "What is the role of xCT (cystine/glutamate antiporter) in maintaining redox balance and supporting proliferation in HPV-negative HNSCC subtypes, and how does its inhibition affect cell viability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genetic or metabolic vulnerabilities emerge upon xCT inhibition in HPV-negative HNSCC subtypes, and can these be targeted for synthetic lethality (e.g., dependencies on alternative antioxidant pathways or nucleotide synthesis)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "Which genetic or metabolic vulnerabilities emerge upon xCT inhibition in HPV-negative HNSCC subtypes, and can these be targeted for synthetic lethality (e.g., dependencies on alternative antioxidant pathways or nucleotide synthesis)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do metabolic adaptations, such as reliance on specific nutrient sources or mitochondrial function, differ among HPV-negative HNSCC subtypes, and do these differences influence responses to metabolic inhibitors like xCT blockers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do metabolic adaptations, such as reliance on specific nutrient sources or mitochondrial function, differ among HPV-negative HNSCC subtypes, and do these differences influence responses to metabolic inhibitors like xCT blockers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
