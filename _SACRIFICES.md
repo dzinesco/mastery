@@ -3070,3 +3070,138 @@
 ⚰️  **2025-12-04T18:24:24.149Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the functional interactions between core and matrix thalamic systems during different conscious states (wakefulness, sleep, anesthesia)?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise biochemical function of GPX4 in preventing lipid peroxidation within cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the precise biochemical function of GPX4 in preventing lipid peroxidation within cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does pharmacological or genetic inhibition of GPX4 activity lead to the accumulation of specific lipid hydroperoxides (e.g., phosphatidylethanolamine hydroperoxides)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does pharmacological or genetic inhibition of GPX4 activity lead to the accumulation of specific lipid hydroperoxides (e.g., phosphatidylethanolamine hydroperoxides)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream consequences of lethal lipid peroxidation on membrane integrity, organelle function (especially mitochondria), and cell viability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the downstream consequences of lethal lipid peroxidation on membrane integrity, organelle function (especially mitochondria), and cell viability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which cancer types (e.g., by tissue of origin or genetic profile) show the highest sensitivity to GPX4 inhibitors in preclinical models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.271Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which cancer types (e.g., by tissue of origin or genetic profile) show the highest sensitivity to GPX4 inhibitors in preclinical models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.272Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What genetic, metabolic, or signaling features (e.g., high PUFA lipid content, RAS mutations, iron dependency) correlate with heightened susceptibility to GPX4 inhibition-induced ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:36.272Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What genetic, metabolic, or signaling features (e.g., high PUFA lipid content, RAS mutations, iron dependency) correlate with heightened susceptibility to GPX4 inhibition-induced ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:44.227Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What are the distinct patterns of thalamocortical activation observed during compassion versus empathy tasks in neuroimaging studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:44.228Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core (first-order) and matrix (higher-order) thalamic neurons differentially contribute to the affective and cognitive components of empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:44.228Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "How do core (first-order) and matrix (higher-order) thalamic neurons differentially contribute to the affective, cognitive, and motivational components of compassion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:44.228Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "What is the evidence for specific thalamic nuclei (e.g., anterior, mediodorsal, pulvinar) having specialized roles in processing the 'other-oriented' concern of compassion versus the shared affect of empathy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:44.228Z** - Topic: `Compassion and empathy research: https://pmc.ncbi.nlm.nih.gov/articles/PMC10798632/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC4040103/ - neural mechanisms, psychological foundations, and clinical applications` - Query: "For which specific clinical disorders (e.g., psychopathy, autism, depression) are deficits in compassion or empathy most strongly linked to measurable dysfunction in thalamocortical circuitry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.184Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What specific viral proteins or replication processes are known to directly induce or sensitize cells to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.184Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What specific viral proteins or replication processes are known to directly induce or sensitize cells to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do host immune responses, such as cytokine release (e.g., IFN-γ, TNF-α), modulate cellular iron metabolism and lipid peroxidation to promote ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.185Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do host immune responses, such as cytokine release (e.g., IFN-γ, TNF-α), modulate cellular iron metabolism and lipid peroxidation to promote ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.186Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which key regulators of ferroptosis (e.g., GPX4, System Xc-, NRF2) are altered by viral infections, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.186Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which key regulators of ferroptosis (e.g., GPX4, System Xc-, NRF2) are altered by viral infections, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.186Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of mitochondrial dysfunction and reactive oxygen species (ROS) generation in virus-induced ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.186Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of mitochondrial dysfunction and reactive oxygen species (ROS) generation in virus-induced ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.186Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How does virus-induced ferroptosis in specific cell types (e.g., immune cells, epithelial cells) influence overall infection outcomes, pathogenesis, and immune defense?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:53.186Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How does virus-induced ferroptosis in specific cell types (e.g., immune cells, epithelial cells) influence overall infection outcomes, pathogenesis, and immune defense?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the specific enzymatic function of GPX4 in preventing lipid peroxidation under normal cellular conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What is the specific enzymatic function of GPX4 in preventing lipid peroxidation under normal cellular conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which downstream antioxidant pathways become compromised when GPX4 is inhibited, leading to ferroptosis initiation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which downstream antioxidant pathways become compromised when GPX4 is inhibited, leading to ferroptosis initiation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific polyunsaturated fatty acid (PUFA)-containing phospholipids that become primary targets of peroxidation after GPX4 inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "What are the specific polyunsaturated fatty acid (PUFA)-containing phospholipids that become primary targets of peroxidation after GPX4 inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity affect the balance between lipid hydroperoxide production and reduction in cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "How does the loss of GPX4 activity affect the balance between lipid hydroperoxide production and reduction in cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which iron-dependent enzymes (e.g., lipoxygenases, cytochrome P450 oxidases) become primary drivers of lipid peroxidation when GPX4 is inhibited?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:24:57.156Z** - Topic: `"Mechanisms of ferroptosis induction by GPX4 inhibition in cancer cells"` - Query: "Which iron-dependent enzymes (e.g., lipoxygenases, cytochrome P450 oxidases) become primary drivers of lipid peroxidation when GPX4 is inhibited?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., SARS-CoV-2, HIV, influenza, hepatitis) have been experimentally demonstrated to trigger ferroptosis in infected host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which specific viruses (e.g., SARS-CoV-2, HIV, influenza, hepatitis) have been experimentally demonstrated to trigger ferroptosis in infected host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do cytokines (e.g., interferons, TNF-α) released during viral infection directly regulate key ferroptosis markers like GPX4, SLC7A11, or ACSL4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do cytokines (e.g., interferons, TNF-α) released during viral infection directly regulate key ferroptosis markers like GPX4, SLC7A11, or ACSL4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of immune cells (e.g., macrophages, T cells) in promoting or inhibiting ferroptosis in virus-infected cells through direct contact or secreted factors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "What is the role of immune cells (e.g., macrophages, T cells) in promoting or inhibiting ferroptosis in virus-infected cells through direct contact or secreted factors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which viral proteins or replication processes directly interact with host iron metabolism proteins (e.g., ferritin, transferrin receptor, iron regulatory proteins) to disrupt iron homeostasis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "Which viral proteins or replication processes directly interact with host iron metabolism proteins (e.g., ferritin, transferrin receptor, iron regulatory proteins) to disrupt iron homeostasis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral infections activate or inhibit enzymes and pathways (e.g., LOXs, POR, FSP1) that drive lipid peroxidation, leading to ferroptotic cell death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:25:17.064Z** - Topic: `"Mechanisms of ferroptosis induction by viral infections and host immune responses"` - Query: "How do viral infections activate or inhibit enzymes and pathways (e.g., LOXs, POR, FSP1) that drive lipid peroxidation, leading to ferroptotic cell death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
