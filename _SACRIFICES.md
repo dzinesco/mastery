@@ -931,3 +931,78 @@
 ⚰️  **2025-12-04T07:02:41.225Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the key theological differences in depictions of Satan, suffering, or resurrection between the Coptic and Slavonic versions of the Testament of Job?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T07:03:21.822Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian manuscripts exist that contain material related to the Book of Job, and do any include non-canonical sections identifiable as the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:21.822Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "How do scholars distinguish between the canonical Book of Job and the pseudepigraphal Testament of Job in manuscript traditions and catalog descriptions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:21.822Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What is the textual relationship between the extant Greek manuscripts of the Testament of Job and the known Coptic fragments (e.g., from Papyrus Cologne 3221)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:21.822Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the specific variant readings, additions, or omissions when comparing the Coptic fragments of the Testament of Job to the Greek text?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:21.822Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "In the Coptic fragments of the Testament of Job, what modifications appear in themes like patience, demonology, the afterlife, or the role of Job's wife that differ from the Greek version?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:26.295Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What specific passages or references to Melchizedek appear in the extant works of Justin Martyr, and what exegetical points does Justin make about them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:26.296Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What specific passages or references to Melchizedek appear in the extant works of Irenaeus, and what exegetical points does Irenaeus make about them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:26.296Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What is the exact content of the Melchizedek passage in the 'Epistle to the Apostles' (Epistula Apostolorum), including its direct scriptural citations or allusions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:26.296Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What specific Christological argument (e.g., about priesthood, typology, or nature) does the 'Epistle to the Apostles' make using the figure of Melchizedek?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:26.296Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How did specific Gnostic texts or systems (e.g., as reported by heresiologists or in Nag Hammadi texts) interpret or utilize the figure of Melchizedek?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:46.243Z** - Topic: `Comparative epigenomic regulation of neuropeptide receptor expression across vertebrate brain regions` - Query: "What are the key neuropeptide receptor genes whose expression varies significantly across major brain regions (e.g., cortex, hypothalamus, amygdala) in representative vertebrate species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:46.243Z** - Topic: `Comparative epigenomic regulation of neuropeptide receptor expression across vertebrate brain regions` - Query: "How do DNA methylation patterns (e.g., CpG island methylation) differ in the promoter regions of these neuropeptide receptor genes across the same brain regions and species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:46.244Z** - Topic: `Comparative epigenomic regulation of neuropeptide receptor expression across vertebrate brain regions` - Query: "What histone modification profiles (e.g., H3K4me3, H3K27ac, H3K9me3) are associated with active versus repressed states of these receptor genes in different brain regions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:46.244Z** - Topic: `Comparative epigenomic regulation of neuropeptide receptor expression across vertebrate brain regions` - Query: "Are there conserved or species-specific non-coding regulatory elements (e.g., enhancers) that show differential chromatin accessibility (via ATAC-seq or similar) linked to neuropeptide receptor expression across brain regions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:46.244Z** - Topic: `Comparative epigenomic regulation of neuropeptide receptor expression across vertebrate brain regions` - Query: "How do transcription factor binding motifs and occupancy within these epigenetic landscapes correlate with neuropeptide receptor expression levels across brain regions and vertebrate lineages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:59.328Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian manuscript catalogues or apocrypha collections have been surveyed for evidence of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:59.328Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "Are there any references to the Testament of Job in Armenian patristic literature or historical sources?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:59.329Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What specific theological themes or narrative elements were added or expanded in the Coptic Testament of Job compared to the Greek?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:59.329Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What theological themes or narrative elements present in the Greek Testament of Job are omitted or reduced in the Coptic version?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:03:59.329Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "How does the overall textual structure (chapter order, narrative flow) of the Slavonic versions compare to the Greek and Coptic?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:04:12.949Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What specific passages in Irenaeus's writings (particularly 'Against Heresies') explicitly reference Melchizedek in arguments against Gnostic or Marcionite teachings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:04:12.950Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "In the Epistle to the Apostles, which chapters or verses mention Melchizedek, and what is the immediate literary and theological context of those references?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:04:12.950Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How does Justin Martyr's interpretation of Melchizedek's priesthood differ from the Christological typology presented in the Epistle to the Hebrews regarding order, duration, and purpose?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:04:12.950Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What polemical function does Irenaeus assign to Melchizedek in contrast to Gnostic or Marcionite cosmological or soteriological claims?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:04:12.950Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "Does the Epistle to the Apostles use Melchizedek to address ecclesiological, Christological, or apocalyptic themes, and what is the nature of that usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
