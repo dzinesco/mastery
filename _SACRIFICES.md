@@ -586,3 +586,63 @@
 ⚰️  **2025-12-04T06:54:20.330Z** - Topic: `The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.` - Query: "What literary or theological mechanisms facilitated the transmission of these concepts from Second Temple Judaism to early Christian writings?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:54:52.140Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What linguistic, theological, or stylistic markers in the Testament of Job are uniquely characteristic of Second Temple Jewish literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:52.140Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "Which passages in the Testament of Job contain explicit Christological references, New Testament allusions, or Christian theological concepts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:52.140Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What is the estimated proportion (by verse, chapter, or thematic unit) of Christian interpolations relative to the preserved Jewish material in the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:52.140Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "Do the Testament of Job and the Testament of the Twelve Patriarchs share distinctive literary structures, motifs, or vocabulary that suggest direct literary dependence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:52.140Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What do the community settings implied by each text (e.g., concerns, ethics, ritual references) suggest about their possible common authorship or shared milieu?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:26.471Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What are the major neuromodulatory nuclei (e.g., locus coeruleus, raphe nuclei, substantia nigra/VTA, basal forebrain cholinergic nuclei) in key vertebrate model species across major clades (e.g., agnathans, teleost fish, amphibians, reptiles, birds, mammals)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:26.471Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How do the primary efferent connectivity patterns (projection targets) of each major neuromodulatory nucleus compare across these vertebrate species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:26.471Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "Which connectivity features of neuromodulatory nuclei are phylogenetically conserved across all or most vertebrate lineages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:26.471Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "In which vertebrate lineages or species have specific neuromodulatory nuclei evolved divergent or novel connectivity patterns?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:26.471Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How do the identified conserved and divergent connectivity patterns correlate with known variations in behavioral or physiological adaptive control systems (e.g., arousal, attention, motivation, learning) across vertebrates?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:39.825Z** - Topic: `The reception and transformation of Enochic angelology and demonology (specifically the Book of Watchers, 1 Enoch 1-36) in the Pauline epistles and the Synoptic Gospels.` - Query: "What specific terminology, concepts, or narratives from the Book of Watchers (1 Enoch 1-36) appear in the Pauline epistles, and how are they adapted or reinterpreted?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:39.826Z** - Topic: `The reception and transformation of Enochic angelology and demonology (specifically the Book of Watchers, 1 Enoch 1-36) in the Pauline epistles and the Synoptic Gospels.` - Query: "How do the Synoptic Gospels (Matthew, Mark, Luke) incorporate or reflect themes from Enochic angelology and demonology, such as fallen angels, evil spirits, or the final judgment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:39.826Z** - Topic: `The reception and transformation of Enochic angelology and demonology (specifically the Book of Watchers, 1 Enoch 1-36) in the Pauline epistles and the Synoptic Gospels.` - Query: "In what ways does Paul's understanding of spiritual powers, principalities, and cosmic evil align with or diverge from the demonology presented in the Book of Watchers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:39.826Z** - Topic: `The reception and transformation of Enochic angelology and demonology (specifically the Book of Watchers, 1 Enoch 1-36) in the Pauline epistles and the Synoptic Gospels.` - Query: "How is the Enochic motif of the 'sons of God' (Watchers) and their illicit union with human women transformed in the Synoptic Gospels' treatment of supernatural beings and human-divine interaction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:39.826Z** - Topic: `The reception and transformation of Enochic angelology and demonology (specifically the Book of Watchers, 1 Enoch 1-36) in the Pauline epistles and the Synoptic Gospels.` - Query: "To what extent do Pauline and Synoptic eschatological expectations (e.g., judgment, resurrection, cosmic renewal) reflect the influence of Enochic traditions about angelic judgment and the fate of the wicked?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:40.821Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific linguistic markers (e.g., vocabulary, syntax, stylistic features) are statistically more prevalent in known Christian writings of the same period compared to Jewish texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:40.821Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "Which theological concepts or terms (e.g., Christology, ecclesiology, eschatology) in the Testament of Job are demonstrably anachronistic or alien to Second Temple Jewish thought?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:40.821Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What manuscript evidence or textual variants exist that show clear Christian additions or alterations in the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:40.821Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "Are there consistent narrative patterns or structural changes in passages suspected to be Christian interpolations compared to the surrounding Jewish content?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:55:40.821Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How do the Christian interpolations in the Testament of Job compare in content and style to known Christian redactions in other Jewish pseudepigrapha (e.g., Testaments of the Twelve Patriarchs)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
