@@ -541,3 +541,48 @@
 ⚰️  **2025-12-04T06:53:03.616Z** - Topic: `The Greek recensions and Christian interpolations in the Testament of the Twelve Patriarchs: textual archaeology to isolate the Jewish core from its later Christian redaction and reuse.` - Query: "What comparative evidence from other Jewish pseudepigrapha or early Christian literature helps identify the original Jewish stratum versus later Christian additions?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:53:55.840Z** - Topic: `"Evolutionary pressures on neuromodulatory systems: tracing the phylogenetic emergence of arousal, attention, and valence mechanisms as prerequisites for artificial affective cognition"` - Query: "What are the key neuromodulatory systems (e.g., involving dopamine, serotonin, norepinephrine) across major animal phyla, and how do their anatomical and functional features compare?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:55.841Z** - Topic: `"Evolutionary pressures on neuromodulatory systems: tracing the phylogenetic emergence of arousal, attention, and valence mechanisms as prerequisites for artificial affective cognition"` - Query: "How have specific evolutionary pressures (e.g., predation, foraging, social interaction) shaped the development of arousal and attention mechanisms in different lineages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:55.841Z** - Topic: `"Evolutionary pressures on neuromodulatory systems: tracing the phylogenetic emergence of arousal, attention, and valence mechanisms as prerequisites for artificial affective cognition"` - Query: "In which phylogenetic groups do integrated valence mechanisms (assigning positive/negative value to stimuli) first appear, and what neural architectures support them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:55.841Z** - Topic: `"Evolutionary pressures on neuromodulatory systems: tracing the phylogenetic emergence of arousal, attention, and valence mechanisms as prerequisites for artificial affective cognition"` - Query: "What is the minimal set of neuromodulatory functions observed in simpler organisms that could be considered a precursor to affective cognition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:53:55.841Z** - Topic: `"Evolutionary pressures on neuromodulatory systems: tracing the phylogenetic emergence of arousal, attention, and valence mechanisms as prerequisites for artificial affective cognition"` - Query: "How can principles derived from the phylogenetic emergence of these systems inform the design of artificial systems capable of adaptive, value-based decision-making?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:09.160Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific textual features (e.g., Christological references, New Testament allusions, theological concepts) in the Testament of Job are widely accepted by scholars as Christian interpolations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:09.160Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How do the proposed redactional layers in the Testament of Job (e.g., narrative expansions, theological additions) align chronologically with early Christian literary activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:09.161Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "In what ways do the Christian elements in the Testament of Job compare structurally and thematically to those in the Testament of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:09.161Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What methodological approaches (e.g., source criticism, redaction criticism, linguistic analysis) are most effective for distinguishing Jewish and Christian strata in both the Testament of Job and the Testament of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:09.161Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How does the function of 'testament literature' as a genre shape the nature and purpose of Christian interpolations across these texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:20.329Z** - Topic: `The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.` - Query: "What are the key characteristics and hierarchical structures of angels in Second Temple literature (e.g., Book of Enoch, Jubilees, Dead Sea Scrolls)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:20.329Z** - Topic: `The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.` - Query: "How are demons and evil spirits conceptualized in Second Temple literature, including their origins, nature, and activities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:20.329Z** - Topic: `The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.` - Query: "Which specific angelic and demonic figures or concepts from Second Temple literature appear directly in the New Testament texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:20.330Z** - Topic: `The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.` - Query: "How does the New Testament adapt or modify Second Temple angelological and demonological traditions in its cosmological framework?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:54:20.330Z** - Topic: `The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.` - Query: "What literary or theological mechanisms facilitated the transmission of these concepts from Second Temple Judaism to early Christian writings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
