@@ -796,3 +796,78 @@
 ⚰️  **2025-12-04T06:58:46.087Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "To what extent does the functional role of the Johannine Logos as the unique revealer of God (John 1:18) reflect or diverge from the role of the Enochic Son of Man as a revealer of heavenly wisdom and eschatological secrets?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T07:00:37.539Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the key differences in manuscript witnesses (date, quantity, completeness, variant readings) between the Greek, Armenian, and Coptic versions of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:37.539Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "How do the Armenian and Coptic translations differ from the Greek text in terms of theological emphasis, particularly regarding themes of suffering, patience, and the afterlife?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:37.539Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What specific textual additions, omissions, or modifications appear in the Armenian and Coptic traditions that are not present in the Greek manuscripts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:37.540Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "How do the Armenian and Coptic versions reflect their respective liturgical, cultural, or doctrinal contexts in their adaptation of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:37.540Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What do the translation techniques and linguistic choices in the Armenian and Coptic versions reveal about their transmission history and theological priorities compared to the Greek?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:48.330Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What are the defining gene regulatory networks (transcription factors, cis-regulatory elements, and target genes) that specify and maintain different neuromodulatory cell types (e.g., dopaminergic, serotonergic, cholinergic) across key vertebrate species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:48.331Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "How do the anatomical connectivity patterns (projection targets and input sources) of homologous neuromodulatory cell populations compare across vertebrate species (e.g., between zebrafish, mouse, and primate)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:48.331Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "To what extent are the gene regulatory networks of a given neuromodulatory cell type predictive of its conserved connectivity patterns across vertebrate evolution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:48.331Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "Which genetic changes (e.g., cis-regulatory evolution, gene duplications, novel gene expression) in the regulatory networks are associated with species-specific innovations in the connectivity or function of neuromodulatory systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:00:48.331Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "Can comparative analysis of transcriptomic and connectomic data reveal evolutionary principles governing the coupling or decoupling of molecular identity and circuit integration in neuromodulatory systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:18.107Z** - Topic: `The reception and transformation of the Melchizedek tradition (specifically from Genesis 14, Psalm 110, and 11Q13) in the Christology and eschatology of the Epistle to the Hebrews and the Johannine literature.` - Query: "How does the Epistle to Hebrews interpret the figure of Melchizedek from Genesis 14 and Psalm 110 to develop its Christology, particularly regarding Jesus' priesthood and its superiority to the Levitical priesthood?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:18.107Z** - Topic: `The reception and transformation of the Melchizedek tradition (specifically from Genesis 14, Psalm 110, and 11Q13) in the Christology and eschatology of the Epistle to the Hebrews and the Johannine literature.` - Query: "In what ways does the Epistle to Hebrews use the Melchizedek tradition (including possible allusions to 11Q13) to articulate its eschatological framework, such as the concept of a heavenly sanctuary and eternal redemption?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:18.107Z** - Topic: `The reception and transformation of the Melchizedek tradition (specifically from Genesis 14, Psalm 110, and 11Q13) in the Christology and eschatology of the Epistle to the Hebrews and the Johannine literature.` - Query: "How is the Melchizedek tradition (from Genesis 14, Psalm 110, and possibly 11Q13) reflected or transformed in the Johannine literature's Christology, particularly in the Gospel of John's portrayal of Jesus' identity and mission?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:18.107Z** - Topic: `The reception and transformation of the Melchizedek tradition (specifically from Genesis 14, Psalm 110, and 11Q13) in the Christology and eschatology of the Epistle to the Hebrews and the Johannine literature.` - Query: "Does the Johannine literature (especially the Gospel of John and the Book of Revelation) employ Melchizedekian motifs to express its eschatological themes, such as judgment, kingship, or eternal life, and if so, how?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:18.107Z** - Topic: `The reception and transformation of the Melchizedek tradition (specifically from Genesis 14, Psalm 110, and 11Q13) in the Christology and eschatology of the Epistle to the Hebrews and the Johannine literature.` - Query: "What are the key similarities and differences between the Epistle to Hebrews and the Johannine literature in their reception and transformation of the Melchizedek tradition, and what might account for these distinct theological emphases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:20.606Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian manuscripts of the Testament of Job exist, what are their dates, and what are their key textual variants?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:20.606Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Coptic manuscripts of the Testament of Job exist, what are their dates, and what are their key textual variants?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:20.606Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What specific passages in the Greek Testament of Job are proposed to be Christian interpolations, and what is the evidence for each?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:20.607Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "How does the content of the proposed Christian interpolations in the Greek Testament of Job compare to the hypothesized original Jewish Vorlage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:20.607Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "Do the Armenian and Coptic versions contain or omit the passages identified as Christian interpolations in the Greek text?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:32.756Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What are the core transcription factors and their regulatory interactions that define serotonergic neuron identity in the raphe across different vertebrate species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:32.756Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "How do the cis-regulatory elements (enhancers/promoters) of key neuromodulatory genes differ between species with divergent connectivity patterns?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:32.756Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What is the functional conservation of homologous neuromodulatory cell types (e.g., electrophysiological properties, neurotransmitter release) across vertebrate lineages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:32.756Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "How do species-specific neuromodulatory cell types connect to and modulate conserved neural circuits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:01:32.756Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What evolutionary changes in gene regulatory networks explain the emergence of novel axonal projections in homologous neuromodulatory cell types?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
