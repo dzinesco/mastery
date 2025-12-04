@@ -11719,3 +11719,33 @@
 ⚰️  **2025-12-04T19:58:21.996Z** - Topic: `"Identifying the specific lipid peroxidation substrates and enzymatic drivers that sustain ferroptosis resistance in xCT-depleted HNSCC cells under cystine starvation"` - Query: "What is the relative contribution of lipid uptake, remodeling, and peroxidation pathways to ferroptosis resistance when xCT function is compromised in HNSCC?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:59:02.054Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "What are the specific changes in central carbon metabolism (glycolysis, TCA cycle, PPP) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.054Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "What are the specific changes in central carbon metabolism (glycolysis, TCA cycle, PPP) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "Which glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, catalase, SOD, NRF2 targets) are upregulated in xCT-depleted HNSCC cells that survive ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "Which glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, catalase, SOD, NRF2 targets) are upregulated in xCT-depleted HNSCC cells that survive ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "How do xCT-depleted HNSCC cells reprogram lipid metabolism (e.g., fatty acid synthesis, desaturation, peroxidation) to maintain membrane integrity and avoid ferroptotic death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "How do xCT-depleted HNSCC cells reprogram lipid metabolism (e.g., fatty acid synthesis, desaturation, peroxidation) to maintain membrane integrity and avoid ferroptotic death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "What is the role of mitochondrial metabolism and electron transport chain adaptations in supporting redox balance in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "What is the role of mitochondrial metabolism and electron transport chain adaptations in supporting redox balance in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "Which compensatory nutrient uptake pathways (e.g., alternative cysteine sources, glutamine metabolism) are activated in xCT-depleted HNSCC cells to sustain proliferation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "Which compensatory nutrient uptake pathways (e.g., alternative cysteine sources, glutamine metabolism) are activated in xCT-depleted HNSCC cells to sustain proliferation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
