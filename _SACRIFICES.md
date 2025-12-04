@@ -466,3 +466,48 @@
 ⚰️  **2025-12-04T06:50:54.798Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What are the minimal neurobiological constraints (from thalamocortical, neuromodulatory, and connectome data) required to engineer artificial systems with phenomenological consciousness, rather than mere functional equivalence?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:51:44.396Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What specific mathematical formalisms (e.g., coupled oscillators, dynamic field theory, Bayesian inference) can best capture the spatiotemporal dynamics of interactions between neuromodulatory systems like acetylcholine, dopamine, and norepinephrine?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:44.396Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "How can the sequential activation patterns ('relay race') between neuromodulatory systems be represented as state transitions or phase transitions within a unified computational architecture?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:44.396Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What are the necessary and sufficient computational operations (e.g., divisive normalization, predictive coding, gating functions) that thalamocortical loops must perform to enable both integration (binding) and segregation (differentiation) of information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:44.397Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "How can the dimensionality reduction properties of thalamocortical loops be mathematically characterized and implemented in artificial systems to maintain information integrity while reducing representational complexity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:44.397Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What specific connectome-scale wiring features (e.g., hub-and-spoke architectures, small-world properties, hierarchical organization) most critically constrain the dynamics of thalamocortical and neuromodulatory systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:54.850Z** - Topic: `Jewish pseudepigrapha of the Second Temple period: textual transmission, apocalyptic themes, and their direct influence on early Christian thought and literature` - Query: "What are the key Jewish pseudepigraphical texts from the Second Temple period, and what is known about their original languages, dates of composition, and earliest surviving manuscripts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:54.850Z** - Topic: `Jewish pseudepigrapha of the Second Temple period: textual transmission, apocalyptic themes, and their direct influence on early Christian thought and literature` - Query: "How were these pseudepigraphical texts transmitted and preserved (e.g., through which communities, languages, and manuscript traditions) from the late Second Temple period through late antiquity and the Middle Ages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:54.850Z** - Topic: `Jewish pseudepigrapha of the Second Temple period: textual transmission, apocalyptic themes, and their direct influence on early Christian thought and literature` - Query: "What are the defining apocalyptic themes, motifs, and literary structures found in these texts (e.g., eschatology, angelology, cosmology, judgment, resurrection, and messianic figures)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:54.850Z** - Topic: `Jewish pseudepigrapha of the Second Temple period: textual transmission, apocalyptic themes, and their direct influence on early Christian thought and literature` - Query: "What specific textual parallels, allusions, or conceptual borrowings can be identified between these Jewish pseudepigrapha and the texts of the New Testament or other early Christian literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:51:54.850Z** - Topic: `Jewish pseudepigrapha of the Second Temple period: textual transmission, apocalyptic themes, and their direct influence on early Christian thought and literature` - Query: "How did early Christian authors and communities interpret, adopt, or transform the apocalyptic themes and narratives from Jewish pseudepigrapha to fit their theological frameworks and historical circumstances?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:16.082Z** - Topic: `Second Temple Jewish apocalyptic literature and its influence on early Christian eschatology` - Query: "What are the defining characteristics and major works of Second Temple Jewish apocalyptic literature (circa 200 BCE - 100 CE)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:16.082Z** - Topic: `Second Temple Jewish apocalyptic literature and its influence on early Christian eschatology` - Query: "How did early Christian texts (e.g., the Gospels, Pauline epistles, Revelation) directly incorporate or reference concepts, imagery, and themes from Jewish apocalyptic works?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:16.082Z** - Topic: `Second Temple Jewish apocalyptic literature and its influence on early Christian eschatology` - Query: "What specific eschatological concepts (e.g., resurrection, final judgment, messianic figures, the kingdom of God) were inherited by early Christians from Jewish apocalyptic thought?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:16.082Z** - Topic: `Second Temple Jewish apocalyptic literature and its influence on early Christian eschatology` - Query: "In what ways did early Christian eschatology adapt or diverge from its Jewish apocalyptic sources, particularly regarding the role and identity of Jesus?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:16.082Z** - Topic: `Second Temple Jewish apocalyptic literature and its influence on early Christian eschatology` - Query: "How did the socio-historical context of crisis and expectation in Second Temple Judaism shape both Jewish apocalypticism and the eschatological outlook of the early Christian movement?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
