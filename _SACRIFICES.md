@@ -9205,3 +9205,123 @@
 ⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral strategies (e.g., manipulation of de novo lipogenesis, fatty acid desaturation, lipid droplet biogenesis, or lipophagy) are employed to reduce the availability of peroxidizable lipids or enhance lipid repair?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What are the known GPX4-independent enzymatic systems (e.g., FSP1, GCH1/BH4, DHODH) that can detoxify lipid peroxides in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What are the known GPX4-independent enzymatic systems (e.g., FSP1, GCH1/BH4, DHODH) that can detoxify lipid peroxides in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (e.g., EBV, HPV, HBV, HCV, KSHV, HTLV-1) alter the expression or activity of these GPX4-independent antioxidant pathways in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (e.g., EBV, HPV, HBV, HCV, KSHV, HTLV-1) alter the expression or activity of these GPX4-independent antioxidant pathways in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What is the evidence linking these alternative lipid peroxide detoxification pathways to the survival, proliferation, or therapy resistance of oncovirus-associated cancer cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What is the evidence linking these alternative lipid peroxide detoxification pathways to the survival, proliferation, or therapy resistance of oncovirus-associated cancer cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there specific metabolic or signaling dependencies (e.g., on NAD(P)H, CoQ10, or ferroptosis suppressors) in oncovirus-transformed cells that make them reliant on these GPX4-independent pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there specific metabolic or signaling dependencies (e.g., on NAD(P)H, CoQ10, or ferroptosis suppressors) in oncovirus-transformed cells that make them reliant on these GPX4-independent pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Could pharmacological inhibition of these GPX4-independent pathways be a viable therapeutic strategy for treating malignancies caused by specific oncoviruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:09.176Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Could pharmacological inhibition of these GPX4-independent pathways be a viable therapeutic strategy for treating malignancies caused by specific oncoviruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.547Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What are the specific enzymes or systems (e.g., FSP1, GCH1/BH4, DHODH, etc.) that can compensate for GPX4 loss in lipid peroxide detoxification in normal cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.547Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What are the specific enzymes or systems (e.g., FSP1, GCH1/BH4, DHODH, etc.) that can compensate for GPX4 loss in lipid peroxide detoxification in normal cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.547Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (EBV, HPV, HBV, HCV, KSHV, HTLV-1) upregulate or activate cellular antioxidant transcription factors like NRF2?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.547Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (EBV, HPV, HBV, HCV, KSHV, HTLV-1) upregulate or activate cellular antioxidant transcription factors like NRF2?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.547Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What viral proteins from these oncoviruses directly interact with or modulate key antioxidant enzymes (e.g., GPX4, catalase, SOD)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.548Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What viral proteins from these oncoviruses directly interact with or modulate key antioxidant enzymes (e.g., GPX4, catalase, SOD)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.548Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses alter cellular lipid metabolism, specifically the synthesis or remodeling of polyunsaturated fatty acids (PUFAs), to reduce ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.548Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses alter cellular lipid metabolism, specifically the synthesis or remodeling of polyunsaturated fatty acids (PUFAs), to reduce ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.548Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Which viral oncogenes or proteins from these viruses directly inhibit or bypass key ferroptosis regulators (e.g., ACSL4, LOXs, or iron metabolism proteins)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:27.548Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Which viral oncogenes or proteins from these viruses directly inhibit or bypass key ferroptosis regulators (e.g., ACSL4, LOXs, or iron metabolism proteins)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.109Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What are the specific enzymes or molecular pathways, other than GPX4, that cells use to detoxify lipid peroxides?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.110Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What are the specific enzymes or molecular pathways, other than GPX4, that cells use to detoxify lipid peroxides?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.110Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (EBV, HPV, HBV, HCV, KSHV) alter cellular lipid metabolism to increase resistance to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.110Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (EBV, HPV, HBV, HCV, KSHV) alter cellular lipid metabolism to increase resistance to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.110Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Which viral proteins from oncoviruses directly interact with or regulate host lipid droplet formation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.110Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Which viral proteins from oncoviruses directly interact with or regulate host lipid droplet formation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.110Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What mechanisms do oncoviruses employ to hijack or manipulate host cholesterol metabolism pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.111Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What mechanisms do oncoviruses employ to hijack or manipulate host cholesterol metabolism pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.111Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there common viral strategies across different oncoviruses for interfering with lipid peroxide detoxification or lipid metabolism to evade ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:15:46.111Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there common viral strategies across different oncoviruses for interfering with lipid peroxide detoxification or lipid metabolism to evade ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What specific enzymes or systems (e.g., FSP1, GCH1/BH4, DHODH, etc.) have been identified as capable of reducing lipid peroxides independently of GPX4 in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What specific enzymes or systems (e.g., FSP1, GCH1/BH4, DHODH, etc.) have been identified as capable of reducing lipid peroxides independently of GPX4 in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (EBV, HPV, HBV, HCV, KSHV, HTLV-1) alter cellular lipid synthesis, uptake, or storage pathways to support viral replication or persistence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "How do oncoviruses (EBV, HPV, HBV, HCV, KSHV, HTLV-1) alter cellular lipid synthesis, uptake, or storage pathways to support viral replication or persistence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What direct or indirect evidence shows that oncoviruses modulate key ferroptosis regulators (e.g., SLC7A11, GPX4, ACSL4, NRF2) in infected or transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "What direct or indirect evidence shows that oncoviruses modulate key ferroptosis regulators (e.g., SLC7A11, GPX4, ACSL4, NRF2) in infected or transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.582Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Do oncoviruses induce changes in cellular lipid composition (e.g., PUFA levels, lipid droplet dynamics) that could affect susceptibility to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.583Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Do oncoviruses induce changes in cellular lipid composition (e.g., PUFA levels, lipid droplet dynamics) that could affect susceptibility to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.583Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there documented cases where viral proteins or oncogenes from these viruses directly interact with or regulate components of the ferroptosis defense machinery?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:16:06.583Z** - Topic: `"GPX4-independent lipid peroxide detoxification pathways in oncovirus-associated malignancies"` - Query: "Are there documented cases where viral proteins or oncogenes from these viruses directly interact with or regulate components of the ferroptosis defense machinery?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
