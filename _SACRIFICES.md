@@ -8995,3 +8995,213 @@
 ⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms (e.g., viral proteases, host tRNA modification, SECIS element interference, selenium uptake disruption) by which viral infections can dysregulate selenocysteine incorporation into selenoproteins like GPX4?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:12:37.918Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What are the known alternative lipid peroxide detoxification pathways that can compensate for GPX4 loss in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.918Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What are the known alternative lipid peroxide detoxification pathways that can compensate for GPX4 loss in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.918Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viral oncoproteins (e.g., from EBV, HPV, or hepatitis viruses) alter cellular metabolism or antioxidant systems to confer ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.918Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viral oncoproteins (e.g., from EBV, HPV, or hepatitis viruses) alter cellular metabolism or antioxidant systems to confer ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.918Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral transformation models (specific cell lines or experimental systems) show GPX4-independent ferroptosis resistance, and what are their common phenotypic features?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.918Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral transformation models (specific cell lines or experimental systems) show GPX4-independent ferroptosis resistance, and what are their common phenotypic features?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.919Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What transcriptional or epigenetic changes induced by viral transformation upregulate ferroptosis defense genes (e.g., FSP1, GCH1, DHODH) independent of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.919Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What transcriptional or epigenetic changes induced by viral transformation upregulate ferroptosis defense genes (e.g., FSP1, GCH1, DHODH) independent of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.919Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How does viral transformation affect iron metabolism (e.g., iron uptake, storage, or export) to reduce ferroptosis sensitivity without GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:37.919Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How does viral transformation affect iron metabolism (e.g., iron uptake, storage, or export) to reduce ferroptosis sensitivity without GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.976Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific lipid metabolism enzymes or pathways (e.g., ACSL4, LPCAT3, PUFA synthesis) are downregulated or bypassed in GPX4-independent ferroptosis resistance in non-viral contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific lipid metabolism enzymes or pathways (e.g., ACSL4, LPCAT3, PUFA synthesis) are downregulated or bypassed in GPX4-independent ferroptosis resistance in non-viral contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which antioxidant systems (e.g., FSP1, DHODH, GCH1 pathways) are upregulated or activated to compensate for GPX4 loss in non-viral ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which antioxidant systems (e.g., FSP1, DHODH, GCH1 pathways) are upregulated or activated to compensate for GPX4 loss in non-viral ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do different viruses alter host cell lipid metabolism (e.g., fatty acid synthesis, desaturation, or peroxidation) to prevent lethal lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do different viruses alter host cell lipid metabolism (e.g., fatty acid synthesis, desaturation, or peroxidation) to prevent lethal lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What viral mechanisms exist to enhance or hijack host antioxidant systems (e.g., glutathione, thioredoxin, or CoQ10 pathways) to suppress ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What viral mechanisms exist to enhance or hijack host antioxidant systems (e.g., glutathione, thioredoxin, or CoQ10 pathways) to suppress ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Are there specific examples of oncogenic viruses (e.g., HPV, EBV, HBV) that induce cellular transformation while conferring ferroptosis resistance via non-GPX4 pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:12:55.977Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Are there specific examples of oncogenic viruses (e.g., HPV, EBV, HBV) that induce cellular transformation while conferring ferroptosis resistance via non-GPX4 pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.384Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific lipid metabolism enzymes or pathways are upregulated or downregulated in virally transformed cells to confer ferroptosis resistance independent of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.384Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific lipid metabolism enzymes or pathways are upregulated or downregulated in virally transformed cells to confer ferroptosis resistance independent of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.384Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral proteins directly interact with or modify key ferroptosis regulators (e.g., ACSL4, FSP1, SLC7A11, or iron metabolism proteins) in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral proteins directly interact with or modify key ferroptosis regulators (e.g., ACSL4, FSP1, SLC7A11, or iron metabolism proteins) in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses alter cellular lipid composition (e.g., PUFA levels, lipid peroxidation substrates, or ether lipids) to inhibit ferroptosis execution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses alter cellular lipid composition (e.g., PUFA levels, lipid peroxidation substrates, or ether lipids) to inhibit ferroptosis execution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What viral mechanisms enhance antioxidant defenses (e.g., via NRF2 activation, glutathione synthesis, or CoQ10 pathways) to suppress lipid peroxidation in transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What viral mechanisms enhance antioxidant defenses (e.g., via NRF2 activation, glutathione synthesis, or CoQ10 pathways) to suppress lipid peroxidation in transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral pathways modulate membrane repair systems (e.g., ESCRT-III) or organelle integrity (e.g., mitochondria) to counteract ferroptosis-induced damage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:18.385Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral pathways modulate membrane repair systems (e.g., ESCRT-III) or organelle integrity (e.g., mitochondria) to counteract ferroptosis-induced damage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific cellular pathways or genes (e.g., FSP1, GCH1, DHODH) have been experimentally validated to confer ferroptosis resistance independently of GPX4 in non-viral biological systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific cellular pathways or genes (e.g., FSP1, GCH1, DHODH) have been experimentally validated to confer ferroptosis resistance independently of GPX4 in non-viral biological systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses (e.g., DNA viruses like herpesviruses, RNA viruses like hepatitis C virus) alter host cell lipid synthesis, uptake, or peroxidation pathways during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses (e.g., DNA viruses like herpesviruses, RNA viruses like hepatitis C virus) alter host cell lipid synthesis, uptake, or peroxidation pathways during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What evidence exists in the literature that viral oncoproteins (e.g., from HPV, EBV, HBV) directly or indirectly modulate ferroptosis sensitivity in transformed or infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What evidence exists in the literature that viral oncoproteins (e.g., from HPV, EBV, HBV) directly or indirectly modulate ferroptosis sensitivity in transformed or infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.077Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Are there documented instances where viral infection leads to changes in cellular lipid droplet metabolism, phospholipid composition, or antioxidant defenses that could affect ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.078Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Are there documented instances where viral infection leads to changes in cellular lipid droplet metabolism, phospholipid composition, or antioxidant defenses that could affect ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.078Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Have any studies specifically demonstrated that viral transformation or latency programs confer resistance to ferroptosis inducers (e.g., erastin, RSL3) compared to non-transformed counterparts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:36.078Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Have any studies specifically demonstrated that viral transformation or latency programs confer resistance to ferroptosis inducers (e.g., erastin, RSL3) compared to non-transformed counterparts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.637Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific viral proteins or viral gene products have been identified that confer GPX4-independent ferroptosis resistance in transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific viral proteins or viral gene products have been identified that confer GPX4-independent ferroptosis resistance in transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which cellular lipid metabolic pathways (e.g., fatty acid synthesis, desaturation, or peroxidation) are commonly altered by viruses to inhibit ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which cellular lipid metabolic pathways (e.g., fatty acid synthesis, desaturation, or peroxidation) are commonly altered by viruses to inhibit ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses modulate the SREBP-SCAP complex to alter lipid metabolism and promote ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses modulate the SREBP-SCAP complex to alter lipid metabolism and promote ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What is the mechanistic role of ACSL3 in viral-mediated ferroptosis resistance, and how is its expression or activity regulated by viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What is the mechanistic role of ACSL3 in viral-mediated ferroptosis resistance, and how is its expression or activity regulated by viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses promote the formation or utilization of lipid droplets to sequester peroxidizable lipids and prevent ferroptotic cell death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:13:53.638Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses promote the formation or utilization of lipid droplets to sequester peroxidizable lipids and prevent ferroptotic cell death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific viral proteins or viral gene products have been shown to confer ferroptosis resistance in transformed cells independent of GPX4 expression or activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What specific viral proteins or viral gene products have been shown to confer ferroptosis resistance in transformed cells independent of GPX4 expression or activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses modulate the SREBP-SCAP pathway to alter cellular lipid composition and confer resistance to lipid peroxidation in ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses modulate the SREBP-SCAP pathway to alter cellular lipid composition and confer resistance to lipid peroxidation in ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What is the mechanistic role of ACSL3 (or other ACSL isoforms) in viral-mediated rewiring of lipid metabolism to prevent ferroptosis execution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What is the mechanistic role of ACSL3 (or other ACSL isoforms) in viral-mediated rewiring of lipid metabolism to prevent ferroptosis execution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses promote lipid droplet biogenesis or alter lipid droplet dynamics to sequester peroxidizable lipids and protect infected cells from ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:10.999Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viruses promote lipid droplet biogenesis or alter lipid droplet dynamics to sequester peroxidizable lipids and protect infected cells from ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:11.000Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Through what specific mechanisms does viral manipulation of cholesterol metabolism (e.g., synthesis, trafficking, or esterification) inhibit ferroptotic cell death in infected or transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:11.000Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Through what specific mechanisms does viral manipulation of cholesterol metabolism (e.g., synthesis, trafficking, or esterification) inhibit ferroptotic cell death in infected or transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.879Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What are the known GPX4-independent antioxidant systems (e.g., FSP1, DHODH, GCH1 pathways) and which ones show altered activity in virally transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.879Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What are the known GPX4-independent antioxidant systems (e.g., FSP1, DHODH, GCH1 pathways) and which ones show altered activity in virally transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which specific viruses (e.g., EBV, HPV, HBV, HCV, KSHV) have been experimentally shown to confer ferroptosis resistance in their transformed or infected cell models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which specific viruses (e.g., EBV, HPV, HBV, HCV, KSHV) have been experimentally shown to confer ferroptosis resistance in their transformed or infected cell models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viral oncoproteins or viral gene products directly or indirectly modulate the expression or activity of key ferroptosis regulators (e.g., ACSL4, SCD1, LOXs, NRF2) in transformed cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "How do viral oncoproteins or viral gene products directly or indirectly modulate the expression or activity of key ferroptosis regulators (e.g., ACSL4, SCD1, LOXs, NRF2) in transformed cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What alterations in lipid composition (e.g., PUFA-PL vs. MUFA-PL ratio, plasmalogen levels, lipid peroxidation products) are observed in virally transformed cells resistant to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "What alterations in lipid composition (e.g., PUFA-PL vs. MUFA-PL ratio, plasmalogen levels, lipid peroxidation products) are observed in virally transformed cells resistant to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral strategies (e.g., manipulation of de novo lipogenesis, fatty acid desaturation, lipid droplet biogenesis, or lipophagy) are employed to reduce the availability of peroxidizable lipids or enhance lipid repair?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:14:29.880Z** - Topic: `"GPX4-independent ferroptosis resistance mechanisms in virally transformed cells"` - Query: "Which viral strategies (e.g., manipulation of de novo lipogenesis, fatty acid desaturation, lipid droplet biogenesis, or lipophagy) are employed to reduce the availability of peroxidizable lipids or enhance lipid repair?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
