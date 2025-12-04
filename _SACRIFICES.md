@@ -5755,3 +5755,1563 @@
 ⚰️  **2025-12-04T18:39:51.597Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical oscillatory patterns (e.g., alpha, theta, gamma) correlate with resilience development during repeated exposure to trauma narratives?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits are most consistently associated with observed changes in vicarious resilience or post-traumatic growth in neuroimaging studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits are most consistently associated with observed changes in vicarious resilience or post-traumatic growth in neuroimaging studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do measures of thalamic functional connectivity (e.g., with the default mode network or salience network) correlate with validated self-report scales of vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do measures of thalamic functional connectivity (e.g., with the default mode network or salience network) correlate with validated self-report scales of vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "In trauma-exposed versus non-exposed clinicians, what are the quantitative differences in resting-state thalamocortical oscillatory activity (e.g., alpha, theta, or gamma band power)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "In trauma-exposed versus non-exposed clinicians, what are the quantitative differences in resting-state thalamocortical oscillatory activity (e.g., alpha, theta, or gamma band power)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the nature and strength of the functional coupling between the prefrontal cortex (especially the dorsolateral and ventromedial regions) and the thalamus during tasks involving empathy or emotional regulation in clinicians showing high vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the nature and strength of the functional coupling between the prefrontal cortex (especially the dorsolateral and ventromedial regions) and the thalamus during tasks involving empathy or emotional regulation in clinicians showing high vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the limbic system's (particularly the amygdala and hippocampus) reactivity to trauma-related cues interact with thalamocortical filtering or gating mechanisms to predict outcomes of vicarious resilience versus distress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:13.528Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the limbic system's (particularly the amygdala and hippocampus) reactivity to trauma-related cues interact with thalamocortical filtering or gating mechanisms to predict outcomes of vicarious resilience versus distress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly regulate lipid peroxidation during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly regulate lipid peroxidation during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do ISGs modulate the activity or expression of key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11) in the context of antiviral innate immunity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do ISGs modulate the activity or expression of key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11) in the context of antiviral innate immunity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the mechanistic link between ISG-mediated lipid peroxidation and the disruption of viral membrane integrity for specific enveloped viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the mechanistic link between ISG-mediated lipid peroxidation and the disruption of viral membrane integrity for specific enveloped viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do different viral families (e.g., RNA vs. DNA viruses, enveloped vs. non-enveloped) trigger distinct ISG-dependent ferroptotic pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do different viral families (e.g., RNA vs. DNA viruses, enveloped vs. non-enveloped) trigger distinct ISG-dependent ferroptotic pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does the induction of ferroptosis via ISGs balance antiviral defense with potential host cell damage or immunopathology?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:25.549Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does the induction of ferroptosis via ISGs balance antiviral defense with potential host cell damage or immunopathology?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical functional connectivity patterns (e.g., thalamic nuclei to cortical regions) associated with vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical functional connectivity patterns (e.g., thalamic nuclei to cortical regions) associated with vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do neurobiological markers of thalamocortical function (e.g., thalamic GABA/glutamate levels, cortical gamma oscillations) differ between clinicians showing vicarious resilience versus those with burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do neurobiological markers of thalamocortical function (e.g., thalamic GABA/glutamate levels, cortical gamma oscillations) differ between clinicians showing vicarious resilience versus those with burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What distinct thalamocortical activation or connectivity patterns differentiate clinicians experiencing secondary traumatic stress from those demonstrating post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What distinct thalamocortical activation or connectivity patterns differentiate clinicians experiencing secondary traumatic stress from those demonstrating post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the limbic system (particularly amygdala-hippocampus circuitry) interact with thalamocortical pathways during vicarious trauma processing in resilient clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the limbic system (particularly amygdala-hippocampus circuitry) interact with thalamocortical pathways during vicarious trauma processing in resilient clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of prefrontal cortex-thalamus connectivity in regulating emotional responses and facilitating adaptive meaning-making in clinicians exposed to client trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:34.054Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of prefrontal cortex-thalamus connectivity in regulating emotional responses and facilitating adaptive meaning-making in clinicians exposed to client trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically disrupt the lipid bilayer of enveloped viruses to reduce viral infectivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically disrupt the lipid bilayer of enveloped viruses to reduce viral infectivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What molecular mechanisms do viruses employ to inhibit or bypass host ferroptosis pathways (e.g., viral proteins that upregulate GPX4 or suppress lipid peroxidation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What molecular mechanisms do viruses employ to inhibit or bypass host ferroptosis pathways (e.g., viral proteins that upregulate GPX4 or suppress lipid peroxidation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific ISGs that sensitize or protect infected cells from ferroptosis in a virus-type-dependent manner (e.g., RNA vs. DNA viruses)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific ISGs that sensitize or protect infected cells from ferroptosis in a virus-type-dependent manner (e.g., RNA vs. DNA viruses)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.265Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viral evasion strategies targeting ferroptosis intersect with other cell death pathways (e.g., apoptosis, pyroptosis) during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:43.266Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viral evasion strategies targeting ferroptosis intersect with other cell death pathways (e.g., apoptosis, pyroptosis) during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.253Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct patterns of thalamocortical oscillatory activity (e.g., alpha, theta, gamma bands) observed in trauma-exposed clinicians who exhibit high levels of vicarious resilience compared to those who do not?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.253Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct patterns of thalamocortical oscillatory activity (e.g., alpha, theta, gamma bands) observed in trauma-exposed clinicians who exhibit high levels of vicarious resilience compared to those who do not?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.253Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the firing rate and synchrony of core (first-order, specific) thalamic neurons change when clinicians are exposed to traumatic client material, and how does this differ from their baseline state?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.253Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the firing rate and synchrony of core (first-order, specific) thalamic neurons change when clinicians are exposed to traumatic client material, and how does this differ from their baseline state?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.254Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the firing rate and synchrony of matrix (higher-order, non-specific) thalamic neurons change when clinicians are exposed to traumatic client material, and how does this differ from their baseline state?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.254Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the firing rate and synchrony of matrix (higher-order, non-specific) thalamic neurons change when clinicians are exposed to traumatic client material, and how does this differ from their baseline state?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.255Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the differential changes in functional connectivity between the thalamus and the prefrontal cortex (e.g., dorsolateral PFC, ventromedial PFC) during states of vicarious trauma versus during the integration of post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.255Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the differential changes in functional connectivity between the thalamus and the prefrontal cortex (e.g., dorsolateral PFC, ventromedial PFC) during states of vicarious trauma versus during the integration of post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.255Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the differential changes in functional connectivity between the thalamus and key limbic structures (e.g., amygdala, hippocampus) during states of vicarious trauma versus during the integration of post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:40:54.255Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the differential changes in functional connectivity between the thalamus and key limbic structures (e.g., amygdala, hippocampus) during states of vicarious trauma versus during the integration of post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.302Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.302Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.302Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter cellular lipid metabolism or peroxidation to influence ferroptosis sensitivity, and which ISGs mediate these changes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.302Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter cellular lipid metabolism or peroxidation to influence ferroptosis sensitivity, and which ISGs mediate these changes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.302Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and fusion capacity of viral envelopes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.303Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and fusion capacity of viral envelopes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.303Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in infected cells affect the stability, assembly, or release of viral particles and their subsequent infectivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.303Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in infected cells affect the stability, assembly, or release of viral particles and their subsequent infectivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.303Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific innate immune receptors (e.g., TLRs, RLRs, cGAS-STING) and downstream signaling molecules (e.g., IRFs, NF-κB) is ferroptosis induced upon viral detection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:04.303Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific innate immune receptors (e.g., TLRs, RLRs, cGAS-STING) and downstream signaling molecules (e.g., IRFs, NF-κB) is ferroptosis induced upon viral detection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the current neurobiological understanding of thalamocortical function in typical, non-clinician populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the current neurobiological understanding of thalamocortical function in typical, non-clinician populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How is vicarious resilience operationally defined and measured in clinicians exposed to trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How is vicarious resilience operationally defined and measured in clinicians exposed to trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits have been implicated in emotional regulation and empathy in neuroimaging studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits have been implicated in emotional regulation and empathy in neuroimaging studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.271Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What empirical evidence exists showing altered thalamocortical connectivity (e.g., via fMRI, DTI) in clinicians with high vs. low trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.272Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What empirical evidence exists showing altered thalamocortical connectivity (e.g., via fMRI, DTI) in clinicians with high vs. low trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.272Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What longitudinal neuroimaging studies document structural or functional changes in the thalamocortical system following periods of clinical trauma work?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:13.272Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What longitudinal neuroimaging studies document structural or functional changes in the thalamocortical system following periods of clinical trauma work?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.525Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.525Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter cellular lipid metabolism to increase susceptibility to ferroptosis, and which ISGs mediate these metabolic changes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter cellular lipid metabolism to increase susceptibility to ferroptosis, and which ISGs mediate these metabolic changes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the quantitative relationship between lipid peroxidation levels and the structural integrity of viral envelopes (e.g., membrane fluidity, permeability, or disruption) across different virus families?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the quantitative relationship between lipid peroxidation levels and the structural integrity of viral envelopes (e.g., membrane fluidity, permeability, or disruption) across different virus families?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation of viral membranes specifically affect viral entry, replication, or assembly processes, and consequently reduce infectivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation of viral membranes specifically affect viral entry, replication, or assembly processes, and consequently reduce infectivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific innate immune receptors (e.g., TLRs, RLRs, cGAS-STING) and downstream signaling molecules are ferroptosis executors (like ACSL4) or inhibitors (like GPX4) transcriptionally or post-translationally regulated upon viral detection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:24.526Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific innate immune receptors (e.g., TLRs, RLRs, cGAS-STING) and downstream signaling molecules are ferroptosis executors (like ACSL4) or inhibitors (like GPX4) transcriptionally or post-translationally regulated upon viral detection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical functional connectivity patterns observed in clinicians who demonstrate high levels of vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical functional connectivity patterns observed in clinicians who demonstrate high levels of vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do trauma-exposed clinicians differ from non-exposed clinicians in terms of thalamic relay efficiency and cortical sensory gating?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do trauma-exposed clinicians differ from non-exposed clinicians in terms of thalamic relay efficiency and cortical sensory gating?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurochemical changes (e.g., in glutamate, GABA, or BDNF) occur in the thalamocortical system of clinicians experiencing vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurochemical changes (e.g., in glutamate, GABA, or BDNF) occur in the thalamocortical system of clinicians experiencing vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do corticothalamocortical feedback loops modulate emotional regulation and cognitive reappraisal in clinicians undergoing post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do corticothalamocortical feedback loops modulate emotional regulation and cognitive reappraisal in clinicians undergoing post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of thalamic nuclei (particularly the mediodorsal and anterior nuclei) in integrating traumatic material and facilitating adaptive resilience processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:32.378Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of thalamic nuclei (particularly the mediodorsal and anterior nuclei) in integrating traumatic material and facilitating adaptive resilience processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.352Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.353Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.353Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter the structure and permeability of viral envelopes or capsids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.353Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter the structure and permeability of viral envelopes or capsids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.353Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What measurable impact does lipid peroxidation have on viral entry, replication, or stability in vitro and in vivo?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.353Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What measurable impact does lipid peroxidation have on viral entry, replication, or stability in vitro and in vivo?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.353Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins or mechanisms have been identified that directly inhibit key ferroptosis executors (e.g., GPX4) or sensors (e.g., p53) to evade this host defense?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.354Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins or mechanisms have been identified that directly inhibit key ferroptosis executors (e.g., GPX4) or sensors (e.g., p53) to evade this host defense?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.354Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do any viruses manipulate host lipid metabolism or antioxidant systems (e.g., via microRNAs or viral enzymes) to prevent ferroptosis-induced cell death and promote viral spread?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:39.354Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do any viruses manipulate host lipid metabolism or antioxidant systems (e.g., via microRNAs or viral enzymes) to prevent ferroptosis-induced cell death and promote viral spread?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct roles of core (first-order) and matrix (higher-order) thalamic neurons in processing trauma-related information in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct roles of core (first-order) and matrix (higher-order) thalamic neurons in processing trauma-related information in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical oscillations (e.g., alpha, gamma) specifically modulate emotional and cognitive processing during vicarious trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical oscillations (e.g., alpha, gamma) specifically modulate emotional and cognitive processing during vicarious trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Which thalamic nuclei and their cortical projections are most associated with positive adaptation (growth) versus distress symptoms in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Which thalamic nuclei and their cortical projections are most associated with positive adaptation (growth) versus distress symptoms in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.885Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical resonant loops interact with prefrontal-limbic circuits to support emotion regulation strategies like cognitive reappraisal?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.886Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical resonant loops interact with prefrontal-limbic circuits to support emotion regulation strategies like cognitive reappraisal?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.886Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neuroplastic changes in thalamocortical connectivity correlate with increases in resilience factors (e.g., self-efficacy, meaning-making) following repeated trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:51.886Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neuroplastic changes in thalamocortical connectivity correlate with increases in resilience factors (e.g., self-efficacy, meaning-making) following repeated trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate key ferroptosis pathway components (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate key ferroptosis pathway components (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation alter the physical properties (e.g., fluidity, permeability) of viral envelopes or capsids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation alter the physical properties (e.g., fluidity, permeability) of viral envelopes or capsids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What viral proteins or non-coding RNAs directly interact with and inhibit core ferroptosis regulators (e.g., GPX4, system xc-) to evade cell death?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What viral proteins or non-coding RNAs directly interact with and inhibit core ferroptosis regulators (e.g., GPX4, system xc-) to evade cell death?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do specific ISGs promote or suppress ferroptosis by modulating intracellular iron metabolism (e.g., iron uptake, storage, or export) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do specific ISGs promote or suppress ferroptosis by modulating intracellular iron metabolism (e.g., iron uptake, storage, or export) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses manipulate host lipid metabolism or antioxidant systems to counteract ferroptosis-associated membrane damage and maintain viral particle stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:41:56.095Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses manipulate host lipid metabolism or antioxidant systems to counteract ferroptosis-associated membrane damage and maintain viral particle stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct roles of core and matrix thalamic neurons in modulating cortical activity during vicarious trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct roles of core and matrix thalamic neurons in modulating cortical activity during vicarious trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamocortical synchrony, particularly in resonant loops, correlate with self-reported measures of vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.385Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamocortical synchrony, particularly in resonant loops, correlate with self-reported measures of vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.386Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What changes in thalamic neuron firing patterns (core vs. matrix) are observed during experiences of post-traumatic growth compared to acute vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.386Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What changes in thalamic neuron firing patterns (core vs. matrix) are observed during experiences of post-traumatic growth compared to acute vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.386Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical interactions influence the regulation of the HPA axis in clinicians experiencing vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.386Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical interactions influence the regulation of the HPA axis in clinicians experiencing vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.386Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the relationship between thalamocortical resonant frequency patterns and biomarkers of neuroplasticity (e.g., BDNF levels) in clinicians showing vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:08.386Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the relationship between thalamocortical resonant frequency patterns and biomarkers of neuroplasticity (e.g., BDNF levels) in clinicians showing vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs affect lipid peroxidation levels or cellular sensitivity to ferroptosis inducers in published studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs affect lipid peroxidation levels or cellular sensitivity to ferroptosis inducers in published studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the direct experimental evidence that lipid peroxidation products from ferroptosis disrupt viral envelope structure or stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the direct experimental evidence that lipid peroxidation products from ferroptosis disrupt viral envelope structure or stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced membrane damage specifically alter viral entry, assembly, or release in different virus families?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced membrane damage specifically alter viral entry, assembly, or release in different virus families?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune signaling pathways (e.g., cGAS-STING, RIG-I/MDA5, TLRs) have been shown to regulate ferroptosis execution proteins or lipid metabolism enzymes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:19.427Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune signaling pathways (e.g., cGAS-STING, RIG-I/MDA5, TLRs) have been shown to regulate ferroptosis execution proteins or lipid metabolism enzymes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.327Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct roles of thalamocortical oscillations (e.g., alpha, gamma) in processing and regulating vicarious trauma exposure in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct roles of thalamocortical oscillations (e.g., alpha, gamma) in processing and regulating vicarious trauma exposure in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons specifically modulate sensory and emotional integration during trauma-related narratives in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons specifically modulate sensory and emotional integration during trauma-related narratives in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order) thalamic neurons specifically support cognitive reframing and meaning-making processes linked to post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order) thalamic neurons specifically support cognitive reframing and meaning-making processes linked to post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the specific interaction between thalamocortical pathways and prefrontal regulatory systems (e.g., dorsolateral PFC, ventromedial PFC) in enabling adaptive coping strategies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the specific interaction between thalamocortical pathways and prefrontal regulatory systems (e.g., dorsolateral PFC, ventromedial PFC) in enabling adaptive coping strategies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamic-limbic system interactions (particularly with the amygdala and hippocampus) differentiate between vicarious distress and vicarious resilience outcomes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:27.328Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamic-limbic system interactions (particularly with the amygdala and hippocampus) differentiate between vicarious distress and vicarious resilience outcomes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.631Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) in the context of viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) in the context of viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs alter cellular lipid metabolism or redox balance to either promote or suppress ferroptosis during antiviral responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs alter cellular lipid metabolism or redox balance to either promote or suppress ferroptosis during antiviral responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural stability and function of viral envelopes or capsids during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural stability and function of viral envelopes or capsids during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in host cell membranes influence viral entry, assembly, or release by altering membrane fluidity or curvature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in host cell membranes influence viral entry, assembly, or release by altering membrane fluidity or curvature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune sensors (e.g., TLRs, RIG-I-like receptors) or adaptor proteins (e.g., MAVS, STING) are activated or modulated by ferroptosis-derived damage-associated molecular patterns (DAMPs)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:38.632Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune sensors (e.g., TLRs, RIG-I-like receptors) or adaptor proteins (e.g., MAVS, STING) are activated or modulated by ferroptosis-derived damage-associated molecular patterns (DAMPs)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological roles of core (first-order) versus matrix (higher-order) thalamic neurons in processing trauma-related information in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological roles of core (first-order) versus matrix (higher-order) thalamic neurons in processing trauma-related information in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical oscillations (particularly in alpha, theta, and gamma bands) correlate with measures of vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamocortical oscillations (particularly in alpha, theta, and gamma bands) correlate with measures of vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific changes occur in thalamocortical functional connectivity (measured via fMRI or EEG) during exposure to post-traumatic growth narratives or experiences?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific changes occur in thalamocortical functional connectivity (measured via fMRI or EEG) during exposure to post-traumatic growth narratives or experiences?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.135Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamic relay fidelity and sensory gating mechanisms differ between clinicians showing high versus low vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.136Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do thalamic relay fidelity and sensory gating mechanisms differ between clinicians showing high versus low vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.136Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the relationship between thalamocortical loop synchronization and psychological measures of resilience (e.g., Connor-Davidson Resilience Scale) versus post-traumatic growth (e.g., Post-Traumatic Growth Inventory) in this population?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:47.136Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the relationship between thalamocortical loop synchronization and psychological measures of resilience (e.g., Connor-Davidson Resilience Scale) versus post-traumatic growth (e.g., Post-Traumatic Growth Inventory) in this population?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do lipid peroxidation products (e.g., 4-HNE, MDA) physically disrupt viral envelope structure and stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do lipid peroxidation products (e.g., 4-HNE, MDA) physically disrupt viral envelope structure and stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What viral proteins or mechanisms directly inhibit host ferroptosis execution (e.g., by blocking lipid peroxidation or upregulating antioxidant defenses)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What viral proteins or mechanisms directly inhibit host ferroptosis execution (e.g., by blocking lipid peroxidation or upregulating antioxidant defenses)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do any ISGs identified in question 1 directly interact with or regulate key ferroptosis components (like GPX4 or system xc-) in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do any ISGs identified in question 1 directly interact with or regulate key ferroptosis components (like GPX4 or system xc-) in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses alter host lipid metabolism or peroxidation signaling to evade ferroptosis-mediated antiviral effects?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:42:58.826Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses alter host lipid metabolism or peroxidation signaling to evade ferroptosis-mediated antiviral effects?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits show altered activity or connectivity in individuals exhibiting vicarious resilience or post-traumatic growth following trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways or circuits show altered activity or connectivity in individuals exhibiting vicarious resilience or post-traumatic growth following trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do key neurobiological markers (e.g., cortisol levels, BDNF, inflammatory cytokines) differ between trauma-exposed clinicians who develop resilience/growth versus those who develop burnout or secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do key neurobiological markers (e.g., cortisol levels, BDNF, inflammatory cytokines) differ between trauma-exposed clinicians who develop resilience/growth versus those who develop burnout or secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of the limbic system (particularly the amygdala and hippocampus) in modulating emotional responses and memory processing during vicarious trauma exposure, and how does this differ between resilient and non-resilient clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of the limbic system (particularly the amygdala and hippocampus) in modulating emotional responses and memory processing during vicarious trauma exposure, and how does this differ between resilient and non-resilient clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does prefrontal cortex function (e.g., executive control, emotion regulation, cognitive reappraisal) contribute to or protect against the development of vicarious resilience versus secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does prefrontal cortex function (e.g., executive control, emotion regulation, cognitive reappraisal) contribute to or protect against the development of vicarious resilience versus secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the patterns of default mode network activity and connectivity in trauma-exposed clinicians, and how do they relate to self-referential processing, empathy, and the capacity for post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:06.687Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the patterns of default mode network activity and connectivity in trauma-exposed clinicians, and how do they relate to self-referential processing, empathy, and the capacity for post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs influence the expression or activity of key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs influence the expression or activity of key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products on the structural integrity and fluidity of viral envelopes during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products on the structural integrity and fluidity of viral envelopes during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation affect viral entry, assembly, or release by altering host or viral membrane properties?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.713Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation affect viral entry, assembly, or release by altering host or viral membrane properties?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.714Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the molecular mechanisms by which ferroptosis execution (e.g., via lipid peroxidation) activates or modulates innate immune sensors (e.g., RIG-I, NLRP3)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:14.714Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the molecular mechanisms by which ferroptosis execution (e.g., via lipid peroxidation) activates or modulates innate immune sensors (e.g., RIG-I, NLRP3)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., thalamic nuclei to cortical regions) that show altered activity or connectivity in trauma-exposed clinicians who exhibit vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., thalamic nuclei to cortical regions) that show altered activity or connectivity in trauma-exposed clinicians who exhibit vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons, which relay specific sensory information to primary cortical areas, influence the development of post-traumatic growth in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons, which relay specific sensory information to primary cortical areas, influence the development of post-traumatic growth in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order) thalamic neurons, which project diffusely to association cortices, contribute to the risk or manifestation of secondary traumatic stress in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order) thalamic neurons, which project diffusely to association cortices, contribute to the risk or manifestation of secondary traumatic stress in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "To what extent does the default mode network's interaction with thalamocortical circuits support self-referential processing and meaning-making in vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "To what extent does the default mode network's interaction with thalamocortical circuits support self-referential processing and meaning-making in vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the salience network's modulation of thalamocortical activity affect the detection and regulation of trauma-related cues in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:26.303Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the salience network's modulation of thalamocortical activity affect the detection and regulation of trauma-related cues in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane structure and fluidity, and what is the quantitative impact on viral entry or budding efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane structure and fluidity, and what is the quantitative impact on viral entry or budding efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the specific molecular mechanisms by which type I interferon signaling pathways (e.g., JAK-STAT) transcriptionally regulate key ferroptosis regulators (e.g., GPX4, ACSL4) in virus-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the specific molecular mechanisms by which type I interferon signaling pathways (e.g., JAK-STAT) transcriptionally regulate key ferroptosis regulators (e.g., GPX4, ACSL4) in virus-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do different viruses (e.g., enveloped vs. non-enveloped) show differential susceptibility to ferroptosis-mediated lipid peroxidation, and how does this affect their replication cycles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do different viruses (e.g., enveloped vs. non-enveloped) show differential susceptibility to ferroptosis-mediated lipid peroxidation, and how does this affect their replication cycles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.339Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do interferon-induced changes in cellular iron metabolism (e.g., via IRP1/2 or hepcidin regulation) contribute to ferroptosis sensitivity during antiviral responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:32.340Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do interferon-induced changes in cellular iron metabolism (e.g., via IRP1/2 or hepcidin regulation) contribute to ferroptosis sensitivity during antiviral responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological signatures of thalamocortical function in trauma-exposed clinicians who demonstrate vicarious resilience compared to those who do not?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological signatures of thalamocortical function in trauma-exposed clinicians who demonstrate vicarious resilience compared to those who do not?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons versus matrix (higher-order) thalamic neurons differ in their firing patterns and synchronization with cortical regions when clinicians process client trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons versus matrix (higher-order) thalamic neurons differ in their firing patterns and synchronization with cortical regions when clinicians process client trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways show altered functional connectivity during exposure to trauma narratives, and how do these changes correlate with measures of vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical pathways show altered functional connectivity during exposure to trauma narratives, and how do these changes correlate with measures of vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamic gating of sensory and emotional information differ between clinicians who experience post-traumatic growth versus vicarious trauma following repeated exposure to client trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.702Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamic gating of sensory and emotional information differ between clinicians who experience post-traumatic growth versus vicarious trauma following repeated exposure to client trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What role do thalamocortical oscillations (particularly in theta, alpha, and gamma bands) play in mediating emotional regulation and cognitive processing during trauma narrative exposure, and how do these differ between resilient and non-resilient clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:43.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What role do thalamocortical oscillations (particularly in theta, alpha, and gamma bands) play in mediating emotional regulation and cognitive processing during trauma narrative exposure, and how do these differ between resilient and non-resilient clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly or indirectly regulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly or indirectly regulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane properties (e.g., fluidity, permeability, or fusion capacity) and impact viral entry or assembly?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane properties (e.g., fluidity, permeability, or fusion capacity) and impact viral entry or assembly?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What viral proteins or non-coding RNAs have been identified to inhibit host ferroptosis pathways, and what host targets (e.g., GPX4, NRF2, or system Xc-) do they interact with?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What viral proteins or non-coding RNAs have been identified to inhibit host ferroptosis pathways, and what host targets (e.g., GPX4, NRF2, or system Xc-) do they interact with?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do certain viruses actively induce host ferroptosis to promote viral spread or cell-to-cell transmission, and what viral factors are responsible?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do certain viruses actively induce host ferroptosis to promote viral spread or cell-to-cell transmission, and what viral factors are responsible?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do interferon signaling pathways (e.g., JAK-STAT) intersect with ferroptosis regulators (e.g., lipid metabolism or iron homeostasis genes) during antiviral responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:49.104Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do interferon signaling pathways (e.g., JAK-STAT) intersect with ferroptosis regulators (e.g., lipid metabolism or iron homeostasis genes) during antiviral responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.879Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., specific thalamic nuclei to cortical regions) that show altered activity or connectivity in individuals exhibiting vicarious resilience or post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.879Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., specific thalamic nuclei to cortical regions) that show altered activity or connectivity in individuals exhibiting vicarious resilience or post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does repeated, structured exposure to trauma narratives in therapy sessions affect synaptic plasticity or oscillatory synchronization within thalamocortical circuits over time?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does repeated, structured exposure to trauma narratives in therapy sessions affect synaptic plasticity or oscillatory synchronization within thalamocortical circuits over time?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What differences exist in resting-state functional connectivity between the thalamus and prefrontal/limbic cortical regions when comparing clinicians with vicarious resilience versus those with burnout?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What differences exist in resting-state functional connectivity between the thalamus and prefrontal/limbic cortical regions when comparing clinicians with vicarious resilience versus those with burnout?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Do clinicians who develop vicarious resilience show distinct patterns of cortical gamma or theta resonance in response to trauma-related stimuli compared to those who develop secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Do clinicians who develop vicarious resilience show distinct patterns of cortical gamma or theta resonance in response to trauma-related stimuli compared to those who develop secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Are there measurable changes in thalamic relay efficiency or sensory gating that correlate with self-reported measures of vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:43:58.880Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Are there measurable changes in thalamic relay efficiency or sensory gating that correlate with self-reported measures of vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation physically disrupt the lipid bilayer structure of enveloped viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation physically disrupt the lipid bilayer structure of enveloped viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the specific molecular interactions between ferroptosis-related lipid peroxidation products and viral membrane components?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the specific molecular interactions between ferroptosis-related lipid peroxidation products and viral membrane components?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which signaling pathways (e.g., STING, RIG-I, TLR) does ferroptosis contribute to the activation of antiviral innate immune responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which signaling pathways (e.g., STING, RIG-I, TLR) does ferroptosis contribute to the activation of antiviral innate immune responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do ferroptotic cell death and associated damage-associated molecular patterns (DAMPs) enhance the recruitment and activation of immune cells during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.093Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do ferroptotic cell death and associated damage-associated molecular patterns (DAMPs) enhance the recruitment and activation of immune cells during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.645Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., specific thalamic nuclei and their cortical projections) that show altered activity or connectivity in trauma-exposed clinicians who exhibit vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.645Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., specific thalamic nuclei and their cortical projections) that show altered activity or connectivity in trauma-exposed clinicians who exhibit vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.645Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order, specific) thalamic neurons, which project to middle cortical layers and relay primary sensory/motor information, differ in their activity or plasticity in clinicians with high versus low vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order, specific) thalamic neurons, which project to middle cortical layers and relay primary sensory/motor information, differ in their activity or plasticity in clinicians with high versus low vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order, non-specific) thalamic neurons, which project broadly to superficial cortical layers and are involved in arousal and integration, differ in their activity or connectivity in clinicians who experience post-traumatic growth versus vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order, non-specific) thalamic neurons, which project broadly to superficial cortical layers and are involved in arousal and integration, differ in their activity or connectivity in clinicians who experience post-traumatic growth versus vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of limbic system structures (e.g., amygdala, hippocampus, anterior cingulate cortex) in regulating or modulating thalamocortical activity during experiences that lead to vicarious resilience in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of limbic system structures (e.g., amygdala, hippocampus, anterior cingulate cortex) in regulating or modulating thalamocortical activity during experiences that lead to vicarious resilience in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of prefrontal cortical regions (e.g., dorsolateral prefrontal cortex, ventromedial prefrontal cortex) in top-down modulation of thalamocortical circuits during the development of vicarious resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:16.646Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the role of prefrontal cortical regions (e.g., dorsolateral prefrontal cortex, ventromedial prefrontal cortex) in top-down modulation of thalamocortical circuits during the development of vicarious resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.463Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the known interferon-stimulated genes (ISGs) that have been experimentally shown to directly or indirectly influence ferroptosis-related pathways (e.g., GPX4, SLC7A11, ACSL4 regulation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the known interferon-stimulated genes (ISGs) that have been experimentally shown to directly or indirectly influence ferroptosis-related pathways (e.g., GPX4, SLC7A11, ACSL4 regulation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane properties (e.g., fluidity, permeability, stability) and impact viral entry, assembly, or release?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane properties (e.g., fluidity, permeability, stability) and impact viral entry, assembly, or release?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific ISGs have been demonstrated to either promote or inhibit lipid peroxidation during viral infection, and through what molecular mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific ISGs have been demonstrated to either promote or inhibit lipid peroxidation during viral infection, and through what molecular mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do any ISGs directly interact with or regulate key ferroptosis executors or suppressors (e.g., GPX4, FSP1, NRF2) in infected versus uninfected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do any ISGs directly interact with or regulate key ferroptosis executors or suppressors (e.g., GPX4, FSP1, NRF2) in infected versus uninfected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.464Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What experimental evidence exists showing that modulation of ferroptosis (induction or inhibition) via ISGs affects viral replication efficiency or host cell survival during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:33.465Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What experimental evidence exists showing that modulation of ferroptosis (induction or inhibition) via ISGs affects viral replication efficiency or host cell survival during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., thalamic nuclei to cortical regions) that show altered activity or connectivity in clinicians exhibiting vicarious resilience or post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical pathways (e.g., thalamic nuclei to cortical regions) that show altered activity or connectivity in clinicians exhibiting vicarious resilience or post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons, which relay specific sensory information, contribute to the cognitive reappraisal processes involved in vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons, which relay specific sensory information, contribute to the cognitive reappraisal processes involved in vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order) thalamic neurons, which have diffuse cortical projections, modulate emotional regulation and meaning-making processes in post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order) thalamic neurons, which have diffuse cortical projections, modulate emotional regulation and meaning-making processes in post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the interaction between the thalamocortical system and the limbic system (particularly amygdala-hippocampal circuits) in regulating emotional contagion versus emotional resilience in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the interaction between the thalamocortical system and the limbic system (particularly amygdala-hippocampal circuits) in regulating emotional contagion versus emotional resilience in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does prefrontal cortex-thalamic circuitry support executive functions (e.g., cognitive flexibility, working memory) that differentiate clinicians who experience growth versus distress from trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:35.227Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does prefrontal cortex-thalamic circuitry support executive functions (e.g., cognitive flexibility, working memory) that differentiate clinicians who experience growth versus distress from trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the molecular mechanisms by which identified ISGs regulate key ferroptosis components (e.g., GPX4, ACSL4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the molecular mechanisms by which identified ISGs regulate key ferroptosis components (e.g., GPX4, ACSL4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane structure and permeability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane structure and permeability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What experimental evidence shows that lipid peroxidation products directly disrupt viral envelope integrity or viral entry processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What experimental evidence shows that lipid peroxidation products directly disrupt viral envelope integrity or viral entry processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:47.999Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What in vitro or in vivo studies demonstrate that induction of ferroptosis in host cells reduces viral replication or infectivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:48.000Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What in vitro or in vivo studies demonstrate that induction of ferroptosis in host cells reduces viral replication or infectivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological mechanisms (e.g., synaptic plasticity, neurotransmitter systems, oscillatory activity) through which thalamocortical pathways influence emotional regulation and empathy in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neurobiological mechanisms (e.g., synaptic plasticity, neurotransmitter systems, oscillatory activity) through which thalamocortical pathways influence emotional regulation and empathy in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order, specific) thalamic neurons modulate the processing of vicarious trauma to potentially reduce secondary trauma symptoms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order, specific) thalamic neurons modulate the processing of vicarious trauma to potentially reduce secondary trauma symptoms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order, non-specific) thalamic neurons support integrative cognitive-emotional functions that may promote post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do matrix (higher-order, non-specific) thalamic neurons support integrative cognitive-emotional functions that may promote post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical resonant frequencies (e.g., alpha, theta, gamma) are associated with the maladaptive processing of vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical resonant frequencies (e.g., alpha, theta, gamma) are associated with the maladaptive processing of vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical resonant frequencies or loop dynamics facilitate adaptive processing and resilience following vicarious trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:44:52.703Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical resonant frequencies or loop dynamics facilitate adaptive processing and resilience following vicarious trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane properties such as fluidity, permeability, and structural integrity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter viral membrane properties such as fluidity, permeability, and structural integrity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does lipid peroxidation during ferroptosis directly inactivate enveloped viruses by damaging their lipid envelopes, and if so, what is the evidence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does lipid peroxidation during ferroptosis directly inactivate enveloped viruses by damaging their lipid envelopes, and if so, what is the evidence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling molecules or pathways (e.g., JAK-STAT, IRF3) does type I interferon signaling regulate the expression or activity of key ferroptosis executors or suppressors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling molecules or pathways (e.g., JAK-STAT, IRF3) does type I interferon signaling regulate the expression or activity of key ferroptosis executors or suppressors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific conditions under which antiviral innate immunity signaling promotes ferroptosis (e.g., as a host defense mechanism) versus suppresses it (e.g., to maintain cellular homeostasis during infection)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:07.843Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific conditions under which antiviral innate immunity signaling promotes ferroptosis (e.g., as a host defense mechanism) versus suppresses it (e.g., to maintain cellular homeostasis during infection)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Which specific neurotransmitter systems (e.g., dopamine, serotonin, oxytocin) show measurable changes in clinicians who demonstrate vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "Which specific neurotransmitter systems (e.g., dopamine, serotonin, oxytocin) show measurable changes in clinicians who demonstrate vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does functional connectivity between the prefrontal cortex and limbic regions differ in clinicians with high versus low vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does functional connectivity between the prefrontal cortex and limbic regions differ in clinicians with high versus low vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What patterns of neural plasticity (e.g., hippocampal neurogenesis, synaptic density changes) are observed in trauma-exposed clinicians who report post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What patterns of neural plasticity (e.g., hippocampal neurogenesis, synaptic density changes) are observed in trauma-exposed clinicians who report post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamocortical oscillatory synchronization (e.g., alpha, gamma bands) correlate with specific domains of post-traumatic growth in clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does thalamocortical oscillatory synchronization (e.g., alpha, gamma bands) correlate with specific domains of post-traumatic growth in clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "To what extent do mirror neuron system activations during client interactions predict subsequent resilience outcomes in trauma therapists?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:11.356Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "To what extent do mirror neuron system activations during client interactions predict subsequent resilience outcomes in trauma therapists?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.224Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.224Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.224Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation physically disrupt the lipid bilayer structure of enveloped viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.224Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation physically disrupt the lipid bilayer structure of enveloped viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.225Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the specific molecular interactions between ferroptosis-related lipid peroxidation products and viral membrane components?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.225Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the specific molecular interactions between ferroptosis-related lipid peroxidation products and viral membrane components?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.225Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which signaling pathways (e.g., STING, RIG-I, TLR) does ferroptosis contribute to the activation of antiviral innate immune responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.225Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which signaling pathways (e.g., STING, RIG-I, TLR) does ferroptosis contribute to the activation of antiviral innate immune responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.225Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis in infected cells enhance antigen presentation or cytokine production to amplify antiviral immunity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:29.225Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis in infected cells enhance antigen presentation or cytokine production to amplify antiviral immunity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the known functions of the thalamocortical system in processing and regulating emotional and sensory information related to trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the known functions of the thalamocortical system in processing and regulating emotional and sensory information related to trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does vicarious resilience manifest behaviorally and psychologically in clinicians exposed to client trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does vicarious resilience manifest behaviorally and psychologically in clinicians exposed to client trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurobiological evidence links thalamocortical activity patterns to positive adaptation or growth following stress or trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurobiological evidence links thalamocortical activity patterns to positive adaptation or growth following stress or trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neural correlates (e.g., brain region activity, connectivity patterns) observed in clinicians experiencing vicarious trauma versus vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct neural correlates (e.g., brain region activity, connectivity patterns) observed in clinicians experiencing vicarious trauma versus vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do neuroendocrine and immune responses differ between states of vicarious trauma and vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:30.723Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do neuroendocrine and immune responses differ between states of vicarious trauma and vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate ferroptosis pathways during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly regulate ferroptosis pathways during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific viral infections alter cellular lipid metabolism to promote or suppress lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific viral infections alter cellular lipid metabolism to promote or suppress lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the molecular mechanism by which lipid peroxidation disrupts the structural integrity of viral envelopes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the molecular mechanism by which lipid peroxidation disrupts the structural integrity of viral envelopes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins have been identified as inhibitors of host ferroptosis pathways, and what are their molecular targets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins have been identified as inhibitors of host ferroptosis pathways, and what are their molecular targets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses modulate antioxidant defense systems (e.g., GPX4, FSP1) to evade ferroptosis-mediated antiviral responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:46.420Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses modulate antioxidant defense systems (e.g., GPX4, FSP1) to evade ferroptosis-mediated antiviral responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.177Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical mechanisms (e.g., thalamic gating, cortical synchronization) are described in the literature as relevant to trauma processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.177Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical mechanisms (e.g., thalamic gating, cortical synchronization) are described in the literature as relevant to trauma processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.177Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do these thalamocortical mechanisms theoretically support or enable vicarious resilience in clinicians exposed to clients' trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.177Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do these thalamocortical mechanisms theoretically support or enable vicarious resilience in clinicians exposed to clients' trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.177Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do these thalamocortical mechanisms theoretically support or enable post-traumatic growth in clinicians who experience direct or indirect trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.177Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do these thalamocortical mechanisms theoretically support or enable post-traumatic growth in clinicians who experience direct or indirect trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.178Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the documented role of limbic system structures (e.g., amygdala, hippocampus) in modulating emotional responses and memory in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.178Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the documented role of limbic system structures (e.g., amygdala, hippocampus) in modulating emotional responses and memory in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.178Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the documented role of prefrontal cortex regions (e.g., ventromedial PFC, dorsolateral PFC) in cognitive regulation and meaning-making in trauma-exposed clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:45:50.178Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the documented role of prefrontal cortex regions (e.g., ventromedial PFC, dorsolateral PFC) in cognitive regulation and meaning-making in trauma-exposed clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.257Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis pathways (e.g., GPX4, ACSL4, SLC7A11 regulation) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter the structural integrity and fluidity of viral envelopes (e.g., in enveloped viruses)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter the structural integrity and fluidity of viral envelopes (e.g., in enveloped viruses)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the measurable impact of lipid peroxidation on viral infectivity, specifically on viral entry, replication, or particle stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the measurable impact of lipid peroxidation on viral infectivity, specifically on viral entry, replication, or particle stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins or mechanisms have been identified that directly inhibit key ferroptosis executors (e.g., GPX4) or activate anti-ferroptosis pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins or mechanisms have been identified that directly inhibit key ferroptosis executors (e.g., GPX4) or activate anti-ferroptosis pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses modulate host lipid metabolism or antioxidant systems (e.g., via viral gene products) to prevent ferroptosis-induced cell death and maintain viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:06.258Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do viruses modulate host lipid metabolism or antioxidant systems (e.g., via viral gene products) to prevent ferroptosis-induced cell death and maintain viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.245Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific patterns of thalamocortical oscillatory activity (e.g., alpha, gamma, or theta rhythms) observed in clinicians who demonstrate vicarious resilience compared to those who experience vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.245Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific patterns of thalamocortical oscillatory activity (e.g., alpha, gamma, or theta rhythms) observed in clinicians who demonstrate vicarious resilience compared to those who experience vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do the firing rates and synchrony of core (first-order) versus matrix (higher-order) thalamic neurons differ in trauma-exposed clinicians who report post-traumatic growth versus those who do not?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do the firing rates and synchrony of core (first-order) versus matrix (higher-order) thalamic neurons differ in trauma-exposed clinicians who report post-traumatic growth versus those who do not?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the functional connectivity profile between the thalamus and specific cortical regions (e.g., prefrontal, somatosensory, or insular cortices) in clinicians exhibiting vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the functional connectivity profile between the thalamus and specific cortical regions (e.g., prefrontal, somatosensory, or insular cortices) in clinicians exhibiting vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do limbic system structures (e.g., amygdala, hippocampus) interact with the thalamocortical system during exposure to traumatic narratives in resilient clinicians?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do limbic system structures (e.g., amygdala, hippocampus) interact with the thalamocortical system during exposure to traumatic narratives in resilient clinicians?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the contributions of prefrontal regulatory systems (e.g., dorsolateral prefrontal cortex, anterior cingulate cortex) to modulating thalamocortical activity in the context of vicarious resilience?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:08.246Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the contributions of prefrontal regulatory systems (e.g., dorsolateral prefrontal cortex, anterior cingulate cortex) to modulating thalamocortical activity in the context of vicarious resilience?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) in the context of viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) in the context of viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs influence lipid peroxidation levels or sensitivity to ferroptosis in virus-infected cells compared to uninfected controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs influence lipid peroxidation levels or sensitivity to ferroptosis in virus-infected cells compared to uninfected controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and functionality of viral envelopes during replication or release?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and functionality of viral envelopes during replication or release?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in host membranes affect the assembly, budding, or infectivity of enveloped viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in host membranes affect the assembly, budding, or infectivity of enveloped viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune sensors (e.g., TLRs, RIG-I-like receptors) or adaptor proteins (e.g., MAVS, STING) are activated or modulated by ferroptosis-derived damage-associated molecular patterns (DAMPs) or lipid peroxidation products?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:24.702Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune sensors (e.g., TLRs, RIG-I-like receptors) or adaptor proteins (e.g., MAVS, STING) are activated or modulated by ferroptosis-derived damage-associated molecular patterns (DAMPs) or lipid peroxidation products?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical circuit pathways (e.g., thalamic nuclei to cortical layers) that show altered activity or connectivity in clinicians exhibiting vicarious resilience versus those experiencing secondary trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the specific thalamocortical circuit pathways (e.g., thalamic nuclei to cortical layers) that show altered activity or connectivity in clinicians exhibiting vicarious resilience versus those experiencing secondary trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons, which relay specific sensory information, versus matrix (higher-order) thalamic neurons, which have diffuse cortical projections, differ in their firing patterns or plasticity in response to repeated exposure to traumatic narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How do core (first-order) thalamic neurons, which relay specific sensory information, versus matrix (higher-order) thalamic neurons, which have diffuse cortical projections, differ in their firing patterns or plasticity in response to repeated exposure to traumatic narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurochemical or synaptic plasticity mechanisms (e.g., changes in glutamate, GABA, BDNF) within thalamocortical loops are associated with adaptive versus maladaptive responses to vicarious trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What neurochemical or synaptic plasticity mechanisms (e.g., changes in glutamate, GABA, BDNF) within thalamocortical loops are associated with adaptive versus maladaptive responses to vicarious trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the prefrontal cortex (particularly medial PFC and dorsolateral PFC) modulate thalamic activity to regulate emotional processing and cognitive reappraisal during exposure to clients' trauma?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does the prefrontal cortex (particularly medial PFC and dorsolateral PFC) modulate thalamic activity to regulate emotional processing and cognitive reappraisal during exposure to clients' trauma?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the specific interplay between the amygdala (threat detection), insula (interoceptive awareness), and thalamocortical circuits in determining whether a clinician develops resilience or distress following trauma exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:28.456Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the specific interplay between the amygdala (threat detection), insula (interoceptive awareness), and thalamocortical circuits in determining whether a clinician develops resilience or distress following trauma exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.794Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis-related proteins or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis-related proteins or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation during ferroptosis physically alter viral membrane properties such as fluidity, permeability, or structural integrity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation during ferroptosis physically alter viral membrane properties such as fluidity, permeability, or structural integrity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis-induced lipid peroxidation directly impair viral entry, assembly, or release, and what is the evidence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis-induced lipid peroxidation directly impair viral entry, assembly, or release, and what is the evidence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune signaling pathways (e.g., RIG-I/MAVS, cGAS-STING, TLRs) have been shown to transcriptionally regulate key ferroptosis genes (e.g., GPX4, ACSL4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune signaling pathways (e.g., RIG-I/MAVS, cGAS-STING, TLRs) have been shown to transcriptionally regulate key ferroptosis genes (e.g., GPX4, ACSL4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral infections where interferon signaling is known to either promote or inhibit ferroptosis, and what are the molecular mediators?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:40.795Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral infections where interferon signaling is known to either promote or inhibit ferroptosis, and what are the molecular mediators?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct patterns of neural activation observed in clinicians experiencing vicarious resilience versus those experiencing post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What are the distinct patterns of neural activation observed in clinicians experiencing vicarious resilience versus those experiencing post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does repeated exposure to trauma narratives specifically alter synaptic strength and connectivity within thalamocortical pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does repeated exposure to trauma narratives specifically alter synaptic strength and connectivity within thalamocortical pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the comparative role of oxytocin in modulating stress response systems between vicarious resilience and post-traumatic growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What is the comparative role of oxytocin in modulating stress response systems between vicarious resilience and post-traumatic growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does BDNF expression and signaling differ in clinicians showing vicarious resilience versus those experiencing secondary traumatic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.890Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "How does BDNF expression and signaling differ in clinicians showing vicarious resilience versus those experiencing secondary traumatic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.891Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical plasticity markers correlate with positive adaptation versus distress in clinicians exposed to trauma narratives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:46:44.891Z** - Topic: `The neurobiological mechanisms of vicarious resilience and post-traumatic growth in trauma-exposed clinicians` - Query: "What specific thalamocortical plasticity markers correlate with positive adaptation versus distress in clinicians exposed to trauma narratives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.152Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins or pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.152Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related proteins or pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.152Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do known ferroptosis-regulating ISGs affect key ferroptosis markers such as GPX4 activity, lipid peroxidation levels, or iron metabolism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.152Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do known ferroptosis-regulating ISGs affect key ferroptosis markers such as GPX4 activity, lipid peroxidation levels, or iron metabolism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.152Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the direct experimental evidence that lipid peroxidation products from ferroptosis disrupt viral envelope structure or fluidity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.153Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the direct experimental evidence that lipid peroxidation products from ferroptosis disrupt viral envelope structure or fluidity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.153Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced membrane damage specifically affect viral entry, assembly, or release processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.153Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced membrane damage specifically affect viral entry, assembly, or release processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.153Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling molecules or pathways (e.g., cGAS-STING, RIG-I/MDA5, or JAK-STAT) does antiviral innate immunity regulate ferroptosis execution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:01.153Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling molecules or pathways (e.g., cGAS-STING, RIG-I/MDA5, or JAK-STAT) does antiviral innate immunity regulate ferroptosis execution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly or indirectly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly or indirectly modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter cellular lipid metabolism or redox balance to promote lipid peroxidation, a hallmark of ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter cellular lipid metabolism or redox balance to promote lipid peroxidation, a hallmark of ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of ferroptosis-derived lipid peroxides on the structural integrity and functionality of viral envelopes (e.g., in enveloped viruses)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the impact of ferroptosis-derived lipid peroxides on the structural integrity and functionality of viral envelopes (e.g., in enveloped viruses)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling pathways (e.g., cGAS-STING, RIG-I/MDA5, or JAK-STAT) do antiviral innate immune sensors activate or regulate ferroptosis execution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling pathways (e.g., cGAS-STING, RIG-I/MDA5, or JAK-STAT) do antiviral innate immune sensors activate or regulate ferroptosis execution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral components or replication intermediates that directly interact with and modulate the ferroptosis machinery in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:19.087Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral components or replication intermediates that directly interact with and modulate the ferroptosis machinery in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.181Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly regulate key ferroptosis pathway components (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly regulate key ferroptosis pathway components (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation physically alter the composition and stability of viral envelopes, and does this differ between enveloped and non-enveloped viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does ferroptosis-induced lipid peroxidation physically alter the composition and stability of viral envelopes, and does this differ between enveloped and non-enveloped viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What specific viral proteins or non-coding RNAs directly interact with or modify core ferroptosis regulators (e.g., GPX4, system Xc-, NRF2) to inhibit or promote ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What specific viral proteins or non-coding RNAs directly interact with or modify core ferroptosis regulators (e.g., GPX4, system Xc-, NRF2) to inhibit or promote ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do different families of viruses (e.g., RNA vs. DNA viruses) employ distinct molecular strategies to evade or modulate host ferroptosis pathways, and what are the conserved mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do different families of viruses (e.g., RNA vs. DNA viruses) employ distinct molecular strategies to evade or modulate host ferroptosis pathways, and what are the conserved mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does the timing and magnitude of ferroptosis induction during viral infection influence its net effect on viral replication versus host tissue damage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:47:36.182Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does the timing and magnitude of ferroptosis induction during viral infection influence its net effect on viral replication versus host tissue damage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation during ferroptosis alter the physical properties (fluidity, permeability, stability) of viral envelopes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation during ferroptosis alter the physical properties (fluidity, permeability, stability) of viral envelopes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis-induced membrane damage specifically reduce viral entry, assembly, or release efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis-induced membrane damage specifically reduce viral entry, assembly, or release efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which pattern recognition receptors (PRRs) or downstream signaling molecules (e.g., STING, MAVS, IRF3) directly regulate ferroptosis-related genes or processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which pattern recognition receptors (PRRs) or downstream signaling molecules (e.g., STING, MAVS, IRF3) directly regulate ferroptosis-related genes or processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do interferons or cytokines (e.g., type I IFN, TNF-α) promote or inhibit ferroptosis in virus-infected cells, and through which transcriptional or post-translational mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:33.180Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Do interferons or cytokines (e.g., type I IFN, TNF-α) promote or inhibit ferroptosis in virus-infected cells, and through which transcriptional or post-translational mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related pathways (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to directly modulate ferroptosis-related pathways (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter the expression or activity of specific ISGs that regulate lipid peroxidation or iron metabolism, thereby influencing ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does viral infection alter the expression or activity of specific ISGs that regulate lipid peroxidation or iron metabolism, thereby influencing ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the effect of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and fluidity of viral envelopes (e.g., in enveloped viruses like influenza or HIV)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the effect of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and fluidity of viral envelopes (e.g., in enveloped viruses like influenza or HIV)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis-induced membrane damage selectively disrupt viral assembly, budding, or entry by compromising host or viral lipid membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.449Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis-induced membrane damage selectively disrupt viral assembly, budding, or entry by compromising host or viral lipid membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.450Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune signaling pathways (e.g., STING, TLRs, MAVS) directly activate or suppress ferroptosis effectors (e.g., via NF-κB, STATs, or IRF transcription factors)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:49:50.450Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which innate immune signaling pathways (e.g., STING, TLRs, MAVS) directly activate or suppress ferroptosis effectors (e.g., via NF-κB, STATs, or IRF transcription factors)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate key ferroptosis regulators (e.g., GPX4, ACSL4, SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter the structure and permeability of lipid membranes in enveloped viruses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation, a hallmark of ferroptosis, physically alter the structure and permeability of lipid membranes in enveloped viruses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What specific viral pathogen-associated molecular patterns (PAMPs) or cellular danger signals during infection activate innate immune sensors (e.g., RIG-I, cGAS) that subsequently trigger ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What specific viral pathogen-associated molecular patterns (PAMPs) or cellular danger signals during infection activate innate immune sensors (e.g., RIG-I, cGAS) that subsequently trigger ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.133Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling molecules or pathways (e.g., STAT1, IRF3, or other interferon-regulatory factors) does the antiviral innate immune response transcriptionally or post-transcriptionally regulate the expression or activity of ferroptosis machinery?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.134Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which specific signaling molecules or pathways (e.g., STAT1, IRF3, or other interferon-regulatory factors) does the antiviral innate immune response transcriptionally or post-transcriptionally regulate the expression or activity of ferroptosis machinery?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.134Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis induction in virally infected cells function primarily as a direct antiviral mechanism to limit viral replication, or is it a consequence of immunopathological cell death, and what is the evidence for each?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:12.134Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Does ferroptosis induction in virally infected cells function primarily as a direct antiviral mechanism to limit viral replication, or is it a consequence of immunopathological cell death, and what is the evidence for each?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which interferon-stimulated genes (ISGs) have been experimentally shown to modulate ferroptosis-related proteins (e.g., GPX4, ACSL4, SLC7A11) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs influence lipid peroxidation levels or iron metabolism in virally infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs influence lipid peroxidation levels or iron metabolism in virally infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the direct impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the stability and function of viral envelope proteins or capsids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the direct impact of lipid peroxidation products (e.g., 4-HNE, MDA) on the stability and function of viral envelope proteins or capsids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in host cell membranes affect viral assembly, budding, or release efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation in host cell membranes affect viral assembly, budding, or release efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins or non-coding RNAs directly inhibit host ferroptosis executors (e.g., GPX4) or activate anti-ferroptosis pathways (e.g., NRF2)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:27.909Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which viral proteins or non-coding RNAs directly inhibit host ferroptosis executors (e.g., GPX4) or activate anti-ferroptosis pathways (e.g., NRF2)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.664Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis-related genes or proteins?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which specific interferon-stimulated genes (ISGs) have been experimentally demonstrated to directly modulate ferroptosis-related genes or proteins?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do known ferroptosis-regulating ISGs affect key ferroptosis pathways such as glutathione metabolism, GPX4 activity, or iron homeostasis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do known ferroptosis-regulating ISGs affect key ferroptosis pathways such as glutathione metabolism, GPX4 activity, or iron homeostasis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the effect of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and fluidity of viral envelopes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What is the effect of lipid peroxidation products (e.g., 4-HNE, MDA) on the structural integrity and fluidity of viral envelopes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation during ferroptosis impact viral entry, assembly, or release processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How does lipid peroxidation during ferroptosis impact viral entry, assembly, or release processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which signaling pathways (e.g., cGAS-STING, RIG-I/MDA5, or cytokine receptors) does antiviral innate immune activation trigger ferroptosis execution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:50:44.665Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Through which signaling pathways (e.g., cGAS-STING, RIG-I/MDA5, or cytokine receptors) does antiviral innate immune activation trigger ferroptosis execution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.016Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the known interferon-stimulated genes (ISGs) that directly or indirectly modulate the activity or expression of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What are the known interferon-stimulated genes (ISGs) that directly or indirectly modulate the activity or expression of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which ISGs have been demonstrated to influence the function or expression of system xc- (cystine/glutamate antiporter) during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Which ISGs have been demonstrated to influence the function or expression of system xc- (cystine/glutamate antiporter) during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs affect cellular iron metabolism or lipid peroxidation pathways that are central to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "How do specific ISGs affect cellular iron metabolism or lipid peroxidation pathways that are central to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What experimental evidence exists showing that ISG expression can either promote or inhibit lipid peroxidation in virally infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "What experimental evidence exists showing that ISG expression can either promote or inhibit lipid peroxidation in virally infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.017Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral infections where ISG-mediated regulation of ferroptosis pathways has been shown to alter viral replication outcomes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:01.018Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral infections where ISG-mediated regulation of ferroptosis pathways has been shown to alter viral replication outcomes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
