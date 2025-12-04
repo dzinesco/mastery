@@ -646,3 +646,138 @@
 ⚰️  **2025-12-04T06:55:40.821Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How do the Christian interpolations in the Testament of Job compare in content and style to known Christian redactions in other Jewish pseudepigrapha (e.g., Testaments of the Twelve Patriarchs)?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:56:16.623Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What are the specific input sources (afferent connections) to each major neuromodulatory nucleus (LC, raphe, VTA, basal forebrain) in key vertebrate model species (teleost fish, amphibian, reptile, bird, rodent, primate)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:16.623Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What are the specific output targets (efferent connections) from each major neuromodulatory nucleus to other brain regions in the same key vertebrate model species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:16.623Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How do the quantitative patterns of axonal collateralization (branching) differ for each neuromodulatory system when comparing vertebrates with small versus large brain sizes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:16.623Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How do the quantitative patterns of terminal field density (innervation density) differ for each neuromodulatory system when comparing vertebrates with simple versus complex brain architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:16.623Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "To what extent are the transcriptomic profiles of homologous neuromodulatory neurons conserved across vertebrate phylogeny, and how do divergences relate to species-specific adaptations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:20.959Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific linguistic criteria (e.g., vocabulary, syntax, Septuagintal vs. New Testament Greek) can reliably distinguish original Jewish from later Christian layers in the Testament of Job and Testaments of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:20.960Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What thematic or doctrinal markers (e.g., messianic expectations, afterlife beliefs, law vs. grace) are most indicative of Christian interpolation versus Jewish origin in these testamentary texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:20.960Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How do the Christian interpolations in the Testament of Job compare theologically (e.g., Christology, eschatology, soteriology) with the Christian redactions in the Testaments of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:20.960Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "Can consistent stylistic or compositional patterns be identified across Christian interpolations in these texts that might point to specific scribal traditions or schools?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:20.960Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What do the theological tendencies of the interpolations suggest about the doctrinal or ecclesiastical context of the Christian scribes who transmitted these texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:59.163Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific textual, theological, and linguistic markers are used by scholars to identify authentic Jewish elements in testament literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:59.163Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific textual, theological, and linguistic markers are used by scholars to identify Christian interpolations in testament literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:59.163Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What are the quantitative differences (frequency, length, distribution) between Christian interpolations in the Testament of Job and the Testaments of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:59.164Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What are the qualitative differences (theological content, Christological references, eschatological themes) between Christian interpolations in the Testament of Job and the Testaments of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:56:59.164Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What dating evidence (manuscript traditions, historical references, linguistic features) establishes the chronological relationship between Jewish compositional periods and Christian redactional layers in these testament texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:02.413Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What are the anatomical and functional differences in habenular subnuclei organization between aquatic and terrestrial vertebrates?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:02.414Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How do habenular afferent and efferent connectivity patterns (e.g., from septum, hypothalamus, or to interpeduncular nucleus) differ between aquatic and terrestrial vertebrates?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:02.414Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How does the ratio of neuromodulatory neuron count to total brain volume change across species of varying brain sizes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:02.414Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What is the relationship between the physical distance of neuromodulatory projections and the density of innervation across different brain sizes in vertebrates?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:02.414Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What ecological or behavioral factors in early amniotes selected for increased thalamocortical projection diversity compared to anamniotes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:08.536Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "What specific motifs, titles, or concepts from the Book of Parables (1 Enoch 37-71) appear in the Gospel of John's presentation of Jesus (e.g., Son of Man, pre-existence, judgment, heavenly ascent)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:08.536Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "How does the eschatological framework and imagery of the Book of Parables (e.g., final judgment, resurrection, the fate of the righteous and wicked) compare with the eschatology presented in the Johannine literature (John, 1-3 John, Revelation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:08.536Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "In what ways does the Epistle to Hebrews' depiction of Christ's heavenly priesthood, exaltation, and sacrificial work engage with or transform Enochic traditions about the exalted Son of Man or other heavenly mediators?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:08.536Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "Does the Johannine literature or Hebrews show direct literary dependence on the Book of Parables, or do they reflect a shared milieu of Second Temple Jewish apocalyptic thought?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:08.536Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "How are the functions and identity of the 'Elect One' / 'Son of Man' in the Book of Parables reconfigured in the Christological claims of John and Hebrews, particularly regarding agency in creation, revelation, and judgment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:35.073Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific textual, linguistic, and theological criteria do scholars use to identify original Jewish material in testament literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:35.073Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific textual, linguistic, and theological criteria do scholars use to identify Christian interpolations in testament literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:35.073Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What are the quantitative differences (e.g., number, length, distribution) between Christian interpolations in the Testament of Job and the Testament of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:35.073Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What are the qualitative differences (e.g., theological content, Christological references, eschatological themes) between Christian interpolations in the Testament of Job and the Testament of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:35.073Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "Are there consistent patterns of vocabulary, style, or theological emphasis that suggest distinct schools or traditions of Christian redaction across multiple testament texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:44.836Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What specific environmental or behavioral changes in the transition from aquatic to terrestrial life might have reduced selective pressure for habenular asymmetry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:44.836Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How does habenular connectivity to limbic, basal ganglia, and neuromodulatory systems differ between reptiles/birds and mammals/fish?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:44.836Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What specific habenular subnuclei are present in mammals that are absent or reduced in fish, and what are their distinct connectivity profiles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:44.836Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "How does the degree of habenular asymmetry correlate with sensory processing demands or motor lateralization in fish versus amniotes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:44.836Z** - Topic: `Comparative neuroanatomy of neuromodulatory nuclei across vertebrate phylogeny: mapping conserved and divergent connectivity patterns for adaptive control systems` - Query: "What experimental evidence exists regarding functional outcomes when habenular asymmetry is manipulated in model organisms from different vertebrate classes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:56.486Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "What specific phrases, terms, or literary structures in Hebrews (e.g., 'better sacrifice,' Melchizedek typology, eschatological judgment) have direct parallels in the Parables of Enoch that are not found in other Second Temple Jewish texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:56.486Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "How does the dating of the Parables of Enoch (late 1st century BCE to late 1st century CE) compare to the likely composition date of the Gospel of John, and what does this timeline imply about the direction of influence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:56.486Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "What distinctive thematic elements in John's Gospel (e.g., pre-existence, descent/ascent, judgment, 'Son of Man' usage) overlap uniquely with the Parables of Enoch rather than with broader Jewish Wisdom literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:56.486Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "Are there instances in John where Wisdom motifs (e.g., divine indwelling, agency in creation) align more closely with Enochic tradition (e.g., the Elect One, the Son of Man) than with texts like Proverbs, Sirach, or Wisdom of Solomon?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:57:56.486Z** - Topic: `The reception and transformation of Enochic traditions (specifically the Book of Parables, 1 Enoch 37-71) in the Christology and eschatology of the Johannine literature and the Epistle to the Hebrews.` - Query: "What methodological criteria can be used to distinguish between direct literary dependence on the Parables of Enoch and shared use of common Jewish traditions in both Hebrews and John?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:22.738Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What textual, linguistic, and thematic markers are used by scholars to identify authentic Jewish elements in pseudepigraphal literature like the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:22.738Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What specific passages in the Testament of Job are widely agreed upon by scholars to be Christian interpolations, and what criteria support these identifications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:22.738Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What are the key thematic characteristics (e.g., eschatology, messianism, virtue ethics) of the Christian interpolations identified in the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:22.738Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "What are the key stylistic features (e.g., vocabulary, formulaic phrases, narrative techniques) of the Christian interpolations identified in the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:58:22.738Z** - Topic: `The Christian interpolations and redactional layers in the Testament of Job and their relationship to the Testament of the Twelve Patriarchs as a corpus of "Testament Literature."` - Query: "How do the thematic characteristics of the Christian interpolations in the Testament of Job specifically compare to those in the Testaments of the Twelve Patriarchs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
