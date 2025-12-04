@@ -7915,3 +7915,513 @@
 ⚰️  **2025-12-04T18:58:34.649Z** - Topic: `"Virus-induced modulation of cellular phospholipid metabolism and membrane remodeling as a ferroptosis evasion strategy: focusing on viral manipulation of ACSL4, LPCAT3, and PUFA phospholipid biosynthesis pathways"` - Query: "How do viral infections alter LPCAT3 subcellular localization or membrane association?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:00:03.066Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do specific viruses (e.g., HCV, SARS-CoV-2, Dengue) hijack host cell lipid droplets to sequester polyunsaturated fatty acids (PUFAs) and prevent their peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do specific viruses (e.g., HCV, SARS-CoV-2, Dengue) hijack host cell lipid droplets to sequester polyunsaturated fatty acids (PUFAs) and prevent their peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the molecular mechanisms by which viruses modulate the SREBP-SCAP complex to upregulate genes involved in saturated and monounsaturated fatty acid synthesis, and how does this alter membrane phospholipid composition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the molecular mechanisms by which viruses modulate the SREBP-SCAP complex to upregulate genes involved in saturated and monounsaturated fatty acid synthesis, and how does this alter membrane phospholipid composition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral infection regulate ACSL3 activity or expression to preferentially channel fatty acids toward monounsaturated phospholipid synthesis rather than polyunsaturated phospholipid synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral infection regulate ACSL3 activity or expression to preferentially channel fatty acids toward monounsaturated phospholipid synthesis rather than polyunsaturated phospholipid synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the role of viral manipulation of cellular cholesterol metabolism (e.g., via LDL receptor upregulation or cholesterol biosynthesis) in altering membrane fluidity and resistance to lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the role of viral manipulation of cellular cholesterol metabolism (e.g., via LDL receptor upregulation or cholesterol biosynthesis) in altering membrane fluidity and resistance to lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do different viral families employ convergent or divergent strategies to co-opt the SREBP/SCAP/ACSL3 axis and lipid droplets to inhibit ferroptosis, and what are the key host-pathogen interaction nodes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:03.067Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do different viral families employ convergent or divergent strategies to co-opt the SREBP/SCAP/ACSL3 axis and lipid droplets to inhibit ferroptosis, and what are the key host-pathogen interaction nodes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.803Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins directly interact with the SREBP/SCAP complex to activate or inhibit its function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.804Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins directly interact with the SREBP/SCAP complex to activate or inhibit its function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.804Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms do viruses alter ACSL3 expression, localization, or enzymatic activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.804Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms do viruses alter ACSL3 expression, localization, or enzymatic activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.804Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses manipulate lipid droplet biogenesis, composition, or turnover to protect infected cells from ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.804Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses manipulate lipid droplet biogenesis, composition, or turnover to protect infected cells from ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.805Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral strategies exist to modify the cellular phospholipid profile via ACSL3 to benefit viral replication or assembly?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.805Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral strategies exist to modify the cellular phospholipid profile via ACSL3 to benefit viral replication or assembly?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.805Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do lipid droplets serve as reservoirs for antioxidants or pro-ferroptotic lipids during viral infection, and how is this regulated?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:21.805Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do lipid droplets serve as reservoirs for antioxidants or pro-ferroptotic lipids during viral infection, and how is this regulated?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.698Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which viral proteins directly interact with the SREBP/SCAP complex to inhibit its activation or function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.698Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which viral proteins directly interact with the SREBP/SCAP complex to inhibit its activation or function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.698Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter the subcellular localization or degradation of SCAP to prevent SREBP processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.698Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter the subcellular localization or degradation of SCAP to prevent SREBP processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.699Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral mechanisms exist to upregulate or mimic SREBP target genes (e.g., FASN, SCD1) independently of SREBP activation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.699Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral mechanisms exist to upregulate or mimic SREBP target genes (e.g., FASN, SCD1) independently of SREBP activation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.699Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses modulate ACSL3 expression, phosphorylation, or protein-protein interactions to alter its substrate specificity or activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.699Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses modulate ACSL3 expression, phosphorylation, or protein-protein interactions to alter its substrate specificity or activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.700Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral factors directly bind to ACSL3 to enhance its activity toward monounsaturated fatty acids over polyunsaturated fatty acids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:41.700Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral factors directly bind to ACSL3 to enhance its activity toward monounsaturated fatty acids over polyunsaturated fatty acids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.768Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genomic elements directly interact with the SREBP/SCAP complex to alter its activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genomic elements directly interact with the SREBP/SCAP complex to alter its activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms (e.g., phosphorylation, cleavage, sequestration) do viruses modify ACSL3 enzyme function or localization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms (e.g., phosphorylation, cleavage, sequestration) do viruses modify ACSL3 enzyme function or localization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of ACSL3 specifically shift phospholipid acyl-chain composition toward saturated or monounsaturated fatty acids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of ACSL3 specifically shift phospholipid acyl-chain composition toward saturated or monounsaturated fatty acids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do viruses increase lipid droplet biogenesis or alter their composition to sequester peroxidizable polyunsaturated fatty acids (PUFAs) and protect against ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do viruses increase lipid droplet biogenesis or alter their composition to sequester peroxidizable polyunsaturated fatty acids (PUFAs) and protect against ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What experimental evidence links viral-induced changes in lipid droplet dynamics directly to reduced lipid peroxidation and increased cell survival during ferroptosis induction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:00:58.769Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What experimental evidence links viral-induced changes in lipid droplet dynamics directly to reduced lipid peroxidation and increased cell survival during ferroptosis induction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally demonstrated to hijack cellular lipid droplets or cholesterol metabolism as a mechanism to resist ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally demonstrated to hijack cellular lipid droplets or cholesterol metabolism as a mechanism to resist ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms by which viruses modulate the SREBP pathway to influence ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms by which viruses modulate the SREBP pathway to influence ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms by which viruses modulate the SCAP pathway to influence ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms by which viruses modulate the SCAP pathway to influence ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms by which viruses modulate the ACSL3 pathway to influence ferroptosis susceptibility?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms by which viruses modulate the ACSL3 pathway to influence ferroptosis susceptibility?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of saturated phospholipid synthesis specifically alter cellular susceptibility to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:14.886Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of saturated phospholipid synthesis specifically alter cellular susceptibility to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms viruses use to bind to or interact with cellular lipid droplets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular mechanisms viruses use to bind to or interact with cellular lipid droplets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter host cholesterol biosynthesis or uptake pathways to benefit viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter host cholesterol biosynthesis or uptake pathways to benefit viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the role of SREBP-SCAP complex activation in preventing viral-induced lipid peroxidation and ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the role of SREBP-SCAP complex activation in preventing viral-induced lipid peroxidation and ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does ACSL3 activity contribute to viral resistance against ferroptotic cell death during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.628Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does ACSL3 activity contribute to viral resistance against ferroptotic cell death during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.629Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which viral families or specific viruses have been shown to upregulate host enzymes involved in saturated or monounsaturated phospholipid synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:31.629Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which viral families or specific viruses have been shown to upregulate host enzymes involved in saturated or monounsaturated phospholipid synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.298Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genetic elements directly interact with the SREBP/SCAP complex to alter its activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genetic elements directly interact with the SREBP/SCAP complex to alter its activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms do viruses modify ACSL3 enzymatic function or expression levels?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms do viruses modify ACSL3 enzymatic function or expression levels?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of ACSL3 specifically change membrane phospholipid saturation profiles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of ACSL3 specifically change membrane phospholipid saturation profiles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral strategies exist for co-opting lipid droplet biogenesis or function during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral strategies exist for co-opting lipid droplet biogenesis or function during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter cholesterol biosynthesis or trafficking to prevent ferroptotic membrane damage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:01:48.299Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter cholesterol biosynthesis or trafficking to prevent ferroptotic membrane damage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.362Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to interact with or alter cellular lipid droplets during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to interact with or alter cellular lipid droplets during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What evidence exists that viruses manipulate cholesterol biosynthesis or trafficking pathways to inhibit ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What evidence exists that viruses manipulate cholesterol biosynthesis or trafficking pathways to inhibit ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viral infections affect the activity or localization of SREBP/SCAP complexes, and what are the downstream lipid metabolic consequences?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viral infections affect the activity or localization of SREBP/SCAP complexes, and what are the downstream lipid metabolic consequences?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What changes occur in ACSL3 expression, localization, or function during viral infection, and how do these relate to phospholipid remodeling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.363Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What changes occur in ACSL3 expression, localization, or function during viral infection, and how do these relate to phospholipid remodeling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.364Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral modulation of saturated and monounsaturated phospholipid synthesis pathways alter membrane composition to confer resistance to lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:02.364Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral modulation of saturated and monounsaturated phospholipid synthesis pathways alter membrane composition to confer resistance to lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the evidence that viruses physically interact with or localize to cellular lipid droplets during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the evidence that viruses physically interact with or localize to cellular lipid droplets during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral infection alter cholesterol metabolism, and does this correlate with reduced ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral infection alter cholesterol metabolism, and does this correlate with reduced ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genomic elements are known to interact with or modulate the SREBP-SCAP complex?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genomic elements are known to interact with or modulate the SREBP-SCAP complex?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the direct or indirect mechanisms by which viruses regulate ACSL3 expression or activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the direct or indirect mechanisms by which viruses regulate ACSL3 expression or activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.815Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Does viral manipulation of fatty acid desaturases (e.g., SCD1) or phospholipid remodeling enzymes increase the saturation ratio of cellular membranes to inhibit lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:17.816Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Does viral manipulation of fatty acid desaturases (e.g., SCD1) or phospholipid remodeling enzymes increase the saturation ratio of cellular membranes to inhibit lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.766Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to directly interact with or modify the SREBP/SCAP protein complex?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.766Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to directly interact with or modify the SREBP/SCAP protein complex?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the molecular mechanisms (e.g., protein-protein interaction, cleavage, phosphorylation) by which viruses directly modulate SREBP/SCAP signaling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the molecular mechanisms (e.g., protein-protein interaction, cleavage, phosphorylation) by which viruses directly modulate SREBP/SCAP signaling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viral proteins or infection alter the transcription or activity of ACSL3 (Acyl-CoA Synthetase Long Chain Family Member 3)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viral proteins or infection alter the transcription or activity of ACSL3 (Acyl-CoA Synthetase Long Chain Family Member 3)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the causal relationship between changes in ACSL3 activity and the degree of saturation in cellular phospholipids during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the causal relationship between changes in ACSL3 activity and the degree of saturation in cellular phospholipids during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral infection affect the formation, turnover, or composition of lipid droplets in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:36.767Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral infection affect the formation, turnover, or composition of lipid droplets in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.603Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genomic elements directly interact with the SREBP/SCAP complex to alter its activity or localization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.603Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or genomic elements directly interact with the SREBP/SCAP complex to alter its activity or localization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms do viruses upregulate or inhibit ACSL3 expression or enzymatic function during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms do viruses upregulate or inhibit ACSL3 expression or enzymatic function during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of ACSL3 specifically shift phospholipid composition toward saturated or monounsaturated fatty acid incorporation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of ACSL3 specifically shift phospholipid composition toward saturated or monounsaturated fatty acid incorporation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral strategies promote lipid droplet accumulation or alter their composition to protect infected cells from lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral strategies promote lipid droplet accumulation or alter their composition to protect infected cells from lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral-induced lipid droplet biogenesis or modification interfere with the execution of ferroptotic cell death pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:02:53.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral-induced lipid droplet biogenesis or modification interfere with the execution of ferroptotic cell death pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.013Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the known viral proteins or mechanisms that directly interact with SREBP to alter its activity or cleavage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.013Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the known viral proteins or mechanisms that directly interact with SREBP to alter its activity or cleavage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.013Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do specific viruses manipulate the SCAP protein to disrupt its role in SREBP trafficking and activation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.013Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do specific viruses manipulate the SCAP protein to disrupt its role in SREBP trafficking and activation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.013Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which viral strategies target ACSL3 function or expression to influence fatty acid metabolism during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.013Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which viral strategies target ACSL3 function or expression to influence fatty acid metabolism during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.014Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral modifications occur to enzymes like SCD1 or FADS2 to shift phospholipid synthesis toward monounsaturated or saturated species?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.014Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What viral modifications occur to enzymes like SCD1 or FADS2 to shift phospholipid synthesis toward monounsaturated or saturated species?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.014Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter the formation, turnover, or composition of lipid droplets to support viral replication and evade ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:10.014Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter the formation, turnover, or composition of lipid droplets to support viral replication and evade ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.504Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to hijack the SREBP/SCAP pathway, and what are the molecular mechanisms involved (e.g., protein interactions, cleavage activation, or transcriptional regulation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to hijack the SREBP/SCAP pathway, and what are the molecular mechanisms involved (e.g., protein interactions, cleavage activation, or transcriptional regulation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does ACSL3 activity specifically influence the synthesis of saturated versus monounsaturated phospholipids during viral infection, and what viral proteins or signals mediate this manipulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does ACSL3 activity specifically influence the synthesis of saturated versus monounsaturated phospholipids during viral infection, and what viral proteins or signals mediate this manipulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What direct evidence links viral modulation of lipid droplets (e.g., altering their number, size, or composition) to changes in cellular susceptibility to ferroptosis (e.g., via lipid peroxidation or GPX4 activity)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What direct evidence links viral modulation of lipid droplets (e.g., altering their number, size, or composition) to changes in cellular susceptibility to ferroptosis (e.g., via lipid peroxidation or GPX4 activity)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do viruses that target both the SREBP/SCAP pathway and lipid droplet dynamics show enhanced resistance to ferroptosis compared to viruses targeting only one pathway, and what is the mechanistic overlap?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do viruses that target both the SREBP/SCAP pathway and lipid droplet dynamics show enhanced resistance to ferroptosis compared to viruses targeting only one pathway, and what is the mechanistic overlap?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there common lipid species or metabolic intermediates (e.g., specific fatty acids or phospholipids) that functionally connect viral hijacking of ACSL3, SREBP/SCAP, and ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:28.505Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there common lipid species or metabolic intermediates (e.g., specific fatty acids or phospholipids) that functionally connect viral hijacking of ACSL3, SREBP/SCAP, and ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins from hepatitis C, dengue, and SARS-CoV-2 directly interact with host proteins involved in lipid droplet formation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins from hepatitis C, dengue, and SARS-CoV-2 directly interact with host proteins involved in lipid droplet formation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do hepatitis C, dengue, and SARS-CoV-2 infection alter cholesterol biosynthesis, uptake, and efflux pathways in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do hepatitis C, dengue, and SARS-CoV-2 infection alter cholesterol biosynthesis, uptake, and efflux pathways in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular interactions between viral proteins and the SREBP/SCAP complex that lead to its activation or inhibition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the specific molecular interactions between viral proteins and the SREBP/SCAP complex that lead to its activation or inhibition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral modulation of SREBP/SCAP signaling affect the expression of downstream lipid metabolism genes in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.758Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral modulation of SREBP/SCAP signaling affect the expression of downstream lipid metabolism genes in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.759Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the mechanism by which viral upregulation of ACSL3 specifically increases the synthesis of saturated and monounsaturated phospholipids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:03:44.759Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the mechanism by which viral upregulation of ACSL3 specifically increases the synthesis of saturated and monounsaturated phospholipids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to hijack the SREBP/SCAP pathway, and through which viral proteins or mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to hijack the SREBP/SCAP pathway, and through which viral proteins or mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter the subcellular localization, expression, or activity of ACSL3 to shift phospholipid synthesis toward saturated or monounsaturated fatty acids?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.604Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How do viruses alter the subcellular localization, expression, or activity of ACSL3 to shift phospholipid synthesis toward saturated or monounsaturated fatty acids?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.605Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What experimental evidence demonstrates that viral infection or specific viral proteins directly increase cellular lipid droplet number or content?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.605Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What experimental evidence demonstrates that viral infection or specific viral proteins directly increase cellular lipid droplet number or content?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.605Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "In virus-infected cells, what is the mechanistic link between increased lipid droplets and the observed reduction in lipid peroxidation or ferroptosis markers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.605Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "In virus-infected cells, what is the mechanistic link between increased lipid droplets and the observed reduction in lipid peroxidation or ferroptosis markers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.605Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there studies showing that blocking viral manipulation of lipid droplets (e.g., via lipid droplet disruption or inhibition of their formation) restores sensitivity to ferroptosis inducers in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:03.605Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there studies showing that blocking viral manipulation of lipid droplets (e.g., via lipid droplet disruption or inhibition of their formation) restores sensitivity to ferroptosis inducers in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.184Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or non-coding RNAs directly interact with SREBP or SCAP to alter their localization, stability, or transcriptional activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.184Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viral proteins or non-coding RNAs directly interact with SREBP or SCAP to alter their localization, stability, or transcriptional activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.184Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms (e.g., phosphorylation, ubiquitination, proteolytic cleavage) do viruses modify ACSL3 enzyme activity or expression to shift phospholipid acyl-chain composition?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Through what molecular mechanisms (e.g., phosphorylation, ubiquitination, proteolytic cleavage) do viruses modify ACSL3 enzyme activity or expression to shift phospholipid acyl-chain composition?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral-induced lipid droplet biogenesis or remodeling alter the cellular availability of polyunsaturated fatty acids (PUFAs) and phospholipids that are substrates for lipid peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral-induced lipid droplet biogenesis or remodeling alter the cellular availability of polyunsaturated fatty acids (PUFAs) and phospholipids that are substrates for lipid peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do viruses that modulate lipid droplets concurrently upregulate specific glutathione peroxidase 4 (GPX4)-independent ferroptosis defense pathways (e.g., FSP1, DHODH, GCH1)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Do viruses that modulate lipid droplets concurrently upregulate specific glutathione peroxidase 4 (GPX4)-independent ferroptosis defense pathways (e.g., FSP1, DHODH, GCH1)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the causal evidence that viral manipulation of the SREBP/SCAP pathway or ACSL3 activity directly confers ferroptosis resistance in infected cells, independent of other viral anti-apoptotic mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:23.185Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What is the causal evidence that viral manipulation of the SREBP/SCAP pathway or ACSL3 activity directly confers ferroptosis resistance in infected cells, independent of other viral anti-apoptotic mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.714Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to hijack the SREBP/SCAP pathway, and what viral proteins or mechanisms are involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.714Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Which specific viruses have been experimentally shown to hijack the SREBP/SCAP pathway, and what viral proteins or mechanisms are involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.714Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the molecular interactions between viral components and the ACSL3 enzyme that lead to altered activity and increased saturated/monounsaturated phospholipid synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What are the molecular interactions between viral components and the ACSL3 enzyme that lead to altered activity and increased saturated/monounsaturated phospholipid synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What experimental evidence demonstrates that viral modulation of lipid droplets directly inhibits ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "What experimental evidence demonstrates that viral modulation of lipid droplets directly inhibits ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of cholesterol metabolism (e.g., uptake, synthesis, or efflux) confer resistance to ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "How does viral manipulation of cholesterol metabolism (e.g., uptake, synthesis, or efflux) confer resistance to ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there common viral strategies or conserved motifs used across different viruses to target the SREBP/SCAP pathway, ACSL3 activity, and lipid droplet/cholesterol metabolism simultaneously?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there common viral strategies or conserved motifs used across different viruses to target the SREBP/SCAP pathway, ACSL3 activity, and lipid droplet/cholesterol metabolism simultaneously?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
