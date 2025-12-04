@@ -7315,3 +7315,543 @@
 ⚰️  **2025-12-04T18:51:01.018Z** - Topic: `"Ferroptosis in antiviral innate immunity: the role of interferon-stimulated genes (ISGs) in regulating lipid peroxidation and viral membrane integrity"` - Query: "Are there specific viral infections where ISG-mediated regulation of ferroptosis pathways has been shown to alter viral replication outcomes?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T18:51:45.028Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the known alternative lipid peroxidation repair systems that can function independently of GPX4 in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.028Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the known alternative lipid peroxidation repair systems that can function independently of GPX4 in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.028Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells activate or upregulate these GPX4-independent ferroptosis defense mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.028Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells activate or upregulate these GPX4-independent ferroptosis defense mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.028Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which specific viruses have been shown to manipulate or subvert these alternative lipid peroxidation repair pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.028Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which specific viruses have been shown to manipulate or subvert these alternative lipid peroxidation repair pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.029Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What molecular strategies do viruses employ to inhibit or hijack these GPX4-independent ferroptosis defenses for their replication advantage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.029Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What molecular strategies do viruses employ to inhibit or hijack these GPX4-independent ferroptosis defenses for their replication advantage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.029Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies affect the overall ferroptosis susceptibility and survival outcomes of infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:51:45.029Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies affect the overall ferroptosis susceptibility and survival outcomes of infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular components and mechanisms of the FSP1 (ferroptosis suppressor protein 1) pathway in mammalian cells, independent of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular components and mechanisms of the FSP1 (ferroptosis suppressor protein 1) pathway in mammalian cells, independent of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the GCH1 (GTP cyclohydrolase 1) pathway function to protect against lipid peroxidation and ferroptosis in mammalian cells without relying on GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the GCH1 (GTP cyclohydrolase 1) pathway function to protect against lipid peroxidation and ferroptosis in mammalian cells without relying on GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role and mechanism of the DHODH (dihydroorotate dehydrogenase) pathway in defending against ferroptosis in mitochondria, separate from GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role and mechanism of the DHODH (dihydroorotate dehydrogenase) pathway in defending against ferroptosis in mitochondria, separate from GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells specifically upregulate or utilize the FSP1, GCH1, and/or DHODH pathways to counteract lipid peroxidation and survive ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells specifically upregulate or utilize the FSP1, GCH1, and/or DHODH pathways to counteract lipid peroxidation and survive ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What documented viral proteins or strategies directly inhibit or dysregulate the FSP1, GCH1, or DHODH pathways to promote ferroptosis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:07.692Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What documented viral proteins or strategies directly inhibit or dysregulate the FSP1, GCH1, or DHODH pathways to promote ferroptosis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.252Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the known GPX4-independent ferroptosis defense mechanisms (e.g., FSP1, GCH1, DHODH) that have been identified in mammalian cells, irrespective of infection status?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.252Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the known GPX4-independent ferroptosis defense mechanisms (e.g., FSP1, GCH1, DHODH) that have been identified in mammalian cells, irrespective of infection status?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.252Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does viral infection alter the expression, activity, or localization of the key components of the FSP1-CoQ10 antioxidant system in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does viral infection alter the expression, activity, or localization of the key components of the FSP1-CoQ10 antioxidant system in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the impact of viral infection on the GCH1-BH4 pathway and its ability to protect phospholipids from peroxidation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the impact of viral infection on the GCH1-BH4 pathway and its ability to protect phospholipids from peroxidation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "During viral infection, how does the mitochondrial DHODH-CoQH2 system function to inhibit ferroptosis, and is this pathway modulated by the virus?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "During viral infection, how does the mitochondrial DHODH-CoQH2 system function to inhibit ferroptosis, and is this pathway modulated by the virus?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What specific viral proteins or viral lifecycle processes have been shown to directly interact with, inhibit, or hijack the FSP1, GCH1, or DHODH pathways to either promote cell survival or induce ferroptosis for viral spread?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:26.253Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What specific viral proteins or viral lifecycle processes have been shown to directly interact with, inhibit, or hijack the FSP1, GCH1, or DHODH pathways to either promote cell survival or induce ferroptosis for viral spread?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.942Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms and key proteins involved in GPX4-independent ferroptosis defense in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.942Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms and key proteins involved in GPX4-independent ferroptosis defense in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.942Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do different viruses interact with or modulate cellular lipid peroxidation repair systems during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.942Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do different viruses interact with or modulate cellular lipid peroxidation repair systems during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.943Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which specific alternative lipid peroxidation repair systems (FSP1, GCH1, DHODH) are functionally active in virus-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.943Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which specific alternative lipid peroxidation repair systems (FSP1, GCH1, DHODH) are functionally active in virus-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.943Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does viral infection affect the expression and activity of GPX4-independent ferroptosis defense pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.943Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does viral infection affect the expression and activity of GPX4-independent ferroptosis defense pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.943Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the functional consequences of viral manipulation of lipid peroxidation repair systems for viral replication and host cell survival?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:41.943Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the functional consequences of viral manipulation of lipid peroxidation repair systems for viral replication and host cell survival?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or downregulate non-GPX4 ferroptosis defense pathways (e.g., FSP1, GCH1, DHODH) in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or downregulate non-GPX4 ferroptosis defense pathways (e.g., FSP1, GCH1, DHODH) in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses manipulate host lipid peroxidation substrates (e.g., PUFA levels, lipid composition) to evade or exploit ferroptosis during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses manipulate host lipid peroxidation substrates (e.g., PUFA levels, lipid composition) to evade or exploit ferroptosis during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral activation or suppression of alternative antioxidant systems (e.g., glutathione-independent pathways) to control ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:52:59.824Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral activation or suppression of alternative antioxidant systems (e.g., glutathione-independent pathways) to control ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms and key enzymes involved in GPX4-independent ferroptosis defense in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms and key enzymes involved in GPX4-independent ferroptosis defense in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the FSP1-CoQ10 pathway function to suppress lipid peroxidation in virus-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the FSP1-CoQ10 pathway function to suppress lipid peroxidation in virus-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role of the GCH1-BH4 pathway in protecting virus-infected cells from ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role of the GCH1-BH4 pathway in protecting virus-infected cells from ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the mitochondrial DHODH-CoQ pathway contribute to ferroptosis resistance in virus-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the mitochondrial DHODH-CoQ pathway contribute to ferroptosis resistance in virus-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral mechanisms exist to inhibit or hijack these alternative ferroptosis defense pathways for viral replication or immune evasion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:20.656Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral mechanisms exist to inhibit or hijack these alternative ferroptosis defense pathways for viral replication or immune evasion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.732Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What specific enzymes or pathways (e.g., FSP1, DHODH, GCH1) have been identified as GPX4-independent ferroptosis defense mechanisms in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.732Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What specific enzymes or pathways (e.g., FSP1, DHODH, GCH1) have been identified as GPX4-independent ferroptosis defense mechanisms in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.732Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses modulate or exploit cellular lipid peroxidation repair systems (e.g., GPX4, FSP1, antioxidant networks) to promote viral replication or persistence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.732Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses modulate or exploit cellular lipid peroxidation repair systems (e.g., GPX4, FSP1, antioxidant networks) to promote viral replication or persistence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.732Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the key alternative lipid peroxidation repair systems (e.g., FSP1-CoQ10, DHODH-CoQ10, GCH1-BH4) that function independently of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.732Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the key alternative lipid peroxidation repair systems (e.g., FSP1-CoQ10, DHODH-CoQ10, GCH1-BH4) that function independently of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.733Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do GPX4-independent defense mechanisms (e.g., FSP1, DHODH) interact with or compensate for GPX4 loss in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.733Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do GPX4-independent defense mechanisms (e.g., FSP1, DHODH) interact with or compensate for GPX4 loss in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.733Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or strategies directly target or alter lipid peroxidation repair pathways to influence cell death outcomes (e.g., ferroptosis vs. survival)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:39.733Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or strategies directly target or alter lipid peroxidation repair pathways to influence cell death outcomes (e.g., ferroptosis vs. survival)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or activate alternative lipid peroxidation repair systems, such as FSP1, GCH1, or AIFM2?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or activate alternative lipid peroxidation repair systems, such as FSP1, GCH1, or AIFM2?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or degrade components of these alternative ferroptosis defense pathways (e.g., FSP1, GCH1)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or degrade components of these alternative ferroptosis defense pathways (e.g., FSP1, GCH1)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses manipulate cellular metabolism to reduce the accumulation of peroxidized lipids or enhance antioxidant capacity independently of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses manipulate cellular metabolism to reduce the accumulation of peroxidized lipids or enhance antioxidant capacity independently of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.754Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral strategies that co-opt or rewire non-GPX4 ferroptosis defenses to promote viral replication or persistence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:53:56.755Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral strategies that co-opt or rewire non-GPX4 ferroptosis defenses to promote viral replication or persistence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viruses directly manipulating non-GPX4 lipid peroxidation repair systems (e.g., FSP1, GCH1, DHODH) to promote cell survival or viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viruses directly manipulating non-GPX4 lipid peroxidation repair systems (e.g., FSP1, GCH1, DHODH) to promote cell survival or viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative ferroptosis defense pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative ferroptosis defense pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses influence the outcome of infection, immune evasion, or pathogenesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:13.892Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses influence the outcome of infection, immune evasion, or pathogenesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.124Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.124Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.124Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists that viruses directly manipulate non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, AIFM2, or ESCRT-III) to promote cell survival or viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists that viruses directly manipulate non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, AIFM2, or ESCRT-III) to promote cell survival or viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect the outcome of infection, immune response, or viral pathogenesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:34.125Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect the outcome of infection, immune response, or viral pathogenesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.215Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.215Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.215Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.215Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.216Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viruses directly manipulating non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, DHODH) to promote viral replication or persistence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.216Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viruses directly manipulating non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, DHODH) to promote viral replication or persistence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.216Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.216Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.216Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do different virus families (e.g., DNA vs. RNA viruses) vary in their strategies to subvert GPX4-independent ferroptosis defenses in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:54:52.216Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do different virus families (e.g., DNA vs. RNA viruses) vary in their strategies to subvert GPX4-independent ferroptosis defenses in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists that viruses directly manipulate non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, AIFM2, or ESCRT-III) to promote cell survival or viral replication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists that viruses directly manipulate non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, AIFM2, or ESCRT-III) to promote cell survival or viral replication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.934Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect the outcome of infection, immune evasion, or pathogenesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:08.935Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect the outcome of infection, immune evasion, or pathogenesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.234Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.234Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.234Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or activate alternative lipid peroxidation defense systems, such as FSP1, GCH1, or AIFM2?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.234Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or activate alternative lipid peroxidation defense systems, such as FSP1, GCH1, or AIFM2?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.234Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or subvert GPX4-independent ferroptosis defense pathways like the FSP1-CoQ10 system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.234Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or subvert GPX4-independent ferroptosis defense pathways like the FSP1-CoQ10 system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.235Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses modulate cellular lipid metabolism or antioxidant systems to bypass the need for GPX4 in ferroptosis protection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.235Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses modulate cellular lipid metabolism or antioxidant systems to bypass the need for GPX4 in ferroptosis protection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.235Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral manipulation of other peroxidation repair systems, such as those involving vitamin E, tetrahydrobiopterin, or dihydroorotate dehydrogenase?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:25.235Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral manipulation of other peroxidation repair systems, such as those involving vitamin E, tetrahydrobiopterin, or dihydroorotate dehydrogenase?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms by which FSP1 (Ferroptosis Suppressor Protein 1) repairs lipid peroxidation independently of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms by which FSP1 (Ferroptosis Suppressor Protein 1) repairs lipid peroxidation independently of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do the GCH1/BH4 (GTP cyclohydrolase 1/tetrahydrobiopterin) and DHODH (dihydroorotate dehydrogenase) pathways function to prevent or repair lipid peroxidation in GPX4-independent contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do the GCH1/BH4 (GTP cyclohydrolase 1/tetrahydrobiopterin) and DHODH (dihydroorotate dehydrogenase) pathways function to prevent or repair lipid peroxidation in GPX4-independent contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role of AIFM2 (Apoptosis-Inducing Factor Mitochondria Associated 2) in lipid peroxidation repair, and how does its mechanism differ from other GPX4-independent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role of AIFM2 (Apoptosis-Inducing Factor Mitochondria Associated 2) in lipid peroxidation repair, and how does its mechanism differ from other GPX4-independent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which specific viruses have been experimentally demonstrated to modulate or inhibit the FSP1, GCH1/BH4, DHODH, or AIFM2 pathways in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which specific viruses have been experimentally demonstrated to modulate or inhibit the FSP1, GCH1/BH4, DHODH, or AIFM2 pathways in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the identified viral proteins or molecular mechanisms through which viruses subvert these GPX4-independent lipid peroxidation defense systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:41.075Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the identified viral proteins or molecular mechanisms through which viruses subvert these GPX4-independent lipid peroxidation defense systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.350Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular components and mechanisms of the FSP1-CoQ10 pathway in ferroptosis defense, independent of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.350Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular components and mechanisms of the FSP1-CoQ10 pathway in ferroptosis defense, independent of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.350Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the mitochondrial DHODH-CoQ10 pathway function to suppress lipid peroxidation and ferroptosis in GPX4-deficient contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does the mitochondrial DHODH-CoQ10 pathway function to suppress lipid peroxidation and ferroptosis in GPX4-deficient contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role of the GCH1-BH4 pathway in protecting against ferroptosis through lipid antioxidant synthesis and membrane remodeling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What is the role of the GCH1-BH4 pathway in protecting against ferroptosis through lipid antioxidant synthesis and membrane remodeling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or modulate the FSP1, DHODH, and/or GCH1 pathways to counteract lipid peroxidation during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or modulate the FSP1, DHODH, and/or GCH1 pathways to counteract lipid peroxidation during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly interact with or regulate these alternative ferroptosis defense pathways to promote viral survival or propagation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:55:58.351Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly interact with or regulate these alternative ferroptosis defense pathways to promote viral survival or propagation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways (other than GPX4) that mammalian cells use to prevent or repair lipid peroxidation during ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways (other than GPX4) that mammalian cells use to prevent or repair lipid peroxidation during ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or activate alternative lipid peroxidation repair systems (e.g., FSP1, GCH1, DHODH) compared to uninfected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells upregulate or activate alternative lipid peroxidation repair systems (e.g., FSP1, GCH1, DHODH) compared to uninfected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or degrade components of alternative ferroptosis defense pathways (e.g., targeting FSP1, GCH1, or DHODH)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What viral proteins or mechanisms directly inhibit or degrade components of alternative ferroptosis defense pathways (e.g., targeting FSP1, GCH1, or DHODH)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses manipulate cellular metabolism (e.g., lipid, iron, or antioxidant metabolism) to bypass the need for GPX4-dependent ferroptosis defense?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do viruses manipulate cellular metabolism (e.g., lipid, iron, or antioxidant metabolism) to bypass the need for GPX4-dependent ferroptosis defense?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral modulation of membrane lipid composition or peroxidation susceptibility as a strategy to counteract ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:16.417Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viral modulation of membrane lipid composition or peroxidation susceptibility as a strategy to counteract ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms and key proteins involved in GPX4-independent ferroptosis defense pathways in mammalian cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific molecular mechanisms and key proteins involved in GPX4-independent ferroptosis defense pathways in mammalian cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do different viruses (e.g., DNA viruses, RNA viruses, enveloped vs. non-enveloped) interact with cellular lipid peroxidation repair systems during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do different viruses (e.g., DNA viruses, RNA viruses, enveloped vs. non-enveloped) interact with cellular lipid peroxidation repair systems during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral strategies have been shown to directly modulate or subvert FSP1, GCH1/BH4, or DHODH pathways in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral strategies have been shown to directly modulate or subvert FSP1, GCH1/BH4, or DHODH pathways in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.172Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does viral infection alter the expression, activity, or subcellular localization of alternative lipid peroxidation repair systems (FSP1, GCH1/BH4, DHODH) in different cell types?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.173Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How does viral infection alter the expression, activity, or subcellular localization of alternative lipid peroxidation repair systems (FSP1, GCH1/BH4, DHODH) in different cell types?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.173Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What experimental evidence exists for the functional relevance of specific GPX4-independent defense systems (FSP1, GCH1/BH4, DHODH) in protecting virus-infected cells from ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:35.173Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What experimental evidence exists for the functional relevance of specific GPX4-independent defense systems (FSP1, GCH1/BH4, DHODH) in protecting virus-infected cells from ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.329Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.329Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What are the specific enzymes or pathways, other than GPX4, that mammalian cells use to repair lipid peroxidation and prevent ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.329Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do virus-infected cells alter their lipid metabolism or antioxidant systems to compensate for potential GPX4 inhibition or dysfunction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viruses directly manipulating non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, DHODH pathways) in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "What evidence exists for viruses directly manipulating non-GPX4 ferroptosis defense mechanisms (e.g., FSP1, GCH1, DHODH pathways) in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "Which viral proteins or viral processes have been shown to interact with or regulate key components of alternative lipid peroxidation repair systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect viral replication, spread, or pathogenesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T18:56:49.330Z** - Topic: `"GPX4-independent ferroptosis defense mechanisms in virus-infected cells: exploring alternative lipid peroxidation repair systems and their viral subversion strategies"` - Query: "How do these viral subversion strategies targeting alternative ferroptosis defenses affect viral replication, spread, or pathogenesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
