@@ -871,3 +871,63 @@
 ⚰️  **2025-12-04T07:01:32.756Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What evolutionary changes in gene regulatory networks explain the emergence of novel axonal projections in homologous neuromodulatory cell types?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T07:02:03.204Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian manuscripts or manuscript fragments explicitly contain the Testament of Job, and what are their dates and provenances?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:03.204Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian pseudepigrapha (such as the Testament of Joseph) reference or incorporate material from the Testament of Job, and how does this help infer its Armenian transmission?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:03.204Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What specific theological themes, terminology, or narrative details in the Coptic fragments differ from the known Greek text of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:03.204Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "How do the Coptic fragments align with or diverge from the Greek text in terms of Christological, ascetic, or demonological emphases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:03.205Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the defining characteristics (e.g., textual variants, additions, omissions) of the two main Greek textual families of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:20.399Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What are the conserved circuit architectures observed across species in the neural system of interest?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:20.400Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "Which transcription factor combinations are uniquely expressed in specific species and how do they correlate with distinct connectivity patterns?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:20.400Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "How do homologous transcription factors produce divergent connectivity outcomes in different species despite similar circuit blueprints?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:20.400Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "What experimental evidence demonstrates that altering transcription factor combinations changes connectivity patterns while preserving overall circuit architecture?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:20.400Z** - Topic: `"Evolutionary transcriptomics of neuromodulatory cell types: linking gene regulatory networks to conserved and species-specific connectivity patterns in vertebrate brains"` - Query: "Are there specific genomic or epigenetic mechanisms that allow transcription factors to generate species-specific connectivity within conserved frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:40.490Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How is the figure of Melchizedek presented in the Old Testament (Genesis 14:18-20 and Psalm 110:4) and in Second Temple Jewish literature (e.g., the Dead Sea Scrolls, Josephus, Philo), and what key characteristics or theological interpretations were available to early Christian writers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:40.491Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "In what specific passages does Justin Martyr reference Melchizedek, and how does he incorporate this figure into his Christological arguments, particularly in relation to the Logos and the pre-existence of Christ?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:40.491Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How does Irenaeus of Lyons employ the Melchizedek tradition in his works (especially 'Against Heresies'), and to what extent does he use it to counter Gnostic and/or Marcionite claims about the demiurge, the nature of Christ, or the unity of salvation history?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:40.491Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How is Melchizedek used in the 'Epistle to the Apostles' (Epistula Apostolorum), and what Christological function (e.g., priestly, kingly, eternal) does he serve in this early second-century text?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:40.491Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "Across these three sources (Justin, Irenaeus, Epistle to the Apostles), what common strategies or distinct differences emerge in their polemical use of Melchizedek against dualistic systems (Gnosticism/Marcionitism), particularly regarding the defense of the Creator God, the goodness of creation, and the continuity between the Old and New Testaments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:41.225Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian manuscripts exist that contain the Testament of Job, and what are their dates and locations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:41.225Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What Armenian manuscripts exist that contain only the canonical Book of Job, and how do they differ from those containing the Testament?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:41.225Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the key theological differences in depictions of Satan, suffering, or resurrection between the Coptic and Greek versions of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:41.225Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the key theological differences in depictions of Satan, suffering, or resurrection between the Greek and Slavonic versions of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:02:41.225Z** - Topic: `The textual transmission and theological adaptation of the Testament of Job in the Armenian and Coptic manuscript traditions versus the Greek.` - Query: "What are the key theological differences in depictions of Satan, suffering, or resurrection between the Coptic and Slavonic versions of the Testament of Job?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
