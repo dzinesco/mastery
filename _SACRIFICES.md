@@ -274,3 +274,33 @@
 ⚰️  **2025-12-04T05:58:10.675Z** - Topic: `The hidden 300–800ms p99 latency regression in Kafka 3.3+ when using exactly-once semantics with transactional producers, and why LinkedIn, Cloudflare, and others reverted to at-least-once + idempotency` - Query: "What are the implications of reverting to at-least-once + idempotency for LinkedIn, Cloudflare, and other organizations that previously used exactly-once semantics with transactional producers?" (source: semantic)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:43:11.194Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the historical origins and authorship timelines of the major books and sections within the Old and New Testaments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.194Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the historical origins and authorship timelines of the major books and sections within the Old and New Testaments?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.194Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "How was the biblical text transmitted, preserved, and translated from its original languages to modern versions, and what are the key manuscript families?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.194Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "How was the biblical text transmitted, preserved, and translated from its original languages to modern versions, and what are the key manuscript families?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What were the historical processes, criteria, and councils involved in the formation of the biblical canon for both the Old and New Testaments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What were the historical processes, criteria, and councils involved in the formation of the biblical canon for both the Old and New Testaments?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the central theological themes and narrative arcs that unify the Old Testament, and how do they develop across its different genres?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the central theological themes and narrative arcs that unify the Old Testament, and how do they develop across its different genres?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the central theological themes of the New Testament, and how do they relate to or reinterpret the themes and promises of the Old Testament?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:43:11.195Z** - Topic: `The Bible: historical origins, textual transmission, canonical formation, and theological themes across Old and New Testaments` - Query: "What are the central theological themes of the New Testament, and how do they relate to or reinterpret the themes and promises of the Old Testament?" (source: semantic)
+   Reason: no_results - Confidence drag: -0.7%
+
