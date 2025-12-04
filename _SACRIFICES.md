@@ -511,3 +511,18 @@
 ⚰️  **2025-12-04T06:52:16.082Z** - Topic: `Second Temple Jewish apocalyptic literature and its influence on early Christian eschatology` - Query: "How did the socio-historical context of crisis and expectation in Second Temple Judaism shape both Jewish apocalypticism and the eschatological outlook of the early Christian movement?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:52:24.067Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What are the specific effects of individual neuromodulators (e.g., acetylcholine, dopamine, serotonin) on thalamic relay and reticular nucleus firing patterns?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:24.067Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "How do changes in neuromodulator concentrations alter the synchronization and oscillatory dynamics (e.g., alpha, gamma rhythms) within thalamocortical loops?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:24.067Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "Which mathematical models (e.g., mean-field, dynamic causal modeling, neural mass models) best capture the coupling between slow neuromodulator diffusion and fast electrical signaling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:24.067Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "How can metabolic constraints (e.g., glucose/oxygen availability) be formally incorporated into models of neuromodulator-dependent neural activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:52:24.068Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What algorithms can dynamically adjust structural connectome edge weights based on simulated or measured neuromodulator state to improve whole-brain model predictions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
