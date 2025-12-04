@@ -436,3 +436,33 @@
 ⚰️  **2025-12-04T06:50:05.083Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "In what specific ways did apocryphal traditions and narratives influence the development of later Christian doctrine, liturgy, and popular piety, even after their exclusion from the canon?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:50:53.701Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What explicit theological, doctrinal, or canonical criteria were documented in the proceedings of early church councils (e.g., Council of Carthage, Council of Rome) for rejecting specific apocryphal texts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:53.702Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "How did the circulation and prevalence of specific apocryphal texts (e.g., Gospel of Thomas, Protoevangelium of James) vary across major early Christian regions such as Syria, Egypt, Asia Minor, and North Africa?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:53.702Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What evidence exists from early Christian liturgical documents, homilies, or manuscript findings that indicates the use of apocryphal texts in communal worship or catechetical instruction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:53.702Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "To what extent did regional theological controversies (e.g., Gnosticism, Docetism, Montanism) influence the acceptance or rejection of apocryphal texts in different geographical areas?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:53.702Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What quantitative or qualitative data can be derived from early Christian manuscript discoveries, citations in patristic writings, or synodal legislation to estimate the usage frequency of apocryphal texts compared to canonical scriptures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:54.798Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What are the specific roles of thalamocortical feedback loops in regulating states of consciousness, and how can these dynamics be mathematically modeled?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:54.798Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "How do neuromodulatory systems (e.g., acetylcholine, dopamine, serotonin) modulate cortical plasticity and global brain states, and what computational principles can be derived for artificial architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:54.798Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What key structural features from human connectome data (e.g., hierarchical organization, small-world properties) are essential for replicating conscious information integration?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:54.798Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "How can thalamocortical dynamics and neuromodulatory signaling be integrated into a unified computational framework to simulate shifts in conscious states (e.g., sleep, wakefulness)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:54.798Z** - Topic: `Neurobiological constraints on computational models: integrating thalamocortical dynamics, neuromodulatory systems, and connectome data into artificial consciousness architectures` - Query: "What are the minimal neurobiological constraints (from thalamocortical, neuromodulatory, and connectome data) required to engineer artificial systems with phenomenological consciousness, rather than mere functional equivalence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
