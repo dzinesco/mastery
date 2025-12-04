@@ -9685,3 +9685,33 @@
 ⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "Is there a correlation between the expression levels of specific viral miRNAs, xCT/SLC7A11 protein levels, and markers of ferroptosis resistance in primary tumor samples from patients with EBV or KSHV-associated lymphomas?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:23:41.408Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What specific viral latency proteins in EBV and KSHV are known to directly or indirectly target the xCT/SLC7A11 gene for epigenetic silencing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.408Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What specific viral latency proteins in EBV and KSHV are known to directly or indirectly target the xCT/SLC7A11 gene for epigenetic silencing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.408Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "How do these viral latency proteins recruit or interact with histone-modifying enzymes (e.g., HDACs, HMTs) to alter histone marks (e.g., H3K9me3, H3K27me3) at the xCT/SLC7A11 promoter?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.408Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "How do these viral latency proteins recruit or interact with histone-modifying enzymes (e.g., HDACs, HMTs) to alter histone marks (e.g., H3K9me3, H3K27me3) at the xCT/SLC7A11 promoter?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.408Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What is the mechanism by which DNA methylation is established at the xCT/SLC7A11 promoter following histone modification during viral latency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.409Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What is the mechanism by which DNA methylation is established at the xCT/SLC7A11 promoter following histone modification during viral latency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.409Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "How does the crosstalk between histone modifications and DNA methylation reinforce and maintain long-term silencing of xCT/SLC7A11 in EBV- and KSHV-infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.409Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "How does the crosstalk between histone modifications and DNA methylation reinforce and maintain long-term silencing of xCT/SLC7A11 in EBV- and KSHV-infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.409Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What are the functional consequences of xCT/SLC7A11 epigenetic silencing for viral latency, cell survival (e.g., ferroptosis resistance), and pathogenesis in EBV- and KSHV-associated cancers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:23:41.409Z** - Topic: `"Epigenetic silencing of xCT/SLC7A11 by viral latency proteins in EBV and KSHV: mechanisms of histone modification and DNA methylation crosstalk"` - Query: "What are the functional consequences of xCT/SLC7A11 epigenetic silencing for viral latency, cell survival (e.g., ferroptosis resistance), and pathogenesis in EBV- and KSHV-associated cancers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
