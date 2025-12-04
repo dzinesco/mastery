@@ -11239,3 +11239,123 @@
 ⚰️  **2025-12-04T19:51:00.151Z** - Topic: `"Identifying the metabolic rewiring and lipid peroxidation product signatures that enable ferroptosis evasion in xCT-depleted HNSCC cells under cystine starvation"` - Query: "Which alternative cysteine sources or import mechanisms (e.g., transsulfuration pathway, other transporters) become upregulated in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What are the specific compensatory antioxidant systems (e.g., glutathione-independent pathways, thioredoxin system, peroxiredoxins, catalase, etc.) that are upregulated or activated in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What are the specific compensatory antioxidant systems (e.g., glutathione-independent pathways, thioredoxin system, peroxiredoxins, catalase, etc.) that are upregulated or activated in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How does the metabolic profile (e.g., glucose utilization, glutamine metabolism, lipid metabolism, mitochondrial function) of xCT-depleted HNSCC cells adapt to cystine starvation to support survival and resist ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How does the metabolic profile (e.g., glucose utilization, glutamine metabolism, lipid metabolism, mitochondrial function) of xCT-depleted HNSCC cells adapt to cystine starvation to support survival and resist ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What changes occur in the levels and activity of key ferroptosis regulators (e.g., GPX4, ACSL4, FSP1, DHODH, GCH1) in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What changes occur in the levels and activity of key ferroptosis regulators (e.g., GPX4, ACSL4, FSP1, DHODH, GCH1) in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which signaling pathways (e.g., NRF2, ATF4, HIF-1α, mTOR) are activated in xCT-depleted HNSCC cells under cystine starvation, and how do they contribute to ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which signaling pathways (e.g., NRF2, ATF4, HIF-1α, mTOR) are activated in xCT-depleted HNSCC cells under cystine starvation, and how do they contribute to ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells exhibit altered lipid peroxidation profiles or membrane composition changes that confer resistance to ferroptotic cell death during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:51:50.767Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Do xCT-depleted HNSCC cells exhibit altered lipid peroxidation profiles or membrane composition changes that confer resistance to ferroptotic cell death during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What specific GPX4-independent antioxidant pathways (e.g., FSP1, DHODH, GCH1) show increased activity or expression in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What specific GPX4-independent antioxidant pathways (e.g., FSP1, DHODH, GCH1) show increased activity or expression in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells upregulate alternative glutathione synthesis pathways (e.g., transsulfuration pathway, cysteine salvage) to compensate for cystine import loss?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells upregulate alternative glutathione synthesis pathways (e.g., transsulfuration pathway, cysteine salvage) to compensate for cystine import loss?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What metabolic adaptations (e.g., increased glutamine metabolism, altered TCA cycle flux, enhanced NADPH production) occur in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What metabolic adaptations (e.g., increased glutamine metabolism, altered TCA cycle flux, enhanced NADPH production) occur in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific lipid classes (e.g., phospholipids, cholesterol esters, lipid droplets) show altered composition or abundance in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific lipid classes (e.g., phospholipids, cholesterol esters, lipid droplets) show altered composition or abundance in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What changes occur in lipid peroxidation substrates (e.g., PUFA phospholipid reduction, MUFA phospholipid increase) that contribute to ferroptosis resistance in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:18.966Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What changes occur in lipid peroxidation substrates (e.g., PUFA phospholipid reduction, MUFA phospholipid increase) that contribute to ferroptosis resistance in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.461Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific compensatory antioxidant systems (e.g., alternative glutathione synthesis, thioredoxin system, CoQ10, vitamin E) show increased activity or expression in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.461Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific compensatory antioxidant systems (e.g., alternative glutathione synthesis, thioredoxin system, CoQ10, vitamin E) show increased activity or expression in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.461Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How does the metabolic utilization of glutamine change in xCT-depleted mesenchymal HNSCC cells under cystine starvation conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.461Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How does the metabolic utilization of glutamine change in xCT-depleted mesenchymal HNSCC cells under cystine starvation conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.462Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What alterations occur in fatty acid metabolism and mitochondrial function in xCT-depleted mesenchymal HNSCC cells when cystine is unavailable?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.462Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What alterations occur in fatty acid metabolism and mitochondrial function in xCT-depleted mesenchymal HNSCC cells when cystine is unavailable?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.462Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which transcriptional regulators (NRF2, ATF4, YAP/TAZ) show increased activation or nuclear localization in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.462Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which transcriptional regulators (NRF2, ATF4, YAP/TAZ) show increased activation or nuclear localization in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.462Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What are the downstream target genes and pathways regulated by the activated transcriptional programs in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:52:44.462Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What are the downstream target genes and pathways regulated by the activated transcriptional programs in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.800Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific antioxidant genes (e.g., GPX4, NRF2 targets, FSP1) show increased expression or activity in xCT-depleted HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.800Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific antioxidant genes (e.g., GPX4, NRF2 targets, FSP1) show increased expression or activity in xCT-depleted HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What changes occur in glutathione metabolism (e.g., glutathione synthesis, recycling, or alternative thiol sources) in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What changes occur in glutathione metabolism (e.g., glutathione synthesis, recycling, or alternative thiol sources) in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells alter their NADPH production pathways (e.g., PPP, ME1, IDH1) to support antioxidant defenses during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "How do xCT-depleted HNSCC cells alter their NADPH production pathways (e.g., PPP, ME1, IDH1) to support antioxidant defenses during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What lipid metabolism adaptations (e.g., fatty acid desaturation, lipid droplet formation, phospholipid remodeling) occur in xCT-depleted HNSCC cells under cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "What lipid metabolism adaptations (e.g., fatty acid desaturation, lipid droplet formation, phospholipid remodeling) occur in xCT-depleted HNSCC cells under cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific lipid peroxidation products (e.g., 4-HNE, MDA, 15-HETE, oxidized phospholipid species) are elevated or reduced in xCT-depleted versus wild-type HNSCC cells during cystine starvation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:53:08.801Z** - Topic: `"Characterizing the compensatory antioxidant systems and metabolic adaptations in xCT-depleted HNSCC cells that confer resistance to ferroptosis under cystine starvation"` - Query: "Which specific lipid peroxidation products (e.g., 4-HNE, MDA, 15-HETE, oxidized phospholipid species) are elevated or reduced in xCT-depleted versus wild-type HNSCC cells during cystine starvation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
