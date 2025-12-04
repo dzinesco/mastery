@@ -11065,3 +11065,27 @@
 ⚰️  **2025-12-04T19:46:47.554Z** - Topic: `Identifying the downstream transcriptional targets and signaling pathways activated by xCT-mediated glutathione metabolism in the mesenchymal state of HPV-negative HNSCC` - Query: "What is the functional consequence of modulating specific downstream transcriptional targets (identified in sub-question 1) on mesenchymal phenotypes, such as invasion, migration, and resistance to therapy, in HPV-negative HNSCC models?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:48:18.833Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "What are the specific metabolic pathways and dependencies (e.g., glutathione synthesis, NADPH production, amino acid transport) that are upregulated or essential in xCT-dependent mesenchymal HNSCC cells compared to other subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.833Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "What are the specific metabolic pathways and dependencies (e.g., glutathione synthesis, NADPH production, amino acid transport) that are upregulated or essential in xCT-dependent mesenchymal HNSCC cells compared to other subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.833Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "How does oxidative stress (e.g., induced by ROS-generating agents or nutrient deprivation) alter the metabolic profile and xCT activity in mesenchymal HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.834Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "How does oxidative stress (e.g., induced by ROS-generating agents or nutrient deprivation) alter the metabolic profile and xCT activity in mesenchymal HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.834Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "Which genetic or pharmacological perturbations (e.g., xCT inhibition, glutathione depletion, or targeting of compensatory pathways) induce synthetic lethality specifically in mesenchymal HNSCC cells under oxidative stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.834Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "Which genetic or pharmacological perturbations (e.g., xCT inhibition, glutathione depletion, or targeting of compensatory pathways) induce synthetic lethality specifically in mesenchymal HNSCC cells under oxidative stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.834Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "What are the key biomarkers or functional assays (e.g., ROS levels, cell viability, metabolic flux) that can reliably identify and validate these synthetic lethal interactions in vitro and in vivo?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:48:18.834Z** - Topic: `Identifying the metabolic vulnerabilities and synthetic lethal interactions in xCT-dependent mesenchymal HNSCC cells under oxidative stress` - Query: "What are the key biomarkers or functional assays (e.g., ROS levels, cell viability, metabolic flux) that can reliably identify and validate these synthetic lethal interactions in vitro and in vivo?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
