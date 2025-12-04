@@ -1,0 +1,89 @@
+```mermaid
+mindmap
+  root((Quick Indexing Test))
+    %% Fundamental Process & Purpose
+    Fundamental Process & Purpose
+      Enables quick information retrieval
+        Avoids scanning entire collections
+        Analogy: Book index
+        Allows search engines/document systems to locate info in seconds
+          Evidence: LIS Academy, Nanonets, MHC Automation
+
+    %% Critical for SEO & Online Visibility
+    Critical for SEO & Online Visibility
+      Essential for traffic (≈90% online experiences start with search)
+      Specialized tools & methods accelerate process
+        Tools: Google Search Console, Bing Webmaster Tools, Ahrefs
+        Dedicated services: IndexMeNow, IndexJump, AutoPageRank, Cometly
+
+    %% Methods & Trade-offs
+    Methods & Trade-offs
+      Manual, automated, embedded approaches
+        Automated: Fast, scalable but may lack nuance (mere concordances)
+        Manual: High accuracy for complex documents
+        Document indexing types: Field-based or keyword-based
+          Evidence: American Society for Indexing (ASI), Nanonets
+
+    %% Testing & Diagnosis
+    Testing & Diagnosis
+      Live URL testing tools (e.g., Google URL Inspection Tool)
+        Diagnose indexing issues
+        Check structured data & accessibility
+        Do NOT guarantee indexing
+          Final indexing depends on content quality, uniqueness, penalties
+            Evidence: Google Search Console Help
+
+    %% Performance Measurement & Optimization
+    Performance Measurement & Optimization
+      Measure using KPIs & metrics
+        Recall, precision, relevance
+        Query execution time, CPU usage, I/O operations
+        Throughput, response time, resource utilization
+        Database tools: EXPLAIN ANALYZE
+          Evidence: CrownRMS, Alooba
+      Optimize continuously
+        Monitor execution time, CPU, I/O
+        Identify slow queries & underused indexes
+        A/B test new indexes & simulate workloads
+
+    %% Effectiveness & Impact
+    Effectiveness & Impact
+      Dramatically improves query performance
+        Reduces computational complexity
+          Indexed lookups: O(log n)
+          Full table scans: O(n)
+        Real-world examples
+          Query: 250 ms → 5 ms (50x improvement)
+          Runtime reduction: 99.9%
+          1M rows: ~20 ops (indexed) vs ~1M ops (full scan)
+
+    %% Trade-offs & Overhead
+    Trade-offs & Overhead
+      Read performance vs write/maintenance overhead
+        Accelerates reads
+        Imposes 'write tax': slower inserts/updates, more storage
+        Over-indexing risks
+          Slows writes
+          Complicates query optimization
+          Increases admin overhead (rebuilds, stats updates)
+
+    %% Strategic Design Process
+    Strategic Design Process
+      Requires iterative design
+        Identify candidate indexes
+          Analyze slow query logs
+          Focus on frequent/high-impact queries
+        Evaluate trade-offs
+          Read/write frequency
+          Data size & storage constraints
+        Described as a 'balancing act'
+        Requires continuous review & adjustment
+
+    %% Maintenance & Sustainability
+    Maintenance & Sustainability
+      Crucial for sustained performance
+        Regularly rebuild fragmented indexes
+        Monitor usage statistics to remove unused indexes
+        Use A/B testing to quantify new index impact
+        Evolve strategy with changing data & user behavior
+```
