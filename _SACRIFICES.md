@@ -10315,3 +10315,333 @@
 ⚰️  **2025-12-04T19:33:55.769Z** - Topic: `"Identifying synthetic lethal partners for xCT inhibition in HPV-negative HNSCC subtypes with distinct metabolic dependencies"` - Query: "How do metabolic adaptations, such as reliance on specific nutrient sources or mitochondrial function, differ among HPV-negative HNSCC subtypes, and do these differences influence responses to metabolic inhibitors like xCT blockers?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:34:43.996Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic subtypes present in HPV-negative HNSCC, and how are they defined?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.996Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic subtypes present in HPV-negative HNSCC, and how are they defined?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.996Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the expression and activity of xCT (cystine/glutamate antiporter) vary across these HPV-negative HNSCC metabolic subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.996Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the expression and activity of xCT (cystine/glutamate antiporter) vary across these HPV-negative HNSCC metabolic subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.996Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the relationship between xCT-mediated cystine uptake and intracellular glutathione (GSH) levels or redox balance in each metabolic subtype?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.997Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the relationship between xCT-mediated cystine uptake and intracellular glutathione (GSH) levels or redox balance in each metabolic subtype?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.997Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does modulating xCT function (e.g., inhibition or overexpression) affect ferroptosis sensitivity (e.g., lipid peroxidation, cell death) in representative cell lines from each metabolic subtype?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.997Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does modulating xCT function (e.g., inhibition or overexpression) affect ferroptosis sensitivity (e.g., lipid peroxidation, cell death) in representative cell lines from each metabolic subtype?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.997Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Are there subtype-specific metabolic dependencies or compensatory pathways that influence the impact of xCT on ferroptosis sensitivity in HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:34:43.997Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Are there subtype-specific metabolic dependencies or compensatory pathways that influence the impact of xCT on ferroptosis sensitivity in HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT expression and cystine uptake activity quantified across established metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT expression and cystine uptake activity quantified across established metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT-mediated cystine uptake levels and key metabolic pathway activities (e.g., glycolysis, oxidative phosphorylation, fatty acid oxidation) in HPV-negative HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT-mediated cystine uptake levels and key metabolic pathway activities (e.g., glycolysis, oxidative phosphorylation, fatty acid oxidation) in HPV-negative HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect cell viability, proliferation, and glutathione levels in each HPV-negative HNSCC metabolic subtype?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect cell viability, proliferation, and glutathione levels in each HPV-negative HNSCC metabolic subtype?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the baseline differences in ferroptosis markers (e.g., lipid peroxidation, GPX4 activity, iron levels) between metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the baseline differences in ferroptosis markers (e.g., lipid peroxidation, GPX4 activity, iron levels) between metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do ferroptosis inducers (e.g., erastin, RSL3) affect cell death rates in different HPV-negative HNSCC metabolic subtypes, and does this correlate with xCT expression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:05.375Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do ferroptosis inducers (e.g., erastin, RSL3) affect cell death rates in different HPV-negative HNSCC metabolic subtypes, and does this correlate with xCT expression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the baseline expression and activity of xCT (SLC7A11) in HPV-negative HNSCC tumor cells compared to normal tissue or HPV-positive HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the baseline expression and activity of xCT (SLC7A11) in HPV-negative HNSCC tumor cells compared to normal tissue or HPV-positive HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect intracellular cystine and glutathione levels in HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect intracellular cystine and glutathione levels in HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic subtypes of HPV-negative HNSCC (e.g., based on gene expression, metabolomics, or dependency profiles) and how are they defined?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic subtypes of HPV-negative HNSCC (e.g., based on gene expression, metabolomics, or dependency profiles) and how are they defined?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to ferroptosis inducers (e.g., erastin, RSL3) vary across established HPV-negative HNSCC metabolic subtypes in vitro?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to ferroptosis inducers (e.g., erastin, RSL3) vary across established HPV-negative HNSCC metabolic subtypes in vitro?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which metabolic pathways or dependencies (e.g., glutaminolysis, lipid metabolism, antioxidant capacity) correlate with increased vulnerability to xCT inhibition in specific HPV-negative HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:29.635Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which metabolic pathways or dependencies (e.g., glutaminolysis, lipid metabolism, antioxidant capacity) correlate with increased vulnerability to xCT inhibition in specific HPV-negative HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.792Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT (SLC7A11) expression and cystine uptake activity distributed across established metabolic subtypes (e.g., glycolytic, lipogenic, mixed) in HPV-negative HNSCC tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT (SLC7A11) expression and cystine uptake activity distributed across established metabolic subtypes (e.g., glycolytic, lipogenic, mixed) in HPV-negative HNSCC tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT-mediated cystine uptake levels and markers of ferroptosis sensitivity (e.g., lipid peroxidation, GPX4 activity, iron levels) within each metabolic subtype of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT-mediated cystine uptake levels and markers of ferroptosis sensitivity (e.g., lipid peroxidation, GPX4 activity, iron levels) within each metabolic subtype of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do key metabolic dependencies (e.g., glucose availability, glutamine utilization, NADPH production pathways) modulate xCT function and cystine uptake efficiency in HPV-negative HNSCC cell models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do key metabolic dependencies (e.g., glucose availability, glutamine utilization, NADPH production pathways) modulate xCT function and cystine uptake efficiency in HPV-negative HNSCC cell models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Does pharmacological or genetic inhibition of xCT induce ferroptosis with differing potency across HPV-negative HNSCC cell lines representing distinct metabolic subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Does pharmacological or genetic inhibition of xCT induce ferroptosis with differing potency across HPV-negative HNSCC cell lines representing distinct metabolic subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What compensatory metabolic pathways are activated upon xCT inhibition in each metabolic subtype, and how do they influence ferroptosis resistance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:35:53.793Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What compensatory metabolic pathways are activated upon xCT inhibition in each metabolic subtype, and how do they influence ferroptosis resistance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the established metabolic subtypes of HPV-negative HNSCC, and how are they defined?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the established metabolic subtypes of HPV-negative HNSCC, and how are they defined?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does xCT-mediated cystine uptake activity differ between the metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does xCT-mediated cystine uptake activity differ between the metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the functional consequence of xCT-mediated cystine uptake inhibition (e.g., via erastin or sulfasalazine) in each metabolic subtype of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the functional consequence of xCT-mediated cystine uptake inhibition (e.g., via erastin or sulfasalazine) in each metabolic subtype of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.694Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do baseline levels of key ferroptosis markers (e.g., lipid peroxides, GPX4 activity, glutathione levels) vary across the metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.695Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do baseline levels of key ferroptosis markers (e.g., lipid peroxides, GPX4 activity, glutathione levels) vary across the metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.695Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "When challenged with ferroptosis inducers (e.g., RSL3, erastin, FIN56), do the metabolic subtypes of HPV-negative HNSCC show differential cell death responses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:16.695Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "When challenged with ferroptosis inducers (e.g., RSL3, erastin, FIN56), do the metabolic subtypes of HPV-negative HNSCC show differential cell death responses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the expression level and functional activity of xCT (SLC7A11) in HPV-negative HNSCC compared to HPV-positive HNSCC and normal tissue?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the expression level and functional activity of xCT (SLC7A11) in HPV-negative HNSCC compared to HPV-positive HNSCC and normal tissue?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect intracellular cystine and glutamate levels, glutathione synthesis, and reactive oxygen species (ROS) accumulation in HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect intracellular cystine and glutamate levels, glutathione synthesis, and reactive oxygen species (ROS) accumulation in HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT expression and clinical outcomes (e.g., survival, recurrence, metastasis) in patients with HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT expression and clinical outcomes (e.g., survival, recurrence, metastasis) in patients with HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do HPV-negative HNSCC cell lines or patient-derived models classified as glycolytic, lipogenic, or other metabolic subtypes differ in their baseline levels of lipid peroxides and glutathione?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do HPV-negative HNSCC cell lines or patient-derived models classified as glycolytic, lipogenic, or other metabolic subtypes differ in their baseline levels of lipid peroxides and glutathione?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "When treated with ferroptosis inducers (e.g., erastin, RSL3, sulfasalazine), do different metabolic subtypes of HPV-negative HNSCC show varying rates of cell death, and which subtype is most sensitive or resistant?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:36:41.781Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "When treated with ferroptosis inducers (e.g., erastin, RSL3, sulfasalazine), do different metabolic subtypes of HPV-negative HNSCC show varying rates of cell death, and which subtype is most sensitive or resistant?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.060Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT expression and cystine uptake activity distributed across established HPV-negative HNSCC metabolic subtypes (e.g., glycolytic, oxidative, mixed)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT expression and cystine uptake activity distributed across established HPV-negative HNSCC metabolic subtypes (e.g., glycolytic, oxidative, mixed)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT-mediated cystine uptake levels and markers of ferroptosis sensitivity (e.g., lipid peroxidation, GPX4 activity) within each HPV-negative HNSCC metabolic subtype?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between xCT-mediated cystine uptake levels and markers of ferroptosis sensitivity (e.g., lipid peroxidation, GPX4 activity) within each HPV-negative HNSCC metabolic subtype?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific metabolic pathways (e.g., glutathione synthesis, nucleotide metabolism, fatty acid oxidation) in different HPV-negative HNSCC subtypes show the strongest functional dependence on xCT activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific metabolic pathways (e.g., glutathione synthesis, nucleotide metabolism, fatty acid oxidation) in different HPV-negative HNSCC subtypes show the strongest functional dependence on xCT activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do pharmacological or genetic perturbations of xCT affect cell viability, proliferation, and ferroptosis execution differently across HPV-negative HNSCC metabolic subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How do pharmacological or genetic perturbations of xCT affect cell viability, proliferation, and ferroptosis execution differently across HPV-negative HNSCC metabolic subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the key upstream regulators (e.g., NRF2, ATF4) and downstream effectors of xCT that vary between HPV-negative HNSCC metabolic subtypes, and how do they influence subtype-specific metabolic dependencies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:05.061Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the key upstream regulators (e.g., NRF2, ATF4) and downstream effectors of xCT that vary between HPV-negative HNSCC metabolic subtypes, and how do they influence subtype-specific metabolic dependencies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT (SLC7A11) expression and cystine uptake activity distributed across established metabolic subtypes (e.g., glycolytic, lipogenic, mixed) of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How is xCT (SLC7A11) expression and cystine uptake activity distributed across established metabolic subtypes (e.g., glycolytic, lipogenic, mixed) of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between basal xCT activity and markers of ferroptosis sensitivity (e.g., lipid peroxidation, GPX4 levels, iron content) within each metabolic subtype of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the correlation between basal xCT activity and markers of ferroptosis sensitivity (e.g., lipid peroxidation, GPX4 levels, iron content) within each metabolic subtype of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Do different metabolic subtypes of HPV-negative HNSCC show varying cell viability responses to pharmacological xCT inhibitors (e.g., erastin, sulfasalazine) or genetic xCT knockdown?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Do different metabolic subtypes of HPV-negative HNSCC show varying cell viability responses to pharmacological xCT inhibitors (e.g., erastin, sulfasalazine) or genetic xCT knockdown?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.539Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific metabolic pathways or dependencies (e.g., glutathione synthesis, NADPH production, lipid metabolism) are most critical for sustaining cystine uptake and ferroptosis resistance in each metabolic subtype?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.540Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific metabolic pathways or dependencies (e.g., glutathione synthesis, NADPH production, lipid metabolism) are most critical for sustaining cystine uptake and ferroptosis resistance in each metabolic subtype?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.540Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Are there compensatory mechanisms or alternative nutrient uptake pathways that arise upon xCT inhibition in specific metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:22.540Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Are there compensatory mechanisms or alternative nutrient uptake pathways that arise upon xCT inhibition in specific metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.416Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the baseline expression and activity level of xCT (SLC7A11) in HPV-negative HNSCC compared to normal tissue or HPV-positive HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the baseline expression and activity level of xCT (SLC7A11) in HPV-negative HNSCC compared to normal tissue or HPV-positive HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect cystine uptake, intracellular glutathione levels, and lipid peroxidation in HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect cystine uptake, intracellular glutathione levels, and lipid peroxidation in HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic profiles (e.g., dependency on glutathione, iron handling, lipid metabolism) that define subtypes within HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic profiles (e.g., dependency on glutathione, iron handling, lipid metabolism) that define subtypes within HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "When treated with ferroptosis inducers (e.g., erastin, RSL3, sulfasalazine), do HPV-negative HNSCC cell lines or patient-derived models of different metabolic subtypes show significant differences in cell death rates?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "When treated with ferroptosis inducers (e.g., erastin, RSL3, sulfasalazine), do HPV-negative HNSCC cell lines or patient-derived models of different metabolic subtypes show significant differences in cell death rates?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific downstream signaling pathways or transcription factors (e.g., NRF2, ATF4, p53) regulate xCT expression and activity in HPV-negative HNSCC, and how do they modulate ferroptosis sensitivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:37:45.417Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific downstream signaling pathways or transcription factors (e.g., NRF2, ATF4, p53) regulate xCT expression and activity in HPV-negative HNSCC, and how do they modulate ferroptosis sensitivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.438Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the expression pattern and functional activity of xCT (SLC7A11) in HPV-negative HNSCC tumor tissues compared to normal adjacent tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.438Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the expression pattern and functional activity of xCT (SLC7A11) in HPV-negative HNSCC tumor tissues compared to normal adjacent tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.438Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT-mediated cystine uptake affect glutathione synthesis and redox balance in HPV-negative HNSCC cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.438Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT-mediated cystine uptake affect glutathione synthesis and redox balance in HPV-negative HNSCC cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.438Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic profiles (e.g., lipid metabolism, iron handling, antioxidant capacity) that define subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.438Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What are the distinct metabolic profiles (e.g., lipid metabolism, iron handling, antioxidant capacity) that define subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.439Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to ferroptosis inducers (e.g., erastin, RSL3) correlate with the identified metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.439Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to ferroptosis inducers (e.g., erastin, RSL3) correlate with the identified metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.439Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific downstream signaling pathways or molecular effectors (e.g., GPX4 activity, lipid peroxidation levels, NRF2 signaling) are modulated by cystine uptake to regulate ferroptosis execution in HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:03.439Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Which specific downstream signaling pathways or molecular effectors (e.g., GPX4 activity, lipid peroxidation levels, NRF2 signaling) are modulated by cystine uptake to regulate ferroptosis execution in HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.642Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the baseline expression and activity level of xCT (SLC7A11) in HPV-negative HNSCC cell lines and patient samples?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.642Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What is the baseline expression and activity level of xCT (SLC7A11) in HPV-negative HNSCC cell lines and patient samples?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.642Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect intracellular cystine and glutathione levels in HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.642Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does pharmacological or genetic inhibition of xCT affect intracellular cystine and glutathione levels in HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.642Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Does xCT inhibition increase lipid peroxidation and cell death consistent with ferroptosis in HPV-negative HNSCC, and how does this sensitivity vary across cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.643Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "Does xCT inhibition increase lipid peroxidation and cell death consistent with ferroptosis in HPV-negative HNSCC, and how does this sensitivity vary across cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.643Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What metabolic pathways (e.g., glycolysis, oxidative phosphorylation, glutaminolysis) are most active in different HPV-negative HNSCC subtypes, and can they be classified into distinct metabolic groups?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.643Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "What metabolic pathways (e.g., glycolysis, oxidative phosphorylation, glutaminolysis) are most active in different HPV-negative HNSCC subtypes, and can they be classified into distinct metabolic groups?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.643Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to xCT inhibition correlate with the identified metabolic subtypes of HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:38:24.643Z** - Topic: `"Characterizing the role of xCT-mediated cystine uptake in modulating ferroptosis sensitivity across HPV-negative HNSCC metabolic subtypes"` - Query: "How does the sensitivity to xCT inhibition correlate with the identified metabolic subtypes of HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
