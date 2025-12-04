@@ -10705,3 +10705,243 @@
 ⚰️  **2025-12-04T19:39:34.710Z** - Topic: `"Investigating the interplay between xCT-mediated cystine uptake and glutathione metabolism in modulating ferroptosis resistance within the mesenchymal subtype of HPV-negative HNSCC"` - Query: "Are there significant differences in cystine uptake, glutathione levels, or GPX4 expression between HPV-negative HNSCC mesenchymal, basal, and classical subtypes?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What are the key transcriptional regulators (e.g., transcription factors, co-activators) known to directly bind to the SLC7A11 promoter or enhancer regions in cancer contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What are the key transcriptional regulators (e.g., transcription factors, co-activators) known to directly bind to the SLC7A11 promoter or enhancer regions in cancer contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How do epigenetic modifications (e.g., DNA methylation, histone acetylation/methylation) at the SLC7A11 locus differ between mesenchymal HPV-negative HNSCC tumors and other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How do epigenetic modifications (e.g., DNA methylation, histone acetylation/methylation) at the SLC7A11 locus differ between mesenchymal HPV-negative HNSCC tumors and other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which signaling pathways or upstream regulators (e.g., NRF2, ATF4, EGFR, TGF-β) are most active in mesenchymal HPV-negative HNSCC and could drive SLC7A11 transcription?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which signaling pathways or upstream regulators (e.g., NRF2, ATF4, EGFR, TGF-β) are most active in mesenchymal HPV-negative HNSCC and could drive SLC7A11 transcription?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Are there specific super-enhancers or chromatin accessibility changes associated with SLC7A11 overexpression in mesenchymal HPV-negative HNSCC tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Are there specific super-enhancers or chromatin accessibility changes associated with SLC7A11 overexpression in mesenchymal HPV-negative HNSCC tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional evidence (e.g., ChIP-seq, CRISPRi, luciferase assays) linking candidate transcriptional regulators or epigenetic modifiers to SLC7A11 expression in HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:21.403Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional evidence (e.g., ChIP-seq, CRISPRi, luciferase assays) linking candidate transcriptional regulators or epigenetic modifiers to SLC7A11 expression in HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.067Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors have been experimentally validated to directly bind to the promoter or enhancer regions of the SLC7A11 gene in HPV-negative HNSCC cell lines or tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.067Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors have been experimentally validated to directly bind to the promoter or enhancer regions of the SLC7A11 gene in HPV-negative HNSCC cell lines or tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.067Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the specific pattern of DNA methylation (hypomethylation or hypermethylation) at the SLC7A11 promoter or regulatory regions in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the specific pattern of DNA methylation (hypomethylation or hypermethylation) at the SLC7A11 promoter or regulatory regions in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (e.g., H3K4me3, H3K27ac, H3K9me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC, and how do they correlate with xCT expression levels?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (e.g., H3K4me3, H3K27ac, H3K9me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC, and how do they correlate with xCT expression levels?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How does the expression of mesenchymal markers (e.g., Vimentin, N-cadherin, ZEB1) correlate with SLC7A11 mRNA or protein levels in HPV-negative HNSCC patient samples or models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How does the expression of mesenchymal markers (e.g., Vimentin, N-cadherin, ZEB1) correlate with SLC7A11 mRNA or protein levels in HPV-negative HNSCC patient samples or models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional consequence of modulating mesenchymal characteristics (e.g., via EMT inducers or inhibitors) on xCT expression and sensitivity to ferroptosis inducers in HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:40:49.068Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional consequence of modulating mesenchymal characteristics (e.g., via EMT inducers or inhibitors) on xCT expression and sensitivity to ferroptosis inducers in HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.619Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors (NRF2, ATF4, p53 mutants, or others) show increased binding activity at the SLC7A11 promoter in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.619Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors (NRF2, ATF4, p53 mutants, or others) show increased binding activity at the SLC7A11 promoter in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.619Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the correlation between DNA methylation levels at the SLC7A11 promoter region and SLC7A11 mRNA expression in mesenchymal HPV-negative HNSCC tumors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.619Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the correlation between DNA methylation levels at the SLC7A11 promoter region and SLC7A11 mRNA expression in mesenchymal HPV-negative HNSCC tumors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.620Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which specific histone modifications (e.g., H3K27ac, H3K4me3, H3K9me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC cell lines or tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.620Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which specific histone modifications (e.g., H3K27ac, H3K4me3, H3K9me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC cell lines or tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.620Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How does xCT (SLC7A11 protein) expression level correlate with established mesenchymal markers (e.g., Vimentin, ZEB1, Snail) in HPV-negative HNSCC patient samples?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.620Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How does xCT (SLC7A11 protein) expression level correlate with established mesenchymal markers (e.g., Vimentin, ZEB1, Snail) in HPV-negative HNSCC patient samples?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.620Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional relationship between xCT expression and ferroptosis sensitivity in mesenchymal HPV-negative HNSCC cell lines when challenged with ferroptosis inducers (e.g., erastin, RSL3)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:11.620Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional relationship between xCT expression and ferroptosis sensitivity in mesenchymal HPV-negative HNSCC cell lines when challenged with ferroptosis inducers (e.g., erastin, RSL3)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.570Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcriptional regulators (e.g., NRF2, ATF4, p53) show increased activity or expression in mesenchymal HPV-negative HNSCC compared to other subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcriptional regulators (e.g., NRF2, ATF4, p53) show increased activity or expression in mesenchymal HPV-negative HNSCC compared to other subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the direct evidence (e.g., ChIP-seq, luciferase assays) linking specific transcriptional regulators (NRF2, ATF4, p53) to xCT promoter activation in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the direct evidence (e.g., ChIP-seq, luciferase assays) linking specific transcriptional regulators (NRF2, ATF4, p53) to xCT promoter activation in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How do DNA methylation patterns at the xCT gene promoter differ between mesenchymal HPV-negative HNSCC and other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "How do DNA methylation patterns at the xCT gene promoter differ between mesenchymal HPV-negative HNSCC and other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (e.g., H3K4me3, H3K27ac) and chromatin accessibility changes are enriched at the xCT locus in mesenchymal HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (e.g., H3K4me3, H3K27ac) and chromatin accessibility changes are enriched at the xCT locus in mesenchymal HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Is there a correlation between the expression of mesenchymal markers (e.g., Vimentin, ZEB1) and xCT expression in HPV-negative HNSCC patient samples or cell lines?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:34.571Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Is there a correlation between the expression of mesenchymal markers (e.g., Vimentin, ZEB1) and xCT expression in HPV-negative HNSCC patient samples or cell lines?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors (NRF2, ATF4, p53, or others) show binding activity at the SLC7A11 promoter/enhancer regions in mesenchymal HPV-negative HNSCC cell lines or tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors (NRF2, ATF4, p53, or others) show binding activity at the SLC7A11 promoter/enhancer regions in mesenchymal HPV-negative HNSCC cell lines or tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional impact (activation or repression) of each identified transcription factor on SLC7A11 expression in mesenchymal HPV-negative HNSCC models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional impact (activation or repression) of each identified transcription factor on SLC7A11 expression in mesenchymal HPV-negative HNSCC models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What are the specific patterns of DNA methylation (e.g., promoter hypomethylation) at the SLC7A11 locus in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What are the specific patterns of DNA methylation (e.g., promoter hypomethylation) at the SLC7A11 locus in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modification marks (e.g., H3K27ac, H3K4me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC, and how do they correlate with expression levels?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modification marks (e.g., H3K27ac, H3K4me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC, and how do they correlate with expression levels?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What signaling pathways or upstream regulators characteristic of the mesenchymal phenotype (e.g., EMT-TFs, TGF-β, ZEB1) directly or indirectly control xCT (SLC7A11) expression in HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:41:57.095Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What signaling pathways or upstream regulators characteristic of the mesenchymal phenotype (e.g., EMT-TFs, TGF-β, ZEB1) directly or indirectly control xCT (SLC7A11) expression in HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors (NRF2, ATF4, p53, or others) show binding activity at the SLC7A11 promoter in mesenchymal HPV-negative HNSCC cell lines or tissues?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcription factors (NRF2, ATF4, p53, or others) show binding activity at the SLC7A11 promoter in mesenchymal HPV-negative HNSCC cell lines or tissues?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional evidence (e.g., knockdown/overexpression experiments) that specific transcription factors directly regulate SLC7A11 expression in mesenchymal HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the functional evidence (e.g., knockdown/overexpression experiments) that specific transcription factors directly regulate SLC7A11 expression in mesenchymal HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the DNA methylation status of the SLC7A11 promoter region in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the DNA methylation status of the SLC7A11 promoter region in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.640Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (e.g., H3K4me3, H3K27ac) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC, and how do they correlate with expression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.641Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (e.g., H3K4me3, H3K27ac) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC, and how do they correlate with expression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.641Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Are specific non-coding RNAs (e.g., miRNAs, lncRNAs) differentially expressed in mesenchymal HPV-negative HNSCC that directly target SLC7A11 mRNA or its regulators?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:22.641Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Are specific non-coding RNAs (e.g., miRNAs, lncRNAs) differentially expressed in mesenchymal HPV-negative HNSCC that directly target SLC7A11 mRNA or its regulators?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.027Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcriptional regulators (e.g., NRF2, ATF4, p53) show increased activity or expression in mesenchymal HPV-negative HNSCC compared to other subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.027Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcriptional regulators (e.g., NRF2, ATF4, p53) show increased activity or expression in mesenchymal HPV-negative HNSCC compared to other subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Among the active transcriptional regulators in mesenchymal HPV-negative HNSCC, which ones directly bind to the SLC7A11/xCT promoter or enhancer regions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Among the active transcriptional regulators in mesenchymal HPV-negative HNSCC, which ones directly bind to the SLC7A11/xCT promoter or enhancer regions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the correlation between the expression levels of specific transcriptional regulators (NRF2, ATF4, p53) and SLC7A11/xCT mRNA levels in mesenchymal HPV-negative HNSCC samples?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the correlation between the expression levels of specific transcriptional regulators (NRF2, ATF4, p53) and SLC7A11/xCT mRNA levels in mesenchymal HPV-negative HNSCC samples?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which DNA methylation patterns (hypomethylation or hypermethylation) are observed in the SLC7A11 promoter or regulatory regions in mesenchymal HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which DNA methylation patterns (hypomethylation or hypermethylation) are observed in the SLC7A11 promoter or regulatory regions in mesenchymal HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What specific histone modifications (e.g., H3K4me3, H3K27ac, H3K9me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC compared to non-mesenchymal subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:42:49.028Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What specific histone modifications (e.g., H3K4me3, H3K27ac, H3K9me3) are enriched at the SLC7A11 locus in mesenchymal HPV-negative HNSCC compared to non-mesenchymal subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.364Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the expression level of xCT (SLC7A11) in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What is the expression level of xCT (SLC7A11) in mesenchymal HPV-negative HNSCC compared to other HNSCC subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcriptional regulators (NRF2, ATF4, p53 mutants, etc.) show increased activity or expression in mesenchymal HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which transcriptional regulators (NRF2, ATF4, p53 mutants, etc.) show increased activity or expression in mesenchymal HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Do specific transcriptional regulators directly bind to the SLC7A11 promoter/enhancer regions in mesenchymal HPV-negative HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Do specific transcriptional regulators directly bind to the SLC7A11 promoter/enhancer regions in mesenchymal HPV-negative HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What are the DNA methylation patterns at the SLC7A11 locus in mesenchymal HPV-negative HNSCC versus other subtypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "What are the DNA methylation patterns at the SLC7A11 locus in mesenchymal HPV-negative HNSCC versus other subtypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (H3K4me3, H3K27ac, H3K9me3, etc.) are present at the SLC7A11 locus in mesenchymal HPV-negative HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:43:12.365Z** - Topic: `"Identifying the specific transcriptional regulators and epigenetic modifications driving xCT (SLC7A11) overexpression in mesenchymal HPV-negative HNSCC tumors"` - Query: "Which histone modifications (H3K4me3, H3K27ac, H3K9me3, etc.) are present at the SLC7A11 locus in mesenchymal HPV-negative HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
