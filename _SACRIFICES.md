@@ -424,3 +424,15 @@
 ⚰️  **2025-12-04T06:49:46.848Z** - Topic: `"Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"` - Query: "What are the primary similarities and differences in how GWT and PP conceptualize and model consciousness, particularly in relation to their potential implementation in ANNs?" (source: codebase)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T06:50:05.082Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What are the key textual discoveries of early Christian apocrypha and pseudepigrapha in the 20th and 21st centuries, and what do they reveal about early Christian communities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:05.082Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "How do the theological themes and Christological portrayals in major apocryphal texts (e.g., Gospel of Thomas, Gospel of Peter, Protevangelium of James) differ from those in the canonical New Testament?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:05.083Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "What criteria and historical processes were used by early church authorities to distinguish between canonical and non-canonical texts during the formation of the New Testament?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T06:50:05.083Z** - Topic: `Early Christian apocrypha and pseudepigrapha: textual discovery, theological diversity, and their impact on canonical development` - Query: "In what specific ways did apocryphal traditions and narratives influence the development of later Christian doctrine, liturgy, and popular piety, even after their exclusion from the canon?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+

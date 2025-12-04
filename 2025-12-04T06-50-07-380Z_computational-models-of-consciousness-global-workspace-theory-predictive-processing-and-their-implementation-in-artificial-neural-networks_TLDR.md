@@ -1,0 +1,7 @@
+# Executive Summary: "Computational models of consciousness: global workspace theory, predictive processing, and their implementation in artificial neural networks"
+
+This research synthesizes computational models of consciousness, primarily Global Workspace Theory (GWT) and Predictive Processing (PP). GWT frames consciousness as a global information broadcast for coordination, while PP models the brain as a hierarchical prediction machine minimizing error. The dominant philosophical framework for these models is functionalism, which defines mental states by their causal roles, analogous to software.
+
+These theories are increasingly integrated in computational implementations, such as a "Predictive Global Neuronal Workspace," which combines GWT's broadcast mechanism with PP's predictive coding. Artificial neural networks serve as key tools for simulating these hybrid architectures, with models like the Global Neuronal Workspace being explicitly designed for such implementation. However, current work focuses on modeling the functional correlates and complexity of information processing associated with consciousness.
+
+A significant limitation is that these models do not address the subjective experience, or "hard problem," of consciousness itself. The research explicitly notes there is no mathematical model for subjectivity. Next steps involve refining these hybrid computational architectures while grappling with this fundamental explanatory gap, aiming for more comprehensive, yet still functional, accounts of conscious processing.
