@@ -9655,3 +9655,33 @@
 ⚰️  **2025-12-04T19:22:03.669Z** - Topic: `"Ferroptosis resistance mechanisms mediated by viral oncoproteins in Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV) malignancies"` - Query: "Is lipid droplet accumulation induced by EBV and KSHV functionally required for ferroptosis resistance, and do both viruses utilize similar or distinct lipid droplet-associated proteins (e.g., PLIN2, ATGL) for this protection?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:22:54.989Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "What is the expression profile of viral microRNAs (specifically from EBV and KSHV) in their associated lymphomas, and which specific viral miRNAs are most abundant?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "What is the expression profile of viral microRNAs (specifically from EBV and KSHV) in their associated lymphomas, and which specific viral miRNAs are most abundant?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "How do the identified abundant viral microRNAs from EBV and KSHV directly or indirectly target the mRNA or regulate the expression of the cystine/glutamate antiporter (xCT/SLC7A11)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "How do the identified abundant viral microRNAs from EBV and KSHV directly or indirectly target the mRNA or regulate the expression of the cystine/glutamate antiporter (xCT/SLC7A11)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "What is the functional consequence of xCT/SLC7A11 modulation by these viral miRNAs on intracellular cystine uptake, glutathione synthesis, and lipid peroxidation levels in lymphoma cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "What is the functional consequence of xCT/SLC7A11 modulation by these viral miRNAs on intracellular cystine uptake, glutathione synthesis, and lipid peroxidation levels in lymphoma cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "Does the manipulation of xCT/SLC7A11 by viral miRNAs alter the sensitivity of EBV and KSHV-associated lymphoma cell lines to known ferroptosis inducers (e.g., erastin, RSL3) in vitro?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "Does the manipulation of xCT/SLC7A11 by viral miRNAs alter the sensitivity of EBV and KSHV-associated lymphoma cell lines to known ferroptosis inducers (e.g., erastin, RSL3) in vitro?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "Is there a correlation between the expression levels of specific viral miRNAs, xCT/SLC7A11 protein levels, and markers of ferroptosis resistance in primary tumor samples from patients with EBV or KSHV-associated lymphomas?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:22:54.990Z** - Topic: `The role of viral microRNAs in regulating ferroptosis sensitivity through cystine/glutamate antiporter (xCT/SLC7A11) expression in EBV and KSHV-associated lymphomas` - Query: "Is there a correlation between the expression levels of specific viral miRNAs, xCT/SLC7A11 protein levels, and markers of ferroptosis resistance in primary tumor samples from patients with EBV or KSHV-associated lymphomas?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
