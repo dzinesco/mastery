@@ -1,0 +1,7 @@
+# Executive Summary: The development and function of angelology and demonology in Second Temple literature and its direct transmission into New Testament cosmology.
+
+This research synthesizes the development of angelology and demonology in Second Temple literature and its direct transmission to the New Testament. Key insights reveal that this period produced a complex, hierarchical celestial bureaucracy to address unresolved theological questions in the Hebrew Bible, particularly the origin of evil. The foundational "Watchers" myth from texts like 1 Enoch provided a detailed etiology for sin and demonic spirits, creating a cosmological framework that was directly inherited by early Christian writers.
+
+Important details show a structured angelology with specialized roles (e.g., angels of the presence) and a defined demonology. Evil spirits are explicitly linked to the destroyed offspring of the fallen Watchers, presented as ontologically distinct, earth-born entities. This framework provided a coherent narrative for the nature and source of sin, filling a perceived gap in earlier scripture.
+
+A significant gap is that these Jewish pseudepigraphical texts were preserved almost exclusively by Christian communities, not mainstream Jewish tradition, with the earliest surviving manuscripts dating centuries later. This transmission history is crucial for understanding the New Testament's cosmological assumptions. Next steps require closer textual analysis to trace specific conceptual lineages from texts like 1 Enoch into the Gospels and Pauline epistles.
