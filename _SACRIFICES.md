@@ -8425,3 +8425,573 @@
 ⚰️  **2025-12-04T19:04:38.715Z** - Topic: `Viral hijacking of cellular lipid droplets and cholesterol metabolism to resist ferroptosis: focusing on viral modulation of SREBP, SCAP, and ACSL3 in saturated/monounsaturated phospholipid synthesis` - Query: "Are there common viral strategies or conserved motifs used across different viruses to target the SREBP/SCAP pathway, ACSL3 activity, and lipid droplet/cholesterol metabolism simultaneously?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:05:29.918Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses are known to interact with or subvert the host cell's mevalonate pathway and isoprenoid biosynthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.918Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses are known to interact with or subvert the host cell's mevalonate pathway and isoprenoid biosynthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.918Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral subversion of the mevalonate pathway directly impact the synthesis or availability of isoprenoids (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral subversion of the mevalonate pathway directly impact the synthesis or availability of isoprenoids (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established role of isoprenoids (particularly geranylgeranylation) in the intracellular trafficking and membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established role of isoprenoids (particularly geranylgeranylation) in the intracellular trafficking and membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does dysregulated GPX4 trafficking, due to altered isoprenoid availability, affect its function in cellular redox homeostasis and ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does dysregulated GPX4 trafficking, due to altered isoprenoid availability, affect its function in cellular redox homeostasis and ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the mechanistic link between GPX4 localization/function and the cellular machinery for selenocysteine incorporation into selenoproteins like GPX4 itself?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:29.919Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the mechanistic link between GPX4 localization/function and the cellular machinery for selenocysteine incorporation into selenoproteins like GPX4 itself?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.092Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to hijack or dysregulate the host cell's mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.092Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to hijack or dysregulate the host cell's mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.092Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to hijack or dysregulate the host cell's isoprenoid biosynthesis pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.092Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to hijack or dysregulate the host cell's isoprenoid biosynthesis pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.092Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the specific viral proteins or genomic elements that interact with host factors to disrupt the normal intracellular trafficking of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.092Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the specific viral proteins or genomic elements that interact with host factors to disrupt the normal intracellular trafficking of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.093Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through which specific host cell pathways or processes (e.g., vesicular transport, protein sorting) do viruses alter GPX4 localization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.093Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through which specific host cell pathways or processes (e.g., vesicular transport, protein sorting) do viruses alter GPX4 localization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.093Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "By what specific molecular mechanism(s) do viruses interfere with the selenocysteine incorporation machinery (e.g., SECIS elements, translation factors) during GPX4 synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:05:46.093Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "By what specific molecular mechanism(s) do viruses interfere with the selenocysteine incorporation machinery (e.g., SECIS elements, translation factors) during GPX4 synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to subvert or dysregulate the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to subvert or dysregulate the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known viral proteins or mechanisms that directly interact with or alter GPX4 localization or vesicular transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known viral proteins or mechanisms that directly interact with or alter GPX4 localization or vesicular transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viruses manipulate the synthesis or availability of isoprenoid intermediates (like farnesyl pyrophosphate or geranylgeranyl pyrophosphate) in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viruses manipulate the synthesis or availability of isoprenoid intermediates (like farnesyl pyrophosphate or geranylgeranyl pyrophosphate) in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established relationship between isoprenoid biosynthesis disruption and the efficiency or fidelity of selenocysteine incorporation into selenoproteins like GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established relationship between isoprenoid biosynthesis disruption and the efficiency or fidelity of selenocysteine incorporation into selenoproteins like GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which viral infections have been linked to altered ferroptosis sensitivity in host cells through pathways involving GPX4 or isoprenoid metabolism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:05.239Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which viral infections have been linked to altered ferroptosis sensitivity in host cells through pathways involving GPX4 or isoprenoid metabolism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to alter the expression or activity of enzymes in the mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to alter the expression or activity of enzymes in the mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been shown to modulate the synthesis or utilization of isoprenoids (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been shown to modulate the synthesis or utilization of isoprenoids (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the normal cellular process for GPX4 trafficking from its site of synthesis to its functional location?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the normal cellular process for GPX4 trafficking from its site of synthesis to its functional location?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How is selenocysteine incorporated into GPX4 during its biosynthesis under normal physiological conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.322Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How is selenocysteine incorporated into GPX4 during its biosynthesis under normal physiological conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.323Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific viral infections have been shown to alter cellular lipid metabolism (e.g., fatty acid synthesis, desaturation, or peroxidation) in a way that could inhibit ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:25.323Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific viral infections have been shown to alter cellular lipid metabolism (e.g., fatty acid synthesis, desaturation, or peroxidation) in a way that could inhibit ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.627Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.627Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.627Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the molecular mechanism by which isoprenoid biosynthesis regulates the intracellular transport or membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the molecular mechanism by which isoprenoid biosynthesis regulates the intracellular transport or membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection disrupt the normal selenocysteine incorporation machinery (e.g., SECIS elements, tRNA, translation factors) for GPX4 synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection disrupt the normal selenocysteine incorporation machinery (e.g., SECIS elements, tRNA, translation factors) for GPX4 synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the downstream functional consequences of dysregulated GPX4 trafficking or selenocysteine incorporation on cellular ferroptosis during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the downstream functional consequences of dysregulated GPX4 trafficking or selenocysteine incorporation on cellular ferroptosis during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there known viral proteins or viral-induced host factors that directly target components of the mevalonate pathway or GPX4 regulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:06:44.628Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there known viral proteins or viral-induced host factors that directly target components of the mevalonate pathway or GPX4 regulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the known molecular mechanism by which isoprenoid biosynthesis affects the intracellular transport or membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the known molecular mechanism by which isoprenoid biosynthesis affects the intracellular transport or membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection typically disrupt the normal cellular machinery responsible for selenocysteine incorporation into proteins?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection typically disrupt the normal cellular machinery responsible for selenocysteine incorporation into proteins?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.049Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What evidence links dysregulated selenocysteine incorporation specifically to reduced GPX4 function or stability during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.050Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What evidence links dysregulated selenocysteine incorporation specifically to reduced GPX4 function or stability during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.050Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there documented connections between viral subversion of the mevalonate pathway and subsequent effects on GPX4-related processes like ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:01.050Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there documented connections between viral subversion of the mevalonate pathway and subsequent effects on GPX4-related processes like ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to interact with or alter the activity of the mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to interact with or alter the activity of the mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral manipulation of isoprenoid biosynthesis specifically impact the intracellular trafficking or membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral manipulation of isoprenoid biosynthesis specifically impact the intracellular trafficking or membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms by which viruses affect selenocysteine incorporation into host or viral proteins?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms by which viruses affect selenocysteine incorporation into host or viral proteins?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.312Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does altered GPX4 trafficking due to viral infection influence cellular ferroptosis susceptibility or antioxidant defense?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.313Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does altered GPX4 trafficking due to viral infection influence cellular ferroptosis susceptibility or antioxidant defense?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.313Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What experimental evidence links viral modulation of selenocysteine incorporation to changes in viral replication, pathogenesis, or host immune response?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:18.313Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What experimental evidence links viral modulation of selenocysteine incorporation to changes in viral replication, pathogenesis, or host immune response?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate the mevalonate pathway or isoprenoid biosynthesis, and what are the key viral proteins or mechanisms involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate the mevalonate pathway or isoprenoid biosynthesis, and what are the key viral proteins or mechanisms involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms by which viral infections disrupt the proper trafficking of GPX4 to cellular membranes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms by which viral infections disrupt the proper trafficking of GPX4 to cellular membranes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viral infections interfere with the selenocysteine incorporation machinery during GPX4 synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viral infections interfere with the selenocysteine incorporation machinery during GPX4 synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What direct evidence links viral manipulation of lipid metabolism (e.g., lipid droplet formation, fatty acid synthesis) to altered cellular susceptibility to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What direct evidence links viral manipulation of lipid metabolism (e.g., lipid droplet formation, fatty acid synthesis) to altered cellular susceptibility to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.528Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through which specific lipid-derived metabolites or signaling pathways do viruses confer resistance to ferroptosis in infected cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:37.529Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through which specific lipid-derived metabolites or signaling pathways do viruses confer resistance to ferroptosis in infected cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or hijack the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or hijack the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the molecular mechanisms by which isoprenoid intermediates (such as farnesyl pyrophosphate or geranylgeranyl pyrophosphate) directly influence the intracellular transport or membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the molecular mechanisms by which isoprenoid intermediates (such as farnesyl pyrophosphate or geranylgeranyl pyrophosphate) directly influence the intracellular transport or membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection disrupt the normal cellular machinery responsible for selenocysteine incorporation into GPX4 during its translation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection disrupt the normal cellular machinery responsible for selenocysteine incorporation into GPX4 during its translation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What viral proteins or viral-induced host factors are known to interfere with the selenocysteine insertion sequence (SECIS) or other components of the selenoprotein synthesis pathway for GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What viral proteins or viral-induced host factors are known to interfere with the selenocysteine insertion sequence (SECIS) or other components of the selenoprotein synthesis pathway for GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there documented changes in GPX4 protein localization, stability, or activity that result from the combined dysregulation of isoprenoid-dependent trafficking and selenocysteine incorporation during viral infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:07:58.415Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there documented changes in GPX4 protein localization, stability, or activity that result from the combined dysregulation of isoprenoid-dependent trafficking and selenocysteine incorporation during viral infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.576Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or subvert the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or subvert the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms by which viruses alter the mevalonate pathway, and what viral proteins are involved?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms by which viruses alter the mevalonate pathway, and what viral proteins are involved?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "In normal cellular physiology, what is the established role of isoprenoid biosynthesis in the intracellular trafficking and membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "In normal cellular physiology, what is the established role of isoprenoid biosynthesis in the intracellular trafficking and membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the key cellular components and enzymatic steps involved in the normal process of selenocysteine incorporation into GPX4 during its synthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the key cellular components and enzymatic steps involved in the normal process of selenocysteine incorporation into GPX4 during its synthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific viral mechanisms or viral gene products could potentially disrupt selenocysteine incorporation into GPX4, and what evidence exists for such interference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:17.577Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific viral mechanisms or viral gene products could potentially disrupt selenocysteine incorporation into GPX4, and what evidence exists for such interference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.759Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway during infection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway during infection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established role of isoprenoid biosynthesis in the intracellular trafficking and membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established role of isoprenoid biosynthesis in the intracellular trafficking and membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does selenocysteine incorporation into GPX4 depend on or relate to isoprenoid-mediated processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does selenocysteine incorporation into GPX4 depend on or relate to isoprenoid-mediated processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through which direct molecular mechanisms (e.g., protein interactions, signaling pathways, metabolic rewiring) do viruses alter the function or regulation of key ferroptosis defense components (like GPX4, system xc-, or glutathione synthesis)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through which direct molecular mechanisms (e.g., protein interactions, signaling pathways, metabolic rewiring) do viruses alter the function or regulation of key ferroptosis defense components (like GPX4, system xc-, or glutathione synthesis)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What evidence links viral modulation of host lipid metabolism (particularly involving the mevalonate pathway) to changes in cellular susceptibility to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:36.760Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What evidence links viral modulation of host lipid metabolism (particularly involving the mevalonate pathway) to changes in cellular susceptibility to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or hijack the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or hijack the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the molecular mechanisms by which these viruses subvert the mevalonate pathway (e.g., through viral proteins, regulation of host enzymes, or lipid raft modulation)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the molecular mechanisms by which these viruses subvert the mevalonate pathway (e.g., through viral proteins, regulation of host enzymes, or lipid raft modulation)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does the biosynthesis of isoprenoids (such as farnesyl pyrophosphate or geranylgeranyl pyrophosphate) influence the intracellular localization or membrane association of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does the biosynthesis of isoprenoids (such as farnesyl pyrophosphate or geranylgeranyl pyrophosphate) influence the intracellular localization or membrane association of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does altered isoprenoid availability affect GPX4's interaction with specific cellular compartments or its functional activity in lipid peroxidation repair?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does altered isoprenoid availability affect GPX4's interaction with specific cellular compartments or its functional activity in lipid peroxidation repair?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through what specific cellular or molecular pathways does viral infection disrupt the normal biosynthesis, incorporation, or function of selenocysteine in host selenoproteins?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:08:56.897Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Through what specific cellular or molecular pathways does viral infection disrupt the normal biosynthesis, incorporation, or function of selenocysteine in host selenoproteins?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.976Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the isoprenoid biosynthesis pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate or hijack the isoprenoid biosynthesis pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the normal intracellular trafficking route of GPX4 from its synthesis to its final functional localization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the normal intracellular trafficking route of GPX4 from its synthesis to its final functional localization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific cellular machinery (e.g., SECIS elements, specific elongation factors, chaperones) is required for the co-translational incorporation of selenocysteine into GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific cellular machinery (e.g., SECIS elements, specific elongation factors, chaperones) is required for the co-translational incorporation of selenocysteine into GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What published experimental studies provide direct evidence that viral infection leads to a measurable decrease in GPX4 enzymatic activity or antioxidant function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:15.977Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What published experimental studies provide direct evidence that viral infection leads to a measurable decrease in GPX4 enzymatic activity or antioxidant function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viral proteins or non-coding RNAs directly interact with or modify key enzymes in the mevalonate pathway (e.g., HMG-CoA reductase, squalene synthase)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viral proteins or non-coding RNAs directly interact with or modify key enzymes in the mevalonate pathway (e.g., HMG-CoA reductase, squalene synthase)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viral infections alter the transcription, translation, or post-translational modification of enzymes involved in isoprenoid biosynthesis (e.g., farnesyl pyrophosphate synthase, geranylgeranyl pyrophosphate synthase)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viral infections alter the transcription, translation, or post-translational modification of enzymes involved in isoprenoid biosynthesis (e.g., farnesyl pyrophosphate synthase, geranylgeranyl pyrophosphate synthase)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the specific molecular mechanisms by which viral manipulation of isoprenoid biosynthesis (e.g., depletion of geranylgeranyl pyrophosphate) disrupts the endosomal/lysosomal trafficking of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the specific molecular mechanisms by which viral manipulation of isoprenoid biosynthesis (e.g., depletion of geranylgeranyl pyrophosphate) disrupts the endosomal/lysosomal trafficking of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does viral infection alter the expression or activity of the Sec insertion machinery (e.g., SECIS elements, SBP2, EFsec) required for selenocysteine incorporation into GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does viral infection alter the expression or activity of the Sec insertion machinery (e.g., SECIS elements, SBP2, EFsec) required for selenocysteine incorporation into GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does the loss of selenocysteine incorporation or the production of a non-selenocysteine-containing GPX4 variant during viral infection affect its enzymatic function in detoxifying lipid hydroperoxides?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:32.834Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does the loss of selenocysteine incorporation or the production of a non-selenocysteine-containing GPX4 variant during viral infection affect its enzymatic function in detoxifying lipid hydroperoxides?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or require the host cell's mevalonate pathway for replication or pathogenesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally demonstrated to manipulate or require the host cell's mevalonate pathway for replication or pathogenesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established molecular mechanism by which isoprenoid intermediates (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate) regulate the intracellular trafficking or membrane localization of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established molecular mechanism by which isoprenoid intermediates (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate) regulate the intracellular trafficking or membrane localization of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection alter the expression or activity of the selenocysteine incorporation machinery (e.g., SECIS elements, specific tRNA, SEPHS2) in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection alter the expression or activity of the selenocysteine incorporation machinery (e.g., SECIS elements, specific tRNA, SEPHS2) in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does viral infection directly or indirectly affect the availability of selenium or the synthesis of selenoproteins, with a specific focus on GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does viral infection directly or indirectly affect the availability of selenium or the synthesis of selenoproteins, with a specific focus on GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there documented instances where viral subversion of the mevalonate pathway leads to a downstream impact on GPX4 function or ferroptosis sensitivity, potentially via altered isoprenoid-dependent trafficking?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:09:54.564Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there documented instances where viral subversion of the mevalonate pathway leads to a downstream impact on GPX4 function or ferroptosis sensitivity, potentially via altered isoprenoid-dependent trafficking?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.697Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to upregulate or downregulate the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to upregulate or downregulate the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the molecular mechanism by which isoprenoid intermediates (such as farnesyl-PP or geranylgeranyl-PP) influence GPX4 subcellular localization or membrane association?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the molecular mechanism by which isoprenoid intermediates (such as farnesyl-PP or geranylgeranyl-PP) influence GPX4 subcellular localization or membrane association?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection affect the expression or activity of the selenocysteine-specific elongation factor (EFSec) or SECIS-binding protein 2 (SBP2)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does viral infection affect the expression or activity of the selenocysteine-specific elongation factor (EFSec) or SECIS-binding protein 2 (SBP2)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does viral-induced oxidative stress or altered selenium metabolism directly impair the incorporation of selenocysteine into nascent GPX4 during translation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Does viral-induced oxidative stress or altered selenium metabolism directly impair the incorporation of selenocysteine into nascent GPX4 during translation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there known viral proteins or non-coding RNAs that directly interact with components of the selenoprotein synthesis machinery or the mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:12.698Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Are there known viral proteins or non-coding RNAs that directly interact with components of the selenoprotein synthesis machinery or the mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.646Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to interact with enzymes or regulators of the mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.646Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to interact with enzymes or regulators of the mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.646Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What molecular mechanisms do viruses use to upregulate or downregulate isoprenoid biosynthesis in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.646Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What molecular mechanisms do viruses use to upregulate or downregulate isoprenoid biosynthesis in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.647Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viruses exploit increased isoprenoid production to modify host cell membranes or signaling proteins?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.647Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How do viruses exploit increased isoprenoid production to modify host cell membranes or signaling proteins?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.647Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the known role of GPX4 in cellular trafficking pathways, particularly in relation to vesicular transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.647Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the known role of GPX4 in cellular trafficking pathways, particularly in relation to vesicular transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.647Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does selenocysteine incorporation into GPX4 affect its enzymatic activity and subcellular localization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:29.647Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "How does selenocysteine incorporation into GPX4 affect its enzymatic activity and subcellular localization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.411Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific evidence exists for viruses directly targeting or altering the activity of enzymes in the mevalonate pathway (e.g., HMG-CoA reductase)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.411Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific evidence exists for viruses directly targeting or altering the activity of enzymes in the mevalonate pathway (e.g., HMG-CoA reductase)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.411Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific evidence exists for viruses directly targeting or altering the enzymes or processes involved in isoprenoid biosynthesis downstream of the mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.411Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific evidence exists for viruses directly targeting or altering the enzymes or processes involved in isoprenoid biosynthesis downstream of the mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.411Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established cellular mechanism for GPX4 protein trafficking from its site of synthesis to its final membrane localization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.411Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established cellular mechanism for GPX4 protein trafficking from its site of synthesis to its final membrane localization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.412Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established cellular mechanism linking GPX4 trafficking with the incorporation of the selenocysteine residue during its translation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.412Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established cellular mechanism linking GPX4 trafficking with the incorporation of the selenocysteine residue during its translation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.412Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific viral proteins or mechanisms have been experimentally shown to inhibit GPX4 enzymatic activity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:10:50.412Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific viral proteins or mechanisms have been experimentally shown to inhibit GPX4 enzymatic activity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.339Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate the mevalonate pathway in host cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.339Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "Which specific viruses have been experimentally shown to manipulate the mevalonate pathway in host cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.339Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "For which viruses is there a hypothesis, but not yet experimental confirmation, that they subvert the mevalonate pathway?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "For which viruses is there a hypothesis, but not yet experimental confirmation, that they subvert the mevalonate pathway?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established role of isoprenoids (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate) in the post-translational modification and membrane trafficking of GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What is the established role of isoprenoids (e.g., farnesyl pyrophosphate, geranylgeranyl pyrophosphate) in the post-translational modification and membrane trafficking of GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific step in GPX4 trafficking (e.g., ER exit, Golgi processing, vesicular transport, membrane insertion) is proposed to be dependent on isoprenoid biosynthesis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What specific step in GPX4 trafficking (e.g., ER exit, Golgi processing, vesicular transport, membrane insertion) is proposed to be dependent on isoprenoid biosynthesis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms (e.g., viral proteases, host tRNA modification, SECIS element interference, selenium uptake disruption) by which viral infections can dysregulate selenocysteine incorporation into selenoproteins like GPX4?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:11:07.340Z** - Topic: `Viral subversion of the mevalonate pathway and isoprenoid biosynthesis to dysregulated GPX4 trafficking and selenocysteine incorporation` - Query: "What are the known molecular mechanisms (e.g., viral proteases, host tRNA modification, SECIS element interference, selenium uptake disruption) by which viral infections can dysregulate selenocysteine incorporation into selenoproteins like GPX4?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
