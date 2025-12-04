@@ -1171,3 +1171,183 @@
 ⚰️  **2025-12-04T07:05:37.813Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How does the description or role of Melchizedek in the Epistula Apostolorum function to define Christ's identity, authority, or relationship to the patriarchal order?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in neurons during social behavior stimuli?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in neurons during social behavior stimuli?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How does chromatin accessibility in neuropeptide receptor-expressing neurons differ between aggression, mating, and parental care stimuli?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How does chromatin accessibility in neuropeptide receptor-expressing neurons differ between aggression, mating, and parental care stimuli?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What are the time-dependent changes in chromatin accessibility in these neurons following exposure to social behavior stimuli?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What are the time-dependent changes in chromatin accessibility in these neurons following exposure to social behavior stimuli?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Are there stimulus-specific chromatin accessibility patterns that correlate with distinct neuropeptide receptor expression profiles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Are there stimulus-specific chromatin accessibility patterns that correlate with distinct neuropeptide receptor expression profiles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How do immediate early response regions versus stable chromatin remodeling regions differ in accessibility dynamics across social behavior contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:03.199Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How do immediate early response regions versus stable chromatin remodeling regions differ in accessibility dynamics across social behavior contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What are the specific textual references to Melchizedek in the Epistle to the Apostles, and what arguments or claims about his nature or role does the text make?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What are the specific textual references to Melchizedek in the Epistle to the Apostles, and what arguments or claims about his nature or role does the text make?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What are the specific arguments or interpretations regarding Melchizedek found in the works of Justin Martyr, and what is their theological context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What are the specific arguments or interpretations regarding Melchizedek found in the works of Justin Martyr, and what is their theological context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What are the specific arguments or interpretations regarding Melchizedek found in the works of Irenaeus, and what is their theological context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What are the specific arguments or interpretations regarding Melchizedek found in the works of Irenaeus, and what is their theological context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How do the arguments about Melchizedek in the Epistle to the Apostles compare and contrast with those in Justin Martyr's works in terms of content, purpose, and Christological significance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How do the arguments about Melchizedek in the Epistle to the Apostles compare and contrast with those in Justin Martyr's works in terms of content, purpose, and Christological significance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How do the arguments about Melchizedek in the Epistle to the Apostles compare and contrast with those in Irenaeus's works in terms of content, purpose, and Christological significance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:32.037Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How do the arguments about Melchizedek in the Epistle to the Apostles compare and contrast with those in Irenaeus's works in terms of content, purpose, and Christological significance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.609Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor-expressing neuron subtypes show altered chromatin accessibility in response to social behavior stimuli when analyzed at single-cell resolution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.609Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor-expressing neuron subtypes show altered chromatin accessibility in response to social behavior stimuli when analyzed at single-cell resolution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.609Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What are the precise genomic regions (e.g., promoters, enhancers) where chromatin accessibility changes occur in these neurons following social stimuli?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What are the precise genomic regions (e.g., promoters, enhancers) where chromatin accessibility changes occur in these neurons following social stimuli?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How quickly after social stimulation do chromatin accessibility changes become detectable in neuropeptide receptor-expressing neurons, and how long do they persist?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How quickly after social stimulation do chromatin accessibility changes become detectable in neuropeptide receptor-expressing neurons, and how long do they persist?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Do chromatin accessibility changes in response to social stimuli occur simultaneously across all affected genomic regions, or are there distinct early and late response patterns?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Do chromatin accessibility changes in response to social stimuli occur simultaneously across all affected genomic regions, or are there distinct early and late response patterns?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How do the magnitude and direction of chromatin accessibility changes correlate with corresponding changes in neuropeptide receptor gene expression levels in individual neurons?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:41.610Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "How do the magnitude and direction of chromatin accessibility changes correlate with corresponding changes in neuropeptide receptor gene expression levels in individual neurons?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.318Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "What are the key manuscript witnesses of the Testament of Job in Slavonic translation, and what are their approximate dates and provenances?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "What are the key manuscript witnesses of the Testament of Job in Slavonic translation, and what are their approximate dates and provenances?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "How does the Slavonic version of the Testament of Job compare textually to the known Greek and other versions, in terms of structure, content, and notable variants?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "How does the Slavonic version of the Testament of Job compare textually to the known Greek and other versions, in terms of structure, content, and notable variants?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "What was the process and likely timeframe for the integration of the Testament of Job into the Slavonic Palea historica, and how is it presented within that compilation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "What was the process and likely timeframe for the integration of the Testament of Job into the Slavonic Palea historica, and how is it presented within that compilation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "How do the theological themes and narrative expansions in the Slavonic Testament of Job interact with or differ from the exegetical traditions found in major Byzantine Job commentaries (e.g., those by Olympiodorus, Chrysostom, or others)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "How do the theological themes and narrative expansions in the Slavonic Testament of Job interact with or differ from the exegetical traditions found in major Byzantine Job commentaries (e.g., those by Olympiodorus, Chrysostom, or others)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "What does the reception of the Testament of Job in the Slavonic tradition reveal about the transmission and adaptation of parabiblical literature between Byzantine and Slavic Orthodox contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:06:58.319Z** - Topic: `The reception and adaptation of the Testament of Job in the Slavonic tradition, particularly its integration into the Palea historica and its theological interplay with Byzantine Job commentaries.` - Query: "What does the reception of the Testament of Job in the Slavonic tradition reveal about the transmission and adaptation of parabiblical literature between Byzantine and Slavic Orthodox contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.162Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What explicit references to Melchizedek exist in the Epistle to the Apostles, including any narrative context, titles, or actions attributed to him?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.162Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What explicit references to Melchizedek exist in the Epistle to the Apostles, including any narrative context, titles, or actions attributed to him?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.162Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What is the literary and theological context of the Epistle to the Apostles, and how might that shape its presentation of Melchizedek?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What is the literary and theological context of the Epistle to the Apostles, and how might that shape its presentation of Melchizedek?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What primary sources (Gnostic texts, Marcionite writings, or reports from their opponents) directly describe Gnostic or Marcionite interpretations of Melchizedek?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What primary sources (Gnostic texts, Marcionite writings, or reports from their opponents) directly describe Gnostic or Marcionite interpretations of Melchizedek?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How do Irenaeus' descriptions of heretical Melchizedek doctrines compare to surviving Gnostic or Marcionite sources to assess their accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "How do Irenaeus' descriptions of heretical Melchizedek doctrines compare to surviving Gnostic or Marcionite sources to assess their accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What specific exegetical arguments and scriptural citations does Justin Martyr use when discussing Melchizedek, and in what context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:11.163Z** - Topic: `The reception and transformation of the Melchizedek tradition in the Christology of the early second century (specifically in Justin Martyr, Irenaeus, and the Epistle to the Apostles) and its polemical use against Gnostic and Marcionite systems.` - Query: "What specific exegetical arguments and scriptural citations does Justin Martyr use when discussing Melchizedek, and in what context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in response to aggression stimuli compared to control conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in response to aggression stimuli compared to control conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in response to mating stimuli compared to control conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in response to mating stimuli compared to control conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in response to parental care stimuli compared to control conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "Which specific neuropeptide receptor genes show altered chromatin accessibility in response to parental care stimuli compared to control conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What chromatin accessibility changes occur in neuropeptide receptor-expressing neurons within 1 hour after social stimulus exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What chromatin accessibility changes occur in neuropeptide receptor-expressing neurons within 1 hour after social stimulus exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What chromatin accessibility changes in neuropeptide receptor-expressing neurons persist 24 hours or more after social stimulus exposure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T07:07:16.538Z** - Topic: `"Single-cell chromatin accessibility landscapes of neuropeptide receptor-expressing neurons in response to social behavior stimuli"` - Query: "What chromatin accessibility changes in neuropeptide receptor-expressing neurons persist 24 hours or more after social stimulus exposure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
