@@ -15061,3 +15061,393 @@
 ⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical frameworks (e.g., information theory, gradient analysis, optimization landscape) explain the interaction between temperature scheduling and prototype-based learning objectives?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key components and mechanisms of attention-based dynamic routing in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key components and mechanisms of attention-based dynamic routing in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent communication systems typically function within transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent communication systems typically function within transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific challenges arise when integrating dynamic routing with multi-agent communication in transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific challenges arise when integrating dynamic routing with multi-agent communication in transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What existing methods or models have been proposed for attention-based routing in multi-agent scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What existing methods or models have been proposed for attention-based routing in multi-agent scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.359Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How can the performance and efficiency of such dynamic routing systems be evaluated or measured?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:31:47.360Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How can the performance and efficiency of such dynamic routing systems be evaluated or measured?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.381Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the mathematical formulation and purpose of prototype learning in representation learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the mathematical formulation and purpose of prototype learning in representation learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss, such as InfoNCE, defined and what role does it play in learning hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss, such as InfoNCE, defined and what role does it play in learning hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is temperature annealing in the context of contrastive learning, and how does it affect the optimization dynamics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is temperature annealing in the context of contrastive learning, and how does it affect the optimization dynamics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How are hyperbolic embeddings defined, and what are their advantages over Euclidean embeddings for hierarchical or structured data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How are hyperbolic embeddings defined, and what are their advantages over Euclidean embeddings for hierarchical or structured data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific challenges and methodological considerations when combining prototype learning, contrastive loss, and temperature annealing in a hyperbolic space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:05.382Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific challenges and methodological considerations when combining prototype learning, contrastive loss, and temperature annealing in a hyperbolic space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.139Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific attention mechanisms (e.g., cross-agent attention, gated attention, sparse attention) proposed for dynamic routing in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.139Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific attention mechanisms (e.g., cross-agent attention, gated attention, sparse attention) proposed for dynamic routing in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do transformer architectures (e.g., encoder-decoder, multi-head attention) facilitate communication between multiple agents in a shared environment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do transformer architectures (e.g., encoder-decoder, multi-head attention) facilitate communication between multiple agents in a shared environment?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What performance metrics (e.g., task completion rate, communication efficiency, scalability) are used to benchmark attention-based routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What performance metrics (e.g., task completion rate, communication efficiency, scalability) are used to benchmark attention-based routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How does attention-based routing compare to other communication mechanisms (e.g., graph neural networks, message passing, centralized controllers) in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How does attention-based routing compare to other communication mechanisms (e.g., graph neural networks, message passing, centralized controllers) in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key limitations or challenges identified in implementing attention mechanisms for dynamic routing in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:14.140Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key limitations or challenges identified in implementing attention mechanisms for dynamic routing in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.707Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific neuroscience topics (e.g., neural circuits, synaptic plasticity, brain regions) are explicitly mentioned or measured in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific neuroscience topics (e.g., neural circuits, synaptic plasticity, brain regions) are explicitly mentioned or measured in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific developmental biology topics (e.g., neurogenesis, axon guidance, critical periods) are explicitly mentioned or measured in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific developmental biology topics (e.g., neurogenesis, axon guidance, critical periods) are explicitly mentioned or measured in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key structural or functional properties of biological neural systems described in the dataset (e.g., connectivity patterns, signal propagation, modularity)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key structural or functional properties of biological neural systems described in the dataset (e.g., connectivity patterns, signal propagation, modularity)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do the attention mechanisms in artificial neural networks (transformers) dynamically route information between layers or tokens?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do the attention mechanisms in artificial neural networks (transformers) dynamically route information between layers or tokens?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What publicly available neuroscience or neuroimaging datasets (e.g., Allen Brain Atlas, Human Connectome Project) contain data relevant to neural routing or attention-like processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:38.708Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What publicly available neuroscience or neuroimaging datasets (e.g., Allen Brain Atlas, Human Connectome Project) contain data relevant to neural routing or attention-like processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "What is the mathematical definition and standard computational method for cosine similarity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "What is the mathematical definition and standard computational method for cosine similarity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity used as a routing mechanism in neural network architectures (e.g., in capsule networks or sparse expert models)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity used as a routing mechanism in neural network architectures (e.g., in capsule networks or sparse expert models)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "What are the advantages of using cosine similarity for routing compared to other attention or gating mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "What are the advantages of using cosine similarity for routing compared to other attention or gating mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "What are the known limitations or challenges of cosine-similarity-based routing in terms of training stability or computational cost?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "What are the known limitations or challenges of cosine-similarity-based routing in terms of training stability or computational cost?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "In which specific neural network models or research papers has cosine similarity been successfully applied as a core routing component?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:39.094Z** - Topic: `cosine similarity neural routing` - Query: "In which specific neural network models or research papers has cosine similarity been successfully applied as a core routing component?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "Which neural network architectures explicitly incorporate cosine similarity as part of their routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "Which neural network architectures explicitly incorporate cosine similarity as part of their routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity specifically implemented in the routing mechanisms of these neural network architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity specifically implemented in the routing mechanisms of these neural network architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "In what ways is cosine similarity used for communication or coordination between agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "In what ways is cosine similarity used for communication or coordination between agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "What specific performance metrics (e.g., accuracy, speed, scalability) are used to evaluate cosine similarity-based routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "What specific performance metrics (e.g., accuracy, speed, scalability) are used to evaluate cosine similarity-based routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "How do the performance characteristics of cosine similarity-based routing compare quantitatively to alternative routing methods (e.g., attention-based, Euclidean distance-based) across different tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:32:57.467Z** - Topic: `cosine similarity neural routing` - Query: "How do the performance characteristics of cosine similarity-based routing compare quantitatively to alternative routing methods (e.g., attention-based, Euclidean distance-based) across different tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.070Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific neuroscience and developmental biology topics, concepts, or terminology are explicitly mentioned or referenced within the dataset's content?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.070Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific neuroscience and developmental biology topics, concepts, or terminology are explicitly mentioned or referenced within the dataset's content?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.070Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What factors or features in the relevance scoring algorithm could cause completely irrelevant artifacts to receive scores between 0.73-0.76?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.070Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What factors or features in the relevance scoring algorithm could cause completely irrelevant artifacts to receive scores between 0.73-0.76?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.071Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What metadata, formatting, or structural characteristics do the high-scoring irrelevant artifacts share that might influence the scoring mechanism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.071Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What metadata, formatting, or structural characteristics do the high-scoring irrelevant artifacts share that might influence the scoring mechanism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.071Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the fundamental similarities and differences between biological neural systems (in neuroscience) and artificial attention mechanisms in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.071Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the fundamental similarities and differences between biological neural systems (in neuroscience) and artificial attention mechanisms in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.071Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How might the scoring algorithm misinterpret or conflate terminology or concepts shared between neuroscience and artificial neural network research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:02.071Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How might the scoring algorithm misinterpret or conflate terminology or concepts shared between neuroscience and artificial neural network research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "What are the specific mathematical formulations and algorithms used for cosine similarity-based routing in neural network architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "What are the specific mathematical formulations and algorithms used for cosine similarity-based routing in neural network architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity implemented in multi-agent systems for agent-to-agent or agent-to-task routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity implemented in multi-agent systems for agent-to-agent or agent-to-task routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "What are the computational complexity and latency characteristics of cosine similarity routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "What are the computational complexity and latency characteristics of cosine similarity routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "How does cosine similarity routing compare to alternative routing methods (e.g., attention-based, Euclidean distance, learned routing) in terms of accuracy and efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "How does cosine similarity routing compare to alternative routing methods (e.g., attention-based, Euclidean distance, learned routing) in terms of accuracy and efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "What are the documented advantages and limitations of cosine similarity routing in practical neural network and multi-agent system deployments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:15.926Z** - Topic: `cosine similarity neural routing` - Query: "What are the documented advantages and limitations of cosine similarity routing in practical neural network and multi-agent system deployments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.900Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific architectural designs (e.g., modules, layers) that enable attention-based dynamic routing in transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific architectural designs (e.g., modules, layers) that enable attention-based dynamic routing in transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What methods (e.g., algorithms, training techniques) are used to implement dynamic routing within transformer attention mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What methods (e.g., algorithms, training techniques) are used to implement dynamic routing within transformer attention mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent systems specifically modify or utilize transformer attention mechanisms for inter-agent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent systems specifically modify or utilize transformer attention mechanisms for inter-agent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the primary technical challenges related to scalability and efficiency when implementing dynamic routing in transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the primary technical challenges related to scalability and efficiency when implementing dynamic routing in transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key technical challenges in ensuring stability and convergence during training of multi-agent transformers with dynamic routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:20.901Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key technical challenges in ensuring stability and convergence during training of multi-agent transformers with dynamic routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.627Z** - Topic: `cosine similarity neural routing` - Query: "Which specific neural network architectures (e.g., capsule networks, attention mechanisms, or others) explicitly incorporate cosine similarity as part of their routing or gating mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.627Z** - Topic: `cosine similarity neural routing` - Query: "Which specific neural network architectures (e.g., capsule networks, attention mechanisms, or others) explicitly incorporate cosine similarity as part of their routing or gating mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.627Z** - Topic: `cosine similarity neural routing` - Query: "In multi-agent systems, how is cosine similarity used to measure similarity or alignment between agent states, messages, or policies to facilitate communication or coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.627Z** - Topic: `cosine similarity neural routing` - Query: "In multi-agent systems, how is cosine similarity used to measure similarity or alignment between agent states, messages, or policies to facilitate communication or coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.628Z** - Topic: `cosine similarity neural routing` - Query: "What are the computational efficiency metrics (e.g., time complexity, memory usage) of routing algorithms that rely on cosine similarity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.628Z** - Topic: `cosine similarity neural routing` - Query: "What are the computational efficiency metrics (e.g., time complexity, memory usage) of routing algorithms that rely on cosine similarity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.628Z** - Topic: `cosine similarity neural routing` - Query: "How does the accuracy or effectiveness of cosine similarity-based routing compare to that of alternative routing methods (e.g., Euclidean distance-based, learned attention weights) in tasks like clustering or information passing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.628Z** - Topic: `cosine similarity neural routing` - Query: "How does the accuracy or effectiveness of cosine similarity-based routing compare to that of alternative routing methods (e.g., Euclidean distance-based, learned attention weights) in tasks like clustering or information passing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.628Z** - Topic: `cosine similarity neural routing` - Query: "What are the robustness or scalability limitations of using cosine similarity for routing in neural networks or multi-agent systems under varying data distributions or system sizes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:36.628Z** - Topic: `cosine similarity neural routing` - Query: "What are the robustness or scalability limitations of using cosine similarity for routing in neural networks or multi-agent systems under varying data distributions or system sizes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.910Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific neural network architectures that implement attention-based dynamic routing for multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.910Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific neural network architectures that implement attention-based dynamic routing for multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.910Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What algorithmic methods or protocols enable attention-based dynamic routing decisions in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.910Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What algorithmic methods or protocols enable attention-based dynamic routing decisions in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.911Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How are transformer architectures modified or extended to handle communication between multiple autonomous agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.911Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How are transformer architectures modified or extended to handle communication between multiple autonomous agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.911Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific adaptations of transformer attention mechanisms are used for multi-agent scenarios (e.g., multi-head attention across agents, cross-agent attention layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.911Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific adaptations of transformer attention mechanisms are used for multi-agent scenarios (e.g., multi-head attention across agents, cross-agent attention layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.911Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the primary computational and scalability challenges when implementing dynamic routing in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:41.911Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the primary computational and scalability challenges when implementing dynamic routing in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "What are the specific mathematical formulations and implementations of cosine similarity in neural network routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "What are the specific mathematical formulations and implementations of cosine similarity in neural network routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity used in multi-agent systems for communication protocols or coordination strategies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "How is cosine similarity used in multi-agent systems for communication protocols or coordination strategies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "What are the performance metrics (e.g., accuracy, latency, scalability) of cosine similarity-based routing in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "What are the performance metrics (e.g., accuracy, latency, scalability) of cosine similarity-based routing in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "How does cosine similarity-based routing compare to alternative routing methods (e.g., attention-based, reinforcement learning-based) in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "How does cosine similarity-based routing compare to alternative routing methods (e.g., attention-based, reinforcement learning-based) in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "What are the limitations or challenges associated with using cosine similarity in routing mechanisms for neural networks or multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:54.904Z** - Topic: `cosine similarity neural routing` - Query: "What are the limitations or challenges associated with using cosine similarity in routing mechanisms for neural networks or multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.685Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific attention-based mechanisms have been proposed for dynamic routing between transformer layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What specific attention-based mechanisms have been proposed for dynamic routing between transformer layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do transformer-based systems implement communication protocols between multiple autonomous agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do transformer-based systems implement communication protocols between multiple autonomous agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "In what ways are cosine similarity or other distance metrics used to determine routing paths in attention mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "In what ways are cosine similarity or other distance metrics used to determine routing paths in attention mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the architectural differences between static routing and dynamic routing in transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the architectural differences between static routing and dynamic routing in transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent transformer systems handle message passing and information aggregation between agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent transformer systems handle message passing and information aggregation between agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
