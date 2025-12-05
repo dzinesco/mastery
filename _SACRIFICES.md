@@ -13081,3 +13081,1983 @@
 ⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What are the optimized code parameters (e.g., squeezing levels, concatenation depth) that maximize the fault-tolerant threshold under these combined realistic constraints?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:49:02.772Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "How does the finite squeezing level of approximate GKP states affect the logical error rates of a single-mode GKP code under a realistic error model combining photon loss and dephasing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.772Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "How does the finite squeezing level of approximate GKP states affect the logical error rates of a single-mode GKP code under a realistic error model combining photon loss and dephasing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.772Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "What is the resource overhead, in terms of the required number of oscillator modes and two-mode operations, for concatenating GKP codes with a topological code (e.g., surface code) to achieve a target logical error rate?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.772Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "What is the resource overhead, in terms of the required number of oscillator modes and two-mode operations, for concatenating GKP codes with a topological code (e.g., surface code) to achieve a target logical error rate?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.773Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "How do photon loss and dephasing errors propagate through the two-mode coupling operations (e.g., beam-splitters, SUM gates) used in the error correction circuits for concatenated GKP codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.773Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "How do photon loss and dephasing errors propagate through the two-mode coupling operations (e.g., beam-splitters, SUM gates) used in the error correction circuits for concatenated GKP codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.773Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "What are the performance trade-offs between increasing the GKP squeezing level and increasing the level of topological code concatenation when optimizing for overall resource efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.773Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "What are the performance trade-offs between increasing the GKP squeezing level and increasing the level of topological code concatenation when optimizing for overall resource efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.773Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "How does the finite energy (and associated non-orthogonality) of approximate GKP states impact the fault-tolerance thresholds of the concatenated code under a circuit-level noise model?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:49:02.773Z** - Topic: `"Resource overhead and performance trade-offs in concatenated GKP codes when using approximate GKP states (from finite-energy Gottesman-Kitaev-Preskill codes) under realistic error models including photon loss, dephasing, and finite squeezing in multimode oscillator chains"` - Query: "How does the finite energy (and associated non-orthogonality) of approximate GKP states impact the fault-tolerance thresholds of the concatenated code under a circuit-level noise model?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.342Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What is the mathematical definition and typical implementation of cosine similarity in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.342Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What is the mathematical definition and typical implementation of cosine similarity in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.342Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is routing traditionally handled in multi-agent systems, and what are its limitations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.342Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is routing traditionally handled in multi-agent systems, and what are its limitations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.343Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the proposed methods for integrating cosine similarity as a routing mechanism in neural network-based multi-agent architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.343Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the proposed methods for integrating cosine similarity as a routing mechanism in neural network-based multi-agent architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.343Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate the effectiveness of cosine similarity routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.343Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate the effectiveness of cosine similarity routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.343Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational and scalability challenges associated with using cosine similarity for routing in large-scale multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:27.343Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational and scalability challenges associated with using cosine similarity for routing in large-scale multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.883Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.883Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented for routing information between agents in multi-agent systems, including specific algorithms or frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented for routing information between agents in multi-agent systems, including specific algorithms or frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the latency characteristics of cosine similarity-based routing approaches in neural networks and multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the latency characteristics of cosine similarity-based routing approaches in neural networks and multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the accuracy metrics and trade-offs associated with cosine similarity routing compared to alternative routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the accuracy metrics and trade-offs associated with cosine similarity routing compared to alternative routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do cosine similarity routing approaches scale with increasing numbers of agents, data dimensions, or network complexity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:20:51.884Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do cosine similarity routing approaches scale with increasing numbers of agents, data dimensions, or network complexity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.785Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical formulation of prototype learning in embedding spaces, and how are class prototypes typically computed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical formulation of prototype learning in embedding spaces, and how are class prototypes typically computed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does the softmax temperature parameter affect the probability distribution and decision boundaries in classification tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does the softmax temperature parameter affect the probability distribution and decision boundaries in classification tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common strategies for scheduling the softmax temperature during training, and what are their theoretical motivations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common strategies for scheduling the softmax temperature during training, and what are their theoretical motivations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning with temperature scheduling impact the geometry and separation of embeddings in the feature space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning with temperature scheduling impact the geometry and separation of embeddings in the feature space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical results or benchmarks demonstrate the effectiveness of temperature scheduling in prototype-based learning methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:06.786Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical results or benchmarks demonstrate the effectiveness of temperature scheduling in prototype-based learning methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the key performance metrics for evaluating task dispatch efficiency in autonomous agent swarms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the key performance metrics for evaluating task dispatch efficiency in autonomous agent swarms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How does contrastive learning specifically improve the representation of agent capabilities and task requirements?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How does contrastive learning specifically improve the representation of agent capabilities and task requirements?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the main challenges in applying contrastive learning to dynamic, multi-agent environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the main challenges in applying contrastive learning to dynamic, multi-agent environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.268Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How does contrastive learning compare to other machine learning approaches (e.g., reinforcement learning, supervised learning) for task dispatch in swarms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.269Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How does contrastive learning compare to other machine learning approaches (e.g., reinforcement learning, supervised learning) for task dispatch in swarms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.269Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What architectural designs or modifications are needed to integrate contrastive learning into existing swarm dispatch systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:13.269Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What architectural designs or modifications are needed to integrate contrastive learning into existing swarm dispatch systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.393Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.393Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.393Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity for message filtering, partner selection, or task allocation during communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.393Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity for message filtering, partner selection, or task allocation during communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.393Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways does cosine similarity routing differ from Euclidean distance or dot product routing in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.394Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways does cosine similarity routing differ from Euclidean distance or dot product routing in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.394Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the accuracy or convergence rate differences when using cosine similarity versus other similarity metrics for routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.394Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the accuracy or convergence rate differences when using cosine similarity versus other similarity metrics for routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.394Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing perform in high-dimensional spaces compared to alternative similarity measures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:16.394Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing perform in high-dimensional spaces compared to alternative similarity measures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What existing literature specifically addresses prototype learning methods that incorporate temperature scheduling in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What existing literature specifically addresses prototype learning methods that incorporate temperature scheduling in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying the softmax temperature parameter influence the formation and distinctiveness of prototypes in embedding-based learning systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying the softmax temperature parameter influence the formation and distinctiveness of prototypes in embedding-based learning systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical evidence demonstrates the impact of temperature scheduling on classification accuracy and prototype convergence in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical evidence demonstrates the impact of temperature scheduling on classification accuracy and prototype convergence in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What mathematical frameworks and equations describe temperature scheduling strategies (e.g., annealing, adaptive schemes) in prototype-based learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What mathematical frameworks and equations describe temperature scheduling strategies (e.g., annealing, adaptive schemes) in prototype-based learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do different temperature scheduling approaches compare in terms of optimization behavior and prototype stability in embedding learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:30.410Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do different temperature scheduling approaches compare in terms of optimization behavior and prototype stability in embedding learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the existing contrastive learning architectures (e.g., SimCLR, MoCo, BYOL) that have been adapted or could be adapted for autonomous agent swarms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the existing contrastive learning architectures (e.g., SimCLR, MoCo, BYOL) that have been adapted or could be adapted for autonomous agent swarms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How can contrastive learning be applied to learn representations for individual agents or the swarm as a whole in a decentralized or distributed manner?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How can contrastive learning be applied to learn representations for individual agents or the swarm as a whole in a decentralized or distributed manner?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the formal mathematical models or frameworks used to define task dispatch in multi-agent systems (e.g., auction-based, market-based, optimization-based)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the formal mathematical models or frameworks used to define task dispatch in multi-agent systems (e.g., auction-based, market-based, optimization-based)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.240Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How do task dispatch models account for swarm-specific constraints like communication limits, scalability, and dynamic environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.241Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How do task dispatch models account for swarm-specific constraints like communication limits, scalability, and dynamic environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.241Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What metrics are used to measure efficiency (e.g., task completion time, resource utilization) in intelligent task dispatch for agent swarms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:40.241Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What metrics are used to measure efficiency (e.g., task completion time, resource utilization) in intelligent task dispatch for agent swarms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.677Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity for message filtering, partner selection, or task allocation during coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity for message filtering, partner selection, or task allocation during coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways does cosine similarity routing reduce computational complexity compared to Euclidean distance or dot product in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways does cosine similarity routing reduce computational complexity compared to Euclidean distance or dot product in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific performance benefits (e.g., speed, accuracy, scalability) of cosine similarity routing in attention-based or capsule network architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific performance benefits (e.g., speed, accuracy, scalability) of cosine similarity routing in attention-based or capsule network architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity enhance robustness to feature magnitude variations in routing decisions compared to other similarity metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:41.678Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity enhance robustness to feature magnitude variations in routing decisions compared to other similarity metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What recent publications (last 3-5 years) exist on prototype learning methods that incorporate temperature scheduling with softmax?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What recent publications (last 3-5 years) exist on prototype learning methods that incorporate temperature scheduling with softmax?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common temperature scheduling strategies (e.g., fixed, linear decay, cosine annealing) used in prototype learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common temperature scheduling strategies (e.g., fixed, linear decay, cosine annealing) used in prototype learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do embedding-based learning systems (e.g., metric learning, few-shot learning) practically implement and tune temperature parameters during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do embedding-based learning systems (e.g., metric learning, few-shot learning) practically implement and tune temperature parameters during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical justifications or analyses explain the role of temperature in softmax for prototype learning (e.g., gradient properties, entropy regularization, optimization dynamics)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical justifications or analyses explain the role of temperature in softmax for prototype learning (e.g., gradient properties, entropy regularization, optimization dynamics)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical results or benchmarks demonstrate the impact of temperature scheduling on prototype learning performance (e.g., accuracy, convergence speed, robustness)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:21:52.654Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical results or benchmarks demonstrate the impact of temperature scheduling on prototype learning performance (e.g., accuracy, convergence speed, robustness)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.181Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the specific contrastive learning algorithms (e.g., SimCLR, MoCo, BYOL) that have been implemented in autonomous agent swarm research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.181Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the specific contrastive learning algorithms (e.g., SimCLR, MoCo, BYOL) that have been implemented in autonomous agent swarm research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.181Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "In what ways have contrastive learning architectures been integrated with swarm-specific models (e.g., for communication, coordination, or collective behavior learning)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "In what ways have contrastive learning architectures been integrated with swarm-specific models (e.g., for communication, coordination, or collective behavior learning)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How is the task dispatch problem typically modeled in autonomous agent swarm systems (e.g., as an optimization problem, a market-based mechanism, or a reinforcement learning problem)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How is the task dispatch problem typically modeled in autonomous agent swarm systems (e.g., as an optimization problem, a market-based mechanism, or a reinforcement learning problem)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the common constraints and objectives considered in the formulation of task dispatch for agent swarms (e.g., resource limits, time windows, or swarm coordination requirements)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the common constraints and objectives considered in the formulation of task dispatch for agent swarms (e.g., resource limits, time windows, or swarm coordination requirements)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "Which metrics are used to evaluate the efficiency of task dispatch in agent swarms (e.g., task completion rate, makespan, resource utilization, or swarm coordination overhead)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.182Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "Which metrics are used to evaluate the efficiency of task dispatch in agent swarms (e.g., task completion rate, makespan, resource utilization, or swarm coordination overhead)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a routing mechanism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a routing mechanism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity utilized in the communication protocols between agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity utilized in the communication protocols between agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity applied to coordinate actions or decisions among agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity applied to coordinate actions or decisions among agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Are there documented implementations of artificial neural networks that use cosine similarity for routing in agent-based systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Are there documented implementations of artificial neural networks that use cosine similarity for routing in agent-based systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance characteristics or reported outcomes of these implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:04.691Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance characteristics or reported outcomes of these implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.350Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the key characteristics of prototype learning in machine learning embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the key characteristics of prototype learning in machine learning embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which biological mechanisms in the brain are known to support pattern abstraction and category formation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which biological mechanisms in the brain are known to support pattern abstraction and category formation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do neural systems regulate the balance between exploration and consolidation of learned information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do neural systems regulate the balance between exploration and consolidation of learned information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What evidence exists for distributed, population-level representations in biological neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What evidence exists for distributed, population-level representations in biological neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do neuromodulators or neural oscillations potentially function as temperature-like parameters in biological information processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:12.351Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do neuromodulators or neural oscillations potentially function as temperature-like parameters in biological information processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.326Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity utilized to determine message routing paths or coordinate agent actions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity utilized to determine message routing paths or coordinate agent actions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., latency, throughput, accuracy) of routing algorithms that rely on cosine similarity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., latency, throughput, accuracy) of routing algorithms that rely on cosine similarity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do cosine similarity-based routing algorithms compare to alternative routing methods (e.g., distance-based, learned policies) in terms of scalability and resource efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do cosine similarity-based routing algorithms compare to alternative routing methods (e.g., distance-based, learned policies) in terms of scalability and resource efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the limitations or trade-offs associated with using cosine similarity for routing decisions in neural networks or multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:29.327Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the limitations or trade-offs associated with using cosine similarity for routing decisions in neural networks or multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.216Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the specific names and structural designs of contrastive learning architectures (e.g., SimCLR, MoCo, BYOL) that have been implemented in multi-agent task dispatch research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.216Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the specific names and structural designs of contrastive learning architectures (e.g., SimCLR, MoCo, BYOL) that have been implemented in multi-agent task dispatch research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.217Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "In multi-agent task dispatch, what are the specific problem formulations (e.g., combinatorial optimization, Markov Decision Process) and agent interaction models (e.g., centralized, decentralized, hybrid) used when applying contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.218Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "In multi-agent task dispatch, what are the specific problem formulations (e.g., combinatorial optimization, Markov Decision Process) and agent interaction models (e.g., centralized, decentralized, hybrid) used when applying contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.218Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the common modeling paradigms (e.g., graph-based, swarm intelligence algorithms, reinforcement learning frameworks) used to represent autonomous agent swarms in task allocation studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.218Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the common modeling paradigms (e.g., graph-based, swarm intelligence algorithms, reinforcement learning frameworks) used to represent autonomous agent swarms in task allocation studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.218Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What specific agent characteristics (e.g., mobility, communication range, computational capability) and environmental constraints are typically defined in swarm models for task allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.219Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What specific agent characteristics (e.g., mobility, communication range, computational capability) and environmental constraints are typically defined in swarm models for task allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.219Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What quantitative performance metrics (e.g., task completion time, makespan, resource utilization, fairness indices) are used to evaluate the efficiency of task dispatch algorithms in agent swarms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:30.219Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What quantitative performance metrics (e.g., task completion time, makespan, resource utilization, fairness indices) are used to evaluate the efficiency of task dispatch algorithms in agent swarms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.985Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What recent studies (last 3-5 years) have specifically investigated prototype learning with softmax temperature scheduling, and what were their key findings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What recent studies (last 3-5 years) have specifically investigated prototype learning with softmax temperature scheduling, and what were their key findings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying the softmax temperature parameter during training affect the clustering and separation of prototypes in the embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying the softmax temperature parameter during training affect the clustering and separation of prototypes in the embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific mathematical formulations or functions (e.g., linear decay, cosine annealing, adaptive methods) are used to schedule temperature in prototype learning systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific mathematical formulations or functions (e.g., linear decay, cosine annealing, adaptive methods) are used to schedule temperature in prototype learning systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling interact with prototype refinement mechanisms (e.g., prototype update rules, contrastive losses) during different training phases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling interact with prototype refinement mechanisms (e.g., prototype update rules, contrastive losses) during different training phases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical evidence exists comparing fixed temperature versus scheduled temperature approaches in prototype learning across different datasets and tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:33.986Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical evidence exists comparing fixed temperature versus scheduled temperature approaches in prototype learning across different datasets and tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.261Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the key publications and findings on using contrastive learning for task dispatch in autonomous agent swarms published in the last 5 years?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.261Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the key publications and findings on using contrastive learning for task dispatch in autonomous agent swarms published in the last 5 years?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the primary architectures and algorithms currently considered state-of-the-art for intelligent task allocation in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the primary architectures and algorithms currently considered state-of-the-art for intelligent task allocation in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How have researchers adapted contrastive learning specifically for distributed decision-making in swarm robotics applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "How have researchers adapted contrastive learning specifically for distributed decision-making in swarm robotics applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the main performance metrics and benchmarks used to evaluate task allocation methods in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the main performance metrics and benchmarks used to evaluate task allocation methods in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the identified limitations or gaps in applying contrastive learning to task dispatch in autonomous swarms compared to other machine learning approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.262Z** - Topic: `contrastive learning for intelligent task dispatch in autonomous agent swarms` - Query: "What are the identified limitations or gaps in applying contrastive learning to task dispatch in autonomous swarms compared to other machine learning approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent communication or coordination protocols, how is cosine similarity used to measure similarity between agent states, messages, or policies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent communication or coordination protocols, how is cosine similarity used to measure similarity between agent states, messages, or policies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific performance metrics (e.g., accuracy, efficiency, scalability) used to benchmark cosine similarity routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific performance metrics (e.g., accuracy, efficiency, scalability) used to benchmark cosine similarity routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing algorithms (e.g., attention-based, distance-based) in terms of computational cost and communication overhead?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing algorithms (e.g., attention-based, distance-based) in terms of computational cost and communication overhead?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Are there any documented case studies or experiments where cosine similarity routing has been applied in dynamic or large-scale multi-agent environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Are there any documented case studies or experiments where cosine similarity routing has been applied in dynamic or large-scale multi-agent environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the main categories of prototype learning methods that operate in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the main categories of prototype learning methods that operate in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do different prototype-based models (e.g., Prototypical Networks, Gaussian Prototypes) represent and update prototypes in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do different prototype-based models (e.g., Prototypical Networks, Gaussian Prototypes) represent and update prototypes in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common strategies for scheduling softmax temperature values during training in machine learning models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common strategies for scheduling softmax temperature values during training in machine learning models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is softmax temperature specifically applied and adjusted in prototype-based classification models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is softmax temperature specifically applied and adjusted in prototype-based classification models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles explain the interaction between temperature scaling and distance-based similarity measures in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:22:51.502Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles explain the interaction between temperature scaling and distance-based similarity measures in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity used to determine routing paths or agent selection in multi-agent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity used to determine routing paths or agent selection in multi-agent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate routing algorithms in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate routing algorithms in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to distance-based or utility-based routing in terms of latency and throughput?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to distance-based or utility-based routing in terms of latency and throughput?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency trade-offs when using cosine similarity versus other similarity measures in routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.385Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency trade-offs when using cosine similarity versus other similarity measures in routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.907Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the main categories of prototype learning methods that operate in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.907Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the main categories of prototype learning methods that operate in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.907Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype-based models typically adjust softmax temperature during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype-based models typically adjust softmax temperature during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What mathematical properties does temperature scaling provide in prototype-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What mathematical properties does temperature scaling provide in prototype-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical advantages does temperature scheduling offer for prototype learning convergence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical advantages does temperature scheduling offer for prototype learning convergence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling affect the relationship between prototypes and embeddings in the loss landscape?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:11.908Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling affect the relationship between prototypes and embeddings in the loss landscape?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as part of their routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as part of their routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity specifically implemented in multi-agent communication or coordination protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity specifically implemented in multi-agent communication or coordination protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance characteristics (e.g., accuracy, efficiency, scalability) of cosine similarity-based routing in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance characteristics (e.g., accuracy, efficiency, scalability) of cosine similarity-based routing in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity-based routing compare to routing using other similarity metrics (e.g., Euclidean distance, dot product) in terms of performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity-based routing compare to routing using other similarity metrics (e.g., Euclidean distance, dot product) in terms of performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing in neural network architectures and multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:32.039Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing in neural network architectures and multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.529Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the existing methods for adjusting softmax temperature during training in prototype learning models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the existing methods for adjusting softmax temperature during training in prototype learning models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying temperature values influence the separation and clustering of prototypes in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying temperature values influence the separation and clustering of prototypes in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical effects does temperature scheduling have on prototype refinement across training epochs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical effects does temperature scheduling have on prototype refinement across training epochs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles explain the relationship between softmax temperature and probability distribution sharpening in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles explain the relationship between softmax temperature and probability distribution sharpening in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do different temperature scheduling strategies impact convergence and stability in prototype-based embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:41.530Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do different temperature scheduling strategies impact convergence and stability in prototype-based embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.261Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures, such as capsule networks or attention mechanisms, explicitly incorporate cosine similarity for making routing decisions between layers or components?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.261Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures, such as capsule networks or attention mechanisms, explicitly incorporate cosine similarity for making routing decisions between layers or components?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.261Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent pathfinding or task allocation systems, how is cosine similarity used to compute similarity between agent states, goals, or environmental features to inform routing choices?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.261Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent pathfinding or task allocation systems, how is cosine similarity used to compute similarity between agent states, goals, or environmental features to inform routing choices?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.262Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What metrics (e.g., latency, throughput, accuracy) and datasets are commonly used to evaluate the performance of routing algorithms based on cosine similarity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.262Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What metrics (e.g., latency, throughput, accuracy) and datasets are commonly used to evaluate the performance of routing algorithms based on cosine similarity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.262Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do cosine similarity-based routing algorithms compare to traditional methods (e.g., shortest path, Q-learning) in terms of computational efficiency and scalability in simulated or real-world environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.262Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do cosine similarity-based routing algorithms compare to traditional methods (e.g., shortest path, Q-learning) in terms of computational efficiency and scalability in simulated or real-world environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.262Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Are there specific domains (e.g., communication networks, robotic swarms, recommendation systems) where cosine similarity routing has been benchmarked against heuristic or optimization-based routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:23:52.262Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Are there specific domains (e.g., communication networks, robotic swarms, recommendation systems) where cosine similarity routing has been benchmarked against heuristic or optimization-based routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific neuroscience topics (e.g., brain regions, neural processes, disorders) are explicitly named and described in detail within the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific neuroscience topics (e.g., brain regions, neural processes, disorders) are explicitly named and described in detail within the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific developmental biology topics (e.g., stages of development, genetic regulation, cellular differentiation) are explicitly named and described in detail within the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific developmental biology topics (e.g., stages of development, genetic regulation, cellular differentiation) are explicitly named and described in detail within the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "For the neural systems described in the dataset, what specific methodological approaches (e.g., learning rules, network architectures, plasticity mechanisms) are documented?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "For the neural systems described in the dataset, what specific methodological approaches (e.g., learning rules, network architectures, plasticity mechanisms) are documented?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Do any of the documented methodological approaches for neural systems share conceptual or functional similarities with machine learning concepts such as prototype learning or temperature scheduling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.850Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Do any of the documented methodological approaches for neural systems share conceptual or functional similarities with machine learning concepts such as prototype learning or temperature scheduling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.851Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What explicit information does the dataset provide about its original research purpose, funding source, or experimental context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:02.851Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What explicit information does the dataset provide about its original research purpose, funding source, or experimental context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.029Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.029Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.029Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented in the routing mechanisms of multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented in the routing mechanisms of multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics used to evaluate cosine similarity-based routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics used to evaluate cosine similarity-based routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity-based routing compare to traditional routing methods in terms of efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity-based routing compare to traditional routing methods in terms of efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing decisions in neural networks and multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:10.030Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing decisions in neural networks and multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the primary algorithmic approaches for learning prototypes in embedding spaces (e.g., clustering-based, optimization-based, metric learning-based)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the primary algorithmic approaches for learning prototypes in embedding spaces (e.g., clustering-based, optimization-based, metric learning-based)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the softmax temperature parameter during training quantitatively affect classification accuracy or clustering metrics in prototype learning models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the softmax temperature parameter during training quantitatively affect classification accuracy or clustering metrics in prototype learning models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical studies compare fixed versus scheduled temperature strategies in prototype learning, and what are their key findings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical studies compare fixed versus scheduled temperature strategies in prototype learning, and what are their key findings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical relationship between softmax temperature and the entropy or sharpness of the assignment distribution in prototype models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical relationship between softmax temperature and the entropy or sharpness of the assignment distribution in prototype models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling relate to theoretical concepts like annealing, curriculum learning, or optimization landscape smoothing in prototype-based optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:21.842Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling relate to theoretical concepts like annealing, curriculum learning, or optimization landscape smoothing in prototype-based optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.575Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically implement cosine similarity as part of their routing mechanism between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.575Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically implement cosine similarity as part of their routing mechanism between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.575Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity for communication protocols or coordination algorithms between agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity for communication protocols or coordination algorithms between agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What empirical performance metrics (accuracy, speed, scalability) demonstrate the effectiveness of cosine similarity routing in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What empirical performance metrics (accuracy, speed, scalability) demonstrate the effectiveness of cosine similarity routing in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare computationally (time and space complexity) to alternative routing methods like attention-based or learned routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare computationally (time and space complexity) to alternative routing methods like attention-based or learned routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the trade-offs in using cosine similarity for routing versus other similarity measures (Euclidean distance, dot product) in terms of robustness and interpretability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:28.576Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the trade-offs in using cosine similarity for routing versus other similarity measures (Euclidean distance, dot product) in terms of robustness and interpretability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the specific mathematical formulations and algorithmic implementations of temperature scheduling in prototype learning within embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the specific mathematical formulations and algorithmic implementations of temperature scheduling in prototype learning within embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying temperature parameters during training quantitatively affect prototype convergence, separation, and stability in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying temperature parameters during training quantitatively affect prototype convergence, separation, and stability in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical frameworks (e.g., information theory, statistical mechanics, optimization theory) explain the role of temperature in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical frameworks (e.g., information theory, statistical mechanics, optimization theory) explain the role of temperature in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.485Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the documented practical applications of temperature-scheduled prototype learning across domains (e.g., computer vision, NLP, bioinformatics)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.486Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the documented practical applications of temperature-scheduled prototype learning across domains (e.g., computer vision, NLP, bioinformatics)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.486Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do empirical results compare between fixed-temperature and scheduled-temperature approaches in prototype learning benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:42.486Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do empirical results compare between fixed-temperature and scheduled-temperature approaches in prototype learning benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for making routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for making routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity utilized to facilitate communication between agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity utilized to facilitate communication between agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity applied to the allocation of tasks among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity applied to the allocation of tasks among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to benchmark routing algorithms in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to benchmark routing algorithms in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity-based routing compare to other routing algorithms according to these benchmarks in multi-agent contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:46.880Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity-based routing compare to other routing algorithms according to these benchmarks in multi-agent contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the existing methods for adjusting softmax temperature during prototype learning in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the existing methods for adjusting softmax temperature during prototype learning in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying temperature values affect the formation and refinement of prototypes during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying temperature values affect the formation and refinement of prototypes during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What impact does temperature scheduling have on the convergence rate and stability of prototype learning algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What impact does temperature scheduling have on the convergence rate and stability of prototype learning algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.600Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles explain the relationship between temperature scaling and probability distributions in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.601Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles explain the relationship between temperature scaling and probability distributions in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.601Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which practical applications has prototype learning with temperature scheduling demonstrated improved performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:24:59.601Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which practical applications has prototype learning with temperature scheduling demonstrated improved performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for making routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for making routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity utilized in multi-agent systems to facilitate agent-to-agent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity utilized in multi-agent systems to facilitate agent-to-agent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity applied for task allocation among agents in a multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity applied for task allocation among agents in a multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to benchmark cosine similarity routing against other routing algorithms in multi-agent contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to benchmark cosine similarity routing against other routing algorithms in multi-agent contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the comparative results (e.g., efficiency, accuracy, scalability) of cosine similarity routing versus alternative routing algorithms in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:05.206Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the comparative results (e.g., efficiency, accuracy, scalability) of cosine similarity routing versus alternative routing algorithms in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in classification models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in classification models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning define and compute class prototypes in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning define and compute class prototypes in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common temperature scheduling strategies (e.g., annealing, adaptive) and their empirical effects?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common temperature scheduling strategies (e.g., annealing, adaptive) and their empirical effects?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting temperature affect the relationship between embeddings and prototypes in prototype-based networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting temperature affect the relationship between embeddings and prototypes in prototype-based networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles from metric learning or information theory justify prototype learning and temperature scaling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:17.153Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles from metric learning or information theory justify prototype learning and temperature scaling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.424Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures (e.g., capsule networks, attention mechanisms, transformer variants) that incorporate cosine similarity for routing between agents or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.424Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures (e.g., capsule networks, attention mechanisms, transformer variants) that incorporate cosine similarity for routing between agents or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.424Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing differ from alternative routing mechanisms (e.g., learned routing, random routing, or distance-based routing) in terms of computational efficiency and scalability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing differ from alternative routing mechanisms (e.g., learned routing, random routing, or distance-based routing) in terms of computational efficiency and scalability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics (e.g., accuracy, communication cost, convergence speed) used to evaluate cosine similarity routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics (e.g., accuracy, communication cost, convergence speed) used to evaluate cosine similarity routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which benchmark environments or datasets are commonly used to test and compare routing mechanisms in distributed agent coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which benchmark environments or datasets are commonly used to test and compare routing mechanisms in distributed agent coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and limitations of cosine similarity routing compared to other routing strategies in dynamic or adversarial multi-agent settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:24.425Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and limitations of cosine similarity routing compared to other routing strategies in dynamic or adversarial multi-agent settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling (e.g., annealing, fixed, adaptive) affect prototype formation and convergence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling (e.g., annealing, fixed, adaptive) affect prototype formation and convergence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common implementation strategies for temperature scheduling in embedding-based prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common implementation strategies for temperature scheduling in embedding-based prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which papers specifically combine prototype learning with temperature scheduling, and what are their key contributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which papers specifically combine prototype learning with temperature scheduling, and what are their key contributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.409Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling impact metrics like intra-class compactness and inter-class separation in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:34.410Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling impact metrics like intra-class compactness and inter-class separation in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do capsule networks or dynamic routing algorithms utilize cosine similarity for routing between capsules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do capsule networks or dynamic routing algorithms utilize cosine similarity for routing between capsules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity used to measure similarity between agent states or messages for coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity used to measure similarity between agent states or messages for coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What specific multi-agent communication protocols or algorithms employ cosine similarity for agent matching or task allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What specific multi-agent communication protocols or algorithms employ cosine similarity for agent matching or task allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What quantitative performance metrics (e.g., accuracy, efficiency, scalability) have been reported for cosine similarity-based routing in multi-agent system experiments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:42.507Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What quantitative performance metrics (e.g., accuracy, efficiency, scalability) have been reported for cosine similarity-based routing in multi-agent system experiments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in a softmax function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in a softmax function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in an embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in an embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the specific mechanisms through which temperature scheduling affects prototype learning convergence and performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the specific mechanisms through which temperature scheduling affects prototype learning convergence and performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) used in prototype-based models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) used in prototype-based models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which practical domains (e.g., few-shot learning, metric learning) is prototype learning with temperature scheduling most effectively applied?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:51.515Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which practical domains (e.g., few-shot learning, metric learning) is prototype learning with temperature scheduling most effectively applied?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.986Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a routing mechanism?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.986Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a routing mechanism?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.986Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and utilized to make routing decisions within multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and utilized to make routing decisions within multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to evaluate routing algorithms in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to evaluate routing algorithms in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing perform on these metrics compared to alternative routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing perform on these metrics compared to alternative routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the documented advantages and limitations of using cosine similarity for routing in multi-agent contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:25:59.987Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the documented advantages and limitations of using cosine similarity for routing in multi-agent contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their implementation details?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their implementation details?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with distance metrics in prototype-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with distance metrics in prototype-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning) has prototype learning with temperature scheduling shown empirical benefits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:08.549Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning) has prototype learning with temperature scheduling shown empirical benefits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and applied to determine routing paths between agents in a multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and applied to determine routing paths between agents in a multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the documented performance benchmarks (e.g., accuracy, latency, scalability) of systems using cosine similarity routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the documented performance benchmarks (e.g., accuracy, latency, scalability) of systems using cosine similarity routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the comparative advantages of cosine similarity routing over alternative routing mechanisms (e.g., attention-based, rule-based, or distance-based routing) in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the comparative advantages of cosine similarity routing over alternative routing mechanisms (e.g., attention-based, rule-based, or distance-based routing) in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the limitations or disadvantages of using cosine similarity for routing decisions in neural networks or multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:19.593Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the limitations or disadvantages of using cosine similarity for routing decisions in neural networks or multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning methods represent and update class prototypes in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning methods represent and update class prototypes in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their implementation details?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their implementation details?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with prototype learning objectives during training (e.g., in loss functions like prototypical networks)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with prototype learning objectives during training (e.g., in loss functions like prototypical networks)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning, self-supervised learning) is prototype learning with temperature scheduling most effectively applied?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:26.787Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning, self-supervised learning) is prototype learning with temperature scheduling most effectively applied?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.285Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.285Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures explicitly incorporate cosine similarity as a routing mechanism between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity used in routing protocols for multi-agent communication, such as in attention mechanisms or message passing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity used in routing protocols for multi-agent communication, such as in attention mechanisms or message passing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways does cosine similarity facilitate coordination in multi-agent systems, such as in task allocation or consensus algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways does cosine similarity facilitate coordination in multi-agent systems, such as in task allocation or consensus algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What empirical benchmarks exist comparing the performance of cosine similarity-based routing to alternative routing methods (e.g., Euclidean distance, learned attention) in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What empirical benchmarks exist comparing the performance of cosine similarity-based routing to alternative routing methods (e.g., Euclidean distance, learned attention) in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the reported advantages and limitations of cosine similarity routing in terms of scalability, robustness, or computational efficiency in multi-agent settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:38.286Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the reported advantages and limitations of cosine similarity routing in terms of scalability, robustness, or computational efficiency in multi-agent settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling (e.g., annealing, fixed, adaptive) affect prototype formation and convergence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling (e.g., annealing, fixed, adaptive) affect prototype formation and convergence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common implementation strategies for temperature scheduling in embedding-based prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common implementation strategies for temperature scheduling in embedding-based prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which benchmark papers or methods combine prototype learning with temperature scheduling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which benchmark papers or methods combine prototype learning with temperature scheduling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling impact metrics like intra-class compactness and inter-class separation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:43.560Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling impact metrics like intra-class compactness and inter-class separation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.626Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically incorporate cosine similarity as part of their routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.626Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically incorporate cosine similarity as part of their routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.626Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented in the routing mechanisms of these neural network architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.626Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented in the routing mechanisms of these neural network architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.627Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways is cosine similarity applied to facilitate communication or coordination between agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.627Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways is cosine similarity applied to facilitate communication or coordination between agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.627Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., accuracy, efficiency, scalability) of neural networks using cosine similarity routing compared to those using other routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.627Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., accuracy, efficiency, scalability) of neural networks using cosine similarity routing compared to those using other routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.627Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing in terms of computational cost and effectiveness relative to alternative methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:26:56.627Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing in terms of computational cost and effectiveness relative to alternative methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning methods represent and update class prototypes in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning methods represent and update class prototypes in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their implementation details?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their implementation details?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with distance metrics in prototype-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with distance metrics in prototype-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning) is prototype learning with temperature scheduling most frequently applied?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:01.307Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning) is prototype learning with temperature scheduling most frequently applied?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism in their design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism in their design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity to determine which agent should handle a given task or information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity to determine which agent should handle a given task or information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency metrics (time and space complexity) of cosine similarity routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency metrics (time and space complexity) of cosine similarity routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing methods (e.g., attention-based, Euclidean distance, learned routing) in terms of accuracy or task performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing methods (e.g., attention-based, Euclidean distance, learned routing) in terms of accuracy or task performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.553Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the scalability and robustness characteristics of cosine similarity routing in dynamic or large-scale multi-agent environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:15.554Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the scalability and robustness characteristics of cosine similarity routing in dynamic or large-scale multi-agent environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter affect the probability distribution over prototypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter affect the probability distribution over prototypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) used in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) used in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is temperature scheduling implemented technically in embedding-based prototype learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is temperature scheduling implemented technically in embedding-based prototype learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical benefits (e.g., convergence speed, final accuracy) does temperature scheduling provide in prototype learning applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:18.251Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical benefits (e.g., convergence speed, final accuracy) does temperature scheduling provide in prototype learning applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a mechanism for routing decisions between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, what are the specific algorithms or protocols that use cosine similarity to determine which agent should handle a given task or piece of information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, what are the specific algorithms or protocols that use cosine similarity to determine which agent should handle a given task or piece of information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the computational latency of cosine similarity-based routing scale with the number of agents or data dimensions compared to alternative routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the computational latency of cosine similarity-based routing scale with the number of agents or data dimensions compared to alternative routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What is the impact on task accuracy or system performance when using cosine similarity for routing versus other similarity measures or decision rules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.089Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What is the impact on task accuracy or system performance when using cosine similarity for routing versus other similarity measures or decision rules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.090Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the scalability limitations of cosine similarity-based routing in terms of the number of routing candidates or high-dimensional data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:34.090Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the scalability limitations of cosine similarity-based routing in terms of the number of routing candidates or high-dimensional data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.249Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in a softmax function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.249Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in a softmax function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.249Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning define and utilize class prototypes in an embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning define and utilize class prototypes in an embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their typical implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their typical implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter affect the similarity or distance calculations between embeddings and prototypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter affect the similarity or distance calculations between embeddings and prototypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what specific applications (e.g., few-shot learning, metric learning) has prototype learning with temperature scheduling shown empirical benefits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:36.250Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what specific applications (e.g., few-shot learning, metric learning) has prototype learning with temperature scheduling shown empirical benefits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures specifically incorporate cosine similarity as part of their routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures specifically incorporate cosine similarity as part of their routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and utilized for routing decisions within multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and utilized for routing decisions within multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., accuracy, latency, throughput) of cosine similarity routing in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., accuracy, latency, throughput) of cosine similarity routing in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.356Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing methods (e.g., Euclidean distance, attention-based) in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.357Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing methods (e.g., Euclidean distance, attention-based) in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.357Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing in multi-agent systems versus other similarity measures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:52.357Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing in multi-agent systems versus other similarity measures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.027Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in the softmax function, particularly in the context of prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.027Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in the softmax function, particularly in the context of prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.027Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter during training (scheduling) influence the sharpness or smoothness of probability distributions over prototypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.027Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter during training (scheduling) influence the sharpness or smoothness of probability distributions over prototypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.027Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical effects does temperature scheduling have on the convergence and stability of prototype formation in the embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.028Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical effects does temperature scheduling have on the convergence and stability of prototype formation in the embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.028Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which specific prototype learning algorithms (e.g., Prototypical Networks, Gaussian Prototypes) explicitly incorporate or benefit from temperature scheduling in their loss functions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.028Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "Which specific prototype learning algorithms (e.g., Prototypical Networks, Gaussian Prototypes) explicitly incorporate or benefit from temperature scheduling in their loss functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.028Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common temperature scheduling strategies (e.g., annealing, cyclical) used in prototype learning, and how do their hyperparameters affect model performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:27:55.028Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common temperature scheduling strategies (e.g., annealing, cyclical) used in prototype learning, and how do their hyperparameters affect model performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically incorporate cosine similarity as part of their routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures specifically incorporate cosine similarity as part of their routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity used in the routing decisions within capsule networks or similar architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity used in the routing decisions within capsule networks or similar architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways is cosine similarity applied to facilitate communication or coordination between agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In what ways is cosine similarity applied to facilitate communication or coordination between agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency and accuracy metrics of cosine similarity routing compared to alternative routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency and accuracy metrics of cosine similarity routing compared to alternative routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing perform in terms of scalability and robustness relative to other routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:10.055Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing perform in terms of scalability and robustness relative to other routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of softmax temperature in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling (e.g., annealing) affect the probability distribution over prototypes during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature scheduling (e.g., annealing) affect the probability distribution over prototypes during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., linear, exponential, cosine) used in prototype learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., linear, exponential, cosine) used in prototype learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is temperature typically applied to distance metrics in embedding spaces for prototype-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is temperature typically applied to distance metrics in embedding spaces for prototype-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what specific applications (e.g., few-shot learning, metric learning) does temperature scheduling improve prototype learning performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:13.732Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what specific applications (e.g., few-shot learning, metric learning) does temperature scheduling improve prototype learning performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and applied to determine routing paths between agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity calculated and applied to determine routing paths between agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to evaluate cosine similarity routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What performance metrics are used to evaluate cosine similarity routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What case studies or experimental results demonstrate the effectiveness of cosine similarity routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.103Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What case studies or experimental results demonstrate the effectiveness of cosine similarity routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.104Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing methods in terms of efficiency, scalability, and accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:28.104Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to alternative routing methods in terms of efficiency, scalability, and accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.088Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in softmax-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.088Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in softmax-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.088Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning systems typically represent and compute class prototypes from embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.088Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning systems typically represent and compute class prototypes from embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.088Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific temperature scheduling strategies (e.g., annealing, fixed, adaptive) are commonly used in prototype learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.089Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific temperature scheduling strategies (e.g., annealing, fixed, adaptive) are commonly used in prototype learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.089Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter affect the similarity comparisons between query embeddings and class prototypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.089Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does adjusting the temperature parameter affect the similarity comparisons between query embeddings and class prototypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.089Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical justifications exist for temperature scheduling in relation to optimization dynamics and model calibration in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:31.089Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical justifications exist for temperature scheduling in relation to optimization dynamics and model calibration in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.991Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented to route information or tasks between agents in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented to route information or tasks between agents in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., accuracy, efficiency, scalability) of cosine similarity routing in neural networks or multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the performance metrics (e.g., accuracy, efficiency, scalability) of cosine similarity routing in neural networks or multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to other routing algorithms (e.g., attention-based, reinforcement learning-based) in terms of computational complexity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does cosine similarity routing compare to other routing algorithms (e.g., attention-based, reinforcement learning-based) in terms of computational complexity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing decisions compared to alternative algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:45.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and disadvantages of using cosine similarity for routing decisions compared to alternative algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.840Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.840Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.840Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning methods represent and update class prototypes in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How do prototype learning methods represent and update class prototypes in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their typical implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their typical implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with distance metrics in prototype-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with distance metrics in prototype-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning) has prototype learning with temperature scheduling shown empirical success?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:28:48.841Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning) has prototype learning with temperature scheduling shown empirical success?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the specific neural network architectures that incorporate cosine similarity as a mechanism for routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented in routing algorithms within multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How is cosine similarity implemented in routing algorithms within multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate cosine similarity-based routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate cosine similarity-based routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity-based routing compare to alternative routing methods in terms of efficiency and accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity-based routing compare to alternative routing methods in terms of efficiency and accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and limitations of using cosine similarity for routing decisions in neural networks and multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:04.221Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the advantages and limitations of using cosine similarity for routing decisions in neural networks and multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.226Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it scale logits before normalization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.226Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it scale logits before normalization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.226Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically define and update class prototypes in an embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically define and update class prototypes in an embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific effects does decreasing softmax temperature have on the probability distribution over classes during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific effects does decreasing softmax temperature have on the probability distribution over classes during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How can temperature scheduling strategies (e.g., annealing) be integrated into the prototype learning loss function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How can temperature scheduling strategies (e.g., annealing) be integrated into the prototype learning loss function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical evidence exists regarding temperature scheduling's impact on the separation and compactness of learned prototypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:06.227Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical evidence exists regarding temperature scheduling's impact on the separation and compactness of learned prototypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.991Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism in their design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "Which neural network architectures explicitly incorporate cosine similarity as a routing mechanism in their design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity to determine which agent should handle a given task or information?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do multi-agent systems utilize cosine similarity to determine which agent should handle a given task or information?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate cosine similarity routing in neural networks or multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the key performance metrics used to evaluate cosine similarity routing in neural networks or multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity routing compare to alternative routing mechanisms like attention-based or rule-based routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance of cosine similarity routing compare to alternative routing mechanisms like attention-based or rule-based routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency trade-offs when using cosine similarity for routing decisions versus other methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:21.992Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the computational efficiency trade-offs when using cosine similarity for routing decisions versus other methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.602Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the definitions and key characteristics of prototype learning methods in embedding spaces, such as Prototypical Networks or Gaussian prototypes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.602Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the definitions and key characteristics of prototype learning methods in embedding spaces, such as Prototypical Networks or Gaussian prototypes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.602Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is the softmax temperature parameter defined and what are common strategies for scheduling it during model training (e.g., fixed, linear, or adaptive schedules)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.602Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is the softmax temperature parameter defined and what are common strategies for scheduling it during model training (e.g., fixed, linear, or adaptive schedules)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.602Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the observed effects of softmax temperature scheduling on model calibration, convergence speed, and generalization in classification tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.603Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the observed effects of softmax temperature scheduling on model calibration, convergence speed, and generalization in classification tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.603Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles (e.g., from metric learning or information theory) support the integration of prototype learning with temperature scaling?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.603Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical principles (e.g., from metric learning or information theory) support the integration of prototype learning with temperature scaling?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.603Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what ways does temperature scheduling interact with prototype refinement and the separation of class clusters in the embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:24.603Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what ways does temperature scheduling interact with prototype refinement and the separation of class clusters in the embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.082Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures explicitly incorporate cosine similarity as a routing mechanism in their design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.082Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What neural network architectures explicitly incorporate cosine similarity as a routing mechanism in their design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.082Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do these architectures implement cosine similarity for routing decisions between layers or modules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.082Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How do these architectures implement cosine similarity for routing decisions between layers or modules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.083Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity used to measure similarity between agent states or messages for communication or coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.083Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how is cosine similarity used to measure similarity between agent states or messages for communication or coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.083Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What specific coordination mechanisms in multi-agent systems rely on cosine similarity for agent selection or task allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.083Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What specific coordination mechanisms in multi-agent systems rely on cosine similarity for agent selection or task allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.083Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance (e.g., accuracy, efficiency, scalability) of cosine similarity routing compare to alternative routing methods like attention-based or random routing in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:41.083Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the performance (e.g., accuracy, efficiency, scalability) of cosine similarity routing compare to alternative routing methods like attention-based or random routing in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.499Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the foundational principles and recent advancements in prototype learning as a machine learning methodology?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.499Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the foundational principles and recent advancements in prototype learning as a machine learning methodology?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.499Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is the softmax temperature parameter defined and mathematically incorporated in prototype learning loss functions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.499Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How is the softmax temperature parameter defined and mathematically incorporated in prototype learning loss functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.499Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common strategies and algorithms for scheduling or annealing the temperature parameter during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.500Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are the common strategies and algorithms for scheduling or annealing the temperature parameter during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.500Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what specific embedding-based systems (e.g., few-shot learning, metric learning) is temperature scheduling most frequently applied?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.500Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In what specific embedding-based systems (e.g., few-shot learning, metric learning) is temperature scheduling most frequently applied?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.500Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical performance benefits (e.g., accuracy, convergence speed, calibration) have been reported from using temperature scheduling in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:29:42.500Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What empirical performance benefits (e.g., accuracy, convergence speed, calibration) have been reported from using temperature scheduling in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.147Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.147Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition of softmax temperature and how does it affect probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their theoretical motivations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What are common temperature scheduling strategies (e.g., annealing, cyclical) and their theoretical motivations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with prototype-based loss functions (e.g., prototype contrastive loss, prototype softmax)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does temperature interact with prototype-based loss functions (e.g., prototype contrastive loss, prototype softmax)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning, self-supervised learning) has prototype learning with temperature scheduling shown empirical success?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.148Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "In which specific domains (e.g., few-shot learning, metric learning, self-supervised learning) has prototype learning with temperature scheduling shown empirical success?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the names and structural details of neural network architectures that explicitly incorporate cosine similarity for routing decisions in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the names and structural details of neural network architectures that explicitly incorporate cosine similarity for routing decisions in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how does routing based on cosine similarity differ from mechanisms like dot-product attention or learned routing networks in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "In multi-agent systems, how does routing based on cosine similarity differ from mechanisms like dot-product attention or learned routing networks in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the use of cosine similarity for routing affect metrics like task completion rate and communication overhead in multi-agent coordination benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "How does the use of cosine similarity for routing affect metrics like task completion rate and communication overhead in multi-agent coordination benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the reported accuracy, scalability, and robustness scores for multi-agent systems employing cosine similarity routing in standard simulation environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the reported accuracy, scalability, and robustness scores for multi-agent systems employing cosine similarity routing in standard simulation environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the comparative advantages and disadvantages of cosine similarity routing versus other attention mechanisms in handling dynamic or heterogeneous agent teams?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:00.335Z** - Topic: `neural network cosine similarity routing for multi-agent systems` - Query: "What are the comparative advantages and disadvantages of cosine similarity routing versus other attention mechanisms in handling dynamic or heterogeneous agent teams?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.063Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in the softmax function, particularly in the context of probability distribution sharpening or smoothing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.063Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What is the mathematical definition and role of the temperature parameter in the softmax function, particularly in the context of probability distribution sharpening or smoothing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.063Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in an embedding space, and what objective functions are commonly used?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does prototype learning typically represent and update class prototypes in an embedding space, and what objective functions are commonly used?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific temperature scheduling strategies (e.g., annealing, cyclical, adaptive) have been proposed or used in conjunction with prototype-based loss functions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What specific temperature scheduling strategies (e.g., annealing, cyclical, adaptive) have been proposed or used in conjunction with prototype-based loss functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying the temperature during training empirically affect the convergence and separation of class prototypes in the learned embedding space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "How does varying the temperature during training empirically affect the convergence and separation of class prototypes in the learned embedding space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical frameworks (e.g., information theory, gradient analysis, optimization landscape) explain the interaction between temperature scheduling and prototype-based learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:30:19.064Z** - Topic: `prototype learning with softmax temperature scheduling in embedding spaces` - Query: "What theoretical frameworks (e.g., information theory, gradient analysis, optimization landscape) explain the interaction between temperature scheduling and prototype-based learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
