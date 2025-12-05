@@ -12487,3 +12487,33 @@
 ⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the current experimental demonstrations and challenges in achieving fault-tolerant quantum computing below the threshold?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:25:41.268Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the defining topological structures and logical qubit encoding mechanisms of surface codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.268Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the defining topological structures and logical qubit encoding mechanisms of surface codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.268Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the defining topological structures and logical qubit encoding mechanisms of color codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.268Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the defining topological structures and logical qubit encoding mechanisms of color codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.268Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "How do the error thresholds and resource requirements (e.g., physical qubits per logical qubit) compare between surface codes and color codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.268Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "How do the error thresholds and resource requirements (e.g., physical qubits per logical qubit) compare between surface codes and color codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.269Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the primary physical implementation challenges (e.g., qubit connectivity, gate fidelity, measurement speed) for surface codes on near-term quantum hardware?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.269Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the primary physical implementation challenges (e.g., qubit connectivity, gate fidelity, measurement speed) for surface codes on near-term quantum hardware?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.269Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the primary physical implementation challenges for color codes on the same near-term hardware platforms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:25:41.269Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the primary physical implementation challenges for color codes on the same near-term hardware platforms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
