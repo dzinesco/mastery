@@ -12457,3 +12457,33 @@
 ⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "What are the key architectural considerations (e.g., connectivity, gate sets, measurement cycles) for implementing error-corrected quantum algorithms in hardware platforms like superconducting qubits or trapped ions?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:24:50.736Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the fundamental principles and assumptions underlying the threshold theorem for fault-tolerant quantum computing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the fundamental principles and assumptions underlying the threshold theorem for fault-tolerant quantum computing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "How do different quantum error-correcting codes (e.g., surface codes, color codes) affect the calculated fault-tolerance threshold?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "How do different quantum error-correcting codes (e.g., surface codes, color codes) affect the calculated fault-tolerance threshold?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the key resource overheads (e.g., qubit count, gate operations, time) required to implement fault-tolerant quantum error correction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the key resource overheads (e.g., qubit count, gate operations, time) required to implement fault-tolerant quantum error correction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "How do physical error rates and architectural constraints influence the practical resource estimates for large-scale quantum algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "How do physical error rates and architectural constraints influence the practical resource estimates for large-scale quantum algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the current experimental demonstrations and challenges in achieving fault-tolerant quantum computing below the threshold?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:50.737Z** - Topic: `"Fault-tolerant quantum computing: threshold theorems and resource overhead analysis"` - Query: "What are the current experimental demonstrations and challenges in achieving fault-tolerant quantum computing below the threshold?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
