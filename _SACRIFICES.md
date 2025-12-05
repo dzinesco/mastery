@@ -18949,3 +18949,123 @@
 ⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do mixture of experts routing mechanisms use to ensure balanced expert utilization across the network?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T01:48:42.194Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific neuroscience topics (e.g., synaptic plasticity, neural oscillations, mirror neurons) are explicitly named or described in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.194Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific neuroscience topics (e.g., synaptic plasticity, neural oscillations, mirror neurons) are explicitly named or described in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "Which neurobiological principles of communication (e.g., neurotransmitter diffusion, gap junctions, action potential propagation) are documented in the dataset that could model agent interaction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "Which neurobiological principles of communication (e.g., neurotransmitter diffusion, gap junctions, action potential propagation) are documented in the dataset that could model agent interaction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What neurobiological coordination mechanisms (e.g., central pattern generators, cortical synchronization) in the dataset could inspire emergent protocol design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What neurobiological coordination mechanisms (e.g., central pattern generators, cortical synchronization) in the dataset could inspire emergent protocol design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What developmental biology concepts (e.g., morphogenesis, cell differentiation, axon guidance) are present in the dataset that relate to self-organization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What developmental biology concepts (e.g., morphogenesis, cell differentiation, axon guidance) are present in the dataset that relate to self-organization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do the neuroscience and developmental biology topics in the dataset illustrate principles of adaptation, learning, or evolution applicable to multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:42.195Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do the neuroscience and developmental biology topics in the dataset illustrate principles of adaptation, learning, or evolution applicable to multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse mixture of experts routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse mixture of experts routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing) are used to implement sparse routing in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing) are used to implement sparse routing in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "Which routing mechanisms are currently considered state-of-the-art in large-scale MoE models as of 2024?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "Which routing mechanisms are currently considered state-of-the-art in large-scale MoE models as of 2024?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms compare in terms of computational efficiency and memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms compare in terms of computational efficiency and memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the trade-offs between load balancing, expert utilization, and model accuracy across various MoE routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:47.556Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the trade-offs between load balancing, expert utilization, and model accuracy across various MoE routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithmic designs and implementations of current state-of-the-art routing mechanisms for sparse mixture of experts (e.g., token choice, expert choice, base layer routing)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithmic designs and implementations of current state-of-the-art routing mechanisms for sparse mixture of experts (e.g., token choice, expert choice, base layer routing)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of computational efficiency, memory usage, and training/inference speed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of computational efficiency, memory usage, and training/inference speed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the accuracy and model quality trade-offs between various MoE routing mechanisms across different benchmark tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the accuracy and model quality trade-offs between various MoE routing mechanisms across different benchmark tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do MoE routing mechanisms employ to ensure load balancing across experts (e.g., auxiliary losses, capacity factors, normalization methods)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.106Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do MoE routing mechanisms employ to ensure load balancing across experts (e.g., auxiliary losses, capacity factors, normalization methods)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.107Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms measure and optimize expert utilization rates, and what are typical utilization patterns observed in practice?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:06.107Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms measure and optimize expert utilization rates, and what are typical utilization patterns observed in practice?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.509Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural components (e.g., attention mechanisms, agent modules, coordination layers) used in multi-agent systems built with transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural components (e.g., attention mechanisms, agent modules, coordination layers) used in multi-agent systems built with transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific self-supervised learning objectives (e.g., contrastive learning, masked prediction, reconstruction) have been shown to facilitate the development of communication protocols between AI agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific self-supervised learning objectives (e.g., contrastive learning, masked prediction, reconstruction) have been shown to facilitate the development of communication protocols between AI agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "In what measurable ways (e.g., efficiency, robustness, complexity) do emergent communication protocols in artificial multi-agent systems differ from natural communication systems observed in biology?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "In what measurable ways (e.g., efficiency, robustness, complexity) do emergent communication protocols in artificial multi-agent systems differ from natural communication systems observed in biology?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key similarities between learned artificial communication protocols and biological ones in terms of structure, function, or development?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key similarities between learned artificial communication protocols and biological ones in terms of structure, function, or development?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What architectural choices in multi-agent transformers most directly influence the properties of the emergent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What architectural choices in multi-agent transformers most directly influence the properties of the emergent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
