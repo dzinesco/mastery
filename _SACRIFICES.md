@@ -18829,3 +18829,123 @@
 ⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented limitations, challenges, and open problems in combining multi-agent transformers with emergent communication protocols using self-supervised learning?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T01:48:08.702Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for routing tokens to experts in sparse mixture of experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.702Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for routing tokens to experts in sparse mixture of experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.702Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms (e.g., top-k, hash-based, learned routers) compare in terms of computational overhead and memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.702Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms (e.g., top-k, hash-based, learned routers) compare in terms of computational overhead and memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.702Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of their impact on model accuracy and task performance across various benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.703Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of their impact on model accuracy and task performance across various benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.703Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary technical challenges in designing routing mechanisms that maintain load balancing across experts in large-scale MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.703Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary technical challenges in designing routing mechanisms that maintain load balancing across experts in large-scale MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.703Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main scalability limitations and bottlenecks of current routing mechanisms when applied to extremely large MoE models with thousands of experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:08.703Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main scalability limitations and bottlenecks of current routing mechanisms when applied to extremely large MoE models with thousands of experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.390Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental data structures used to organize vectors for efficient similarity search in vector indexing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.390Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental data structures used to organize vectors for efficient similarity search in vector indexing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do core algorithms in vector indexing (e.g., graph traversal, quantization, hashing) enable approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do core algorithms in vector indexing (e.g., graph traversal, quantization, hashing) enable approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific mechanisms do HNSW, IVF, and LSH use to trade accuracy for reduced computational cost?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific mechanisms do HNSW, IVF, and LSH use to trade accuracy for reduced computational cost?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How is the accuracy-efficiency balance measured and compared across different ANN algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How is the accuracy-efficiency balance measured and compared across different ANN algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In practical terms, what are the key operational trade-offs (e.g., build time, memory usage, query speed, accuracy) between HNSW, IVF, and LSH?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:13.391Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In practical terms, what are the key operational trade-offs (e.g., build time, memory usage, query speed, accuracy) between HNSW, IVF, and LSH?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific neuroscience topics are explicitly listed or described in the dataset's metadata or content?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific neuroscience topics are explicitly listed or described in the dataset's metadata or content?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How could principles from the identified neuroscience topics be mapped to multi-agent system design challenges?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How could principles from the identified neuroscience topics be mapped to multi-agent system design challenges?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the core functional components and information flow patterns in thalamocortical systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the core functional components and information flow patterns in thalamocortical systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key mechanisms and implementations of attention-based routing in artificial neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key mechanisms and implementations of attention-based routing in artificial neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What academic databases, preprint servers, or specialized repositories commonly contain research on multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:19.011Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What academic databases, preprint servers, or specialized repositories commonly contain research on multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.867Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse mixture of experts routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse mixture of experts routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms implement top-k routing in sparse mixture of experts architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms implement top-k routing in sparse mixture of experts architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does noisy top-k routing differ algorithmically from standard top-k routing in mixture of experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does noisy top-k routing differ algorithmically from standard top-k routing in mixture of experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key advantages and disadvantages of learned routing mechanisms compared to heuristic routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key advantages and disadvantages of learned routing mechanisms compared to heuristic routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do mixture of experts routing mechanisms use to ensure balanced expert utilization across the network?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:48:27.868Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do mixture of experts routing mechanisms use to ensure balanced expert utilization across the network?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
