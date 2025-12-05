@@ -16585,3 +16585,2247 @@
 ⚰️  **2025-12-05T01:41:06.272Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the stated purpose or primary research goal for which this neuroscience dataset was created or compiled?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles and core algorithms (e.g., top-k gating, load balancing) that define sparse mixture of experts routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles and core algorithms (e.g., top-k gating, load balancing) that define sparse mixture of experts routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific, leading MoE routing architectures (e.g., GShard, Switch Transformer, BASE layers) and how do their routing mechanisms differ?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific, leading MoE routing architectures (e.g., GShard, Switch Transformer, BASE layers) and how do their routing mechanisms differ?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing strategies (e.g., token-based, expert capacity) impact model accuracy and task performance metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing strategies (e.g., token-based, expert capacity) impact model accuracy and task performance metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational efficiency trade-offs (e.g., training/inference speed, memory usage) between various MoE routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.397Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational efficiency trade-offs (e.g., training/inference speed, memory usage) between various MoE routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.398Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms balance expert specialization with load distribution, and what are the scalability challenges for each strategy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.398Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms balance expert specialization with load distribution, and what are the scalability challenges for each strategy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss modified or redefined to operate effectively in hyperbolic geometry for prototype-based learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss modified or redefined to operate effectively in hyperbolic geometry for prototype-based learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and effects of temperature annealing in contrastive learning frameworks that use hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and effects of temperature annealing in contrastive learning frameworks that use hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the comparative advantages and limitations of different prototype learning methods in hyperbolic spaces versus Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.899Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the comparative advantages and limitations of different prototype learning methods in hyperbolic spaces versus Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.900Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods in hyperbolic geometry handle challenges like gradient computation and optimization on Riemannian manifolds?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:17.900Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods in hyperbolic geometry handle challenges like gradient computation and optimization on Riemannian manifolds?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific neuroscience topics are explicitly mentioned or described in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific neuroscience topics are explicitly mentioned or described in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific developmental biology topics are explicitly mentioned or described in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific developmental biology topics are explicitly mentioned or described in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific connections, if any, are made between biological neural systems and artificial neural networks in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific connections, if any, are made between biological neural systems and artificial neural networks in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific methods or algorithms are described for calculating relevance scores in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific methods or algorithms are described for calculating relevance scores in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What criteria or metrics are used to assign relevance scores to artifacts in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:26.361Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What criteria or metrics are used to assign relevance scores to artifacts in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.357Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the defining characteristics and mathematical formulations of token-based routing mechanisms in sparse MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.357Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the defining characteristics and mathematical formulations of token-based routing mechanisms in sparse MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.357Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing, noisy top-k gating, and hash-based routing algorithms differ in their expert selection logic?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.357Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing, noisy top-k gating, and hash-based routing algorithms differ in their expert selection logic?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.357Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What metrics (e.g., throughput, accuracy, load balancing) are used to compare the performance and efficiency of different MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.357Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What metrics (e.g., throughput, accuracy, load balancing) are used to compare the performance and efficiency of different MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.358Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key techniques (e.g., auxiliary losses, capacity factors) used in state-of-the-art MoE models to improve dynamic expert selection and load balancing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.358Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key techniques (e.g., auxiliary losses, capacity factors) used in state-of-the-art MoE models to improve dynamic expert selection and load balancing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.358Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do recent approaches like expert choice routing or adaptive computation differ from traditional token choice routing in dynamic expert selection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.358Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do recent approaches like expert choice routing or adaptive computation differ from traditional token choice routing in dynamic expert selection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.547Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design principles of multi-agent transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.548Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design principles of multi-agent transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.548Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How can self-supervised learning objectives be formulated to train multiple interacting transformer-based agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.548Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How can self-supervised learning objectives be formulated to train multiple interacting transformer-based agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.548Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What mechanisms or environments facilitate the emergence of communication protocols among agents in such architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.548Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What mechanisms or environments facilitate the emergence of communication protocols among agents in such architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.549Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How are emergent communication protocols evaluated and measured in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.549Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How are emergent communication protocols evaluated and measured in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.549Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the primary challenges and limitations in scaling these architectures for complex, real-world tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.549Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the primary challenges and limitations in scaling these architectures for complex, real-world tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.751Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What mathematical properties of hyperbolic spaces make them suitable for representing hierarchical or tree-like data structures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.751Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What mathematical properties of hyperbolic spaces make them suitable for representing hierarchical or tree-like data structures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.751Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function formulated and adapted for optimization in hyperbolic geometry (e.g., using the Poincaré ball or Lorentz model)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.751Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function formulated and adapted for optimization in hyperbolic geometry (e.g., using the Poincaré ball or Lorentz model)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.752Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the role and definition of 'prototypes' in prototype learning, and how are they integrated with contrastive loss in hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.752Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the role and definition of 'prototypes' in prototype learning, and how are they integrated with contrastive loss in hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.752Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing (gradually changing the temperature parameter) influence the convergence behavior and gradient dynamics during hyperbolic contrastive learning optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.752Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing (gradually changing the temperature parameter) influence the convergence behavior and gradient dynamics during hyperbolic contrastive learning optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.752Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key benchmark datasets and evaluation metrics used to assess prototype learning methods with hyperbolic embeddings in practical applications (e.g., in hierarchical classification or graph representation learning)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:43.752Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key benchmark datasets and evaluation metrics used to assess prototype learning methods with hyperbolic embeddings in practical applications (e.g., in hierarchical classification or graph representation learning)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.823Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific neuroscience topics covered in detail within the 50 artifacts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.823Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific neuroscience topics covered in detail within the 50 artifacts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.823Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific developmental biology topics covered in detail within the 50 artifacts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.823Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific developmental biology topics covered in detail within the 50 artifacts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.823Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "Which computational or mathematical methods discussed in the neuroscience context could have tangential relevance to vector operations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.824Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "Which computational or mathematical methods discussed in the neuroscience context could have tangential relevance to vector operations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.824Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the source of the consistently misaligned dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.824Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the source of the consistently misaligned dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.824Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the purpose of the consistently misaligned dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:41:49.824Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the purpose of the consistently misaligned dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and implementations of contrastive loss functions specifically adapted for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and implementations of contrastive loss functions specifically adapted for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How are prototype learning methods (e.g., prototypical networks) defined and operationalized within hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How are prototype learning methods (e.g., prototypical networks) defined and operationalized within hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific techniques and schedules for temperature annealing during optimization in hyperbolic embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific techniques and schedules for temperature annealing during optimization in hyperbolic embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties (e.g., convergence, representation capacity) does hyperbolic geometry provide over Euclidean space for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.607Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties (e.g., convergence, representation capacity) does hyperbolic geometry provide over Euclidean space for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.608Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does the combination of prototype learning and temperature annealing theoretically improve optimization stability and representation quality in hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:03.608Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does the combination of prototype learning and temperature annealing theoretically improve optimization stability and representation quality in hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations in existing multi-agent transformer models as documented in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations in existing multi-agent transformer models as documented in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists regarding the development of communication protocols in self-supervised multi-agent learning systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists regarding the development of communication protocols in self-supervised multi-agent learning systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific mechanisms (e.g., attention patterns, gating, routing) enable dynamic, context-dependent communication between transformer-based agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific mechanisms (e.g., attention patterns, gating, routing) enable dynamic, context-dependent communication between transformer-based agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different training objectives (e.g., self-supervised vs. task-supervised) influence the emergence and structure of inter-agent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different training objectives (e.g., self-supervised vs. task-supervised) influence the emergence and structure of inter-agent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented performance trade-offs and scalability challenges associated with dynamic communication in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.542Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented performance trade-offs and scalability challenges associated with dynamic communication in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.635Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing methods (e.g., HNSW, IVF, LSH) were explicitly mentioned or implied as subjects of analysis in the original query?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing methods (e.g., HNSW, IVF, LSH) were explicitly mentioned or implied as subjects of analysis in the original query?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "Which approximate nearest neighbor (ANN) algorithm implementations or libraries (e.g., FAISS, Annoy, ScaNN) were referenced or relevant to the original query's context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "Which approximate nearest neighbor (ANN) algorithm implementations or libraries (e.g., FAISS, Annoy, ScaNN) were referenced or relevant to the original query's context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "For what application domains (e.g., recommendation systems, image retrieval, NLP embeddings) was the analysis of ANN algorithms intended?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "For what application domains (e.g., recommendation systems, image retrieval, NLP embeddings) was the analysis of ANN algorithms intended?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific performance metrics (e.g., recall@k, query latency, indexing speed, memory usage) were of interest for evaluating ANN algorithms in the original query?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:08.636Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific performance metrics (e.g., recall@k, query latency, indexing speed, memory usage) were of interest for evaluating ANN algorithms in the original query?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.799Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main categories of routing mechanisms used in sparse mixture of experts architectures (e.g., token-level vs. expert-level, deterministic vs. stochastic)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.799Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main categories of routing mechanisms used in sparse mixture of experts architectures (e.g., token-level vs. expert-level, deterministic vs. stochastic)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do specific routing algorithms like Top-K gating, Switch Transformer routing, and BASE layer routing differ in their design and implementation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do specific routing algorithms like Top-K gating, Switch Transformer routing, and BASE layer routing differ in their design and implementation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What metrics are used to compare MoE routing algorithms in terms of model performance (e.g., accuracy, perplexity) and computational efficiency (e.g., FLOPs, latency, memory usage)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What metrics are used to compare MoE routing algorithms in terms of model performance (e.g., accuracy, perplexity) and computational efficiency (e.g., FLOPs, latency, memory usage)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary challenges related to load balancing and expert utilization in MoE routing for large language models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary challenges related to load balancing and expert utilization in MoE routing for large language models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do communication overhead and synchronization issues impact the scalability of MoE routing in distributed training and inference settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:10.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do communication overhead and synchronization issues impact the scalability of MoE routing in distributed training and inference settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.589Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically in hyperbolic spaces (e.g., Poincaré ball, Lorentz model)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically in hyperbolic spaces (e.g., Poincaré ball, Lorentz model)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function (e.g., InfoNCE) mathematically adapted to account for hyperbolic geometry and distance metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function (e.g., InfoNCE) mathematically adapted to account for hyperbolic geometry and distance metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific modifications or regularization techniques are applied to hyperbolic embeddings during contrastive learning to ensure stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific modifications or regularization techniques are applied to hyperbolic embeddings during contrastive learning to ensure stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and implementation of temperature annealing in hyperbolic contrastive learning, and how does it differ from Euclidean settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and implementation of temperature annealing in hyperbolic contrastive learning, and how does it differ from Euclidean settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning and contrastive learning methods interact or combine in hyperbolic representation learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:22.590Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning and contrastive learning methods interact or combine in hyperbolic representation learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.892Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations of multi-agent transformer models described in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations of multi-agent transformer models described in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the emergence of communication protocols in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the emergence of communication protocols in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methods are used to analyze and evaluate emergent communication in transformer-based multi-agent architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methods are used to analyze and evaluate emergent communication in transformer-based multi-agent architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific mechanisms enable dynamic, context-aware communication routing in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific mechanisms enable dynamic, context-aware communication routing in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different architectural designs (e.g., attention mechanisms, gating, sparse connections) impact the efficiency and adaptability of communication in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:29.893Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different architectural designs (e.g., attention mechanisms, gating, sparse connections) impact the efficiency and adaptability of communication in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental design principles (e.g., accuracy vs. speed, memory vs. computation) that guide the development of vector indexing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental design principles (e.g., accuracy vs. speed, memory vs. computation) that guide the development of vector indexing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) graph algorithm construct layers and perform approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) graph algorithm construct layers and perform approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Inverted File (IVF) indexing use clustering and coarse quantization to partition the vector space for efficient search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Inverted File (IVF) indexing use clustering and coarse quantization to partition the vector space for efficient search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) compress high-dimensional vectors and enable fast distance calculations through lookup tables?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.184Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) compress high-dimensional vectors and enable fast distance calculations through lookup tables?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.185Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the comparative performance metrics (recall, query latency, indexing time, memory footprint) and typical application scenarios for HNSW, IVF, and PQ algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:30.185Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the comparative performance metrics (recall, query latency, indexing time, memory footprint) and typical application scenarios for HNSW, IVF, and PQ algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental architectural components and mathematical formulations that define sparse mixture of experts routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental architectural components and mathematical formulations that define sparse mixture of experts routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing) are implemented in MoE architectures, and how do they differ?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing) are implemented in MoE architectures, and how do they differ?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing mechanisms compare in terms of computational efficiency and memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing mechanisms compare in terms of computational efficiency and memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing mechanisms compare in terms of model accuracy and task performance across benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.083Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing mechanisms compare in terms of model accuracy and task performance across benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.084Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing mechanisms scale with increasing model size, number of experts, and input sequence length?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:31.084Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing mechanisms scale with increasing model size, number of experts, and input sequence length?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key mathematical properties of hyperbolic spaces (e.g., Poincaré ball, Lorentz model) that make them suitable for representing hierarchical or tree-like data structures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key mathematical properties of hyperbolic spaces (e.g., Poincaré ball, Lorentz model) that make them suitable for representing hierarchical or tree-like data structures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is prototype learning (e.g., prototypical networks) formally defined and adapted for use in hyperbolic geometry rather than Euclidean space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is prototype learning (e.g., prototypical networks) formally defined and adapted for use in hyperbolic geometry rather than Euclidean space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss (e.g., InfoNCE, triplet loss) formulated and computed within the framework of hyperbolic distances and Riemannian optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss (e.g., InfoNCE, triplet loss) formulated and computed within the framework of hyperbolic distances and Riemannian optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the specific role and mathematical effect of the temperature parameter in the softmax function of contrastive losses within hyperbolic models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the specific role and mathematical effect of the temperature parameter in the softmax function of contrastive losses within hyperbolic models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What empirical results (accuracy, convergence speed, etc.) have been reported on standard benchmarks (e.g., hierarchical datasets, few-shot learning tasks) when combining hyperbolic prototypes with contrastive loss and annealing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:46.200Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What empirical results (accuracy, convergence speed, etc.) have been reported on standard benchmarks (e.g., hierarchical datasets, few-shot learning tasks) when combining hyperbolic prototypes with contrastive loss and annealing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.892Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing and approximate nearest neighbor algorithms were identified as research targets in the original research plan?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing and approximate nearest neighbor algorithms were identified as research targets in the original research plan?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the recall performance characteristics of HNSW, IVF, PQ, and LSH algorithms across different datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the recall performance characteristics of HNSW, IVF, PQ, and LSH algorithms across different datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the latency performance characteristics of HNSW, IVF, PQ, and LSH algorithms across different query loads?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the latency performance characteristics of HNSW, IVF, PQ, and LSH algorithms across different query loads?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the memory usage characteristics of HNSW, IVF, PQ, and LSH algorithms for different dataset sizes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the memory usage characteristics of HNSW, IVF, PQ, and LSH algorithms for different dataset sizes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH algorithms compare in high-dimensional data retrieval scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:50.893Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH algorithms compare in high-dimensional data retrieval scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing algorithms (e.g., Top-K, Noisy Top-K, BASE, Hash-based) are currently considered state-of-the-art for sparse mixture of experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing algorithms (e.g., Top-K, Noisy Top-K, BASE, Hash-based) are currently considered state-of-the-art for sparse mixture of experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of computational efficiency (e.g., FLOPs, memory usage, training/inference speed)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of computational efficiency (e.g., FLOPs, memory usage, training/inference speed)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of model performance metrics (e.g., accuracy, perplexity, downstream task performance)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of model performance metrics (e.g., accuracy, perplexity, downstream task performance)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary technical challenges in designing MoE routing mechanisms (e.g., load balancing, expert utilization, gradient flow, scalability)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary technical challenges in designing MoE routing mechanisms (e.g., load balancing, expert utilization, gradient flow, scalability)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.255Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main practical implementation challenges for MoE routing in large-scale distributed training environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:54.256Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main practical implementation challenges for MoE routing in large-scale distributed training environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer models documented in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer models documented in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning systems enable or influence the emergence of communication protocols among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning systems enable or influence the emergence of communication protocols among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the primary methodologies for integrating transformer architectures into multi-agent system frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the primary methodologies for integrating transformer architectures into multi-agent system frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists regarding the performance and scalability of transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.834Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists regarding the performance and scalability of transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.835Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do emergent communication protocols in multi-agent systems compare across different training paradigms (e.g., self-supervised vs. reinforcement learning)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:42:55.835Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do emergent communication protocols in multi-agent systems compare across different training paradigms (e.g., self-supervised vs. reinforcement learning)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.986Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical properties of hyperbolic spaces that make them suitable for representing hierarchical or structured data compared to Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical properties of hyperbolic spaces that make them suitable for representing hierarchical or structured data compared to Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does prototype learning function in hyperbolic geometry, and what are the specific formulations for prototype assignment and update rules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does prototype learning function in hyperbolic geometry, and what are the specific formulations for prototype assignment and update rules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the formulation of contrastive loss in hyperbolic spaces, and how does it differ from its Euclidean counterpart?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the formulation of contrastive loss in hyperbolic spaces, and how does it differ from its Euclidean counterpart?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing modify the gradient flow and convergence behavior during hyperbolic contrastive learning optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing modify the gradient flow and convergence behavior during hyperbolic contrastive learning optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What empirical metrics (e.g., clustering accuracy, generalization performance, training stability) show significant improvement when using hyperbolic prototype-contrastive methods versus standard Euclidean embedding approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:08.987Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What empirical metrics (e.g., clustering accuracy, generalization performance, training stability) show significant improvement when using hyperbolic prototype-contrastive methods versus standard Euclidean embedding approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.953Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific vector indexing algorithms currently available for approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific vector indexing algorithms currently available for approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific approximate nearest neighbor algorithms (e.g., HNSW, IVF, PQ, LSH) and how do they differ in their fundamental approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the specific approximate nearest neighbor algorithms (e.g., HNSW, IVF, PQ, LSH) and how do they differ in their fundamental approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the performance characteristics (recall, latency, throughput, memory usage) and trade-offs between different ANN algorithms across various datasets and dimensions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the performance characteristics (recall, latency, throughput, memory usage) and trade-offs between different ANN algorithms across various datasets and dimensions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How are ANN algorithms implemented in practice within popular libraries (e.g., FAISS, Annoy, ScaNN), including code structure and API design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How are ANN algorithms implemented in practice within popular libraries (e.g., FAISS, Annoy, ScaNN), including code structure and API design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What optimization techniques (e.g., quantization, pruning, parallelization, hardware acceleration) are used to improve the efficiency of ANN algorithms in production systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:09.954Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What optimization techniques (e.g., quantization, pruning, parallelization, hardware acceleration) are used to improve the efficiency of ANN algorithms in production systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.369Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for routing tokens to experts in sparse mixture of experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for routing tokens to experts in sparse mixture of experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms (e.g., top-k, noisy top-k, hash-based, learned routers) compare in terms of computational overhead and memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms (e.g., top-k, noisy top-k, hash-based, learned routers) compare in terms of computational overhead and memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of their impact on final model accuracy and downstream task performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of their impact on final model accuracy and downstream task performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques and constraints are used to address load balancing across experts in MoE routing, and how effective are they?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques and constraints are used to address load balancing across experts in MoE routing, and how effective are they?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How is expert utilization typically measured in MoE systems, and what factors contribute to poor utilization in different routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:14.370Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How is expert utilization typically measured in MoE systems, and what factors contribute to poor utilization in different routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations of multi-agent transformer systems described in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations of multi-agent transformer systems described in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the emergence of communication protocols in multi-agent transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the emergence of communication protocols in multi-agent transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific mechanisms enable dynamic routing of information between agents in transformer-based architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific mechanisms enable dynamic routing of information between agents in transformer-based architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmarks are used to assess emergent communication in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmarks are used to assess emergent communication in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do architectural choices in multi-agent transformers affect the efficiency and scalability of learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:22.301Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do architectural choices in multi-agent transformers affect the efficiency and scalability of learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the main categories and specific examples of vector indexing algorithms used for approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the main categories and specific examples of vector indexing algorithms used for approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key performance trade-offs (e.g., speed vs. accuracy, memory usage vs. recall) between different approximate nearest neighbor algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key performance trade-offs (e.g., speed vs. accuracy, memory usage vs. recall) between different approximate nearest neighbor algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) algorithm perform in terms of search speed, accuracy, and memory efficiency compared to benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) algorithm perform in terms of search speed, accuracy, and memory efficiency compared to benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Inverted File (IVF) algorithm perform in terms of search speed, accuracy, and memory efficiency compared to benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Inverted File (IVF) algorithm perform in terms of search speed, accuracy, and memory efficiency compared to benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.944Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) perform in terms of search speed, accuracy, and memory efficiency, and how is it commonly combined with other indexing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:29.945Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) perform in terms of search speed, accuracy, and memory efficiency, and how is it commonly combined with other indexing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.656Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces, such as hyperbolic k-means or prototype networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.656Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces, such as hyperbolic k-means or prototype networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.656Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function (e.g., InfoNCE) mathematically reformulated to operate on hyperbolic manifolds, using distances like the Poincaré or Lorentzian distance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.656Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function (e.g., InfoNCE) mathematically reformulated to operate on hyperbolic manifolds, using distances like the Poincaré or Lorentzian distance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.657Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and adaptations of temperature scaling in contrastive loss functions when applied in hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.657Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and adaptations of temperature scaling in contrastive loss functions when applied in hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.657Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing (scheduled adjustment of temperature) affect convergence and representation quality in hyperbolic contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.657Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing (scheduled adjustment of temperature) affect convergence and representation quality in hyperbolic contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.657Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the comparative advantages or empirical results of using prototype learning versus contrastive learning in hyperbolic spaces for downstream tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:31.657Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the comparative advantages or empirical results of using prototype learning versus contrastive learning in hyperbolic spaces for downstream tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations of multi-agent transformer models described in recent research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and variations of multi-agent transformer models described in recent research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning systems, particularly those using transformers, facilitate the emergence of communication protocols among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning systems, particularly those using transformers, facilitate the emergence of communication protocols among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methods or mechanisms are used to enable dynamic, context-aware communication routing between transformer-based agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methods or mechanisms are used to enable dynamic, context-aware communication routing between transformer-based agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the performance benchmarks or evaluation metrics used to assess multi-agent transformer systems with emergent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the performance benchmarks or evaluation metrics used to assess multi-agent transformer systems with emergent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.024Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the identified limitations or open challenges in designing multi-agent transformer architectures with dynamic communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.024Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the identified limitations or open challenges in designing multi-agent transformer architectures with dynamic communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.518Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms are currently considered state-of-the-art in sparse mixture of experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.518Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms are currently considered state-of-the-art in sparse mixture of experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.518Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing algorithms perform in terms of model accuracy, training stability, and inference speed compared to baseline approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.518Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing algorithms perform in terms of model accuracy, training stability, and inference speed compared to baseline approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.518Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do learned routing algorithms (e.g., gating networks, reinforcement learning-based routers) perform in terms of model accuracy, training stability, and inference speed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.519Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do learned routing algorithms (e.g., gating networks, reinforcement learning-based routers) perform in terms of model accuracy, training stability, and inference speed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.519Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational costs (FLOPs, memory usage, communication overhead) associated with different MoE routing strategies during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.519Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational costs (FLOPs, memory usage, communication overhead) associated with different MoE routing strategies during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.519Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational costs (latency, throughput, hardware utilization) associated with different MoE routing strategies during inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:43.519Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational costs (latency, throughput, hardware utilization) associated with different MoE routing strategies during inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the definition and purpose of prototype learning in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the definition and purpose of prototype learning in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does contrastive loss function, and what are its primary objectives in representation learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does contrastive loss function, and what are its primary objectives in representation learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "In what ways can prototype learning and contrastive loss be combined or interact in model architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "In what ways can prototype learning and contrastive loss be combined or interact in model architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.815Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is temperature annealing, and how is it specifically implemented in contrastive learning loss functions like InfoNCE?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.816Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is temperature annealing, and how is it specifically implemented in contrastive learning loss functions like InfoNCE?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.816Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What unique properties of hyperbolic geometry make it advantageous for representing hierarchical or tree-like structures in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:49.816Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What unique properties of hyperbolic geometry make it advantageous for representing hierarchical or tree-like structures in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing and approximate nearest neighbor algorithms were initially researched or considered for implementation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing and approximate nearest neighbor algorithms were initially researched or considered for implementation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the speed characteristics (query time, indexing time) of different ANN algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the speed characteristics (query time, indexing time) of different ANN algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the accuracy characteristics (recall, precision) of different ANN algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the accuracy characteristics (recall, precision) of different ANN algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the memory usage characteristics (index size, scalability) of different ANN algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.441Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the memory usage characteristics (index size, scalability) of different ANN algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.442Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH compare in high-dimensional data scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:43:50.442Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH compare in high-dimensional data scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.799Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms (e.g., top-k gating, hash-based, learned routers like BASE layers) are currently considered state-of-the-art in sparse Mixture of Experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.799Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms (e.g., top-k gating, hash-based, learned routers like BASE layers) are currently considered state-of-the-art in sparse Mixture of Experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms (e.g., top-k, learned routing) compare in terms of model performance metrics (e.g., accuracy, perplexity) on standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms (e.g., top-k, learned routing) compare in terms of model performance metrics (e.g., accuracy, perplexity) on standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms (e.g., top-k, learned routing) compare in terms of computational efficiency (e.g., training/inference speed, memory usage)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms (e.g., top-k, learned routing) compare in terms of computational efficiency (e.g., training/inference speed, memory usage)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key challenges related to load balancing and expert utilization in MoE routing, and what techniques (e.g., auxiliary loss, capacity factors) are used to address them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key challenges related to load balancing and expert utilization in MoE routing, and what techniques (e.g., auxiliary loss, capacity factors) are used to address them?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key challenges related to training stability in MoE routing (e.g., router convergence, gradient issues), and how are they mitigated?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:03.800Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key challenges related to training stability in MoE routing (e.g., router convergence, gradient issues), and how are they mitigated?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.984Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific types of data (e.g., fMRI, EEG, single-cell recordings, connectivity maps) are contained in the provided neuroscience dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.984Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific types of data (e.g., fMRI, EEG, single-cell recordings, connectivity maps) are contained in the provided neuroscience dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.984Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metadata or documentation accompanies the dataset that explains its purpose or intended use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.984Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metadata or documentation accompanies the dataset that explains its purpose or intended use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.984Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What explicit or implicit connections exist between multi-agent transformer architectures and neural systems that might justify providing this dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.984Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What explicit or implicit connections exist between multi-agent transformer architectures and neural systems that might justify providing this dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.985Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do biological neural systems exhibit properties of decentralization, specialization, or communication that parallel multi-agent artificial systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.985Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do biological neural systems exhibit properties of decentralization, specialization, or communication that parallel multi-agent artificial systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.985Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific insights from neuroscience (e.g., attention mechanisms, hierarchical processing, reward systems) have previously informed transformer or multi-agent architecture design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:04.985Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific insights from neuroscience (e.g., attention mechanisms, hierarchical processing, reward systems) have previously informed transformer or multi-agent architecture design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations of contrastive loss functions specifically adapted for hyperbolic spaces (e.g., Poincaré ball, Lorentz model)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations of contrastive loss functions specifically adapted for hyperbolic spaces (e.g., Poincaré ball, Lorentz model)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do existing prototype learning methods (e.g., Prototypical Networks) define and update prototypes when operating in hyperbolic rather than Euclidean space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do existing prototype learning methods (e.g., Prototypical Networks) define and update prototypes when operating in hyperbolic rather than Euclidean space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific temperature annealing schedules used in hyperbolic contrastive learning, and how do they differ from Euclidean counterparts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific temperature annealing schedules used in hyperbolic contrastive learning, and how do they differ from Euclidean counterparts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing in hyperbolic spaces affect gradient dynamics and convergence during optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing in hyperbolic spaces affect gradient dynamics and convergence during optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties of hyperbolic geometry (e.g., exponential volume growth, tree-likeness) provide advantages for hierarchical or few-shot prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.357Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties of hyperbolic geometry (e.g., exponential volume growth, tree-likeness) provide advantages for hierarchical or few-shot prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.631Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key vector indexing algorithms (e.g., HNSW, IVF, LSH) and their core operational principles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.631Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key vector indexing algorithms (e.g., HNSW, IVF, LSH) and their core operational principles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.631Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do different approximate nearest neighbor algorithms compare in terms of query speed, accuracy, and memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.631Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do different approximate nearest neighbor algorithms compare in terms of query speed, accuracy, and memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.631Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the primary trade-offs between recall, latency, and scalability in vector indexing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.631Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the primary trade-offs between recall, latency, and scalability in vector indexing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In which specific applications (e.g., recommendation systems, semantic search, image retrieval) are vector indexing techniques most commonly implemented?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In which specific applications (e.g., recommendation systems, semantic search, image retrieval) are vector indexing techniques most commonly implemented?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do modern systems (e.g., databases, search engines) integrate vector indexing to support real-time or large-scale use cases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:09.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do modern systems (e.g., databases, search engines) integrate vector indexing to support real-time or large-scale use cases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.586Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms (e.g., top-k gating, hash-based routing, base layer routing, expert choice routing) are currently considered state-of-the-art in sparse mixture of experts architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.586Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms (e.g., top-k gating, hash-based routing, base layer routing, expert choice routing) are currently considered state-of-the-art in sparse mixture of experts architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.586Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms (top-k, learned routing, etc.) compare in terms of model accuracy, training stability, and inference latency across benchmark tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms (top-k, learned routing, etc.) compare in terms of model accuracy, training stability, and inference latency across benchmark tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational efficiency trade-offs (memory usage, communication costs, load balancing) between various routing algorithms in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the computational efficiency trade-offs (memory usage, communication costs, load balancing) between various routing algorithms in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary scalability challenges (expert capacity, uneven token distribution, communication bottlenecks) in MoE routing for large-scale language models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary scalability challenges (expert capacity, uneven token distribution, communication bottlenecks) in MoE routing for large-scale language models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms address the load balancing problem and what techniques (auxiliary losses, capacity factors) are used to ensure equitable expert utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:22.587Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms address the load balancing problem and what techniques (auxiliary losses, capacity factors) are used to ensure equitable expert utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.375Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns used in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns used in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different multi-agent transformer architectures handle inter-agent communication and coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different multi-agent transformer architectures handle inter-agent communication and coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What self-supervised learning objectives have been shown to facilitate emergent communication in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What self-supervised learning objectives have been shown to facilitate emergent communication in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do agents in transformer-based systems develop shared representations and protocols without explicit supervision?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do agents in transformer-based systems develop shared representations and protocols without explicit supervision?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists showing the emergence of communication protocols in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:25.376Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists showing the emergence of communication protocols in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.805Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations of contrastive loss functions specifically adapted for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.805Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations of contrastive loss functions specifically adapted for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.805Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods (e.g., prototypical networks) operate in hyperbolic geometry compared to Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods (e.g., prototypical networks) operate in hyperbolic geometry compared to Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the standard techniques and schedules for temperature annealing in hyperbolic embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the standard techniques and schedules for temperature annealing in hyperbolic embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature parameter adjustment affect optimization dynamics in hyperbolic contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature parameter adjustment affect optimization dynamics in hyperbolic contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties (e.g., convergence, representation capacity) are enhanced by combining prototype learning, contrastive loss, and hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:27.806Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties (e.g., convergence, representation capacity) are enhanced by combining prototype learning, contrastive loss, and hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key characteristics (e.g., search speed, accuracy, memory usage, build time) of HNSW, IVF, and LSH vector indexing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key characteristics (e.g., search speed, accuracy, memory usage, build time) of HNSW, IVF, and LSH vector indexing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do recall, query latency, and memory consumption compare across different approximate nearest neighbor algorithms in practical applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do recall, query latency, and memory consumption compare across different approximate nearest neighbor algorithms in practical applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the most recent benchmark results and performance comparisons for vector search algorithms on standard datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the most recent benchmark results and performance comparisons for vector search algorithms on standard datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "Which vector indexing methods are best suited for specific application requirements like high-throughput queries, high-dimensional data, or memory-constrained environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "Which vector indexing methods are best suited for specific application requirements like high-throughput queries, high-dimensional data, or memory-constrained environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What emerging techniques or hybrid approaches are currently advancing the state-of-the-art in vector search performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:28.405Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What emerging techniques or hybrid approaches are currently advancing the state-of-the-art in vector search performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.716Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse mixture of experts routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.716Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse mixture of experts routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms implement routing in mixture of experts architectures (e.g., top-k gating, noisy top-k gating)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms implement routing in mixture of experts architectures (e.g., top-k gating, noisy top-k gating)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does learned routing differ from fixed or heuristic routing strategies in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does learned routing differ from fixed or heuristic routing strategies in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary load balancing techniques used in MoE routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary load balancing techniques used in MoE routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing strategies (e.g., top-1 vs top-2) affect expert utilization and computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:41.717Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing strategies (e.g., top-1 vs top-2) affect expert utilization and computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.691Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the distinct architectural patterns for connecting multiple transformer-based agents in a system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the distinct architectural patterns for connecting multiple transformer-based agents in a system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication channels between agents differ across multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication channels between agents differ across multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What mechanisms enable self-supervised learning in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What mechanisms enable self-supervised learning in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge and stabilize during self-supervised training of transformer agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge and stabilize during self-supervised training of transformer agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What quantitative metrics measure the effectiveness of emergent communication in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:45.692Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What quantitative metrics measure the effectiveness of emergent communication in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key recent publications (last 3-5 years) on prototype learning methods specifically developed for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key recent publications (last 3-5 years) on prototype learning methods specifically developed for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do existing hyperbolic prototype learning approaches differ in their formulation (e.g., prototype definition, update rules, and optimization) from Euclidean counterparts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do existing hyperbolic prototype learning approaches differ in their formulation (e.g., prototype definition, update rules, and optimization) from Euclidean counterparts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "In what ways have contrastive loss functions (e.g., InfoNCE, triplet loss) been mathematically reformulated for hyperbolic geometry in embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "In what ways have contrastive loss functions (e.g., InfoNCE, triplet loss) been mathematically reformulated for hyperbolic geometry in embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.556Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific architectural modifications or training procedures are used to implement contrastive learning in hyperbolic neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.557Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific architectural modifications or training procedures are used to implement contrastive learning in hyperbolic neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.557Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical justifications (e.g., gradient dynamics, metric properties) support the use of temperature annealing in contrastive learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.557Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical justifications (e.g., gradient dynamics, metric properties) support the use of temperature annealing in contrastive learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the primary categories and specific examples of vector indexing algorithms used for approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the primary categories and specific examples of vector indexing algorithms used for approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key performance metrics (e.g., recall, query speed, indexing time, memory usage) used to evaluate ANN algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key performance metrics (e.g., recall, query speed, indexing time, memory usage) used to evaluate ANN algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental trade-offs (e.g., speed vs. accuracy, memory vs. scalability) between different ANN algorithm families?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental trade-offs (e.g., speed vs. accuracy, memory vs. scalability) between different ANN algorithm families?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are common software libraries or frameworks (e.g., FAISS, Annoy, ScaNN) that implement these ANN algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are common software libraries or frameworks (e.g., FAISS, Annoy, ScaNN) that implement these ANN algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are typical implementation considerations (e.g., parameter tuning, hardware acceleration, integration with data pipelines) for deploying ANN algorithms in production systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:44:48.654Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are typical implementation considerations (e.g., parameter tuning, hardware acceleration, integration with data pipelines) for deploying ANN algorithms in production systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific architectural designs and mathematical formulations of current state-of-the-art routing mechanisms for sparse mixture of experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific architectural designs and mathematical formulations of current state-of-the-art routing mechanisms for sparse mixture of experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing algorithms perform in terms of model accuracy, inference latency, and computational efficiency compared to baseline dense models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing algorithms perform in terms of model accuracy, inference latency, and computational efficiency compared to baseline dense models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the performance differences between learned routing mechanisms (e.g., gating networks) and heuristic routing approaches in terms of expert utilization and task performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the performance differences between learned routing mechanisms (e.g., gating networks) and heuristic routing approaches in terms of expert utilization and task performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific load balancing techniques are employed in current MoE systems, and how effective are they at distributing workload evenly across experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific load balancing techniques are employed in current MoE systems, and how effective are they at distributing workload evenly across experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary bottlenecks and limitations in current MoE routing implementations regarding memory usage, communication overhead, and training stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:02.660Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary bottlenecks and limitations in current MoE routing implementations regarding memory usage, communication overhead, and training stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key vector indexing algorithms (e.g., HNSW, IVF, LSH) and their primary design principles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key vector indexing algorithms (e.g., HNSW, IVF, LSH) and their primary design principles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do approximate nearest neighbor algorithms compare in terms of query speed, accuracy, memory usage, and build time?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do approximate nearest neighbor algorithms compare in terms of query speed, accuracy, memory usage, and build time?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the main trade-offs between recall/precision and computational resources across different vector indexing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the main trade-offs between recall/precision and computational resources across different vector indexing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In which practical applications (e.g., recommendation systems, image search, NLP) are specific vector indexing systems most suitable?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In which practical applications (e.g., recommendation systems, image search, NLP) are specific vector indexing systems most suitable?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What implementation considerations (e.g., scalability, dynamic updates, hardware optimization) are critical for deploying vector indexing systems in production?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:08.109Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What implementation considerations (e.g., scalability, dynamic updates, hardware optimization) are critical for deploying vector indexing systems in production?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.031Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically in hyperbolic spaces, such as on the Poincaré ball or Lorentz model?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically in hyperbolic spaces, such as on the Poincaré ball or Lorentz model?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss (e.g., InfoNCE, triplet loss) mathematically adapted to operate with hyperbolic distances instead of Euclidean distances?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss (e.g., InfoNCE, triplet loss) mathematically adapted to operate with hyperbolic distances instead of Euclidean distances?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and mechanism of temperature annealing in contrastive learning frameworks applied to hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and mechanism of temperature annealing in contrastive learning frameworks applied to hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the practical implementations and code examples of prototype learning methods in hyperbolic geometry (e.g., using libraries like GeoOpt or HyPy)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the practical implementations and code examples of prototype learning methods in hyperbolic geometry (e.g., using libraries like GeoOpt or HyPy)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do temperature scheduling strategies (e.g., fixed, linear decay, cosine annealing) affect convergence and representation quality in hyperbolic contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.032Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do temperature scheduling strategies (e.g., fixed, linear decay, cosine annealing) affect convergence and representation quality in hyperbolic contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural patterns (e.g., centralized, decentralized, hierarchical) for systems where multiple transformer-based agents interact?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural patterns (e.g., centralized, decentralized, hierarchical) for systems where multiple transformer-based agents interact?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "In self-supervised learning settings, what empirical evidence shows the formation of structured communication protocols between agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "In self-supervised learning settings, what empirical evidence shows the formation of structured communication protocols between agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the specific algorithms or modules (e.g., gating networks, attention-based routers) used to dynamically route information or tasks between agents in a transformer system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the specific algorithms or modules (e.g., gating networks, attention-based routers) used to dynamically route information or tasks between agents in a transformer system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different multi-agent transformer architectures (e.g., with shared vs. separate parameters) influence the efficiency and stability of learned communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different multi-agent transformer architectures (e.g., with shared vs. separate parameters) influence the efficiency and stability of learned communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metrics are used to evaluate the effectiveness and emergence of communication protocols in multi-agent transformer systems trained with self-supervision?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:09.594Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metrics are used to evaluate the effectiveness and emergence of communication protocols in multi-agent transformer systems trained with self-supervision?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the core design goals and constraints that define sparse mixture of experts routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the core design goals and constraints that define sparse mixture of experts routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, BASE, Hash-based) are used to route tokens to experts in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, BASE, Hash-based) are used to route tokens to experts in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms mathematically compute the assignment of input tokens to experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms mathematically compute the assignment of input tokens to experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What techniques (e.g., auxiliary loss, capacity factors, load balancing penalties) are used to ensure experts receive a balanced number of tokens?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What techniques (e.g., auxiliary loss, capacity factors, load balancing penalties) are used to ensure experts receive a balanced number of tokens?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms handle the trade-off between computational efficiency (sparsity) and model performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:20.789Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms handle the trade-off between computational efficiency (sparsity) and model performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing and approximate nearest neighbor algorithms were identified as research targets in the original research plan or proposal?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing and approximate nearest neighbor algorithms were identified as research targets in the original research plan or proposal?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the recall rates, query latency, and memory consumption characteristics of HNSW, IVF, PQ, and LSH algorithms under standardized benchmark conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the recall rates, query latency, and memory consumption characteristics of HNSW, IVF, PQ, and LSH algorithms under standardized benchmark conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH algorithms perform in high-dimensional data scenarios versus low-dimensional scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH algorithms perform in high-dimensional data scenarios versus low-dimensional scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH algorithms compare in applications requiring high recall precision versus applications prioritizing low query latency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do HNSW, IVF, PQ, and LSH algorithms compare in applications requiring high recall precision versus applications prioritizing low query latency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the trade-offs between memory efficiency and query performance for HNSW, IVF, PQ, and LSH algorithms in large-scale deployment scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:27.555Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the trade-offs between memory efficiency and query performance for HNSW, IVF, PQ, and LSH algorithms in large-scale deployment scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.873Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs for connecting multiple transformer-based agents, such as hierarchical, modular, or federated structures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.873Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs for connecting multiple transformer-based agents, such as hierarchical, modular, or federated structures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.873Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge among agents when trained with self-supervised objectives, and what factors influence their development?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.873Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge among agents when trained with self-supervised objectives, and what factors influence their development?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What routing mechanisms, like attention-based or learned gating, allow dynamic information flow between agents in transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What routing mechanisms, like attention-based or learned gating, allow dynamic information flow between agents in transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do multi-agent transformer architectures differ in handling coordination, scalability, and task specialization compared to single-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do multi-agent transformer architectures differ in handling coordination, scalability, and task specialization compared to single-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics or benchmarks are used to assess the efficiency and effectiveness of emergent communication in self-supervised multi-agent learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:33.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics or benchmarks are used to assess the efficiency and effectiveness of emergent communication in self-supervised multi-agent learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.157Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations of contrastive loss functions specifically adapted for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.157Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations of contrastive loss functions specifically adapted for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.157Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods in hyperbolic spaces differ from those in Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.157Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods in hyperbolic spaces differ from those in Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.157Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementation steps for temperature annealing in hyperbolic embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.157Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementation steps for temperature annealing in hyperbolic embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.158Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does the curvature parameter in hyperbolic models interact with temperature annealing schedules?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.158Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does the curvature parameter in hyperbolic models interact with temperature annealing schedules?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.158Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties of hyperbolic geometry make it particularly suitable for representing hierarchical or tree-like data structures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:34.158Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties of hyperbolic geometry make it particularly suitable for representing hierarchical or tree-like data structures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse routing in mixture of experts architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental mathematical principles that define sparse routing in mixture of experts architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing) implement sparse routing in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing) implement sparse routing in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "Which routing methods are currently considered state-of-the-art in recent MoE research literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "Which routing methods are currently considered state-of-the-art in recent MoE research literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing strategies affect computational efficiency and memory usage in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing strategies affect computational efficiency and memory usage in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the trade-offs between load balancing, token distribution, and model accuracy across various routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:37.839Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the trade-offs between load balancing, token distribution, and model accuracy across various routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.626Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key characteristics and operational principles of HNSW, IVF, and LSH vector indexing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.626Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key characteristics and operational principles of HNSW, IVF, and LSH vector indexing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.626Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do recall rates, query speed, and memory consumption compare between HNSW, IVF, and LSH algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.626Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do recall rates, query speed, and memory consumption compare between HNSW, IVF, and LSH algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.626Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the relationship between dataset dimensionality and the performance degradation of approximate nearest neighbor algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.627Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the relationship between dataset dimensionality and the performance degradation of approximate nearest neighbor algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.627Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the computational complexity and memory usage of vector indexing techniques change with increasing dataset size?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.627Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the computational complexity and memory usage of vector indexing techniques change with increasing dataset size?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.627Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the practical implementation considerations when selecting a vector indexing algorithm for high-dimensional, large-scale datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:47.627Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the practical implementation considerations when selecting a vector indexing algorithm for high-dimensional, large-scale datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.776Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.776Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.776Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss modified or redefined to operate effectively in hyperbolic geometry for prototype-based learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss modified or redefined to operate effectively in hyperbolic geometry for prototype-based learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and adaptations of temperature annealing techniques in hyperbolic contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and adaptations of temperature annealing techniques in hyperbolic contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods in hyperbolic spaces differ from their Euclidean counterparts in terms of optimization and representation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do prototype learning methods in hyperbolic spaces differ from their Euclidean counterparts in terms of optimization and representation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What empirical results or theoretical justifications exist for the effectiveness of prototype learning with contrastive loss in hyperbolic embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:52.777Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What empirical results or theoretical justifications exist for the effectiveness of prototype learning with contrastive loss in hyperbolic embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.903Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms (e.g., Top-K, Noisy Top-K, learned routers) used to determine which experts receive input tokens in sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms (e.g., Top-K, Noisy Top-K, learned routers) used to determine which experts receive input tokens in sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key design principles (e.g., load balancing, expert capacity, sparsity) that guide the implementation of MoE routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key design principles (e.g., load balancing, expert capacity, sparsity) that guide the implementation of MoE routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing approaches (e.g., token-level vs. example-level) affect model performance metrics like training stability, inference speed, and computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing approaches (e.g., token-level vs. example-level) affect model performance metrics like training stability, inference speed, and computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary trade-offs (e.g., between model quality and communication cost, or parameter count vs. activated parameters) inherent in different MoE routing strategies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the primary trade-offs (e.g., between model quality and communication cost, or parameter count vs. activated parameters) inherent in different MoE routing strategies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "In terms of computational cost, parameter efficiency, and task performance, how do sparse MoE architectures compare to dense architectures of similar total parameter count?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:57.904Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "In terms of computational cost, parameter efficiency, and task performance, how do sparse MoE architectures compare to dense architectures of similar total parameter count?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.417Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific file formats, data types, and structural elements are present in the mistakenly provided neuroscience/developmental biology dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.417Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific file formats, data types, and structural elements are present in the mistakenly provided neuroscience/developmental biology dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.417Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "Which specific brain regions, developmental stages, experimental techniques, and measurement types are documented in the dataset beyond the mentioned thalamocortical system, neuropeptide receptors, and consciousness theories?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.417Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "Which specific brain regions, developmental stages, experimental techniques, and measurement types are documented in the dataset beyond the mentioned thalamocortical system, neuropeptide receptors, and consciousness theories?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.417Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metadata, annotations, or documentation accompany the dataset that might indicate its intended purpose or original research context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.417Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metadata, annotations, or documentation accompany the dataset that might indicate its intended purpose or original research context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.418Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What technical or procedural aspects of the data retrieval system could cause a neuroscience dataset to be returned for a machine learning/AI query?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.418Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What technical or procedural aspects of the data retrieval system could cause a neuroscience dataset to be returned for a machine learning/AI query?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.418Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "Are there any semantic, keyword-based, or classification overlaps between neuroscience/developmental biology terminology and machine learning/AI terminology that might explain the retrieval error?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:45:58.418Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "Are there any semantic, keyword-based, or classification overlaps between neuroscience/developmental biology terminology and machine learning/AI terminology that might explain the retrieval error?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.379Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing algorithms were mentioned as research targets in the original project scope?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.379Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific vector indexing algorithms were mentioned as research targets in the original project scope?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.379Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific approximate nearest neighbor (ANN) algorithms were identified for investigation in the research plan?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.379Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific approximate nearest neighbor (ANN) algorithms were identified for investigation in the research plan?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.380Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the recall performance characteristics of HNSW, IVF, and PQ algorithms across different datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.380Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the recall performance characteristics of HNSW, IVF, and PQ algorithms across different datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.380Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the latency performance characteristics of HNSW, IVF, and PQ algorithms under varying query loads?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.380Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the latency performance characteristics of HNSW, IVF, and PQ algorithms under varying query loads?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.380Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the memory usage characteristics of HNSW, IVF, and PQ algorithms at different scale levels?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:09.381Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the memory usage characteristics of HNSW, IVF, and PQ algorithms at different scale levels?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.978Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.978Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.978Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function mathematically adapted to account for hyperbolic distance metrics (e.g., using hyperbolic distance instead of Euclidean)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is the contrastive loss function mathematically adapted to account for hyperbolic distance metrics (e.g., using hyperbolic distance instead of Euclidean)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific modifications to contrastive learning frameworks (e.g., SimCLR, MoCo) have been proposed for hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific modifications to contrastive learning frameworks (e.g., SimCLR, MoCo) have been proposed for hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and mechanism of temperature annealing in contrastive learning objectives within Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and mechanism of temperature annealing in contrastive learning objectives within Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is temperature annealing specifically implemented or adjusted in hyperbolic contrastive learning, and what effects does it have on training dynamics and embedding quality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:14.979Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is temperature annealing specifically implemented or adjusted in hyperbolic contrastive learning, and what effects does it have on training dynamics and embedding quality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.793Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What is the core concept of sparsity in mixture of experts (MoE) routing, and why is it used?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What is the core concept of sparsity in mixture of experts (MoE) routing, and why is it used?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key design principles (e.g., load balancing, expert capacity) that guide the development of routing mechanisms in MoEs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key design principles (e.g., load balancing, expert capacity) that guide the development of routing mechanisms in MoEs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms (e.g., Top-k, Noisy Top-k, Switch Transformer's routing) used for routing tokens to experts in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithms (e.g., Top-k, Noisy Top-k, Switch Transformer's routing) used for routing tokens to experts in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms affect model performance metrics like accuracy and training stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms affect model performance metrics like accuracy and training stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms influence computational efficiency, including parameters used, FLOPs, and inference latency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:15.794Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do routing mechanisms influence computational efficiency, including parameters used, FLOPs, and inference latency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns for multi-agent systems built with transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns for multi-agent systems built with transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do transformer-based multi-agent architectures differ in their approaches to shared versus decentralized model parameters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do transformer-based multi-agent architectures differ in their approaches to shared versus decentralized model parameters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies enable emergent communication protocols in self-supervised learning environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies enable emergent communication protocols in self-supervised learning environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do environmental constraints and reward structures influence the development of communication protocols in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do environmental constraints and reward structures influence the development of communication protocols in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What quantitative metrics are commonly used to measure the effectiveness and complexity of emergent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:21.338Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What quantitative metrics are commonly used to measure the effectiveness and complexity of emergent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss mathematically adapted to operate within hyperbolic geometry, and what modifications are required compared to Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss mathematically adapted to operate within hyperbolic geometry, and what modifications are required compared to Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and applications of contrastive learning frameworks that utilize hyperbolic geometry for representation learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific implementations and applications of contrastive learning frameworks that utilize hyperbolic geometry for representation learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing function in contrastive learning frameworks, and what are its theoretical effects on optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing function in contrastive learning frameworks, and what are its theoretical effects on optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific effects and benefits of temperature annealing when applied within hyperbolic contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:31.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the specific effects and benefits of temperature annealing when applied within hyperbolic contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the defining characteristics, strengths, and weaknesses of HNSW (Hierarchical Navigable Small World) as a vector indexing method?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the defining characteristics, strengths, and weaknesses of HNSW (Hierarchical Navigable Small World) as a vector indexing method?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does IVF (Inverted File Index) structure data, and what are its primary trade-offs between recall and search speed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does IVF (Inverted File Index) structure data, and what are its primary trade-offs between recall and search speed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the mechanism of Product Quantization (PQ) for compressing vectors, and how does it affect memory usage versus accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What is the mechanism of Product Quantization (PQ) for compressing vectors, and how does it affect memory usage versus accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Locality-Sensitive Hashing (LSH) approximate nearest neighbor search, and what are its scalability limitations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Locality-Sensitive Hashing (LSH) approximate nearest neighbor search, and what are its scalability limitations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In high-dimensional spaces, what specific techniques do ANN algorithms use to maintain accuracy while increasing search speed (e.g., pruning, clustering, or graph traversal)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:32.775Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "In high-dimensional spaces, what specific techniques do ANN algorithms use to maintain accuracy while increasing search speed (e.g., pruning, clustering, or graph traversal)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.882Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithmic designs and mathematical formulations of current state-of-the-art sparse MoE routing mechanisms (e.g., Top-K gating, Switch Transformer routing, BASE layers, Expert Choice routing)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.882Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the specific algorithmic designs and mathematical formulations of current state-of-the-art sparse MoE routing mechanisms (e.g., Top-K gating, Switch Transformer routing, BASE layers, Expert Choice routing)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.882Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of computational efficiency (FLOPs, memory usage) and model accuracy on standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.882Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms compare in terms of computational efficiency (FLOPs, memory usage) and model accuracy on standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.882Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the trade-offs between load balancing (expert utilization) and model performance across different MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.883Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the trade-offs between load balancing (expert utilization) and model performance across different MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.883Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does the performance of MoE routing mechanisms change as the total number of model parameters increases while keeping expert count fixed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.883Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does the performance of MoE routing mechanisms change as the total number of model parameters increases while keeping expert count fixed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.883Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does the performance of MoE routing mechanisms change as the number of experts increases while keeping total model parameters approximately constant?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:34.883Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does the performance of MoE routing mechanisms change as the number of experts increases while keeping total model parameters approximately constant?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural characteristics and variations of multi-agent transformer systems in current literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural characteristics and variations of multi-agent transformer systems in current literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies and algorithms have been shown to produce emergent communication protocols in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies and algorithms have been shown to produce emergent communication protocols in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives differ from supervised or reinforcement learning approaches in training communication for these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives differ from supervised or reinforcement learning approaches in training communication for these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmarks are used to measure the quality and emergence of communication protocols in multi-agent transformer research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmarks are used to measure the quality and emergence of communication protocols in multi-agent transformer research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented limitations, scalability challenges, and failure modes of applying self-supervised learning to communication in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:45.159Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented limitations, scalability challenges, and failure modes of applying self-supervised learning to communication in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.585Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental data structures used to organize vectors for efficient similarity search in vector indexing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.585Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental data structures used to organize vectors for efficient similarity search in vector indexing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do core vector indexing algorithms (e.g., tree-based, graph-based, hashing-based, quantization-based) fundamentally operate?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How do core vector indexing algorithms (e.g., tree-based, graph-based, hashing-based, quantization-based) fundamentally operate?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific metrics (e.g., recall, query latency, indexing time, memory footprint) define the accuracy-efficiency trade-off in Approximate Nearest Neighbor (ANN) search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What specific metrics (e.g., recall, query latency, indexing time, memory footprint) define the accuracy-efficiency trade-off in Approximate Nearest Neighbor (ANN) search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) graph algorithm achieve its performance characteristics, and what are its primary advantages and limitations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) graph algorithm achieve its performance characteristics, and what are its primary advantages and limitations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Inverted File (IVF) system with product quantization work, and what are its primary advantages and limitations compared to other methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:54.586Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Inverted File (IVF) system with product quantization work, and what are its primary advantages and limitations compared to other methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.095Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What mathematical properties of hyperbolic spaces make them suitable for combining prototype learning with contrastive loss?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.095Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What mathematical properties of hyperbolic spaces make them suitable for combining prototype learning with contrastive loss?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does prototype learning differ in hyperbolic geometry compared to Euclidean geometry when integrated with contrastive loss?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does prototype learning differ in hyperbolic geometry compared to Euclidean geometry when integrated with contrastive loss?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific temperature annealing schedules are used in hyperbolic contrastive learning, and how do they differ from Euclidean approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific temperature annealing schedules are used in hyperbolic contrastive learning, and how do they differ from Euclidean approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing influence gradient flow and convergence properties in hyperbolic contrastive learning optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature annealing influence gradient flow and convergence properties in hyperbolic contrastive learning optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "Which benchmark datasets are most commonly used to evaluate prototype learning with contrastive loss in hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:55.096Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "Which benchmark datasets are most commonly used to evaluate prototype learning with contrastive loss in hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms are currently considered state-of-the-art for sparse Mixture of Experts (MoE) models in 2023-2024?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific routing mechanisms are currently considered state-of-the-art for sparse Mixture of Experts (MoE) models in 2023-2024?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing algorithms compare to learned routing algorithms in terms of model accuracy and inference latency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do top-k routing algorithms compare to learned routing algorithms in terms of model accuracy and inference latency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the quantitative differences in expert utilization rates between different MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the quantitative differences in expert utilization rates between different MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques are used to address load balancing challenges in MoE routing, and how effective are they?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques are used to address load balancing challenges in MoE routing, and how effective are they?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms impact training stability and convergence in large-scale MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:46:59.958Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms impact training stability and convergence in large-scale MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of transformer models specifically adapted for multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of transformer models specifically adapted for multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical studies or benchmarks have been published evaluating the performance of multi-agent transformer architectures in different environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical studies or benchmarks have been published evaluating the performance of multi-agent transformer architectures in different environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methodologies (e.g., simulation environments, metrics, analysis techniques) are commonly used to study the emergence and evolution of communication protocols in AI agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methodologies (e.g., simulation environments, metrics, analysis techniques) are commonly used to study the emergence and evolution of communication protocols in AI agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do researchers typically analyze and interpret the meaning or structure of emergent communication protocols in multi-agent AI systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do researchers typically analyze and interpret the meaning or structure of emergent communication protocols in multi-agent AI systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific self-supervised objectives (e.g., contrastive learning, reconstruction, predictive coding) have been used to train communication channels in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:09.675Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific self-supervised objectives (e.g., contrastive learning, reconstruction, predictive coding) have been used to train communication channels in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.223Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the main categories or families of algorithms used for approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.223Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the main categories or families of algorithms used for approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.223Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the HNSW algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.223Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the HNSW algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.223Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the IVF algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.223Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the IVF algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.224Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the PQ algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.224Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the PQ algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.224Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the LSH algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:14.224Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the LSH algorithm perform in terms of accuracy, query speed, and memory consumption compared to other ANN methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.836Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is prototype learning mathematically formulated in hyperbolic spaces compared to Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.836Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is prototype learning mathematically formulated in hyperbolic spaces compared to Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.836Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific forms does contrastive loss take in hyperbolic geometry, and how do they differ from Euclidean variants?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.836Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What specific forms does contrastive loss take in hyperbolic geometry, and how do they differ from Euclidean variants?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature parameter scaling in hyperbolic contrastive loss affect gradient behavior during optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How does temperature parameter scaling in hyperbolic contrastive loss affect gradient behavior during optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties of hyperbolic geometry (e.g., exponential volume growth) make it advantageous for hierarchical or few-shot prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What theoretical properties of hyperbolic geometry (e.g., exponential volume growth) make it advantageous for hierarchical or few-shot prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do optimization dynamics differ when using Riemannian optimization methods for hyperbolic prototype learning versus Euclidean approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:16.837Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do optimization dynamics differ when using Riemannian optimization methods for hyperbolic prototype learning versus Euclidean approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.116Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the core design objectives and constraints that define sparse mixture of experts routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the core design objectives and constraints that define sparse mixture of experts routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does top-k routing algorithm work, and what are its specific implementation details?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How does top-k routing algorithm work, and what are its specific implementation details?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What is the noisy top-k gating algorithm, and how does it differ from standard top-k routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What is the noisy top-k gating algorithm, and how does it differ from standard top-k routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do routing mechanisms use to encourage expert specialization while maintaining load balancing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific techniques do routing mechanisms use to encourage expert specialization while maintaining load balancing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms manage the trade-off between model performance and computational resource requirements?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:25.117Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing algorithms manage the trade-off between model performance and computational resource requirements?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental mathematical and computational principles that define vector indexing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental mathematical and computational principles that define vector indexing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the primary classification schemes or taxonomies for approximate nearest neighbor (ANN) algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the primary classification schemes or taxonomies for approximate nearest neighbor (ANN) algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) algorithm construct its graph and perform search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) algorithm construct its graph and perform search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.632Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Inverted File (IVF) indexing partition the dataset and perform coarse-to-fine search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.633Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Inverted File (IVF) indexing partition the dataset and perform coarse-to-fine search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.633Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) compress high-dimensional vectors and enable efficient distance computation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:31.633Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) compress high-dimensional vectors and enable efficient distance computation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.655Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns used in multi-agent systems built with transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.655Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns used in multi-agent systems built with transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do transformer-based agents in a multi-agent system communicate and coordinate with each other?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do transformer-based agents in a multi-agent system communicate and coordinate with each other?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the differences between centralized, decentralized, and hybrid architectures for multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the differences between centralized, decentralized, and hybrid architectures for multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the development of communication protocols among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the development of communication protocols among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What role does the training environment or task structure play in the emergence of communication in self-supervised multi-agent learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:32.656Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What role does the training environment or task structure play in the emergence of communication in self-supervised multi-agent learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss modified or redefined to operate effectively in hyperbolic embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How is contrastive loss modified or redefined to operate effectively in hyperbolic embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and mechanism of temperature annealing in contrastive learning within hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What is the purpose and mechanism of temperature annealing in contrastive learning within hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key differences between prototype learning in Euclidean versus hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "What are the key differences between prototype learning in Euclidean versus hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.761Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do hyperbolic contrastive learning methods handle the unique properties of hyperbolic geometry, such as exponential volume growth?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:37.762Z** - Topic: `"prototype learning with contrastive loss and temperature annealing in hyperbolic embeddings"` - Query: "How do hyperbolic contrastive learning methods handle the unique properties of hyperbolic geometry, such as exponential volume growth?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental routing mechanisms (e.g., top-k, noisy top-k, hash-based) used in sparse mixture of experts architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental routing mechanisms (e.g., top-k, noisy top-k, hash-based) used in sparse mixture of experts architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms (e.g., Switch Transformer, GShard, BASE layers) compare in terms of model accuracy and computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different MoE routing algorithms (e.g., Switch Transformer, GShard, BASE layers) compare in terms of model accuracy and computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key performance metrics (e.g., throughput, latency, model quality) used to evaluate MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key performance metrics (e.g., throughput, latency, model quality) used to evaluate MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the current state-of-the-art MoE routing approaches (e.g., expert choice routing, learned routers) and their architectural innovations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the current state-of-the-art MoE routing approaches (e.g., expert choice routing, learned routers) and their architectural innovations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main challenges (e.g., load balancing, communication costs) addressed by recent MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:46.378Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main challenges (e.g., load balancing, communication costs) addressed by recent MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental algorithmic categories used for vector indexing (e.g., tree-based, graph-based, hashing-based, quantization-based)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the fundamental algorithmic categories used for vector indexing (e.g., tree-based, graph-based, hashing-based, quantization-based)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) graph algorithm construct layers and perform search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does the Hierarchical Navigable Small World (HNSW) graph algorithm construct layers and perform search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Inverted File (IVF) indexing work, including its clustering and search process?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Inverted File (IVF) indexing work, including its clustering and search process?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.075Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) compress vectors and enable approximate distance calculations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.076Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "How does Product Quantization (PQ) compress vectors and enable approximate distance calculations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.076Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key performance metrics (recall, latency, memory usage, build time) and how do HNSW, IVF, and PQ differ across these metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:52.076Z** - Topic: `"vector indexing and approximate nearest neighbor algorithms"` - Query: "What are the key performance metrics (recall, latency, memory usage, build time) and how do HNSW, IVF, and PQ differ across these metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.492Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer models documented in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer models documented in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies and algorithms have been developed to enable emergent communication protocols in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies and algorithms have been developed to enable emergent communication protocols in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different self-supervised learning objectives (e.g., contrastive, predictive, reconstruction) facilitate the emergence of communication in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different self-supervised learning objectives (e.g., contrastive, predictive, reconstruction) facilitate the emergence of communication in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmarks are used to assess the quality and effectiveness of emergent communication protocols in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmarks are used to assess the quality and effectiveness of emergent communication protocols in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented limitations, challenges, and open problems in combining multi-agent transformers with emergent communication protocols using self-supervised learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:47:57.493Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented limitations, challenges, and open problems in combining multi-agent transformers with emergent communication protocols using self-supervised learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
