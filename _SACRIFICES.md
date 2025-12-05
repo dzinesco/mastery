@@ -13051,3 +13051,33 @@
 ⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the comparative advantages, limitations, and resource overheads of these error mitigation techniques when applied to GKP-based quantum computing in realistic experimental settings?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What is the mathematical framework for calculating the fault-tolerant threshold of concatenated GKP codes, and how does it incorporate oscillator loss as a noise parameter?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What is the mathematical framework for calculating the fault-tolerant threshold of concatenated GKP codes, and how does it incorporate oscillator loss as a noise parameter?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "How does finite squeezing in GKP states affect the logical error rates and the fault-tolerant threshold in concatenated code architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "How does finite squeezing in GKP states affect the logical error rates and the fault-tolerant threshold in concatenated code architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What are the specific impacts of feedback delay on error correction cycles and threshold calculations in continuous-variable quantum computing with GKP codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What are the specific impacts of feedback delay on error correction cycles and threshold calculations in continuous-variable quantum computing with GKP codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "How do oscillator loss, finite squeezing, and feedback delay interact when combined in a realistic noise model for concatenated GKP codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "How do oscillator loss, finite squeezing, and feedback delay interact when combined in a realistic noise model for concatenated GKP codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What are the optimized code parameters (e.g., squeezing levels, concatenation depth) that maximize the fault-tolerant threshold under these combined realistic constraints?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:48:09.358Z** - Topic: `"Fault-tolerant threshold calculations for concatenated GKP codes under realistic oscillator loss, finite squeezing, and feedback delay in continuous-variable quantum computing architectures"` - Query: "What are the optimized code parameters (e.g., squeezing levels, concatenation depth) that maximize the fault-tolerant threshold under these combined realistic constraints?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
