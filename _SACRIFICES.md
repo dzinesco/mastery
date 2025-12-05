@@ -24187,3 +24187,1773 @@
 ⚰️  **2025-12-05T02:08:07.860Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the main scalability and optimization difficulties (e.g., communication overhead, expert utilization) in training large-scale sparse MoE models?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T02:08:23.265Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical foundations and key properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical foundations and key properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does hyperbolic contrastive learning differ from Euclidean contrastive learning in terms of loss formulation and embedding space structure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does hyperbolic contrastive learning differ from Euclidean contrastive learning in terms of loss formulation and embedding space structure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific methods for integrating optimal transport theory into contrastive learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific methods for integrating optimal transport theory into contrastive learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of hyperbolic embeddings and optimal transport improve representation learning for hierarchical or structured data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of hyperbolic embeddings and optimal transport improve representation learning for hierarchical or structured data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural components or training mechanisms in this approach specifically address out-of-distribution generalization challenges?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:23.266Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural components or training mechanisms in this approach specifically address out-of-distribution generalization challenges?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and highest-performing algorithms specifically designed for nearest neighbor search on compressed vectors, as documented in the latest literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and highest-performing algorithms specifically designed for nearest neighbor search on compressed vectors, as documented in the latest literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) impact both search accuracy (e.g., recall@k) and query performance (e.g., latency, throughput) compared to an uncompressed baseline?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) impact both search accuracy (e.g., recall@k) and query performance (e.g., latency, throughput) compared to an uncompressed baseline?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Locality-Sensitive Hashing (LSH) impact both search accuracy (e.g., recall@k) and query performance (e.g., latency, throughput) compared to an uncompressed baseline?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Locality-Sensitive Hashing (LSH) impact both search accuracy (e.g., recall@k) and query performance (e.g., latency, throughput) compared to an uncompressed baseline?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "In billion-scale vector search systems, what is the quantitative relationship between the compression ratio (e.g., 8x, 16x) and the resulting search speed (queries per second)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "In billion-scale vector search systems, what is the quantitative relationship between the compression ratio (e.g., 8x, 16x) and the resulting search speed (queries per second)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "In billion-scale vector search systems, what is the quantitative relationship between the compression ratio (e.g., 8x, 16x) and the resulting search accuracy (e.g., recall@1, recall@10)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:26.226Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "In billion-scale vector search systems, what is the quantitative relationship between the compression ratio (e.g., 8x, 16x) and the resulting search accuracy (e.g., recall@1, recall@10)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core methodologies used for expert selection in state-of-the-art sparse Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core methodologies used for expert selection in state-of-the-art sparse Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in their approach to selecting experts for a given input?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in their approach to selecting experts for a given input?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., model accuracy, training stability) between different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., model accuracy, training stability) between different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative efficiency metrics (e.g., computational cost, memory usage) between different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative efficiency metrics (e.g., computational cost, memory usage) between different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific factors cause imbalanced expert utilization and load in sparse MoE architectures during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:31.404Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific factors cause imbalanced expert utilization and load in sparse MoE architectures during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.141Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties and advantages of hyperbolic geometry (compared to Euclidean geometry) that make it suitable for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.141Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties and advantages of hyperbolic geometry (compared to Euclidean geometry) that make it suitable for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.141Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the contrastive loss function (e.g., InfoNCE) adapted or reformulated within a hyperbolic space (e.g., using the Poincaré ball or Lorentz model)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the contrastive loss function (e.g., InfoNCE) adapted or reformulated within a hyperbolic space (e.g., using the Poincaré ball or Lorentz model)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What is the fundamental concept of optimal transport, and how is its distance metric (e.g., Wasserstein distance) used to measure similarity between probability distributions in a contrastive learning context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What is the fundamental concept of optimal transport, and how is its distance metric (e.g., Wasserstein distance) used to measure similarity between probability distributions in a contrastive learning context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport plan or cost integrated into the contrastive learning objective, typically replacing or augmenting the standard pairwise similarity measure?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport plan or cost integrated into the contrastive learning objective, typically replacing or augmenting the standard pairwise similarity measure?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What specific architectural components or training strategies (e.g., data augmentation, regularization, or loss modifications) in the hyperbolic contrastive learning with optimal transport framework are designed to improve model robustness to distribution shifts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.142Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What specific architectural components or training strategies (e.g., data augmentation, regularization, or loss modifications) in the hyperbolic contrastive learning with optimal transport framework are designed to improve model robustness to distribution shifts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and widely recognized algorithms for nearest neighbor search specifically designed for or effective on compressed vector representations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and widely recognized algorithms for nearest neighbor search specifically designed for or effective on compressed vector representations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) impact search accuracy (e.g., recall@k) and computational efficiency (e.g., query time, memory usage) compared to uncompressed search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) impact search accuracy (e.g., recall@k) and computational efficiency (e.g., query time, memory usage) compared to uncompressed search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization (SQ) impact search accuracy and computational efficiency compared to uncompressed search and other compression methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization (SQ) impact search accuracy and computational efficiency compared to uncompressed search and other compression methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search recall performance in approximate nearest neighbor (ANN) systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search recall performance in approximate nearest neighbor (ANN) systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search speed (query latency) in ANN systems, and how do different algorithms manage this trade-off?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:47.417Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search speed (query latency) in ANN systems, and how do different algorithms manage this trade-off?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.984Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural designs enable a transformer-based model to function as a multi-agent system with distinct, learnable agent policies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.984Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural designs enable a transformer-based model to function as a multi-agent system with distinct, learnable agent policies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.984Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How can communication protocols between agents be formulated as a learnable component within a transformer architecture, and what training objectives facilitate their emergence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.984Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How can communication protocols between agents be formulated as a learnable component within a transformer architecture, and what training objectives facilitate their emergence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.984Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms allow for the emergent discovery and use of tools (i.e., external actions or subroutines) within a multi-agent transformer system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.984Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms allow for the emergent discovery and use of tools (i.e., external actions or subroutines) within a multi-agent transformer system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.985Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How can skills or representations learned by one agent or sub-population be effectively transferred to heterogeneous agents with different capabilities or observation spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.985Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How can skills or representations learned by one agent or sub-population be effectively transferred to heterogeneous agents with different capabilities or observation spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.985Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What evaluation environments and metrics are suitable for measuring emergent tool use and skill transfer in simulated heterogeneous agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:56.985Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What evaluation environments and metrics are suitable for measuring emergent tool use and skill transfer in simulated heterogeneous agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.891Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core mechanisms used for expert selection in state-of-the-art sparse Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core mechanisms used for expert selection in state-of-the-art sparse Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing, noisy top-k gating, and switch transformers differ in their gating function designs and computational approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing, noisy top-k gating, and switch transformers differ in their gating function designs and computational approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., model accuracy, task-specific scores) for MoE models using different gating mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., model accuracy, task-specific scores) for MoE models using different gating mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative efficiency metrics (e.g., computational cost, memory usage, training/inference speed) for MoE models using different gating mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative efficiency metrics (e.g., computational cost, memory usage, training/inference speed) for MoE models using different gating mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary technical challenges (e.g., training instability, load balancing, communication overhead) associated with dynamic routing during the training of sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:08:57.892Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary technical challenges (e.g., training instability, load balancing, communication overhead) associated with dynamic routing during the training of sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.361Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific loss functions used in hyperbolic contrastive learning methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific loss functions used in hyperbolic contrastive learning methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How do hyperbolic contrastive learning methods project embeddings into hyperbolic space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How do hyperbolic contrastive learning methods project embeddings into hyperbolic space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific optimization techniques used for hyperbolic contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific optimization techniques used for hyperbolic contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport used to measure similarity in contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport used to measure similarity in contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific algorithms for integrating optimal transport with contrastive learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:08.362Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific algorithms for integrating optimal transport with contrastive learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.038Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical characteristics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.038Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical characteristics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.038Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) specifically impact search accuracy (e.g., recall@k) and efficiency (e.g., query time, memory usage) compared to uncompressed search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) specifically impact search accuracy (e.g., recall@k) and efficiency (e.g., query time, memory usage) compared to uncompressed search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary quantization (e.g., hashing) specifically impact search accuracy and efficiency compared to uncompressed search and other compression methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary quantization (e.g., hashing) specifically impact search accuracy and efficiency compared to uncompressed search and other compression methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search accuracy (e.g., recall) for high-dimensional vector search across different compression techniques?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search accuracy (e.g., recall) for high-dimensional vector search across different compression techniques?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search speed (e.g., query latency, throughput) for high-dimensional vector search across different compression techniques?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:09.039Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio (or bitrate) and search speed (e.g., query latency, throughput) for high-dimensional vector search across different compression techniques?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific algorithms are used for sparse expert selection in MoE models, such as Top-K routing, Noisy Top-K, or others?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific algorithms are used for sparse expert selection in MoE models, such as Top-K routing, Noisy Top-K, or others?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the different gating mechanisms (e.g., learned gating, hash-based, random) for routing inputs to experts in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the different gating mechanisms (e.g., learned gating, hash-based, random) for routing inputs to experts in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do routing algorithms in MoE models compare in terms of model performance metrics like accuracy or perplexity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do routing algorithms in MoE models compare in terms of model performance metrics like accuracy or perplexity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do routing algorithms in MoE models compare in terms of computational efficiency and training/inference speed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do routing algorithms in MoE models compare in terms of computational efficiency and training/inference speed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the trade-offs between different routing algorithms in MoE models regarding scalability and expert utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:19.584Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the trade-offs between different routing algorithms in MoE models regarding scalability and expert utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.306Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components (e.g., attention mechanisms, shared embedding spaces, communication channels) in multi-agent transformer systems are empirically linked to the emergence of structured communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components (e.g., attention mechanisms, shared embedding spaces, communication channels) in multi-agent transformer systems are empirically linked to the emergence of structured communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agents (e.g., differing in architecture, capabilities, or objectives) form a common latent representation for tools through interaction and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agents (e.g., differing in architecture, capabilities, or objectives) form a common latent representation for tools through interaction and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific learning algorithms or training paradigms (e.g., meta-learning, curriculum learning, shared gradients) enable skills learned by one agent type to transfer effectively to another?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific learning algorithms or training paradigms (e.g., meta-learning, curriculum learning, shared gradients) enable skills learned by one agent type to transfer effectively to another?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What metrics or evaluations demonstrate that a communication protocol has 'emerged' in a multi-agent transformer system, rather than being pre-specified?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What metrics or evaluations demonstrate that a communication protocol has 'emerged' in a multi-agent transformer system, rather than being pre-specified?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does the diversity (heterogeneity) within an agent population influence the robustness and generalization of developed shared representations for tool use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:24.307Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does the diversity (heterogeneity) within an agent population influence the robustness and generalization of developed shared representations for tool use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the hyperbolic space representation differ from Euclidean space in contrastive learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the hyperbolic space representation differ from Euclidean space in contrastive learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific formulations of optimal transport used in contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific formulations of optimal transport used in contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.105Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the integration of optimal transport modify the traditional contrastive loss function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.106Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the integration of optimal transport modify the traditional contrastive loss function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.106Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic mechanisms in hyperbolic contrastive learning specifically address out-of-distribution data generalization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.106Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic mechanisms in hyperbolic contrastive learning specifically address out-of-distribution data generalization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.307Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical characteristics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.307Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical characteristics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.307Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization specifically affect search accuracy and efficiency compared to uncompressed vector search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.307Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization specifically affect search accuracy and efficiency compared to uncompressed vector search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.307Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization specifically affect search accuracy and efficiency compared to other compression techniques?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.307Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization specifically affect search accuracy and efficiency compared to other compression techniques?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.308Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search speed in vector search systems across different compression methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.308Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search speed in vector search systems across different compression methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.308Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and recall accuracy in vector search systems across different compression methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:28.308Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and recall accuracy in vector search systems across different compression methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.279Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., accuracy, throughput) between different gating mechanisms in MoE models across standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., accuracy, throughput) between different gating mechanisms in MoE models across standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing techniques and challenges exist during the training of sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing techniques and challenges exist during the training of sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do current MoE models address the issue of expert utilization, and what are the associated efficiency trade-offs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:41.280Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do current MoE models address the issue of expert utilization, and what are the associated efficiency trade-offs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical principles and formulations that define hyperbolic contrastive learning, distinct from Euclidean contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical principles and formulations that define hyperbolic contrastive learning, distinct from Euclidean contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport theory mathematically formulated and applied within contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport theory mathematically formulated and applied within contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific mechanisms or architectural components that integrate hyperbolic geometry with optimal transport in a contrastive learning model?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific mechanisms or architectural components that integrate hyperbolic geometry with optimal transport in a contrastive learning model?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of hyperbolic contrastive learning and optimal transport theoretically improve generalization to out-of-distribution data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of hyperbolic contrastive learning and optimal transport theoretically improve generalization to out-of-distribution data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What empirical evidence or experimental results demonstrate the out-of-distribution generalization capabilities of this combined approach?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:44.864Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What empirical evidence or experimental results demonstrate the out-of-distribution generalization capabilities of this combined approach?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.502Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific neuroscience or developmental biology dataset is being referenced, and what are its documented origins and original research objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.502Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific neuroscience or developmental biology dataset is being referenced, and what are its documented origins and original research objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key functional principles and mechanisms of thalamocortical routing in biological neural systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key functional principles and mechanisms of thalamocortical routing in biological neural systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the defining architectural features and communication mechanisms in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the defining architectural features and communication mechanisms in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What abstract structural or functional similarities exist between thalamocortical routing and multi-agent transformer communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What abstract structural or functional similarities exist between thalamocortical routing and multi-agent transformer communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What published datasets, benchmarks, or research papers specifically focus on multi-agent transformer architectures with learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:45.503Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What published datasets, benchmarks, or research papers specifically focus on multi-agent transformer architectures with learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical innovations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical innovations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization specifically affect search accuracy and performance metrics compared to uncompressed vector search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization specifically affect search accuracy and performance metrics compared to uncompressed vector search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization specifically affect search accuracy and performance metrics compared to uncompressed vector search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization specifically affect search accuracy and performance metrics compared to uncompressed vector search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio and search speed across different compression techniques in vector search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio and search speed across different compression techniques in vector search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio and recall accuracy across different compression techniques in vector search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:09:49.682Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio and recall accuracy across different compression techniques in vector search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties and advantages of hyperbolic geometry over Euclidean geometry in representation learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties and advantages of hyperbolic geometry over Euclidean geometry in representation learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning leverage hyperbolic embeddings to capture hierarchical or tree-like data structures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning leverage hyperbolic embeddings to capture hierarchical or tree-like data structures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the core principles of optimal transport theory relevant to aligning probability distributions in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the core principles of optimal transport theory relevant to aligning probability distributions in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport used to measure similarity or compute distances between embeddings in contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport used to measure similarity or compute distances between embeddings in contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic modifications enable hyperbolic contrastive learning with optimal transport to generalize to unseen or shifted data distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:03.526Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic modifications enable hyperbolic contrastive learning with optimal transport to generalize to unseen or shifted data distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical characteristics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithms currently considered state-of-the-art for nearest neighbor search on compressed vectors, and what are their key technical characteristics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization specifically affect search accuracy and efficiency compared to uncompressed vector search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization specifically affect search accuracy and efficiency compared to uncompressed vector search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization specifically affect search accuracy and efficiency compared to uncompressed vector search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization specifically affect search accuracy and efficiency compared to uncompressed vector search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search speed across different compression techniques in practical nearest neighbor search implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search speed across different compression techniques in practical nearest neighbor search implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and recall performance across different compression techniques in practical nearest neighbor search implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:08.187Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and recall performance across different compression techniques in practical nearest neighbor search implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core methodologies for sparse expert selection in state-of-the-art Mixture of Experts (MoE) models as of the latest research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core methodologies for sparse expert selection in state-of-the-art Mixture of Experts (MoE) models as of the latest research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in their architectural design and decision-making processes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in their architectural design and decision-making processes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measured performance differences (e.g., model accuracy, task-specific metrics) between various gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measured performance differences (e.g., model accuracy, task-specific metrics) between various gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measured efficiency differences (e.g., computational cost, training/inference speed) between various gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measured efficiency differences (e.g., computational cost, training/inference speed) between various gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific technical challenges arise in achieving balanced expert utilization across tokens during training and inference in sparse MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:09.783Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific technical challenges arise in achieving balanced expert utilization across tokens during training and inference in sparse MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.036Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific architectural modifications to transformer-based multi-agent systems (e.g., attention mechanisms, shared vs. separate parameters) are empirically linked to the emergence of novel communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.036Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific architectural modifications to transformer-based multi-agent systems (e.g., attention mechanisms, shared vs. separate parameters) are empirically linked to the emergence of novel communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.036Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agents (e.g., differing in sensory inputs, action spaces, or internal architectures) establish a common latent space or grounding for representing tools and their functions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.036Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agents (e.g., differing in sensory inputs, action spaces, or internal architectures) establish a common latent space or grounding for representing tools and their functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.037Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the comparative effects of self-supervised learning objectives (e.g., contrastive, predictive) versus reinforcement learning rewards on the development of generalizable, transferable skills in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.037Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the comparative effects of self-supervised learning objectives (e.g., contrastive, predictive) versus reinforcement learning rewards on the development of generalizable, transferable skills in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.037Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What metrics and experimental paradigms best measure the emergence, stability, and compositional nature of communication protocols in simulated multi-agent transformer environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.037Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What metrics and experimental paradigms best measure the emergence, stability, and compositional nature of communication protocols in simulated multi-agent transformer environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.037Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does the structure of the environment (e.g., task complexity, required coordination, reward sparsity) interact with agent heterogeneity to promote or hinder the development of shared representations for tool use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:11.037Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does the structure of the environment (e.g., task complexity, required coordination, reward sparsity) interact with agent heterogeneity to promote or hinder the development of shared representations for tool use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.908Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the core mathematical formulations and algorithms for contrastive learning specifically designed in hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the core mathematical formulations and algorithms for contrastive learning specifically designed in hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport (OT) formally integrated into hyperbolic contrastive learning frameworks, and what are the specific OT-based loss functions used?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport (OT) formally integrated into hyperbolic contrastive learning frameworks, and what are the specific OT-based loss functions used?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "In what ways does the combination of hyperbolic geometry and optimal transport theoretically enhance model robustness to out-of-distribution (OOD) data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "In what ways does the combination of hyperbolic geometry and optimal transport theoretically enhance model robustness to out-of-distribution (OOD) data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the practical implementation steps and architectural choices for building a hyperbolic contrastive learning model with optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the practical implementation steps and architectural choices for building a hyperbolic contrastive learning model with optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What empirical benchmarks and metrics are used to evaluate the OOD generalization performance of hyperbolic contrastive learning with optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:21.909Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What empirical benchmarks and metrics are used to evaluate the OOD generalization performance of hyperbolic contrastive learning with optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in terms of model accuracy and computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in terms of model accuracy and computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary load balancing challenges associated with dynamic token routing in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary load balancing challenges associated with dynamic token routing in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.746Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What metrics are commonly used to evaluate the performance and efficiency of different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.747Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What metrics are commonly used to evaluate the performance and efficiency of different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.747Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do current sparse expert selection algorithms address issues of expert capacity and token assignment variance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:31.747Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do current sparse expert selection algorithms address issues of expert capacity and token assignment variance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.333Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and highest-performing algorithms specifically designed for nearest neighbor search on compressed vectors (e.g., ScaNN, FAISS-IVFPQ, DiskANN, SPANN)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.333Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and highest-performing algorithms specifically designed for nearest neighbor search on compressed vectors (e.g., ScaNN, FAISS-IVFPQ, DiskANN, SPANN)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.333Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) affect search accuracy (e.g., recall@k) and efficiency (query latency, throughput) compared to an uncompressed baseline?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) affect search accuracy (e.g., recall@k) and efficiency (query latency, throughput) compared to an uncompressed baseline?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Inverted File Index with Product Quantization (IVF-PQ) affect search accuracy and efficiency compared to flat PQ, particularly at different IVF cluster counts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Inverted File Index with Product Quantization (IVF-PQ) affect search accuracy and efficiency compared to flat PQ, particularly at different IVF cluster counts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Locality-Sensitive Hashing (LSH) affect search accuracy and efficiency compared to quantization-based methods (PQ, IVF) on high-dimensional vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Locality-Sensitive Hashing (LSH) affect search accuracy and efficiency compared to quantization-based methods (PQ, IVF) on high-dimensional vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio (bits per vector), search speed (queries per second), and recall rate (e.g., recall@10) across different compression techniques in modern vector databases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.334Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio (bits per vector), search speed (queries per second), and recall rate (e.g., recall@10) across different compression techniques in modern vector databases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.735Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the specific architectural designs for multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.735Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the specific architectural designs for multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.735Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods are used to train communication protocols in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods are used to train communication protocols in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do emergent communication protocols develop when agents have different capabilities or roles in heterogeneous populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do emergent communication protocols develop when agents have different capabilities or roles in heterogeneous populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms facilitate the emergence of tool use in multi-agent systems with diverse agent types?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms facilitate the emergence of tool use in multi-agent systems with diverse agent types?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What techniques enable skill transfer between different types of agents in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:32.736Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What techniques enable skill transfer between different types of agents in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical concepts and properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical concepts and properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the contrastive learning objective function change when operating in hyperbolic space compared to Euclidean space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the contrastive learning objective function change when operating in hyperbolic space compared to Euclidean space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What is the role of optimal transport in measuring similarity or distance between probability distributions in a contrastive learning context?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What is the role of optimal transport in measuring similarity or distance between probability distributions in a contrastive learning context?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.355Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport loss specifically formulated and combined with the contrastive loss in a unified framework?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.356Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport loss specifically formulated and combined with the contrastive loss in a unified framework?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.356Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic modifications are introduced to leverage hyperbolic geometry and optimal transport for improved generalization to unseen data distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:42.356Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic modifications are introduced to leverage hyperbolic geometry and optimal transport for improved generalization to unseen data distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.597Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and methodologies currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.597Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and methodologies currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms compare to noisy top-k gating mechanisms in terms of model performance metrics (e.g., accuracy, perplexity)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms compare to noisy top-k gating mechanisms in terms of model performance metrics (e.g., accuracy, perplexity)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms compare to noisy top-k gating mechanisms in terms of computational efficiency and resource utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms compare to noisy top-k gating mechanisms in terms of computational efficiency and resource utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges arise during the training of sparse MoE models, and what techniques address them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges arise during the training of sparse MoE models, and what techniques address them?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary issues related to expert utilization in sparse MoE models, and how do current methods optimize for better utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:50.598Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary issues related to expert utilization in sparse MoE models, and how do current methods optimize for better utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.098Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What specific compression algorithms are used for nearest neighbor search on vectors, and how do they reduce memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What specific compression algorithms are used for nearest neighbor search on vectors, and how do they reduce memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) balance compression ratio with search accuracy in high-dimensional vector spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) balance compression ratio with search accuracy in high-dimensional vector spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "In what scenarios does Inverted File Index (IVF) outperform other methods in terms of search speed and scalability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "In what scenarios does Inverted File Index (IVF) outperform other methods in terms of search speed and scalability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the advantages of Hierarchical Navigable Small World (HNSW) graphs for approximate nearest neighbor search accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the advantages of Hierarchical Navigable Small World (HNSW) graphs for approximate nearest neighbor search accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do compression techniques impact computational overhead and search latency in billion-scale vector databases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:51.099Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do compression techniques impact computational overhead and search latency in billion-scale vector databases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.932Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.932Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols differ from predefined protocols in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols differ from predefined protocols in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms in heterogeneous agent populations lead to the emergence of tool use behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms in heterogeneous agent populations lead to the emergence of tool use behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do environmental factors and reward structures influence emergent tool use in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do environmental factors and reward structures influence emergent tool use in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods enable skill transfer between agents with different architectures or capabilities in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:10:56.933Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods enable skill transfer between agents with different architectures or capabilities in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.894Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical definitions and properties of hyperbolic space that make it suitable for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.894Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical definitions and properties of hyperbolic space that make it suitable for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.894Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does hyperbolic contrastive learning differ from Euclidean contrastive learning in terms of loss functions and embedding geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does hyperbolic contrastive learning differ from Euclidean contrastive learning in terms of loss functions and embedding geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the fundamental concepts of optimal transport theory relevant to machine learning and representation learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the fundamental concepts of optimal transport theory relevant to machine learning and representation learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport distance (e.g., Wasserstein distance) incorporated into the contrastive learning objective function?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport distance (e.g., Wasserstein distance) incorporated into the contrastive learning objective function?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic modifications are made to enable the model to generalize to data distributions not seen during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:03.895Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural or algorithmic modifications are made to enable the model to generalize to data distributions not seen during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., accuracy, throughput) between various gating mechanisms in MoE models across standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., accuracy, throughput) between various gating mechanisms in MoE models across standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing techniques and challenges exist during the training of sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing techniques and challenges exist during the training of sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.454Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do current MoE models address expert utilization problems, and what metrics are used to evaluate utilization efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.455Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do current MoE models address expert utilization problems, and what metrics are used to evaluate utilization efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.546Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and widely recognized algorithms (e.g., FAISS, ScaNN, HNSW) for nearest neighbor search specifically designed to operate on compressed vector representations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.546Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and widely recognized algorithms (e.g., FAISS, ScaNN, HNSW) for nearest neighbor search specifically designed to operate on compressed vector representations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.546Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) impact search accuracy (e.g., recall@k) and computational efficiency (e.g., query time, memory usage) compared to uncompressed search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.546Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) impact search accuracy (e.g., recall@k) and computational efficiency (e.g., query time, memory usage) compared to uncompressed search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.546Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization (SQ) affect search accuracy and efficiency, and how does its performance compare to product quantization in terms of these metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.547Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does scalar quantization (SQ) affect search accuracy and efficiency, and how does its performance compare to product quantization in terms of these metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.547Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio (e.g., bits per vector) and the achieved search speed (throughput, latency) in approximate nearest neighbor search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.547Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio (e.g., bits per vector) and the achieved search speed (throughput, latency) in approximate nearest neighbor search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.547Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio and the search accuracy (typically measured as recall) in approximate nearest neighbor search, and how do algorithms manage this trade-off?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:11.547Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio and the search accuracy (typically measured as recall) in approximate nearest neighbor search, and how do algorithms manage this trade-off?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.211Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific metadata, documentation, or data collection methods for this dataset could explain why queries about one topic return content about a completely different topic?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.211Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific metadata, documentation, or data collection methods for this dataset could explain why queries about one topic return content about a completely different topic?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.211Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key structural and functional similarities between biological neural populations and artificial multi-agent transformer systems, independent of the dataset's focus?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key structural and functional similarities between biological neural populations and artificial multi-agent transformer systems, independent of the dataset's focus?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does thalamocortical routing in the brain work, and what principles from this biological system could inform communication protocol design in artificial multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does thalamocortical routing in the brain work, and what principles from this biological system could inform communication protocol design in artificial multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What role do neuropeptides play in neural signaling and modulation, and how could analogous signaling mechanisms be implemented in artificial multi-agent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What role do neuropeptides play in neural signaling and modulation, and how could analogous signaling mechanisms be implemented in artificial multi-agent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What existing neuroscience-inspired architectures or methodologies have been successfully applied to artificial systems, and what gaps remain for implementing learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:22.212Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What existing neuroscience-inspired architectures or methodologies have been successfully applied to artificial systems, and what gaps remain for implementing learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific loss functions used in hyperbolic contrastive learning methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific loss functions used in hyperbolic contrastive learning methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How are hyperbolic embeddings generated and optimized in contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How are hyperbolic embeddings generated and optimized in contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical formulations for integrating optimal transport with contrastive learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical formulations for integrating optimal transport with contrastive learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does optimal transport improve sample alignment and uniformity in contrastive representations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.980Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does optimal transport improve sample alignment and uniformity in contrastive representations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.980Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What geometric properties of hyperbolic spaces make them suitable for modeling hierarchical or out-of-distribution data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:24.980Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What geometric properties of hyperbolic spaces make them suitable for modeling hierarchical or out-of-distribution data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific compression algorithms and techniques currently considered state-of-the-art for nearest neighbor search on high-dimensional vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific compression algorithms and techniques currently considered state-of-the-art for nearest neighbor search on high-dimensional vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) perform in terms of search accuracy and efficiency when applied to compressed vectors for nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Product Quantization (PQ) perform in terms of search accuracy and efficiency when applied to compressed vectors for nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Inverted File Index (IVF) perform in terms of search accuracy and efficiency when applied to compressed vectors for nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Inverted File Index (IVF) perform in terms of search accuracy and efficiency when applied to compressed vectors for nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Hierarchical Navigable Small World (HNSW) perform in terms of search accuracy and efficiency when applied to compressed vectors for nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does Hierarchical Navigable Small World (HNSW) perform in terms of search accuracy and efficiency when applied to compressed vectors for nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search accuracy in nearest neighbor search systems, and how do different algorithms balance this trade-off?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:34.034Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search accuracy in nearest neighbor search systems, and how do different algorithms balance this trade-off?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and methodologies currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and methodologies currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms perform in terms of model accuracy, training stability, and computational efficiency compared to baseline approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms perform in terms of model accuracy, training stability, and computational efficiency compared to baseline approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do noisy top-k gating mechanisms perform in terms of model accuracy, training stability, and computational efficiency compared to standard top-k routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do noisy top-k gating mechanisms perform in terms of model accuracy, training stability, and computational efficiency compared to standard top-k routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary technical challenges associated with achieving effective load balancing across experts during training and inference in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary technical challenges associated with achieving effective load balancing across experts during training and inference in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the main difficulties in implementing dynamic token routing that adapts to input characteristics while maintaining efficiency in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:36.375Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the main difficulties in implementing dynamic token routing that adapts to input characteristics while maintaining efficiency in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.977Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the existing contrastive learning methods specifically designed for hyperbolic spaces, excluding optimal transport integration?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.978Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the existing contrastive learning methods specifically designed for hyperbolic spaces, excluding optimal transport integration?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.978Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport mathematically formulated and applied in Euclidean contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is optimal transport mathematically formulated and applied in Euclidean contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific techniques for integrating optimal transport into hyperbolic contrastive learning architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific techniques for integrating optimal transport into hyperbolic contrastive learning architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.979Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of hyperbolic geometry and optimal transport theoretically enhance model robustness to distribution shifts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.980Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of hyperbolic geometry and optimal transport theoretically enhance model robustness to distribution shifts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.980Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What mathematical formulations describe the joint optimization of hyperbolic embeddings and optimal transport distances in contrastive loss functions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:41.980Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What mathematical formulations describe the joint optimization of hyperbolic embeddings and optimal transport distances in contrastive loss functions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.285Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the specific data types, variables, and measurements recorded in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.285Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the specific data types, variables, and measurements recorded in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.285Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Which neuroscience domains (e.g., neuroimaging, electrophysiology, molecular) are represented in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Which neuroscience domains (e.g., neuroimaging, electrophysiology, molecular) are represented in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Which developmental biology concepts (e.g., gene expression, cell differentiation, morphogenesis) are present in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Which developmental biology concepts (e.g., gene expression, cell differentiation, morphogenesis) are present in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key similarities and differences between biological signaling pathways and artificial agent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key similarities and differences between biological signaling pathways and artificial agent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What research questions, hypotheses, or experimental goals were stated by the dataset creators during collection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:44.286Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What research questions, hypotheses, or experimental goals were stated by the dataset creators during collection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.449Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core mechanisms used for sparse expert selection in state-of-the-art MoE models (e.g., GShard, Switch Transformer, BASE layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.449Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their core mechanisms used for sparse expert selection in state-of-the-art MoE models (e.g., GShard, Switch Transformer, BASE layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.449Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in their mathematical formulation and impact on model sparsity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.449Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing and noisy top-k gating mechanisms differ in their mathematical formulation and impact on model sparsity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.450Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., accuracy, perplexity) and computational efficiency (e.g., FLOPs, latency) between different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.450Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., accuracy, perplexity) and computational efficiency (e.g., FLOPs, latency) between different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.450Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges (e.g., expert under-utilization, over-utilization) arise in sparse MoE architectures, and what are the common techniques to address them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.450Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges (e.g., expert under-utilization, over-utilization) arise in sparse MoE architectures, and what are the common techniques to address them?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.450Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do different expert utilization strategies affect the training stability and inference scalability of large-scale MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.450Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do different expert utilization strategies affect the training stability and inference scalability of large-scale MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.756Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and high-performing algorithms specifically designed for nearest neighbor search on compressed vectors (e.g., IVF-PQ, SCANN, FAISS optimizations)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and high-performing algorithms specifically designed for nearest neighbor search on compressed vectors (e.g., IVF-PQ, SCANN, FAISS optimizations)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) impact nearest neighbor search accuracy (recall) and efficiency (query time, memory usage) compared to uncompressed search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) impact nearest neighbor search accuracy (recall) and efficiency (query time, memory usage) compared to uncompressed search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary hashing (e.g., locality-sensitive hashing) impact nearest neighbor search accuracy and efficiency compared to product quantization and uncompressed search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary hashing (e.g., locality-sensitive hashing) impact nearest neighbor search accuracy and efficiency compared to product quantization and uncompressed search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific accuracy trade-offs (recall/precision degradation) when using approximate nearest neighbor search (ANNS) on compressed vectors versus exact search on uncompressed vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific accuracy trade-offs (recall/precision degradation) when using approximate nearest neighbor search (ANNS) on compressed vectors versus exact search on uncompressed vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the computational and memory efficiency trade-offs (indexing time, query latency, storage footprint) between exact and approximate nearest neighbor search methods for compressed representations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:11:57.757Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the computational and memory efficiency trade-offs (indexing time, query latency, storage footprint) between exact and approximate nearest neighbor search methods for compressed representations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.366Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical definitions and properties of hyperbolic space (e.g., Poincaré ball model, Lorentz model) relevant to contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.366Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical definitions and properties of hyperbolic space (e.g., Poincaré ball model, Lorentz model) relevant to contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.366Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the contrastive loss function (e.g., InfoNCE) formulated and adapted within hyperbolic space instead of Euclidean space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the contrastive loss function (e.g., InfoNCE) formulated and adapted within hyperbolic space instead of Euclidean space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the fundamental concepts and key mathematical tools (e.g., Wasserstein distance, Kantorovich problem) from optimal transport theory used in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the fundamental concepts and key mathematical tools (e.g., Wasserstein distance, Kantorovich problem) from optimal transport theory used in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport distance or plan specifically incorporated into the objective function or matching process of a contrastive learning framework?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport distance or plan specifically incorporated into the objective function or matching process of a contrastive learning framework?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural designs or training mechanisms (e.g., data augmentation, regularization) in these hybrid models are hypothesized to improve generalization to unseen or shifted data distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:03.367Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What architectural designs or training mechanisms (e.g., data augmentation, regularization) in these hybrid models are hypothesized to improve generalization to unseen or shifted data distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.024Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific types of neural data (e.g., fMRI, EEG, single-cell recordings, connectomics) are included in this dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.024Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific types of neural data (e.g., fMRI, EEG, single-cell recordings, connectomics) are included in this dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What developmental stages or biological processes (e.g., neurogenesis, synaptic pruning, circuit formation) does this dataset document?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What developmental stages or biological processes (e.g., neurogenesis, synaptic pruning, circuit formation) does this dataset document?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key biological variables or measurements (e.g., gene expression, neural activity, structural connectivity) captured in this dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key biological variables or measurements (e.g., gene expression, neural activity, structural connectivity) captured in this dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the stated research objectives or scientific questions that motivated the creation and collection of this dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the stated research objectives or scientific questions that motivated the creation and collection of this dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Which research institution, consortium, or primary investigator is responsible for generating and publishing this dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:09.025Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Which research institution, consortium, or primary investigator is responsible for generating and publishing this dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.981Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the performance metrics used to compare different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the performance metrics used to compare different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary training stability issues encountered in sparse MoE models with dynamic routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary training stability issues encountered in sparse MoE models with dynamic routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How does dynamic routing in MoE models affect load balancing and expert utilization during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:16.982Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How does dynamic routing in MoE models affect load balancing and expert utilization during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and highest-performing algorithms specifically designed for nearest neighbor search on compressed vectors (e.g., LSH-based, quantization-based, or hybrid methods)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and highest-performing algorithms specifically designed for nearest neighbor search on compressed vectors (e.g., LSH-based, quantization-based, or hybrid methods)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) integrate with hierarchical navigable small world (HNSW) graphs, and what modifications are required for efficient search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) integrate with hierarchical navigable small world (HNSW) graphs, and what modifications are required for efficient search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary hashing (e.g., locality-sensitive hashing) interact with inverted file (IVF) indexing structures, and what are the implementation considerations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary hashing (e.g., locality-sensitive hashing) interact with inverted file (IVF) indexing structures, and what are the implementation considerations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio (or bit-rate) and search accuracy (e.g., recall@k) for state-of-the-art compressed search methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio (or bit-rate) and search accuracy (e.g., recall@k) for state-of-the-art compressed search methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do memory footprint reduction and query latency compare across different combinations of compression techniques and indexing structures in standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:21.700Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do memory footprint reduction and query latency compare across different combinations of compression techniques and indexing structures in standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.858Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical definitions and properties of hyperbolic spaces (e.g., Poincaré ball, Lorentz model) relevant to contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.859Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the mathematical definitions and properties of hyperbolic spaces (e.g., Poincaré ball, Lorentz model) relevant to contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.859Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning traditionally formulate its loss function, and how is this adapted or redefined within hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.859Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning traditionally formulate its loss function, and how is this adapted or redefined within hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.860Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What is the mathematical formulation of optimal transport (OT) and its core principles (e.g., Wasserstein distance, coupling) as applied in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.860Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What is the mathematical formulation of optimal transport (OT) and its core principles (e.g., Wasserstein distance, coupling) as applied in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.860Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport framework operationally combined with a hyperbolic contrastive learning objective (e.g., is OT used to structure the loss, match distributions, or select pairs)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.860Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How is the optimal transport framework operationally combined with a hyperbolic contrastive learning objective (e.g., is OT used to structure the loss, match distributions, or select pairs)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.860Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What specific components of the hyperbolic OT-contrastive model (e.g., the curvature of the space, the OT-based distance or loss) are theorized to improve generalization to out-of-distribution data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:24.860Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What specific components of the hyperbolic OT-contrastive model (e.g., the curvature of the space, the OT-based distance or loss) are theorized to improve generalization to out-of-distribution data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.293Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific neuroscience concepts (e.g., brain regions, neural processes, cognitive functions) are explicitly mentioned in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.293Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific neuroscience concepts (e.g., brain regions, neural processes, cognitive functions) are explicitly mentioned in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.293Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific developmental biology concepts (e.g., stages of development, genetic factors, environmental influences) are explicitly mentioned in the dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.293Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific developmental biology concepts (e.g., stages of development, genetic factors, environmental influences) are explicitly mentioned in the dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.293Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What neural system properties or behaviors described in the dataset could be analogous to properties or behaviors in multi-agent AI systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.294Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What neural system properties or behaviors described in the dataset could be analogous to properties or behaviors in multi-agent AI systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.294Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What organizational principles or emergent phenomena in biological neural systems could inform the design of multi-agent AI systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.294Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What organizational principles or emergent phenomena in biological neural systems could inform the design of multi-agent AI systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.294Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What explicit research question, hypothesis, or objective is stated in the dataset's documentation or metadata?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:33.294Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What explicit research question, hypothesis, or objective is stated in the dataset's documentation or metadata?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.757Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms currently considered state-of-the-art for selecting sparse experts in MoE models (e.g., Top-K, Noisy Top-K, Switch Transformers, BASE layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.757Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms currently considered state-of-the-art for selecting sparse experts in MoE models (e.g., Top-K, Noisy Top-K, Switch Transformers, BASE layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.757Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do different gating mechanisms (e.g., softmax, noisy gating, learned thresholds) compare in terms of computational cost, memory usage, and training/inference speed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.757Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do different gating mechanisms (e.g., softmax, noisy gating, learned thresholds) compare in terms of computational cost, memory usage, and training/inference speed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.757Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do different gating mechanisms (e.g., softmax, noisy gating, learned thresholds) compare in terms of model performance metrics like accuracy, perplexity, and task-specific benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.757Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do different gating mechanisms (e.g., softmax, noisy gating, learned thresholds) compare in terms of model performance metrics like accuracy, perplexity, and task-specific benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.758Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the key theoretical principles (e.g., sparsity constraints, load balancing, capacity factors) that underpin sparse routing decisions in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.758Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the key theoretical principles (e.g., sparsity constraints, load balancing, capacity factors) that underpin sparse routing decisions in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.758Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What theoretical guarantees or limitations exist regarding the convergence, stability, or expressiveness of sparse routing mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:37.758Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What theoretical guarantees or limitations exist regarding the convergence, stability, or expressiveness of sparse routing mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithmic approaches for performing nearest neighbor search directly on compressed vector representations without full decompression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific algorithmic approaches for performing nearest neighbor search directly on compressed vector representations without full decompression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) specifically impact nearest neighbor search accuracy and computational performance compared to uncompressed vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization (PQ) specifically impact nearest neighbor search accuracy and computational performance compared to uncompressed vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary quantization (BQ) affect nearest neighbor search accuracy and speed metrics in comparison to other compression methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary quantization (BQ) affect nearest neighbor search accuracy and speed metrics in comparison to other compression methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search speed across different vector compression techniques in empirical evaluations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between compression ratio and search speed across different vector compression techniques in empirical evaluations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the measurable trade-offs between compression ratio and recall accuracy for nearest neighbor search in published benchmark studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:43.990Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the measurable trade-offs between compression ratio and recall accuracy for nearest neighbor search in published benchmark studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties and advantages of hyperbolic geometry compared to Euclidean geometry in representation learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties and advantages of hyperbolic geometry compared to Euclidean geometry in representation learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning typically formulate its objective function, and what are its limitations in Euclidean space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning typically formulate its objective function, and what are its limitations in Euclidean space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What modifications to the contrastive loss function are required to operate effectively in hyperbolic space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What modifications to the contrastive loss function are required to operate effectively in hyperbolic space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does optimal transport theory provide a framework for measuring and minimizing distribution distances in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does optimal transport theory provide a framework for measuring and minimizing distribution distances in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What specific techniques are used to combine optimal transport distances with hyperbolic contrastive learning objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:47.848Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What specific techniques are used to combine optimal transport distances with hyperbolic contrastive learning objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.010Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the current leading architectural designs for multi-agent systems that utilize transformer models, and how do they differ from single-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the current leading architectural designs for multi-agent systems that utilize transformer models, and how do they differ from single-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems implement and learn communication protocols between agents, and what optimization techniques are used to improve these protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems implement and learn communication protocols between agents, and what optimization techniques are used to improve these protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific mechanisms or algorithms allow multi-agent transformer systems to develop emergent tool use capabilities without explicit programming?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific mechanisms or algorithms allow multi-agent transformer systems to develop emergent tool use capabilities without explicit programming?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agents in transformer-based multi-agent systems transfer learned skills or knowledge between different agent types or architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agents in transformer-based multi-agent systems transfer learned skills or knowledge between different agent types or architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What evaluation metrics and benchmarks are currently used to assess the performance of communication, tool use, and skill transfer in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.011Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What evaluation metrics and benchmarks are currently used to assess the performance of communication, tool use, and skill transfer in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.661Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the performance metrics and trade-offs when comparing different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the performance metrics and trade-offs when comparing different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary training stability issues encountered in dynamically routed sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary training stability issues encountered in dynamically routed sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do load balancing and expert capacity challenges manifest during the training of sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:12:57.662Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do load balancing and expert capacity challenges manifest during the training of sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and effective algorithms designed specifically for nearest neighbor search on compressed vectors (e.g., product quantization variants, learned compression methods)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and effective algorithms designed specifically for nearest neighbor search on compressed vectors (e.g., product quantization variants, learned compression methods)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does the HNSW (Hierarchical Navigable Small World) graph index perform when built on or queried with compressed vector representations compared to raw vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does the HNSW (Hierarchical Navigable Small World) graph index perform when built on or queried with compressed vector representations compared to raw vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do IVF (Inverted File) and PQ (Product Quantization) based methods perform in terms of accuracy and speed when applied to compressed vectors versus their standard application?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do IVF (Inverted File) and PQ (Product Quantization) based methods perform in terms of accuracy and speed when applied to compressed vectors versus their standard application?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does LSH (Locality-Sensitive Hashing) perform on compressed vectors in terms of recall and precision compared to its use on uncompressed data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does LSH (Locality-Sensitive Hashing) perform on compressed vectors in terms of recall and precision compared to its use on uncompressed data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.446Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio (e.g., bits per dimension) and search accuracy (e.g., recall@k) for state-of-the-art methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:07.447Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the quantitative relationship between compression ratio (e.g., bits per dimension) and search accuracy (e.g., recall@k) for state-of-the-art methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.438Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What mathematical structures and properties define hyperbolic geometry, and how do they differ from Euclidean geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.438Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What mathematical structures and properties define hyperbolic geometry, and how do they differ from Euclidean geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.438Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning operate in hyperbolic space, and what advantages does it offer over Euclidean contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.438Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does contrastive learning operate in hyperbolic space, and what advantages does it offer over Euclidean contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.438Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the core principles of optimal transport theory, and how can they be applied to measure similarity between data distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.439Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the core principles of optimal transport theory, and how can they be applied to measure similarity between data distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.439Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How are optimal transport distances (e.g., Wasserstein distance) incorporated into the loss functions of contrastive learning models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.439Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How are optimal transport distances (e.g., Wasserstein distance) incorporated into the loss functions of contrastive learning models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.439Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the defining characteristics of out-of-distribution (OOD) data, and what metrics are used to evaluate OOD generalization performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:11.439Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the defining characteristics of out-of-distribution (OOD) data, and what metrics are used to evaluate OOD generalization performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., accuracy, throughput) between various gating mechanisms in MoE models across standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., accuracy, throughput) between various gating mechanisms in MoE models across standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing techniques and their effectiveness are used to address uneven expert utilization during MoE training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing techniques and their effectiveness are used to address uneven expert utilization during MoE training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.631Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary training stability challenges (e.g., gradient issues, convergence problems) unique to sparse MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:18.632Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the primary training stability challenges (e.g., gradient issues, convergence problems) unique to sparse MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural designs for implementing communication protocols in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural designs for implementing communication protocols in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems with learned communication protocols perform compared to fixed-protocol systems in benchmark tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems with learned communication protocols perform compared to fixed-protocol systems in benchmark tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methodologies (e.g., reinforcement learning, supervised learning, self-play) are used to learn communication protocols in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methodologies (e.g., reinforcement learning, supervised learning, self-play) are used to learn communication protocols in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.075Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific mechanisms (e.g., attention patterns, specialized modules, environmental affordances) facilitate the emergence of tool use in heterogeneous agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.075Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific mechanisms (e.g., attention patterns, specialized modules, environmental affordances) facilitate the emergence of tool use in heterogeneous agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.075Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does population diversity (e.g., in agent capabilities, roles, or architectures) influence the emergence and complexity of tool use behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:25.075Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does population diversity (e.g., in agent capabilities, roles, or architectures) influence the emergence and complexity of tool use behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the key mathematical properties of hyperbolic geometry that make it suitable for contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the concept of optimal transport differ from traditional distance metrics in contrastive learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the concept of optimal transport differ from traditional distance metrics in contrastive learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific architectural modifications required to integrate hyperbolic spaces into contrastive learning frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What are the specific architectural modifications required to integrate hyperbolic spaces into contrastive learning frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of optimal transport and hyperbolic geometry improve representation learning compared to Euclidean approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "How does the combination of optimal transport and hyperbolic geometry improve representation learning compared to Euclidean approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What empirical evidence demonstrates improved out-of-distribution generalization in hyperbolic contrastive learning models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:26.975Z** - Topic: `"Hyperbolic contrastive learning with optimal transport for out-of-distribution generalization"` - Query: "What empirical evidence demonstrates improved out-of-distribution generalization in hyperbolic contrastive learning models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.072Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and widely recognized algorithms for nearest neighbor search specifically designed to operate on compressed vector representations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.072Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the most recent and widely recognized algorithms for nearest neighbor search specifically designed to operate on compressed vector representations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.072Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization impact both the accuracy (e.g., recall@k) and computational efficiency (e.g., query latency) of nearest neighbor search compared to uncompressed search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.072Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does product quantization impact both the accuracy (e.g., recall@k) and computational efficiency (e.g., query latency) of nearest neighbor search compared to uncompressed search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.072Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary hashing (e.g., locality-sensitive hashing applied to compressed vectors) impact both the accuracy and computational efficiency of nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.072Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does binary hashing (e.g., locality-sensitive hashing applied to compressed vectors) impact both the accuracy and computational efficiency of nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.073Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio (e.g., bits per vector) and the achieved search speed (queries per second) in implemented nearest neighbor search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.073Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio (e.g., bits per vector) and the achieved search speed (queries per second) in implemented nearest neighbor search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.073Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio and the recall accuracy (e.g., recall@1, recall@10) in practical benchmarks of nearest neighbor search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:32.073Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What is the relationship between the compression ratio and the recall accuracy (e.g., recall@1, recall@10) in practical benchmarks of nearest neighbor search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and computational approach?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., accuracy, throughput) between various gating mechanisms in MoE models across standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., accuracy, throughput) between various gating mechanisms in MoE models across standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges arise in MoE architectures during training and inference, and what techniques address them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges arise in MoE architectures during training and inference, and what techniques address them?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do dynamic token routing mechanisms adapt to varying input complexities, and what are their limitations in real-world deployment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:40.273Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do dynamic token routing mechanisms adapt to varying input complexities, and what are their limitations in real-world deployment?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key papers and frameworks for multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key papers and frameworks for multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols in multi-agent transformers differ from predefined or rule-based communication methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols in multi-agent transformers differ from predefined or rule-based communication methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methodologies (e.g., reinforcement learning, supervised learning, self-play) are used to develop emergent tool use in heterogeneous agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methodologies (e.g., reinforcement learning, supervised learning, self-play) are used to develop emergent tool use in heterogeneous agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does heterogeneity in agent design (e.g., differing capabilities, architectures, or roles) influence the emergence of tool use in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How does heterogeneity in agent design (e.g., differing capabilities, architectures, or roles) influence the emergence of tool use in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components or learning algorithms enable skill transfer between agents with different neural network architectures (e.g., transformers vs. CNNs vs. LSTMs)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components or learning algorithms enable skill transfer between agents with different neural network architectures (e.g., transformers vs. CNNs vs. LSTMs)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
