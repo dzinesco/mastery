@@ -12517,3 +12517,33 @@
 ⚰️  **2025-12-05T00:25:41.269Z** - Topic: `"Quantum error correction codes: surface codes vs. color codes, and their implementation overhead in near-term hardware"` - Query: "What are the primary physical implementation challenges for color codes on the same near-term hardware platforms?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:26:23.650Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "What are the key components and assumptions of a realistic noise model for quantum hardware (e.g., Pauli error rates, coherence times, crosstalk, measurement errors)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.650Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "What are the key components and assumptions of a realistic noise model for quantum hardware (e.g., Pauli error rates, coherence times, crosstalk, measurement errors)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "How is the logical error rate per cycle calculated for a given quantum error-correcting code (e.g., surface code) under a specific noise model?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "How is the logical error rate per cycle calculated for a given quantum error-correcting code (e.g., surface code) under a specific noise model?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "What is the relationship between code distance and the logical error rate, and how does this scaling change with different noise parameters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "What is the relationship between code distance and the logical error rate, and how does this scaling change with different noise parameters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "How do resource estimates (e.g., qubit count, gate count, runtime) scale with code distance for a target logical error rate in a fault-tolerant protocol?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "How do resource estimates (e.g., qubit count, gate count, runtime) scale with code distance for a target logical error rate in a fault-tolerant protocol?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "What are the current best estimates for the fault-tolerant threshold under realistic noise models, and how do they compare to simpler depolarizing noise assumptions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:26:23.651Z** - Topic: `"Fault-tolerant quantum computing thresholds: calculating logical error rates under realistic noise models and the impact of code distance scaling on resource estimates"` - Query: "What are the current best estimates for the fault-tolerant threshold under realistic noise models, and how do they compare to simpler depolarizing noise assumptions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
