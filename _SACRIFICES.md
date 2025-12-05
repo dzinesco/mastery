@@ -12901,3 +12901,33 @@
 ⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What protocol designs or verification steps can mitigate adversarial syndrome manipulation while maintaining resource efficiency under decoherence?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:42:09.712Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the key resource metrics (e.g., entanglement yield, success probability, quantum memory time, number of operations) for evaluating efficiency in continuous-variable entanglement purification protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the key resource metrics (e.g., entanglement yield, success probability, quantum memory time, number of operations) for evaluating efficiency in continuous-variable entanglement purification protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "How does adaptive syndrome decoding, as opposed to fixed decoding, improve performance in continuous-variable entanglement purification under realistic noise conditions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "How does adaptive syndrome decoding, as opposed to fixed decoding, improve performance in continuous-variable entanglement purification under realistic noise conditions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the characteristic models and effects of non-Gaussian noise on continuous-variable quantum states, and how do they differ from Gaussian noise in the context of entanglement purification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the characteristic models and effects of non-Gaussian noise on continuous-variable quantum states, and how do they differ from Gaussian noise in the context of entanglement purification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "How can an adversarial measurement feedback mechanism be modeled and what specific vulnerabilities does it introduce in a continuous-variable entanglement purification protocol?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "How can an adversarial measurement feedback mechanism be modeled and what specific vulnerabilities does it introduce in a continuous-variable entanglement purification protocol?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the design principles for integrating adaptive syndrome decoding with resource-efficient operations to mitigate both non-Gaussian noise and adversarial feedback in a continuous-variable system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the design principles for integrating adaptive syndrome decoding with resource-efficient operations to mitigate both non-Gaussian noise and adversarial feedback in a continuous-variable system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
