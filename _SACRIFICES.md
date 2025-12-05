@@ -26167,3 +26167,1353 @@
 ⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the limitations and potential extensions of using Wasserstein barycenters for domain adaptation in real-world applications?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical formulations of Wasserstein barycenter methods specifically designed for domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical formulations of Wasserstein barycenter methods specifically designed for domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do practical implementations compute optimal transport distances between source and target domain distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do practical implementations compute optimal transport distances between source and target domain distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithmic approaches exist for solving the Wasserstein barycenter optimization problem in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithmic approaches exist for solving the Wasserstein barycenter optimization problem in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key computational bottlenecks in Wasserstein barycenter methods when applied to domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key computational bottlenecks in Wasserstein barycenter methods when applied to domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do current methods address scalability challenges of Wasserstein barycenters for high-dimensional domain adaptation problems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:57.224Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do current methods address scalability challenges of Wasserstein barycenters for high-dimensional domain adaptation problems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the defining architectural characteristics of current state-of-the-art multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the defining architectural characteristics of current state-of-the-art multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems differ in their approaches to handling inter-agent communication and coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems differ in their approaches to handling inter-agent communication and coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific reinforcement learning methods are most commonly used to train communication protocols in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific reinforcement learning methods are most commonly used to train communication protocols in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do self-supervised learning techniques contribute to the development of communication protocols in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do self-supervised learning techniques contribute to the development of communication protocols in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural or training mechanisms facilitate the emergence of specialized tool use among heterogeneous agents in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:16:58.593Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural or training mechanisms facilitate the emergence of specialized tool use among heterogeneous agents in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.918Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical properties of Wasserstein barycenters that make them suitable for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.918Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical properties of Wasserstein barycenters that make them suitable for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.918Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters theoretically align source and target distributions in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.918Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters theoretically align source and target distributions in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.918Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the main computational challenges in calculating Wasserstein barycenters for high-dimensional data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.919Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the main computational challenges in calculating Wasserstein barycenters for high-dimensional data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.919Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithms and approximations exist for efficiently computing Wasserstein barycenters in high-dimensional spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.919Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithms and approximations exist for efficiently computing Wasserstein barycenters in high-dimensional spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.919Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do domain adaptation methods based on Wasserstein barycenters compare empirically to other optimal transport methods (e.g., direct OT mapping, Gromov-Wasserstein) on benchmark tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:14.919Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do domain adaptation methods based on Wasserstein barycenters compare empirically to other optimal transport methods (e.g., direct OT mapping, Gromov-Wasserstein) on benchmark tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.448Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural designs and training methodologies for transformer-based multi-agent systems in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.449Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural designs and training methodologies for transformer-based multi-agent systems in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.449Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do communication tokens or dedicated communication channels facilitate emergent protocols in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.449Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do communication tokens or dedicated communication channels facilitate emergent protocols in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.449Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training paradigms (e.g., reinforcement learning, self-play, supervised learning) are most effective for developing learned communication in artificial agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.449Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training paradigms (e.g., reinforcement learning, self-play, supervised learning) are most effective for developing learned communication in artificial agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.450Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental and task conditions promote the emergence of tool use in heterogeneous multi-agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.450Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental and task conditions promote the emergence of tool use in heterogeneous multi-agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.450Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do specialization and role differentiation among heterogeneous agents contribute to emergent tool creation and utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:20.450Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do specialization and role differentiation among heterogeneous agents contribute to emergent tool creation and utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.373Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition of a Wasserstein barycenter and how does it relate to optimal transport theory?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.373Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition of a Wasserstein barycenter and how does it relate to optimal transport theory?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.373Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters theoretically align source and target distributions in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.373Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters theoretically align source and target distributions in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.373Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the main computational challenges in calculating Wasserstein barycenters for high-dimensional data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.374Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the main computational challenges in calculating Wasserstein barycenters for high-dimensional data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.374Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithms (e.g., Sinkhorn, iterative Bregman projections) are used to approximate Wasserstein barycenters efficiently?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.374Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithms (e.g., Sinkhorn, iterative Bregman projections) are used to approximate Wasserstein barycenters efficiently?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.374Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key performance differences (e.g., accuracy, robustness, scalability) between optimal transport and other domain adaptation methods like adversarial training or discrepancy minimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:34.374Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key performance differences (e.g., accuracy, robustness, scalability) between optimal transport and other domain adaptation methods like adversarial training or discrepancy minimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural designs and training methodologies for transformer-based multi-agent systems in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural designs and training methodologies for transformer-based multi-agent systems in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do communication tokens or specialized attention mechanisms in transformers facilitate emergent communication protocols between agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do communication tokens or specialized attention mechanisms in transformers facilitate emergent communication protocols between agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What empirical evidence exists for the emergence of structured communication in multi-agent transformer systems during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What empirical evidence exists for the emergence of structured communication in multi-agent transformer systems during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent architectures (e.g., different model sizes or capabilities) influence the emergence of tool use behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent architectures (e.g., different model sizes or capabilities) influence the emergence of tool use behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific reinforcement learning or self-supervised objectives promote the discovery and utilization of tools in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:43.159Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific reinforcement learning or self-supervised objectives promote the discovery and utilization of tools in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical properties of Wasserstein distance that make it suitable for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical properties of Wasserstein distance that make it suitable for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters formally represent the interpolation or averaging of probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters formally represent the interpolation or averaging of probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the specific computational challenges in calculating Wasserstein barycenters when dealing with high-dimensional data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the specific computational challenges in calculating Wasserstein barycenters when dealing with high-dimensional data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.053Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithmic approaches (e.g., entropic regularization, iterative Bregman projections) are used to approximate Wasserstein barycenters efficiently?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.054Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What algorithmic approaches (e.g., entropic regularization, iterative Bregman projections) are used to approximate Wasserstein barycenters efficiently?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.054Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In empirical studies, how do the classification accuracies of optimal transport-based domain adaptation methods compare to those of traditional methods like feature augmentation or subspace alignment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:17:55.054Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In empirical studies, how do the classification accuracies of optimal transport-based domain adaptation methods compare to those of traditional methods like feature augmentation or subspace alignment?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics (e.g., latency, throughput, load balancing) for evaluating routing algorithms in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics (e.g., latency, throughput, load balancing) for evaluating routing algorithms in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do existing routing algorithms (e.g., top-k, hash-based, learned routers) handle dynamic changes in token allocation and expert capacity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do existing routing algorithms (e.g., top-k, hash-based, learned routers) handle dynamic changes in token allocation and expert capacity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary sources of dynamism (e.g., varying input sequences, fluctuating expert loads) that routing algorithms must adapt to in real-time?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary sources of dynamism (e.g., varying input sequences, fluctuating expert loads) that routing algorithms must adapt to in real-time?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What architectural constraints (e.g., communication costs, memory bandwidth, synchronization) influence the design of efficient routing algorithms for MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What architectural constraints (e.g., communication costs, memory bandwidth, synchronization) influence the design of efficient routing algorithms for MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.870Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How can routing algorithms be optimized to minimize token dropping or imbalance while maintaining low computational overhead during inference and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:00.871Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How can routing algorithms be optimized to minimize token dropping or imbalance while maintaining low computational overhead during inference and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.861Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and training methodologies used in state-of-the-art multi-agent transformer systems that incorporate learned communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and training methodologies used in state-of-the-art multi-agent transformer systems that incorporate learned communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do current multi-agent transformer systems implement and optimize communication protocols between agents during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do current multi-agent transformer systems implement and optimize communication protocols between agents during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What evaluation metrics and benchmarks are used to assess the quality and effectiveness of emergent communication in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What evaluation metrics and benchmarks are used to assess the quality and effectiveness of emergent communication in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training dynamics and environmental conditions facilitate the development of structured communication protocols in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training dynamics and environmental conditions facilitate the development of structured communication protocols in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural or algorithmic mechanisms enable specialized tool use capabilities to emerge in heterogeneous multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:08.862Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural or algorithmic mechanisms enable specialized tool use capabilities to emerge in heterogeneous multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.118Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical formulations of Wasserstein barycenters used in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.118Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical formulations of Wasserstein barycenters used in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.118Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters align source and target distributions in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.118Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters align source and target distributions in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.119Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the specific algorithms for computing Wasserstein barycenters in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.119Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the specific algorithms for computing Wasserstein barycenters in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.119Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How does optimal transport theory provide a framework for measuring distribution distances in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.119Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How does optimal transport theory provide a framework for measuring distribution distances in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.119Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the computational complexities and scalability issues of Wasserstein barycenter methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:14.119Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the computational complexities and scalability issues of Wasserstein barycenter methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.252Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches currently considered state-of-the-art for dynamic token-to-expert assignment in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches currently considered state-of-the-art for dynamic token-to-expert assignment in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, learned routers) manage the trade-off between computational load (e.g., FLOPs, latency) and maintaining expert specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, learned routers) manage the trade-off between computational load (e.g., FLOPs, latency) and maintaining expert specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary evaluation metrics (e.g., model accuracy, throughput, load balancing) used to assess the performance of dynamic token allocation algorithms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary evaluation metrics (e.g., model accuracy, throughput, load balancing) used to assess the performance of dynamic token allocation algorithms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms handle challenges such as load balancing across experts and token representation during the allocation process?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms handle challenges such as load balancing across experts and token representation during the allocation process?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in routing algorithm design and performance between sparse and dense mixture-of-experts model architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:20.253Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in routing algorithm design and performance between sparse and dense mixture-of-experts model architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.095Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of transformer-based multi-agent systems that incorporate learned communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.095Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of transformer-based multi-agent systems that incorporate learned communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do existing frameworks implement and optimize communication protocols between transformer-based agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do existing frameworks implement and optimize communication protocols between transformer-based agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training mechanisms or reinforcement learning approaches facilitate emergent tool use in heterogeneous agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training mechanisms or reinforcement learning approaches facilitate emergent tool use in heterogeneous agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do agents with different capabilities develop shared representations or protocols for tool discovery and utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do agents with different capabilities develop shared representations or protocols for tool discovery and utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods enable knowledge or skill transfer between transformer agents with varying architectures or specialized capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:29.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods enable knowledge or skill transfer between transformer agents with varying architectures or specialized capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.131Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key optimal transport-based methods currently considered state-of-the-art for domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key optimal transport-based methods currently considered state-of-the-art for domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters mathematically represent and align multiple source domains in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters mathematically represent and align multiple source domains in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific algorithmic implementations exist for applying Wasserstein barycenters in domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific algorithmic implementations exist for applying Wasserstein barycenters in domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks when calculating Wasserstein barycenters for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks when calculating Wasserstein barycenters for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence and generalization guarantees exist for domain adaptation methods using Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:33.132Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence and generalization guarantees exist for domain adaptation methods using Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different dynamic token allocation mechanisms (e.g., top-k, noisy top-k, adaptive thresholds) quantitatively trade off computational cost against model accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different dynamic token allocation mechanisms (e.g., top-k, noisy top-k, adaptive thresholds) quantitatively trade off computational cost against model accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges in achieving balanced expert utilization in sparse MoE architectures during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges in achieving balanced expert utilization in sparse MoE architectures during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.962Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do state-of-the-art routing algorithms address the issue of expert capacity and overflow in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.963Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do state-of-the-art routing algorithms address the issue of expert capacity and overflow in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.963Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the main scalability bottlenecks and communication overhead challenges in distributed implementations of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:38.963Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the main scalability bottlenecks and communication overhead challenges in distributed implementations of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components in transformer-based multi-agent systems specifically support the learning of communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components in transformer-based multi-agent systems specifically support the learning of communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent populations develop shared communication protocols that enable effective tool use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent populations develop shared communication protocols that enable effective tool use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms allow agents with different capabilities or embodiments to transfer learned skills between each other?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms allow agents with different capabilities or embodiments to transfer learned skills between each other?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do emergent communication protocols in multi-agent systems differ from pre-defined protocols in facilitating tool use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do emergent communication protocols in multi-agent systems differ from pre-defined protocols in facilitating tool use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural features enable the transfer of skills across agents with varying physical or computational embodiments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:48.644Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural features enable the transfer of skills across agents with varying physical or computational embodiments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.892Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What mathematical principles and optimal transport theory underlie the concept of Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What mathematical principles and optimal transport theory underlie the concept of Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters specifically formulated and applied within domain adaptation frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters specifically formulated and applied within domain adaptation frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key algorithmic implementations and software tools for optimal transport-based domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key algorithmic implementations and software tools for optimal transport-based domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What empirical results demonstrate the performance of Wasserstein barycenter methods on benchmark domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What empirical results demonstrate the performance of Wasserstein barycenter methods on benchmark domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenter methods compare quantitatively and qualitatively to other major domain adaptation approaches (e.g., discrepancy-based, adversarial, reconstruction-based)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:18:50.893Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenter methods compare quantitatively and qualitatively to other major domain adaptation approaches (e.g., discrepancy-based, adversarial, reconstruction-based)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, learned routers) quantitatively affect the computational cost (e.g., FLOPs, memory usage) of MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, learned routers) quantitatively affect the computational cost (e.g., FLOPs, memory usage) of MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, learned routers) quantitatively affect the model performance (e.g., accuracy, perplexity) on standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, learned routers) quantitatively affect the model performance (e.g., accuracy, perplexity) on standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges (e.g., load balancing, communication overhead, training instability) in implementing dynamic token allocation for MoE models at a large scale (e.g., hundreds of experts, distributed across multiple devices)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.225Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges (e.g., load balancing, communication overhead, training instability) in implementing dynamic token allocation for MoE models at a large scale (e.g., hundreds of experts, distributed across multiple devices)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.226Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the main limitations or trade-offs identified in recent research regarding the scalability of dynamic routing algorithms as the number of experts or model size increases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:00.226Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the main limitations or trade-offs identified in recent research regarding the scalability of dynamic routing algorithms as the number of experts or model size increases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.204Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols differ from predefined protocols in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols differ from predefined protocols in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methods enable heterogeneous agent populations to develop emergent tool use capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methods enable heterogeneous agent populations to develop emergent tool use capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do agents in heterogeneous populations discover and adopt tools without explicit programming?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do agents in heterogeneous populations discover and adopt tools without explicit programming?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms allow for skill transfer between agents with different architectures or capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:10.205Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms allow for skill transfer between agents with different architectures or capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical definitions and properties of Wasserstein distance and Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical definitions and properties of Wasserstein distance and Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters theoretically formulated for aligning source and target domain distributions in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters theoretically formulated for aligning source and target domain distributions in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the specific computational algorithms (e.g., Sinkhorn iterations, linear programming) used to calculate Wasserstein barycenters in practice?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the specific computational algorithms (e.g., Sinkhorn iterations, linear programming) used to calculate Wasserstein barycenters in practice?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do implementations of optimal transport for domain adaptation handle computational challenges like scalability and regularization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do implementations of optimal transport for domain adaptation handle computational challenges like scalability and regularization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What empirical results compare the classification accuracy of domain adaptation methods using Wasserstein barycenters versus other techniques (e.g., adversarial training, moment matching)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:14.648Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What empirical results compare the classification accuracy of domain adaptation methods using Wasserstein barycenters versus other techniques (e.g., adversarial training, moment matching)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for dynamic token allocation in MoE models (e.g., GShard, Switch Transformer, BASE layers, Expert Choice)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for dynamic token allocation in MoE models (e.g., GShard, Switch Transformer, BASE layers, Expert Choice)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, threshold-based, learned routers) specifically impact computational efficiency in terms of FLOPs, memory usage, and inference latency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms (e.g., top-k, threshold-based, learned routers) specifically impact computational efficiency in terms of FLOPs, memory usage, and inference latency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms affect key model performance metrics such as accuracy, perplexity, and task-specific scores in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing mechanisms affect key model performance metrics such as accuracy, perplexity, and task-specific scores in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary metrics used to quantify the efficiency of token allocation in MoE models (e.g., load balancing scores, expert utilization rates, communication costs)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary metrics used to quantify the efficiency of token allocation in MoE models (e.g., load balancing scores, expert utilization rates, communication costs)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the trade-offs and design considerations in routing algorithms between achieving uniform expert utilization and maintaining model quality in dynamic token allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:20.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the trade-offs and design considerations in routing algorithms between achieving uniform expert utilization and maintaining model quality in dynamic token allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.634Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and design patterns in current state-of-the-art multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and design patterns in current state-of-the-art multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do different multi-agent transformer architectures handle inter-agent communication and coordination mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do different multi-agent transformer architectures handle inter-agent communication and coordination mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the primary methods for learning communication protocols in decentralized multi-agent reinforcement learning systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the primary methods for learning communication protocols in decentralized multi-agent reinforcement learning systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do emergent communication protocols in multi-agent systems evolve through self-play or population-based training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do emergent communication protocols in multi-agent systems evolve through self-play or population-based training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What empirical evidence exists for emergent tool use behaviors in artificial multi-agent systems with learned communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:31.635Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What empirical evidence exists for emergent tool use behaviors in artificial multi-agent systems with learned communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical definitions and formulations of Wasserstein barycenters relevant to domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical definitions and formulations of Wasserstein barycenters relevant to domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do methods like Barycentric Mapping or Barycenter-based Domain Adaptation (BDA) use Wasserstein barycenters to align source and target domains?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do methods like Barycentric Mapping or Barycenter-based Domain Adaptation (BDA) use Wasserstein barycenters to align source and target domains?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In what ways does optimal transport theory model and quantify domain shift between source and target distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In what ways does optimal transport theory model and quantify domain shift between source and target distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key computational bottlenecks (e.g., scalability, regularization) when computing Wasserstein barycenters for high-dimensional data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key computational bottlenecks (e.g., scalability, regularization) when computing Wasserstein barycenters for high-dimensional data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What software libraries or algorithmic implementations (e.g., POT, GeomLoss) are commonly used to apply Wasserstein barycenters in practical machine learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:34.658Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What software libraries or algorithmic implementations (e.g., POT, GeomLoss) are commonly used to apply Wasserstein barycenters in practical machine learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations currently considered state-of-the-art for routing tokens in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations currently considered state-of-the-art for routing tokens in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms in MoE models optimize computational resources (e.g., FLOPs, memory) during inference and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms in MoE models optimize computational resources (e.g., FLOPs, memory) during inference and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms in MoE models impact key model performance metrics such as accuracy, perplexity, or task-specific scores?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms in MoE models impact key model performance metrics such as accuracy, perplexity, or task-specific scores?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary quantitative metrics (e.g., load balancing score, expert utilization rate, routing computation overhead) used to evaluate the efficiency of routing algorithms in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary quantitative metrics (e.g., load balancing score, expert utilization rate, routing computation overhead) used to evaluate the efficiency of routing algorithms in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key qualitative or system-level metrics (e.g., scalability, hardware compatibility, training stability) used to assess routing algorithm performance in MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:40.095Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key qualitative or system-level metrics (e.g., scalability, hardware compatibility, training stability) used to assess routing algorithm performance in MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.095Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the distinct architectural patterns for organizing multiple transformer-based agents within a system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.095Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the distinct architectural patterns for organizing multiple transformer-based agents within a system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do transformer-based multi-agent systems differ in their approaches to shared versus decentralized model parameters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do transformer-based multi-agent systems differ in their approaches to shared versus decentralized model parameters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific training methodologies enable transformer agents to develop communication protocols without explicit supervision?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific training methodologies enable transformer agents to develop communication protocols without explicit supervision?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do reinforcement learning and gradient-based methods compare for learning communication in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do reinforcement learning and gradient-based methods compare for learning communication in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What observable behaviors constitute emergent tool use in artificial multi-agent systems, and how are they measured?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.096Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What observable behaviors constitute emergent tool use in artificial multi-agent systems, and how are they measured?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.388Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition and formulation of a Wasserstein barycenter in the context of probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition and formulation of a Wasserstein barycenter in the context of probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters algorithmically computed or approximated in domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters algorithmically computed or approximated in domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In what ways does optimal transport theory model and quantify domain shift between source and target distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In what ways does optimal transport theory model and quantify domain shift between source and target distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific optimal transport-based techniques (e.g., mapping, regularization) are used to align domains using barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific optimal transport-based techniques (e.g., mapping, regularization) are used to align domains using barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks (e.g., scalability, cost matrix) when calculating Wasserstein barycenters for real-world data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:54.389Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks (e.g., scalability, cost matrix) when calculating Wasserstein barycenters for real-world data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.958Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.958Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.958Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different token allocation strategies (e.g., top-k, noisy top-k, expert choice) quantitatively impact key performance metrics like model accuracy and throughput?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.958Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different token allocation strategies (e.g., top-k, noisy top-k, expert choice) quantitatively impact key performance metrics like model accuracy and throughput?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.958Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard hardware efficiency metrics (e.g., FLOPs, latency, memory usage) used to evaluate dynamic token routing algorithms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.959Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard hardware efficiency metrics (e.g., FLOPs, latency, memory usage) used to evaluate dynamic token routing algorithms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.959Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard model quality metrics (e.g., perplexity, task-specific accuracy) used to evaluate the effectiveness of routing in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.959Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard model quality metrics (e.g., perplexity, task-specific accuracy) used to evaluate the effectiveness of routing in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.959Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance the trade-off between load balancing (even expert utilization) and specialization (routing tokens to the most appropriate expert)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:19:59.959Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance the trade-off between load balancing (even expert utilization) and specialization (routing tokens to the most appropriate expert)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.546Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the fundamental mathematical definitions and key theorems that constitute the core principles of optimal transport theory?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.546Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the fundamental mathematical definitions and key theorems that constitute the core principles of optimal transport theory?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How is the Wasserstein distance specifically formulated and utilized as a metric for comparing probability distributions in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How is the Wasserstein distance specifically formulated and utilized as a metric for comparing probability distributions in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition and conceptual interpretation of Wasserstein barycenters in the context of multiple probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition and conceptual interpretation of Wasserstein barycenters in the context of multiple probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters operationally applied to align or fuse multiple source domains in domain adaptation problems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How are Wasserstein barycenters operationally applied to align or fuse multiple source domains in domain adaptation problems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational algorithms (e.g., Sinkhorn, linear programming, stochastic gradient) used to solve optimal transport and barycenter problems in practice?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:14.547Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational algorithms (e.g., Sinkhorn, linear programming, stochastic gradient) used to solve optimal transport and barycenter problems in practice?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the specific architectural designs for multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the specific architectural designs for multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols function within multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols function within multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms facilitate the emergence of tool use in populations of heterogeneous agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What mechanisms facilitate the emergence of tool use in populations of heterogeneous agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.114Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent populations develop and coordinate tool use behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.115Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent populations develop and coordinate tool use behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.115Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods enable skill transfer between agents that have different capabilities or embodiments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:17.115Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods enable skill transfer between agents that have different capabilities or embodiments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific routing algorithms (e.g., Top-K, expert choice, learned routers) are currently considered state-of-the-art for dynamic token allocation in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific routing algorithms (e.g., Top-K, expert choice, learned routers) are currently considered state-of-the-art for dynamic token allocation in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing strategies (e.g., load balancing techniques, capacity factors) manage the trade-off between computational cost (FLOPs, latency) and model accuracy (e.g., perplexity, task performance)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing strategies (e.g., load balancing techniques, capacity factors) manage the trade-off between computational cost (FLOPs, latency) and model accuracy (e.g., perplexity, task performance)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key metrics (e.g., expert utilization rate, load balancing score, routing decision consistency) used to evaluate the efficiency of token allocation in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key metrics (e.g., expert utilization rate, load balancing score, routing decision consistency) used to evaluate the efficiency of token allocation in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do state-of-the-art routing algorithms handle challenges such as token-to-expert assignment variance and expert capacity constraints in dynamic allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do state-of-the-art routing algorithms handle challenges such as token-to-expert assignment variance and expert capacity constraints in dynamic allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the comparative advantages and limitations of different routing strategies (e.g., sparse vs. soft routing) in terms of scalability and performance across various model sizes and tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:19.515Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the comparative advantages and limitations of different routing strategies (e.g., sparse vs. soft routing) in terms of scalability and performance across various model sizes and tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical formulations and algorithms for domain adaptation using optimal transport, as of the most recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical formulations and algorithms for domain adaptation using optimal transport, as of the most recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters serve as intermediate representations between source and target domains in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters serve as intermediate representations between source and target domains in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific domain adaptation scenarios or tasks have successfully utilized Wasserstein barycenters, and what were the outcomes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific domain adaptation scenarios or tasks have successfully utilized Wasserstein barycenters, and what were the outcomes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks in calculating Wasserstein barycenters for high-dimensional data in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks in calculating Wasserstein barycenters for high-dimensional data in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence properties and generalization bounds exist for domain adaptation methods based on Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:33.917Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence properties and generalization bounds exist for domain adaptation methods based on Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.716Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific routing algorithms (e.g., Top-k, Expert Choice, BASE, Hash-based) are currently considered state-of-the-art for dynamic token allocation in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.716Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific routing algorithms (e.g., Top-k, Expert Choice, BASE, Hash-based) are currently considered state-of-the-art for dynamic token allocation in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.716Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do these routing algorithms differ in their approach to distributing tokens across experts (e.g., token-based vs. expert-based selection, deterministic vs. learned routing)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.716Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do these routing algorithms differ in their approach to distributing tokens across experts (e.g., token-based vs. expert-based selection, deterministic vs. learned routing)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.716Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key trade-offs between computational efficiency (e.g., FLOPs, latency, memory usage) and model performance (e.g., accuracy, perplexity) across different routing strategies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.716Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key trade-offs between computational efficiency (e.g., FLOPs, latency, memory usage) and model performance (e.g., accuracy, perplexity) across different routing strategies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.717Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing strategies handle load balancing (e.g., auxiliary losses, capacity factors) to prevent expert under-utilization or overload?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.717Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing strategies handle load balancing (e.g., auxiliary losses, capacity factors) to prevent expert under-utilization or overload?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.717Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific metrics (e.g., expert utilization rate, routing entropy, throughput, quality-cost trade-off curves) are used to evaluate token allocation efficiency in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:40.717Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific metrics (e.g., expert utilization rate, routing entropy, throughput, quality-cost trade-off curves) are used to evaluate token allocation efficiency in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.409Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components (e.g., attention mechanisms, agent-specific modules) in current multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components (e.g., attention mechanisms, agent-specific modules) in current multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems typically handle inter-agent communication at the architectural level (e.g., through shared or separate transformer layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems typically handle inter-agent communication at the architectural level (e.g., through shared or separate transformer layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What reinforcement learning or gradient-based methods are used to learn communication protocols in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What reinforcement learning or gradient-based methods are used to learn communication protocols in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How is self-supervised learning applied to develop communication protocols in multi-agent transformer systems without explicit supervision?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How is self-supervised learning applied to develop communication protocols in multi-agent transformer systems without explicit supervision?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural or training mechanisms (e.g., specialization, modularity) allow heterogeneous agents in transformer-based systems to discover and use tools?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:41.410Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural or training mechanisms (e.g., specialization, modularity) allow heterogeneous agents in transformer-based systems to discover and use tools?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.035Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical formulations and algorithmic approaches for domain adaptation using optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.035Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical formulations and algorithmic approaches for domain adaptation using optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.035Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters serve as intermediate representations between source and target domains in adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.035Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters serve as intermediate representations between source and target domains in adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.036Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific computational bottlenecks arise when computing Wasserstein barycenters for high-dimensional data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.036Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific computational bottlenecks arise when computing Wasserstein barycenters for high-dimensional data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.036Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence and generalization guarantees exist for domain adaptation methods based on Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.036Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence and generalization guarantees exist for domain adaptation methods based on Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.036Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do recent methods address scalability and regularization challenges in Wasserstein barycenter-based domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:20:53.036Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do recent methods address scalability and regularization challenges in Wasserstein barycenter-based domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods specifically reduce computational costs while maintaining model accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods specifically reduce computational costs while maintaining model accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What metrics are used to evaluate the trade-off between computational efficiency and performance in MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What metrics are used to evaluate the trade-off between computational efficiency and performance in MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges in achieving balanced expert utilization during inference in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges in achieving balanced expert utilization during inference in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms address the issue of load imbalance across experts during inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:00.103Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms address the issue of load imbalance across experts during inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.410Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key optimal transport-based methods currently considered state-of-the-art for domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key optimal transport-based methods currently considered state-of-the-art for domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters serve as intermediate representations between source and target domains in adaptation frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters serve as intermediate representations between source and target domains in adaptation frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific algorithmic implementations exist for computing Wasserstein barycenters in domain adaptation contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific algorithmic implementations exist for computing Wasserstein barycenters in domain adaptation contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks when applying Wasserstein barycenters to high-dimensional domain adaptation problems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks when applying Wasserstein barycenters to high-dimensional domain adaptation problems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence and generalization guarantees have been established for domain adaptation methods using Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:12.411Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence and generalization guarantees have been established for domain adaptation methods using Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural modifications to transformer-based multi-agent systems (e.g., attention mechanisms, tokenization schemes, or shared latent spaces) specifically enable the learning of communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural modifications to transformer-based multi-agent systems (e.g., attention mechanisms, tokenization schemes, or shared latent spaces) specifically enable the learning of communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training mechanisms (e.g., reinforcement learning, self-play, or emergent language grounding) are most effective for developing structured communication protocols in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training mechanisms (e.g., reinforcement learning, self-play, or emergent language grounding) are most effective for developing structured communication protocols in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Under what environmental conditions (e.g., task complexity, partial observability, or reward structure) does emergent tool use appear in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "Under what environmental conditions (e.g., task complexity, partial observability, or reward structure) does emergent tool use appear in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training paradigms or curricula are necessary to encourage the discovery and consistent application of tools by agents in a multi-agent transformer environment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training paradigms or curricula are necessary to encourage the discovery and consistent application of tools by agents in a multi-agent transformer environment?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What algorithmic approaches (e.g., meta-learning, parameter sharing, or distillation) enable the transfer of learned skills between heterogeneous agents with differing architectures or embodiments in a transformer-based system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:13.227Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What algorithmic approaches (e.g., meta-learning, parameter sharing, or distillation) enable the transfer of learned skills between heterogeneous agents with differing architectures or embodiments in a transformer-based system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms and their implementations currently considered state-of-the-art for routing in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms and their implementations currently considered state-of-the-art for routing in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms (e.g., top-k, noisy top-k, expert choice) manage the dynamic allocation of input tokens to experts during inference and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms (e.g., top-k, noisy top-k, expert choice) manage the dynamic allocation of input tokens to experts during inference and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics (e.g., model accuracy, computational efficiency, training stability) impacted by the choice of routing algorithm in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics (e.g., model accuracy, computational efficiency, training stability) impacted by the choice of routing algorithm in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing strategies balance the trade-off between expert specialization and load balancing across the available experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing strategies balance the trade-off between expert specialization and load balancing across the available experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the comparative advantages and disadvantages of learned routing versus heuristic-based routing in terms of scalability and generalization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:21.742Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the comparative advantages and disadvantages of learned routing versus heuristic-based routing in terms of scalability and generalization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical definitions and foundational concepts in optimal transport theory, including the Monge and Kantorovich formulations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical definitions and foundational concepts in optimal transport theory, including the Monge and Kantorovich formulations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How is the Wasserstein distance defined and what properties make it useful in probability theory and applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How is the Wasserstein distance defined and what properties make it useful in probability theory and applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition of a Wasserstein barycenter for a set of probability measures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition of a Wasserstein barycenter for a set of probability measures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What computational algorithms exist for calculating Wasserstein barycenters, and what are their respective trade-offs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.022Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What computational algorithms exist for calculating Wasserstein barycenters, and what are their respective trade-offs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.023Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How can Wasserstein barycenters be specifically applied to domain adaptation problems in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:31.023Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How can Wasserstein barycenters be specifically applied to domain adaptation problems in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.014Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components (e.g., attention mechanisms, tokenization, training paradigms) used in multi-agent systems where transformers learn communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components (e.g., attention mechanisms, tokenization, training paradigms) used in multi-agent systems where transformers learn communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols in multi-agent transformer systems differ from predefined or rule-based protocols in terms of performance and adaptability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication protocols in multi-agent transformer systems differ from predefined or rule-based protocols in terms of performance and adaptability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental or task conditions (e.g., partial observability, cooperative vs. competitive settings) promote the emergence of tool use in heterogeneous agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental or task conditions (e.g., partial observability, cooperative vs. competitive settings) promote the emergence of tool use in heterogeneous agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What learning algorithms or reinforcement learning frameworks are most effective for facilitating emergent tool use among agents with diverse capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What learning algorithms or reinforcement learning frameworks are most effective for facilitating emergent tool use among agents with diverse capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods (e.g., shared representations, distillation, meta-learning) enable skill transfer between agents that have different action spaces, sensory inputs, or physical embodiments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:36.015Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods (e.g., shared representations, distillation, meta-learning) enable skill transfer between agents that have different action spaces, sensory inputs, or physical embodiments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms determine which expert(s) should process each token in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms determine which expert(s) should process each token in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific metrics and benchmarks are used to quantitatively evaluate the efficiency of routing algorithms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What specific metrics and benchmarks are used to quantitatively evaluate the efficiency of routing algorithms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences between top-k routing, learned routing, and other routing strategies in modern MoE implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences between top-k routing, learned routing, and other routing strategies in modern MoE implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance computational load across experts while maintaining model performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:39.609Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance computational load across experts while maintaining model performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.959Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key optimal transport-based methods currently considered state-of-the-art for domain adaptation, and how do they differ from traditional approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key optimal transport-based methods currently considered state-of-the-art for domain adaptation, and how do they differ from traditional approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters mathematically represent and align multiple source domains with a target domain in domain adaptation frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How do Wasserstein barycenters mathematically represent and align multiple source domains with a target domain in domain adaptation frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific algorithms and implementations exist for applying Wasserstein barycenters to domain adaptation tasks in practice?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What specific algorithms and implementations exist for applying Wasserstein barycenters to domain adaptation tasks in practice?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks and scalability limitations when using Wasserstein barycenters for domain adaptation with large datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the primary computational bottlenecks and scalability limitations when using Wasserstein barycenters for domain adaptation with large datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence properties and generalization bounds have been established for domain adaptation methods utilizing Wasserstein barycenters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:50.960Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What theoretical convergence properties and generalization bounds have been established for domain adaptation methods utilizing Wasserstein barycenters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically optimize computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically optimize computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically impact model performance metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically impact model performance metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges in achieving effective load balancing across experts during inference in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary technical challenges in achieving effective load balancing across experts during inference in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the main trade-offs between load balancing strategies and inference latency in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:57.392Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the main trade-offs between load balancing strategies and inference latency in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.022Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and design patterns for multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and design patterns for multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication mechanisms (e.g., attention-based message passing, differentiable communication channels) function within transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learned communication mechanisms (e.g., attention-based message passing, differentiable communication channels) function within transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methodologies (e.g., reinforcement learning, supervised learning, self-play) enable the emergence of communication in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training methodologies (e.g., reinforcement learning, supervised learning, self-play) enable the emergence of communication in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental and agent-design factors promote the emergence of tool use in populations of heterogeneous agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental and agent-design factors promote the emergence of tool use in populations of heterogeneous agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learning algorithms (e.g., intrinsic motivation, curriculum learning) facilitate the discovery and adoption of tools in multi-agent systems with diverse agent capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:21:58.023Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do learning algorithms (e.g., intrinsic motivation, curriculum learning) facilitate the discovery and adoption of tools in multi-agent systems with diverse agent capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.801Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical definitions and foundational concepts in optimal transport theory, including the Monge and Kantorovich formulations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.801Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key mathematical definitions and foundational concepts in optimal transport theory, including the Monge and Kantorovich formulations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.801Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How is the Wasserstein distance formally defined between probability distributions, and what are its key properties?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How is the Wasserstein distance formally defined between probability distributions, and what are its key properties?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition of a Wasserstein barycenter for a set of probability distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What is the mathematical definition of a Wasserstein barycenter for a set of probability distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What computational algorithms exist for calculating Wasserstein barycenters, and what are their respective trade-offs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What computational algorithms exist for calculating Wasserstein barycenters, and what are their respective trade-offs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In domain adaptation, how can Wasserstein barycenters be used to align source and target distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:09.802Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "In domain adaptation, how can Wasserstein barycenters be used to align source and target distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.240Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms for mixture-of-experts models in the literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms for mixture-of-experts models in the literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures determine expert selection during inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures determine expert selection during inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in computational overhead between static and dynamic token allocation in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in computational overhead between static and dynamic token allocation in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which metrics are commonly used to measure load balancing and computational efficiency in MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which metrics are commonly used to measure load balancing and computational efficiency in MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do evaluation metrics for MoE routing algorithms account for both model performance and resource utilization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:22:15.241Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do evaluation metrics for MoE routing algorithms account for both model performance and resource utilization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
