@@ -12931,3 +12931,33 @@
 ⚰️  **2025-12-05T00:42:09.713Z** - Topic: `"Resource-efficient entanglement purification protocols with adaptive syndrome decoding under continuous-variable quantum systems with non-Gaussian noise and adversarial measurement feedback"` - Query: "What are the design principles for integrating adaptive syndrome decoding with resource-efficient operations to mitigate both non-Gaussian noise and adversarial feedback in a continuous-variable system?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:43:38.688Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What are the key figures of merit for evaluating resource efficiency in continuous-variable entanglement distillation protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What are the key figures of merit for evaluating resource efficiency in continuous-variable entanglement distillation protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "How does adaptive syndrome decoding differ from standard decoding in continuous-variable quantum error correction, and what are its computational or hardware requirements?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "How does adaptive syndrome decoding differ from standard decoding in continuous-variable quantum error correction, and what are its computational or hardware requirements?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What are the dominant non-Markovian noise models for continuous-variable quantum states in realistic quantum repeater channels, and how do they affect entanglement fidelity over time?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What are the dominant non-Markovian noise models for continuous-variable quantum states in realistic quantum repeater channels, and how do they affect entanglement fidelity over time?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "How does delayed adversarial feedforward (e.g., delayed or manipulated classical communication) impact the performance and security of entanglement distillation in a repeater node?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "How does delayed adversarial feedforward (e.g., delayed or manipulated classical communication) impact the performance and security of entanglement distillation in a repeater node?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What protocol designs or modifications can jointly optimize resource efficiency and robustness against both non-Markovian noise and adversarial feedforward delays in a continuous-variable repeater architecture?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What protocol designs or modifications can jointly optimize resource efficiency and robustness against both non-Markovian noise and adversarial feedforward delays in a continuous-variable repeater architecture?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
