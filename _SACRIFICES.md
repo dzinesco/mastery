@@ -12433,3 +12433,27 @@
 ⚰️  **2025-12-05T00:22:32.154Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the current experimental implementations and major challenges in scaling quantum error correction to practical fault-tolerant systems?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:24:01.911Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "What are the fundamental principles and requirements for quantum error correction in fault-tolerant quantum computing architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.911Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "What are the fundamental principles and requirements for quantum error correction in fault-tolerant quantum computing architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "Which quantum algorithms have been explicitly designed or adapted to run efficiently on error-corrected logical qubits, rather than physical qubits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "Which quantum algorithms have been explicitly designed or adapted to run efficiently on error-corrected logical qubits, rather than physical qubits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "How do the resource overheads (e.g., qubit count, gate depth) of error correction impact the overall performance and feasibility of running specific quantum algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "How do the resource overheads (e.g., qubit count, gate depth) of error correction impact the overall performance and feasibility of running specific quantum algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "What are the key architectural considerations (e.g., connectivity, gate sets, measurement cycles) for implementing error-corrected quantum algorithms in hardware platforms like superconducting qubits or trapped ions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:24:01.912Z** - Topic: `"Quantum algorithms for error-corrected architectures"` - Query: "What are the key architectural considerations (e.g., connectivity, gate sets, measurement cycles) for implementing error-corrected quantum algorithms in hardware platforms like superconducting qubits or trapped ions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
