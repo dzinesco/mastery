@@ -13021,3 +13021,33 @@
 ⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the trade-offs between code distance, squeezing levels, and other parameters in optimizing the resource overhead for practical GKP code implementations?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the dominant sources of noise and hardware imperfections in continuous-variable quantum computing platforms that utilize GKP (Gottesman-Kitaev-Preskill) qubits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the dominant sources of noise and hardware imperfections in continuous-variable quantum computing platforms that utilize GKP (Gottesman-Kitaev-Preskill) qubits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "How can noise characterization be specifically performed for GKP qubits to model errors such as photon loss, dephasing, and finite squeezing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "How can noise characterization be specifically performed for GKP qubits to model errors such as photon loss, dephasing, and finite squeezing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the methods for implementing probabilistic error cancellation in GKP-based quantum computing, and how do they account for the continuous-variable nature of the hardware?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the methods for implementing probabilistic error cancellation in GKP-based quantum computing, and how do they account for the continuous-variable nature of the hardware?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "How can zero-noise extrapolation be adapted and applied to GKP qubit operations to mitigate errors arising from continuous-variable imperfections?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "How can zero-noise extrapolation be adapted and applied to GKP qubit operations to mitigate errors arising from continuous-variable imperfections?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the comparative advantages, limitations, and resource overheads of these error mitigation techniques when applied to GKP-based quantum computing in realistic experimental settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:47:17.051Z** - Topic: `"Error mitigation techniques for GKP-based quantum computing: noise characterization, probabilistic error cancellation, and zero-noise extrapolation under continuous-variable hardware imperfections"` - Query: "What are the comparative advantages, limitations, and resource overheads of these error mitigation techniques when applied to GKP-based quantum computing in realistic experimental settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
