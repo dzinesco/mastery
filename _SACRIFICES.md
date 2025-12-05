@@ -12691,3 +12691,33 @@
 ⚰️  **2025-12-05T00:33:13.427Z** - Topic: `"Real-time error-aware magic state routing and resource allocation protocols for distributed quantum computing systems with heterogeneous fidelity requirements"` - Query: "How do system heterogeneity (e.g., node capabilities, link qualities) and network topology impact the design of integrated error-aware routing and resource allocation protocols?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "What are the specific performance metrics (e.g., fidelity, yield, rate) for entanglement distillation protocols under heterogeneous noise models (e.g., depolarizing, amplitude damping) in isolation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "What are the specific performance metrics (e.g., fidelity, yield, rate) for entanglement distillation protocols under heterogeneous noise models (e.g., depolarizing, amplitude damping) in isolation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "How do different dynamic circuit cutting strategies (e.g., based on entanglement cost, classical communication) perform under given latency constraints for distributed quantum computing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "How do different dynamic circuit cutting strategies (e.g., based on entanglement cost, classical communication) perform under given latency constraints for distributed quantum computing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "What is the mathematical or simulation-based model for the combined system cost (e.g., total resource consumption, end-to-end fidelity) when integrating a specific distillation protocol with a specific circuit cutting strategy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "What is the mathematical or simulation-based model for the combined system cost (e.g., total resource consumption, end-to-end fidelity) when integrating a specific distillation protocol with a specific circuit cutting strategy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "Given heterogeneous noise and latency constraints, what is the optimal decision policy (e.g., rules, thresholds) for choosing when to distill versus when to cut and communicate in a distributed computation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "Given heterogeneous noise and latency constraints, what is the optimal decision policy (e.g., rules, thresholds) for choosing when to distill versus when to cut and communicate in a distributed computation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "How does the performance of the optimized cross-layer system scale with key parameters like the number of distributed nodes, circuit depth, and the severity of the heterogeneous noise?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:34:58.047Z** - Topic: `"Cross-layer optimization of entanglement distillation protocols and dynamic circuit cutting for distributed quantum computing under heterogeneous noise models and latency constraints"` - Query: "How does the performance of the optimized cross-layer system scale with key parameters like the number of distributed nodes, circuit depth, and the severity of the heterogeneous noise?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
