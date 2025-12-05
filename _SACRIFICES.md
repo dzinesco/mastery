@@ -30457,3 +30457,1743 @@
 ⚰️  **2025-12-05T02:40:33.410Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What empirical evidence exists regarding the performance trade-offs between balanced and unbalanced optimal transport methods on standard domain adaptation benchmarks?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T02:45:03.817Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics (e.g., latency, throughput, load balancing) for evaluating routing algorithms in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics (e.g., latency, throughput, load balancing) for evaluating routing algorithms in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do existing routing algorithms (e.g., top-k gating, hash-based routing) handle dynamic changes in token allocation and expert capacity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do existing routing algorithms (e.g., top-k gating, hash-based routing) handle dynamic changes in token allocation and expert capacity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the computational and memory overhead trade-offs associated with implementing dynamic token allocation in routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the computational and memory overhead trade-offs associated with implementing dynamic token allocation in routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How can routing algorithms be designed to minimize communication costs in distributed mixture-of-experts systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How can routing algorithms be designed to minimize communication costs in distributed mixture-of-experts systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What machine learning or optimization techniques can be used to adapt routing decisions in real-time based on token characteristics and system state?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:03.818Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What machine learning or optimization techniques can be used to adapt routing decisions in real-time based on token characteristics and system state?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific mechanisms of competitive-cooperative gradient dynamics lead to the emergence of distinct roles in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific mechanisms of competitive-cooperative gradient dynamics lead to the emergence of distinct roles in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does adaptive credit assignment influence the stability and efficiency of role allocation among agents in a transformer-based multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does adaptive credit assignment influence the stability and efficiency of role allocation among agents in a transformer-based multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the measurable indicators or metrics of emergent specialization in multi-agent transformer systems during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the measurable indicators or metrics of emergent specialization in multi-agent transformer systems during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do variations in system architecture (e.g., number of agents, transformer size) affect the patterns of role allocation via the proposed gradient dynamics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do variations in system architecture (e.g., number of agents, transformer size) affect the patterns of role allocation via the proposed gradient dynamics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "In what ways does the competitive-cooperative framework differ from purely cooperative or purely competitive approaches in fostering useful specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:04.434Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "In what ways does the competitive-cooperative framework differ from purely cooperative or purely competitive approaches in fostering useful specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.732Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What is the mathematical formulation of unbalanced optimal transport, and how does it differ from standard optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What is the mathematical formulation of unbalanced optimal transport, and how does it differ from standard optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching in domain adaptation allow for handling source and target domains with different label spaces or distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching in domain adaptation allow for handling source and target domains with different label spaces or distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific algorithms or methods that combine unbalanced optimal transport with partial matching for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific algorithms or methods that combine unbalanced optimal transport with partial matching for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key advantages and limitations of using unbalanced optimal transport with partial matching compared to other domain adaptation approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key advantages and limitations of using unbalanced optimal transport with partial matching compared to other domain adaptation approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "In which practical applications or datasets has domain adaptation with unbalanced optimal transport and partial matching been successfully applied?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:07.733Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "In which practical applications or datasets has domain adaptation with unbalanced optimal transport and partial matching been successfully applied?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.873Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.873Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.873Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures assign tokens to experts compared to dynamic allocation methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures assign tokens to experts compared to dynamic allocation methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in performance and computational overhead between static and dynamic token allocation in MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in performance and computational overhead between static and dynamic token allocation in MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics are commonly used to measure computational efficiency in MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics are commonly used to measure computational efficiency in MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard benchmark metrics used to evaluate the quality and accuracy of routing decisions in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:24.874Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard benchmark metrics used to evaluate the quality and accuracy of routing decisions in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.035Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the spontaneous development of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.035Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the spontaneous development of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.035Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative objectives interact and influence the learning dynamics in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.035Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative objectives interact and influence the learning dynamics in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.035Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the specific algorithmic approaches (e.g., difference rewards, counterfactual baselines) for adaptive credit assignment that enable effective role allocation in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.035Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the specific algorithmic approaches (e.g., difference rewards, counterfactual baselines) for adaptive credit assignment that enable effective role allocation in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.036Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the self-attention mechanism in transformers facilitate or constrain the emergence of specialization and role allocation among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.036Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the self-attention mechanism in transformers facilitate or constrain the emergence of specialization and role allocation among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.036Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical metrics or experimental setups are used to measure and validate emergent specialization and the effectiveness of credit assignment in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.036Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical metrics or experimental setups are used to measure and validate emergent specialization and the effectiveness of credit assignment in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.519Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms currently considered state-of-the-art for domain adaptation using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms currently considered state-of-the-art for domain adaptation using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent unbalanced optimal transport methods for domain adaptation compare in performance on standard benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent unbalanced optimal transport methods for domain adaptation compare in performance on standard benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary differences in objective functions and constraints between partial matching and traditional balanced optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary differences in objective functions and constraints between partial matching and traditional balanced optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching handle source and target domain distribution mismatches differently from traditional optimal transport approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.520Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching handle source and target domain distribution mismatches differently from traditional optimal transport approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.521Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define the partial constraints in unbalanced optimal transport for domain adaptation problems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:26.521Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define the partial constraints in unbalanced optimal transport for domain adaptation problems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How does dynamic token allocation in MoE architectures adjust expert selection per token during inference or training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How does dynamic token allocation in MoE architectures adjust expert selection per token during inference or training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How does static token allocation in MoE architectures pre-assign tokens to experts compared to dynamic approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How does static token allocation in MoE architectures pre-assign tokens to experts compared to dynamic approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key computational efficiency metrics used to evaluate MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key computational efficiency metrics used to evaluate MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key model performance metrics used to evaluate the effectiveness of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:43.312Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key model performance metrics used to evaluate the effectiveness of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.575Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define unbalanced optimal transport for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define unbalanced optimal transport for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do domain adaptation methods using unbalanced optimal transport handle label distributions between source and target domains?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do domain adaptation methods using unbalanced optimal transport handle label distributions between source and target domains?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithmic differences between partial matching and traditional optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithmic differences between partial matching and traditional optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "Which real-world applications have successfully implemented domain adaptation with unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "Which real-world applications have successfully implemented domain adaptation with unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What benchmark datasets and evaluation metrics are commonly used to assess domain adaptation methods using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:45.576Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What benchmark datasets and evaluation metrics are commonly used to assess domain adaptation methods using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.583Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in transformer-based multi-agent systems lead to the emergence of distinct, specialized behaviors among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.583Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in transformer-based multi-agent systems lead to the emergence of distinct, specialized behaviors among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.583Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient signals from competitive objectives (e.g., individual rewards) and cooperative objectives (e.g., team rewards) interact during training to shape distinct agent roles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.583Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient signals from competitive objectives (e.g., individual rewards) and cooperative objectives (e.g., team rewards) interact during training to shape distinct agent roles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.583Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific credit assignment algorithms (e.g., counterfactual baselines, difference rewards, attention-based methods) improve learning efficiency and role stability in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.584Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific credit assignment algorithms (e.g., counterfactual baselines, difference rewards, attention-based methods) improve learning efficiency and role stability in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.584Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the transformer's attention mechanism itself (e.g., inter-agent attention patterns) facilitate or hinder the process of emergent specialization and role allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.584Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the transformer's attention mechanism itself (e.g., inter-agent attention patterns) facilitate or hinder the process of emergent specialization and role allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.584Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What environmental or task characteristics (e.g., reward structure, observation space, required skills) are necessary or sufficient to trigger stable emergent specialization in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:45:49.584Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What environmental or task characteristics (e.g., reward structure, observation space, required skills) are necessary or sufficient to trigger stable emergent specialization in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.936Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations currently considered state-of-the-art for routing tokens in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations currently considered state-of-the-art for routing tokens in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models optimize computational resources (e.g., FLOPs, memory) during inference and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models optimize computational resources (e.g., FLOPs, memory) during inference and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What is the impact of dynamic token allocation strategies on key model performance metrics like accuracy, perplexity, or task-specific scores in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What is the impact of dynamic token allocation strategies on key model performance metrics like accuracy, perplexity, or task-specific scores in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics (e.g., load balancing score, expert utilization rate, routing decision time) are primarily used to assess the efficiency of routing algorithms in MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics (e.g., load balancing score, expert utilization rate, routing decision time) are primarily used to assess the efficiency of routing algorithms in MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How are trade-offs between computational efficiency and model performance formally evaluated or measured when comparing different MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:00.937Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How are trade-offs between computational efficiency and model performance formally evaluated or measured when comparing different MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.806Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.806Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.806Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent unbalanced optimal transport methods for domain adaptation compare in performance on standard benchmark datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.806Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent unbalanced optimal transport methods for domain adaptation compare in performance on standard benchmark datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.806Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the defining characteristics and mathematical formulations that distinguish partial matching from full matching in optimal transport for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.806Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the defining characteristics and mathematical formulations that distinguish partial matching from full matching in optimal transport for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.807Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific computational challenges arise when implementing unbalanced optimal transport methods for domain adaptation in terms of scalability and optimization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.807Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific computational challenges arise when implementing unbalanced optimal transport methods for domain adaptation in terms of scalability and optimization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.807Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the core theoretical results and convergence guarantees for unbalanced optimal transport when applied to domain adaptation problems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:04.807Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the core theoretical results and convergence guarantees for unbalanced optimal transport when applied to domain adaptation problems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.827Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the development of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the development of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative objectives interact and influence the learning dynamics in a transformer-based multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative objectives interact and influence the learning dynamics in a transformer-based multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic methods (e.g., difference rewards, counterfactual baselines) can effectively assign credit to individual agents' actions in a transformer-based multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic methods (e.g., difference rewards, counterfactual baselines) can effectively assign credit to individual agents' actions in a transformer-based multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the self-attention mechanism within transformer agents facilitate or constrain the emergence of role specialization during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the self-attention mechanism within transformer agents facilitate or constrain the emergence of role specialization during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical metrics or experimental setups are used to measure and validate the effectiveness of role allocation and specialization in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:08.828Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical metrics or experimental setups are used to measure and validate the effectiveness of role allocation and specialization in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.796Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations for routing tokens to experts in current state-of-the-art mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.796Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations for routing tokens to experts in current state-of-the-art mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms determine which experts receive which tokens during forward passes in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation mechanisms determine which experts receive which tokens during forward passes in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to assess the computational efficiency of routing algorithms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to assess the computational efficiency of routing algorithms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary metrics used to evaluate the accuracy and model quality impact of different routing algorithms in MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary metrics used to evaluate the accuracy and model quality impact of different routing algorithms in MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance the trade-off between load balancing across experts and maintaining token-to-expert affinity in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:16.797Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance the trade-off between load balancing across experts and maintaining token-to-expert affinity in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for domain adaptation using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for domain adaptation using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do existing methods handle mass variation between source and target domains in unbalanced optimal transport for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do existing methods handle mass variation between source and target domains in unbalanced optimal transport for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational approaches and optimization techniques used in unbalanced optimal transport-based domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational approaches and optimization techniques used in unbalanced optimal transport-based domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching in optimal transport differ from full matching in terms of theoretical constraints and matching mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching in optimal transport differ from full matching in terms of theoretical constraints and matching mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.002Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the practical implications and performance differences between partial and full matching in domain adaptation applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:28.003Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the practical implications and performance differences between partial and full matching in domain adaptation applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.017Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in transformer-based multi-agent systems lead to the emergence of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.017Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in transformer-based multi-agent systems lead to the emergence of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradients interact during training in multi-agent transformer systems, and what measurable effects do they have on agent specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradients interact during training in multi-agent transformer systems, and what measurable effects do they have on agent specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical evidence exists for the effectiveness of different credit assignment algorithms (e.g., difference rewards, counterfactual baselines, attention-based methods) in facilitating stable role allocation in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical evidence exists for the effectiveness of different credit assignment algorithms (e.g., difference rewards, counterfactual baselines, attention-based methods) in facilitating stable role allocation in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the emergent communication protocols or attention patterns within a multi-agent transformer system correlate with the development of agent specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the emergent communication protocols or attention patterns within a multi-agent transformer system correlate with the development of agent specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the practical trade-offs between centralized, decentralized, and hybrid credit assignment mechanisms for role allocation in terms of scalability, stability, and specialization quality in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:30.018Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the practical trade-offs between centralized, decentralized, and hybrid credit assignment mechanisms for role allocation in terms of scalability, stability, and specialization quality in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.456Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures determine expert assignment, and what are their limitations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures determine expert assignment, and what are their limitations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures adapt expert assignment during inference, and what advantages do they offer?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures adapt expert assignment during inference, and what advantages do they offer?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key computational efficiency metrics (e.g., FLOPs, latency, throughput) used to evaluate MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key computational efficiency metrics (e.g., FLOPs, latency, throughput) used to evaluate MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key model quality metrics (e.g., accuracy, perplexity, convergence) used to evaluate the effectiveness of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:35.457Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key model quality metrics (e.g., accuracy, perplexity, convergence) used to evaluate the effectiveness of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the mathematical formulations and algorithms for domain adaptation using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the mathematical formulations and algorithms for domain adaptation using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do existing unbalanced optimal transport techniques handle label shift or class imbalance in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do existing unbalanced optimal transport techniques handle label shift or class imbalance in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key differences between partial matching and full matching in terms of optimal transport cost and matching constraints?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key differences between partial matching and full matching in terms of optimal transport cost and matching constraints?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial and full matching approaches differ in their handling of outlier samples or unmatched mass in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial and full matching approaches differ in their handling of outlier samples or unmatched mass in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.522Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational complexity and scalability limitations of unbalanced optimal transport algorithms for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:47.523Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational complexity and scalability limitations of unbalanced optimal transport algorithms for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training protocols in multi-agent transformer systems lead to the spontaneous formation of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training protocols in multi-agent transformer systems lead to the spontaneous formation of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from self-interested objectives) and cooperative gradients (e.g., from team rewards) interact mathematically to determine which agent adopts which role in a task?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from self-interested objectives) and cooperative gradients (e.g., from team rewards) interact mathematically to determine which agent adopts which role in a task?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific algorithms or mechanisms (e.g., difference rewards, counterfactual baselines, attention-based methods) can dynamically and fairly assign credit for team outcomes to individual agents in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific algorithms or mechanisms (e.g., difference rewards, counterfactual baselines, attention-based methods) can dynamically and fairly assign credit for team outcomes to individual agents in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the properties of the transformer architecture (e.g., attention, layer normalization, feed-forward networks) specifically facilitate or hinder the emergence of specialization compared to other neural network architectures in multi-agent settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the properties of the transformer architecture (e.g., attention, layer normalization, feed-forward networks) specifically facilitate or hinder the emergence of specialization compared to other neural network architectures in multi-agent settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What environmental or task characteristics (e.g., reward structure, observation space, communication channels) are necessary or sufficient to promote stable and efficient emergent specialization in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:52.189Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What environmental or task characteristics (e.g., reward structure, observation space, communication channels) are necessary or sufficient to promote stable and efficient emergent specialization in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms and their core mechanisms currently considered state-of-the-art for routing tokens to experts in Mixture-of-Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms and their core mechanisms currently considered state-of-the-art for routing tokens to experts in Mixture-of-Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically optimize computational resources (e.g., FLOPs, memory) during inference or training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically optimize computational resources (e.g., FLOPs, memory) during inference or training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically impact key model performance metrics like accuracy, perplexity, or task-specific scores?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE models specifically impact key model performance metrics like accuracy, perplexity, or task-specific scores?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary quantitative metrics (e.g., expert load balance, routing decision time, communication cost) used to evaluate the efficiency of a routing algorithm in an MoE system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary quantitative metrics (e.g., expert load balance, routing decision time, communication cost) used to evaluate the efficiency of a routing algorithm in an MoE system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key qualitative or system-level trade-offs (e.g., between load balancing and model quality, or between algorithm complexity and scalability) considered when evaluating routing algorithms for MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:46:55.091Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key qualitative or system-level trade-offs (e.g., between load balancing and model quality, or between algorithm complexity and scalability) considered when evaluating routing algorithms for MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.808Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.808Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.808Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching, as a concept within optimal transport, mitigate issues of domain shift in machine learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.808Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching, as a concept within optimal transport, mitigate issues of domain shift in machine learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.809Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the standard mathematical definitions and formulations of unbalanced optimal transport used in domain adaptation literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.809Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the standard mathematical definitions and formulations of unbalanced optimal transport used in domain adaptation literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.809Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary advantages and limitations of applying unbalanced optimal transport over balanced optimal transport in domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.809Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary advantages and limitations of applying unbalanced optimal transport over balanced optimal transport in domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.809Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent domain adaptation methods incorporating unbalanced optimal transport perform on standard benchmarks compared to other adaptation techniques?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:06.809Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent domain adaptation methods incorporating unbalanced optimal transport perform on standard benchmarks compared to other adaptation techniques?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.996Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications in transformer-based multi-agent systems lead to the emergence of specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.996Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications in transformer-based multi-agent systems lead to the emergence of specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients affect role differentiation among agents in shared transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients affect role differentiation among agents in shared transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do cooperative gradients influence the stability and efficiency of role allocation in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do cooperative gradients influence the stability and efficiency of role allocation in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What gradient-based credit assignment methods enable effective attribution of rewards to individual agents in transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What gradient-based credit assignment methods enable effective attribution of rewards to individual agents in transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What non-gradient-based adaptive credit assignment techniques are suitable for multi-agent transformer systems and how do they compare?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:09.997Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What non-gradient-based adaptive credit assignment techniques are suitable for multi-agent transformer systems and how do they compare?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens to experts in mixture-of-experts models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies determine expert assignment during inference compared to static routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies determine expert assignment during inference compared to static routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to assess the computational efficiency of routing algorithms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to assess the computational efficiency of routing algorithms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary differences in how dynamic and static routing methods handle expert selection and token distribution?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.826Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary differences in how dynamic and static routing methods handle expert selection and token distribution?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.827Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current state-of-the-art routing algorithms balance load distribution across experts while maintaining model quality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:13.827Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current state-of-the-art routing algorithms balance load distribution across experts while maintaining model quality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for unbalanced optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for unbalanced optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching techniques in optimal transport handle domain shift when source and target distributions have different supports?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching techniques in optimal transport handle domain shift when source and target distributions have different supports?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific advantages of combining unbalanced optimal transport with partial matching constraints compared to balanced OT methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific advantages of combining unbalanced optimal transport with partial matching constraints compared to balanced OT methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.386Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational challenges and solutions for implementing unbalanced optimal transport with partial matching in practical domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.387Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational challenges and solutions for implementing unbalanced optimal transport with partial matching in practical domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.387Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current methods evaluate the performance of domain adaptation approaches using unbalanced optimal transport with partial matching on benchmark datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:26.387Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current methods evaluate the performance of domain adaptation approaches using unbalanced optimal transport with partial matching on benchmark datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.354Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations in current state-of-the-art routing methods for MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.354Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations in current state-of-the-art routing methods for MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.354Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods optimize computational resources (e.g., FLOPs, memory usage) during inference and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.354Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods optimize computational resources (e.g., FLOPs, memory usage) during inference and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.354Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What is the impact of different routing strategies on model performance metrics (e.g., accuracy, perplexity) in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.354Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What is the impact of different routing strategies on model performance metrics (e.g., accuracy, perplexity) in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.355Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics (e.g., load balancing score, expert utilization rate, routing decision latency) are commonly used to assess routing algorithm efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.355Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics (e.g., load balancing score, expert utilization rate, routing decision latency) are commonly used to assess routing algorithm efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.355Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing algorithms handle trade-offs between computational efficiency and model quality in different application scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:31.355Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing algorithms handle trade-offs between computational efficiency and model quality in different application scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components in multi-agent transformers (e.g., attention heads, feed-forward layers, parameter sharing schemes) are empirically observed to develop specialized functions across agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components in multi-agent transformers (e.g., attention heads, feed-forward layers, parameter sharing schemes) are empirically observed to develop specialized functions across agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient signals from competitive versus cooperative objectives interact during training in transformer-based multi-agent systems, and what measurable effects do they have on agent behavior?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient signals from competitive versus cooperative objectives interact during training in transformer-based multi-agent systems, and what measurable effects do they have on agent behavior?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the comparative performance metrics of different credit assignment methods (e.g., difference rewards, counterfactual baselines, attention-based attribution) in promoting stable role allocation in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the comparative performance metrics of different credit assignment methods (e.g., difference rewards, counterfactual baselines, attention-based attribution) in promoting stable role allocation in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What experimental setups or environmental conditions (e.g., task complexity, reward structure, agent count) are necessary to observe emergent specialization in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What experimental setups or environmental conditions (e.g., task complexity, reward structure, agent count) are necessary to observe emergent specialization in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do learned communication protocols or attention patterns in transformer-based multi-agent systems correlate with the emergence and stability of specialized roles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:33.158Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do learned communication protocols or attention patterns in transformer-based multi-agent systems correlate with the emergence and stability of specialized roles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.724Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific algorithms and techniques constitute the current state-of-the-art for domain adaptation using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.725Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific algorithms and techniques constitute the current state-of-the-art for domain adaptation using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.725Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do performance metrics and benchmarks compare among leading unbalanced optimal transport methods for domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.725Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do performance metrics and benchmarks compare among leading unbalanced optimal transport methods for domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.725Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key differences in mathematical formulation between partial matching and traditional optimal transport in domain adaptation contexts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.726Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key differences in mathematical formulation between partial matching and traditional optimal transport in domain adaptation contexts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.726Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching approaches handle source-target domain mismatches differently from traditional optimal transport methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.726Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching approaches handle source-target domain mismatches differently from traditional optimal transport methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.726Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What theoretical properties (e.g., convergence guarantees, regularization effects) distinguish unbalanced optimal transport from balanced optimal transport in machine learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:47.726Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What theoretical properties (e.g., convergence guarantees, regularization effects) distinguish unbalanced optimal transport from balanced optimal transport in machine learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key characteristics and performance benchmarks of the top-performing routing algorithms (e.g., Switch Transformer, GShard, BASE layers) for mixture-of-experts models as of the latest research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key characteristics and performance benchmarks of the top-performing routing algorithms (e.g., Switch Transformer, GShard, BASE layers) for mixture-of-experts models as of the latest research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures determine expert assignment, and what are their main limitations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures determine expert assignment, and what are their main limitations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific mechanisms and decision criteria used by dynamic token allocation approaches in MoE architectures to route tokens during inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific mechanisms and decision criteria used by dynamic token allocation approaches in MoE architectures to route tokens during inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard evaluation metrics (e.g., model quality, computational efficiency, load balancing) used to assess routing algorithm performance in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the standard evaluation metrics (e.g., model quality, computational efficiency, load balancing) used to assess routing algorithm performance in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms compare in terms of trade-offs between expert specialization, token routing overhead, and system throughput?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:49.972Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms compare in terms of trade-offs between expert specialization, token routing overhead, and system throughput?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.878Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the spontaneous development of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the spontaneous development of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from self-interested objectives) and cooperative gradients (e.g., from team rewards) interact mathematically to determine which agent learns which role in a task?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from self-interested objectives) and cooperative gradients (e.g., from team rewards) interact mathematically to determine which agent learns which role in a task?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific metrics or signals (e.g., contribution estimates, attention patterns, gradient similarities) can be used to dynamically assign credit to individual agents in a transformer-based multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific metrics or signals (e.g., contribution estimates, attention patterns, gradient similarities) can be used to dynamically assign credit to individual agents in a transformer-based multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the communication mechanisms (e.g., attention weights, token generation) in a multi-agent transformer system facilitate or constrain the process of emergent specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.879Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the communication mechanisms (e.g., attention weights, token generation) in a multi-agent transformer system facilitate or constrain the process of emergent specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.880Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic or architectural design principles ensure that credit assignment in a multi-agent transformer system remains stable and effective as the agents' roles and the task environment evolve?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:47:54.880Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic or architectural design principles ensure that credit assignment in a multi-agent transformer system remains stable and effective as the agents' roles and the task environment evolve?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific algorithmic methods (e.g., named models or frameworks) that implement domain adaptation using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific algorithmic methods (e.g., named models or frameworks) that implement domain adaptation using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching, as a concept within unbalanced optimal transport, specifically alter the coupling constraints compared to traditional balanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching, as a concept within unbalanced optimal transport, specifically alter the coupling constraints compared to traditional balanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What theoretical properties (e.g., convergence guarantees, metric properties) underpin unbalanced optimal transport and make it suitable for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What theoretical properties (e.g., convergence guarantees, metric properties) underpin unbalanced optimal transport and make it suitable for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "In what practical domain adaptation scenarios (e.g., specific datasets or problem types) is unbalanced optimal transport most commonly or effectively applied?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "In what practical domain adaptation scenarios (e.g., specific datasets or problem types) is unbalanced optimal transport most commonly or effectively applied?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do computational implementations and complexity of unbalanced optimal transport methods compare to traditional optimal transport for domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:07.649Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do computational implementations and complexity of unbalanced optimal transport methods compare to traditional optimal transport for domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific names and core mechanisms of the most recent state-of-the-art routing algorithms for MoE models (e.g., Top-K, Expert Choice, BASE, etc.)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific names and core mechanisms of the most recent state-of-the-art routing algorithms for MoE models (e.g., Top-K, Expert Choice, BASE, etc.)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms (e.g., token-level vs. expert-level) manage the dynamic allocation of tokens to experts during inference and training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms (e.g., token-level vs. expert-level) manage the dynamic allocation of tokens to experts during inference and training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key computational and performance metrics (e.g., load balancing, throughput, latency) used to evaluate the efficiency of routing in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key computational and performance metrics (e.g., load balancing, throughput, latency) used to evaluate the efficiency of routing in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the comparative advantages and limitations of current routing algorithms in terms of scalability and model quality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the comparative advantages and limitations of current routing algorithms in terms of scalability and model quality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing algorithms for MoE models optimize for both expert specialization and balanced computational load across devices?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:10.116Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do routing algorithms for MoE models optimize for both expert specialization and balanced computational load across devices?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training procedures in transformer-based multi-agent systems lead to the emergence of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training procedures in transformer-based multi-agent systems lead to the emergence of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradients interact during training in multi-agent transformer systems, and what empirical patterns emerge from this interaction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradients interact during training in multi-agent transformer systems, and what empirical patterns emerge from this interaction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What measurable criteria determine the effectiveness of different credit assignment algorithms (e.g., difference rewards, counterfactual baselines) in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What measurable criteria determine the effectiveness of different credit assignment algorithms (e.g., difference rewards, counterfactual baselines) in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do emergent specializations correlate with changes in the agents' internal representations (e.g., attention patterns, hidden states) within the transformer architecture?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do emergent specializations correlate with changes in the agents' internal representations (e.g., attention patterns, hidden states) within the transformer architecture?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.653Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What is the relationship between the scale of the transformer model (parameters, layers) and the complexity or stability of the emergent role allocation in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:18.654Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What is the relationship between the scale of the transformer model (parameters, layers) and the complexity or stability of the emergent role allocation in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.247Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their key characteristics in current state-of-the-art MoE routing methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.247Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their key characteristics in current state-of-the-art MoE routing methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.247Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different MoE routing algorithms handle the assignment of input tokens to expert networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.247Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different MoE routing algorithms handle the assignment of input tokens to expert networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.248Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What mechanisms enable dynamic token allocation in MoE architectures, and how do they differ from static allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.248Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What mechanisms enable dynamic token allocation in MoE architectures, and how do they differ from static allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.248Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary efficiency metrics used to evaluate MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.248Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary efficiency metrics used to evaluate MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.248Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key trade-offs between computational efficiency, model performance, and implementation complexity in MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:25.248Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key trade-offs between computational efficiency, model performance, and implementation complexity in MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for unbalanced optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for unbalanced optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching approaches differ from full matching in domain adaptation, and what are their specific advantages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching approaches differ from full matching in domain adaptation, and what are their specific advantages?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary performance metrics and benchmark datasets used to evaluate domain adaptation methods using unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary performance metrics and benchmark datasets used to evaluate domain adaptation methods using unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How are partial matching constraints mathematically integrated into unbalanced optimal transport frameworks for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How are partial matching constraints mathematically integrated into unbalanced optimal transport frameworks for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational complexities and practical implementation challenges of combining unbalanced optimal transport with partial matching?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:27.497Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational complexities and practical implementation challenges of combining unbalanced optimal transport with partial matching?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.638Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific architectural designs in multi-agent transformer systems have been documented to produce emergent specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific architectural designs in multi-agent transformer systems have been documented to produce emergent specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradient dynamics manifest in multi-agent reinforcement learning environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradient dynamics manifest in multi-agent reinforcement learning environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the mathematical frameworks used to model competitive-cooperative gradient dynamics in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the mathematical frameworks used to model competitive-cooperative gradient dynamics in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic approaches exist for adaptive credit assignment in multi-agent role allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic approaches exist for adaptive credit assignment in multi-agent role allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do different adaptive credit assignment methods compare in terms of scalability and convergence properties?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:37.639Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do different adaptive credit assignment methods compare in terms of scalability and convergence properties?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models in machine learning literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models in machine learning literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures determine expert assignment, and what are their computational characteristics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do static token allocation methods in MoE architectures determine expert assignment, and what are their computational characteristics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key mechanisms and decision processes involved in dynamic token allocation for MoE architectures compared to static approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key mechanisms and decision processes involved in dynamic token allocation for MoE architectures compared to static approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics (e.g., throughput, latency, FLOPs) are commonly used to measure computational efficiency in MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics (e.g., throughput, latency, FLOPs) are commonly used to measure computational efficiency in MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which qualitative or model performance metrics (e.g., accuracy, expert utilization, load balancing) are used to evaluate the effectiveness of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:41.452Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which qualitative or model performance metrics (e.g., accuracy, expert utilization, load balancing) are used to evaluate the effectiveness of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and techniques currently considered state-of-the-art for domain adaptation that utilize unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and techniques currently considered state-of-the-art for domain adaptation that utilize unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do traditional optimal transport approaches for domain adaptation handle class imbalance and distribution shifts compared to unbalanced optimal transport methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do traditional optimal transport approaches for domain adaptation handle class imbalance and distribution shifts compared to unbalanced optimal transport methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific advantages does partial matching provide over complete matching in domain adaptation scenarios with label mismatches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific advantages does partial matching provide over complete matching in domain adaptation scenarios with label mismatches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the mathematical formulations for the Kantorovich formulation of unbalanced optimal transport with entropy regularization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the mathematical formulations for the Kantorovich formulation of unbalanced optimal transport with entropy regularization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How are partial matching constraints mathematically incorporated into unbalanced optimal transport frameworks for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:48:47.964Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How are partial matching constraints mathematically incorporated into unbalanced optimal transport frameworks for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.919Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the emergence of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.919Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or training procedures in multi-agent transformer systems lead to the emergence of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.919Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient updates from competitive and cooperative objectives interact and shape the learning dynamics in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.919Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient updates from competitive and cooperative objectives interact and shape the learning dynamics in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.920Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic methods (e.g., difference rewards, counterfactual baselines) enable effective credit assignment for role allocation in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.920Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What algorithmic methods (e.g., difference rewards, counterfactual baselines) enable effective credit assignment for role allocation in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.920Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do environmental factors (e.g., task structure, reward sparsity) influence the emergence of specialization in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.920Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do environmental factors (e.g., task structure, reward sparsity) influence the emergence of specialization in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.920Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical evidence or theoretical analyses demonstrate the effectiveness of specific adaptive credit assignment methods in transformer-based multi-agent role allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:01.920Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What empirical evidence or theoretical analyses demonstrate the effectiveness of specific adaptive credit assignment methods in transformer-based multi-agent role allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.043Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models in the literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms specifically designed for Mixture of Experts (MoE) models in the literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies in MoE models adjust expert assignment during inference or training, compared to static allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies in MoE models adjust expert assignment during inference or training, compared to static allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to evaluate the efficiency of routing mechanisms in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to evaluate the efficiency of routing mechanisms in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the trade-offs between load balancing and computational efficiency in current MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the trade-offs between load balancing and computational efficiency in current MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms (e.g., top-k, hash-based, learned routers) impact model accuracy and inference latency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:02.044Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms (e.g., top-k, hash-based, learned routers) impact model accuracy and inference latency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.495Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for domain adaptation using unbalanced optimal transport (UOT)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and algorithms for domain adaptation using unbalanced optimal transport (UOT)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current UOT-based domain adaptation methods handle label shift and class imbalance between source and target domains?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current UOT-based domain adaptation methods handle label shift and class imbalance between source and target domains?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mechanisms in partial matching allow for selective pairing of samples compared to full matching in OT-based domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mechanisms in partial matching allow for selective pairing of samples compared to full matching in OT-based domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What empirical evidence demonstrates performance differences between partial and full matching approaches in domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What empirical evidence demonstrates performance differences between partial and full matching approaches in domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational complexity and scalability limitations of combining UOT with partial matching in practical applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:07.496Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational complexity and scalability limitations of combining UOT with partial matching in practical applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.020Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or modifications in transformer-based multi-agent systems are empirically shown to lead to the emergence of specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or modifications in transformer-based multi-agent systems are empirically shown to lead to the emergence of specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative loss functions interact and influence the parameter updates in a multi-agent transformer model during training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative loss functions interact and influence the parameter updates in a multi-agent transformer model during training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the measurable effects of different credit assignment algorithms (e.g., difference rewards, counterfactual baselines) on the stability and efficiency of role formation in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the measurable effects of different credit assignment algorithms (e.g., difference rewards, counterfactual baselines) on the stability and efficiency of role formation in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the information flow and attention pattern within and between transformer agents correlate with the development of specialized roles in a multi-agent task?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the information flow and attention pattern within and between transformer agents correlate with the development of specialized roles in a multi-agent task?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What training environments or task structures are necessary to observe and study adaptive role allocation in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:21.021Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What training environments or task structures are necessary to observe and study adaptive role allocation in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and their implementations currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures address the challenge of balancing computational load across experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures address the challenge of balancing computational load across experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures ensure that tokens are routed to the most appropriate expert based on learned expertise?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures ensure that tokens are routed to the most appropriate expert based on learned expertise?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary quantitative metrics used to evaluate the computational efficiency of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.228Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary quantitative metrics used to evaluate the computational efficiency of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.229Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary qualitative or task-specific metrics used to evaluate the effectiveness and quality of MoE routing decisions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:23.229Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary qualitative or task-specific metrics used to evaluate the effectiveness and quality of MoE routing decisions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithmic approaches and their performance metrics for domain adaptation using unbalanced optimal transport in recent literature (2020-2024)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithmic approaches and their performance metrics for domain adaptation using unbalanced optimal transport in recent literature (2020-2024)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching methods in optimal transport differ from traditional full matching approaches in terms of theoretical assumptions and practical implementations for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do partial matching methods in optimal transport differ from traditional full matching approaches in terms of theoretical assumptions and practical implementations for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define the unbalanced optimal transport problem with partial matching constraints, including loss functions and regularization terms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define the unbalanced optimal transport problem with partial matching constraints, including loss functions and regularization terms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the comparative advantages and limitations of unbalanced optimal transport with partial matching versus balanced optimal transport methods in domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the comparative advantages and limitations of unbalanced optimal transport with partial matching versus balanced optimal transport methods in domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current implementations of unbalanced optimal transport with partial matching handle domain shift problems in specific applications like computer vision or natural language processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:27.848Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current implementations of unbalanced optimal transport with partial matching handle domain shift problems in specific applications like computer vision or natural language processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.553Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in transformer-based multi-agent systems lead to the emergence of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.553Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in transformer-based multi-agent systems lead to the emergence of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.553Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradients manifest and interact during the training of multi-agent transformer systems, and what are their measurable effects on system performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.553Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive and cooperative gradients manifest and interact during the training of multi-agent transformer systems, and what are their measurable effects on system performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.554Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the key performance metrics and experimental benchmarks used to evaluate the effectiveness of different adaptive credit assignment algorithms in multi-agent role allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.554Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the key performance metrics and experimental benchmarks used to evaluate the effectiveness of different adaptive credit assignment algorithms in multi-agent role allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.554Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do adaptive credit assignment algorithms dynamically adjust reward or gradient distributions among agents to promote stable role specialization in transformer-based systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.554Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do adaptive credit assignment algorithms dynamically adjust reward or gradient distributions among agents to promote stable role specialization in transformer-based systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.554Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the practical implementation challenges and computational trade-offs associated with deploying competitive-cooperative gradient dynamics and adaptive credit assignment in real-world multi-agent transformer applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:41.554Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the practical implementation challenges and computational trade-offs associated with deploying competitive-cooperative gradient dynamics and adaptive credit assignment in real-world multi-agent transformer applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.189Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic designs and mechanisms of the top-performing routing algorithms for MoE models as of the latest research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.189Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic designs and mechanisms of the top-performing routing algorithms for MoE models as of the latest research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.189Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing strategies (e.g., token choice, expert choice, adaptive) manage the allocation of tokens to experts when the number of tokens per batch or sequence is not fixed?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.189Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing strategies (e.g., token choice, expert choice, adaptive) manage the allocation of tokens to experts when the number of tokens per batch or sequence is not fixed?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.189Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key metrics (e.g., FLOPs, memory usage, communication overhead) used to measure computational efficiency in MoE routing, and how do different approaches rank on these metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.189Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key metrics (e.g., FLOPs, memory usage, communication overhead) used to measure computational efficiency in MoE routing, and how do different approaches rank on these metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.190Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary trade-offs between model performance (e.g., accuracy, convergence) and computational costs (e.g., training/inference time, hardware requirements) across various MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.190Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary trade-offs between model performance (e.g., accuracy, convergence) and computational costs (e.g., training/inference time, hardware requirements) across various MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.190Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance load distribution across experts to avoid under-utilization or over-saturation, and what specific techniques are used for this balancing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:42.190Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current routing algorithms balance load distribution across experts to avoid under-utilization or over-saturation, and what specific techniques are used for this balancing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.501Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.501Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.501Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent publications (last 3-5 years) benchmark and compare the performance of unbalanced optimal transport methods against traditional balanced optimal transport in domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.501Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do recent publications (last 3-5 years) benchmark and compare the performance of unbalanced optimal transport methods against traditional balanced optimal transport in domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.502Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "In what specific ways does partial matching in optimal transport allow for handling source and target domain distribution differences compared to complete matching?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.502Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "In what specific ways does partial matching in optimal transport allow for handling source and target domain distribution differences compared to complete matching?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.502Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the practical implications and computational trade-offs when choosing between partial and complete matching strategies in domain adaptation applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.502Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the practical implications and computational trade-offs when choosing between partial and complete matching strategies in domain adaptation applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.502Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What is the mathematical formulation of the Kantorovich problem for unbalanced optimal transport, and how is it adapted for domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:49.502Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What is the mathematical formulation of the Kantorovich problem for unbalanced optimal transport, and how is it adapted for domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.196Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms developed specifically for Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.197Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms developed specifically for Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.197Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies in MoE routing adjust expert selection during inference compared to static routing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.198Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies in MoE routing adjust expert selection during inference compared to static routing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to measure computational efficiency in MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to measure computational efficiency in MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.199Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary differences in expert selection mechanisms between static and dynamic routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.200Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary differences in expert selection mechanisms between static and dynamic routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.200Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current MoE routing algorithms balance load distribution across experts while maintaining model quality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:49:57.200Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current MoE routing algorithms balance load distribution across experts while maintaining model quality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.763Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in multi-agent transformer systems lead to the emergence of distinct, specialized agent behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in multi-agent transformer systems lead to the emergence of distinct, specialized agent behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from adversarial objectives) and cooperative gradients (e.g., from shared rewards) interact to shape which agents adopt which roles in a task?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from adversarial objectives) and cooperative gradients (e.g., from shared rewards) interact to shape which agents adopt which roles in a task?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What role does the transformer's attention mechanism play in facilitating or inhibiting the specialization of individual agents within a multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What role does the transformer's attention mechanism play in facilitating or inhibiting the specialization of individual agents within a multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What gradient-based or reward-shaping methods (e.g., difference rewards, counterfactuals) are most effective for assigning credit in multi-agent transformer systems with emergent specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What gradient-based or reward-shaping methods (e.g., difference rewards, counterfactuals) are most effective for assigning credit in multi-agent transformer systems with emergent specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.764Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the scale (e.g., number of agents, model parameters) of a multi-agent transformer system influence the stability and nature of the emergent role allocation process?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:01.765Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How does the scale (e.g., number of agents, model parameters) of a multi-agent transformer system influence the stability and nature of the emergent role allocation process?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.146Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define unbalanced optimal transport for domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.146Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mathematical formulations define unbalanced optimal transport for domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.146Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do algorithms for unbalanced optimal transport handle mass variation between source and target domains?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.146Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do algorithms for unbalanced optimal transport handle mass variation between source and target domains?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.147Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key differences in optimization objectives between partial matching and traditional optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.147Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key differences in optimization objectives between partial matching and traditional optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.147Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "Which real-world applications have successfully implemented domain adaptation with unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.147Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "Which real-world applications have successfully implemented domain adaptation with unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.147Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What benchmark datasets and performance metrics are commonly used to evaluate unbalanced optimal transport methods in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:09.147Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What benchmark datasets and performance metrics are commonly used to evaluate unbalanced optimal transport methods in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and highest-performing routing algorithms specifically designed for Mixture of Experts (MoE) models as of the current year?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and highest-performing routing algorithms specifically designed for Mixture of Experts (MoE) models as of the current year?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies in MoE routing differ from static routing in terms of their operational mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation strategies in MoE routing differ from static routing in terms of their operational mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to evaluate the computational efficiency of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to evaluate the computational efficiency of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary architectural differences between token-level and expert-level routing approaches in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the primary architectural differences between token-level and expert-level routing approaches in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.838Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different MoE routing algorithms balance the trade-off between model performance and computational cost?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:12.839Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different MoE routing algorithms balance the trade-off between model performance and computational cost?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural or training conditions in multi-agent transformer systems lead to the emergence of distinct, specialized behaviors among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural or training conditions in multi-agent transformer systems lead to the emergence of distinct, specialized behaviors among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from adversarial or zero-sum objectives) influence the differentiation of agent roles in a shared environment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do competitive gradients (e.g., from adversarial or zero-sum objectives) influence the differentiation of agent roles in a shared environment?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do cooperative gradients (e.g., from shared or team objectives) influence the coordination and complementary specialization of agent roles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do cooperative gradients (e.g., from shared or team objectives) influence the coordination and complementary specialization of agent roles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What gradient-based or optimization methods (e.g., role-specific gradients, gradient masking, or population-based training) effectively assign credit for system-level outcomes to individual agents or roles?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What gradient-based or optimization methods (e.g., role-specific gradients, gradient masking, or population-based training) effectively assign credit for system-level outcomes to individual agents or roles?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do adaptive methods for credit assignment (e.g., learned contribution estimators, attention-based credit, or dynamic reward shaping) impact the stability and efficiency of emergent specialization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:24.098Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do adaptive methods for credit assignment (e.g., learned contribution estimators, attention-based credit, or dynamic reward shaping) impact the stability and efficiency of emergent specialization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and theoretical foundations of unbalanced optimal transport (UOT) as applied to domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key mathematical formulations and theoretical foundations of unbalanced optimal transport (UOT) as applied to domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current state-of-the-art methods specifically incorporate unbalanced optimal transport to handle domain shift in machine learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current state-of-the-art methods specifically incorporate unbalanced optimal transport to handle domain shift in machine learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational implementations and algorithmic approaches for solving unbalanced optimal transport problems in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the computational implementations and algorithmic approaches for solving unbalanced optimal transport problems in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.148Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching in optimal transport differ mathematically and practically from traditional balanced optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.149Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching in optimal transport differ mathematically and practically from traditional balanced optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.149Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the performance benchmarks, comparative advantages, and limitations of unbalanced optimal transport methods versus other domain adaptation techniques?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:29.149Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the performance benchmarks, comparative advantages, and limitations of unbalanced optimal transport methods versus other domain adaptation techniques?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms developed specifically for Mixture of Experts (MoE) models in the last 3 years?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the most recent and widely-cited routing algorithms developed specifically for Mixture of Experts (MoE) models in the last 3 years?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures determine expert selection per token during inference, and what are their computational mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE architectures determine expert selection per token during inference, and what are their computational mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "In what ways does static token allocation in MoE architectures pre-assign tokens to experts, and what are its limitations compared to dynamic approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "In what ways does static token allocation in MoE architectures pre-assign tokens to experts, and what are its limitations compared to dynamic approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key quantitative metrics (e.g., load balancing, expert utilization, throughput) used to measure routing efficiency in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key quantitative metrics (e.g., load balancing, expert utilization, throughput) used to measure routing efficiency in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms for MoE models impact model quality metrics such as accuracy, perplexity, or task performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:32.328Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do different routing algorithms for MoE models impact model quality metrics such as accuracy, perplexity, or task performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in multi-agent transformer systems lead to the development of distinct, non-overlapping agent capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural modifications or training protocols in multi-agent transformer systems lead to the development of distinct, non-overlapping agent capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative loss functions interact and update the parameters of transformer agents during joint training?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do the gradients from competitive and cooperative loss functions interact and update the parameters of transformer agents during joint training?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the measurable effects of competitive-cooperative dynamics on the emergent communication protocols or policy diversity in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What are the measurable effects of competitive-cooperative dynamics on the emergent communication protocols or policy diversity in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "Which algorithmic frameworks (e.g., difference rewards, counterfactual baselines, attention-based methods) successfully attribute global outcomes to individual transformer agents' actions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "Which algorithmic frameworks (e.g., difference rewards, counterfactual baselines, attention-based methods) successfully attribute global outcomes to individual transformer agents' actions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do different credit assignment algorithms impact the stability and efficiency of role formation and specialization over time in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:43.123Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do different credit assignment algorithms impact the stability and efficiency of role formation and specialization over time in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.883Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and techniques currently considered state-of-the-art for domain adaptation that utilize unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and techniques currently considered state-of-the-art for domain adaptation that utilize unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do traditional optimal transport methods handle domain adaptation when source and target distributions have different total masses?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do traditional optimal transport methods handle domain adaptation when source and target distributions have different total masses?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mechanisms and advantages does partial matching provide compared to full matching in domain adaptation scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What specific mechanisms and advantages does partial matching provide compared to full matching in domain adaptation scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What mathematical formulations exist for imposing partial matching constraints within unbalanced optimal transport frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What mathematical formulations exist for imposing partial matching constraints within unbalanced optimal transport frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current methods integrate unbalanced optimal transport with partial matching, and what are their computational implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:47.884Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current methods integrate unbalanced optimal transport with partial matching, and what are their computational implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.899Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and architectures currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithmic approaches and architectures currently considered state-of-the-art for routing tokens to experts in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE systems address the challenge of balancing computational load across experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE systems address the challenge of balancing computational load across experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE systems ensure that tokens are routed to the most appropriate expert based on expertise?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do dynamic token allocation methods in MoE systems ensure that tokens are routed to the most appropriate expert based on expertise?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to evaluate the computational efficiency of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key performance metrics used to evaluate the computational efficiency of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key quality metrics used to evaluate the effectiveness and accuracy of MoE routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:50:49.900Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key quality metrics used to evaluate the effectiveness and accuracy of MoE routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.413Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or modifications in transformer-based multi-agent systems (e.g., attention mechanisms, shared vs. separate parameters) are empirically shown to lead to the emergence of distinct agent roles or specializations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What architectural components or modifications in transformer-based multi-agent systems (e.g., attention mechanisms, shared vs. separate parameters) are empirically shown to lead to the emergence of distinct agent roles or specializations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient signals from competitive and cooperative objectives interact during training in multi-agent transformer architectures, and what mathematical models describe this dynamic?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do gradient signals from competitive and cooperative objectives interact during training in multi-agent transformer architectures, and what mathematical models describe this dynamic?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific credit assignment algorithms (e.g., difference rewards, counterfactual baselines, or attention-based methods) have been tested in transformer-based multi-agent systems, and how do their performance metrics compare?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What specific credit assignment algorithms (e.g., difference rewards, counterfactual baselines, or attention-based methods) have been tested in transformer-based multi-agent systems, and how do their performance metrics compare?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What experimental benchmarks or environments are used to measure and validate emergent specialization and role allocation in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.414Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "What experimental benchmarks or environments are used to measure and validate emergent specialization and role allocation in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.415Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do factors like communication protocols, observation spaces, or reward structures influence the stability and efficiency of adaptive credit assignment in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:03.415Z** - Topic: `"emergent specialization and role allocation in multi-agent transformer systems via competitive-cooperative gradient dynamics and adaptive credit assignment"` - Query: "How do factors like communication protocols, observation spaces, or reward structures influence the stability and efficiency of adaptive credit assignment in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.758Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.758Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the key algorithms and models currently considered state-of-the-art for domain adaptation that specifically utilize unbalanced optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.758Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching, as a concept within optimal transport, differ from traditional matching in addressing domain shift, such as handling outlier samples or class imbalance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How does partial matching, as a concept within optimal transport, differ from traditional matching in addressing domain shift, such as handling outlier samples or class imbalance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific mathematical formulations (e.g., cost functions, divergence terms, constraints) used to define unbalanced optimal transport in domain adaptation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the specific mathematical formulations (e.g., cost functions, divergence terms, constraints) used to define unbalanced optimal transport in domain adaptation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary advantages and limitations of using unbalanced optimal transport over balanced optimal transport in domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "What are the primary advantages and limitations of using unbalanced optimal transport over balanced optimal transport in domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current methods incorporating unbalanced optimal transport for domain adaptation perform on standard benchmarks compared to other adaptation techniques?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:06.759Z** - Topic: `"Domain adaptation with unbalanced optimal transport and partial matching"` - Query: "How do current methods incorporating unbalanced optimal transport for domain adaptation perform on standard benchmarks compared to other adaptation techniques?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.448Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens in Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.448Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the specific algorithms currently considered state-of-the-art for routing tokens in Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.448Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How does dynamic token allocation in MoE architectures determine expert assignment during inference compared to static allocation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.448Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How does dynamic token allocation in MoE architectures determine expert assignment during inference compared to static allocation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.448Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in computational efficiency between dynamic and static token allocation methods in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.448Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "What are the key differences in computational efficiency between dynamic and static token allocation methods in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.449Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics are commonly used to measure the efficiency of token routing algorithms in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.449Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "Which quantitative metrics are commonly used to measure the efficiency of token routing algorithms in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.449Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current state-of-the-art routing algorithms balance load distribution and specialization among experts in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:51:09.449Z** - Topic: `"Efficient routing algorithms for dynamic token allocation in mixture-of-experts models"` - Query: "How do current state-of-the-art routing algorithms balance load distribution and specialization among experts in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
