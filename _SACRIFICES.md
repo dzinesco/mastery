@@ -19069,3 +19069,1143 @@
 ⚰️  **2025-12-05T01:49:08.510Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What architectural choices in multi-agent transformers most directly influence the properties of the emergent communication protocols?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T01:49:30.909Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer models documented in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.909Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer models documented in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different training methodologies (e.g., self-supervised, reinforcement learning) affect the emergence of communication protocols in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different training methodologies (e.g., self-supervised, reinforcement learning) affect the emergence of communication protocols in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists regarding the properties and efficiency of emergent communication in transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists regarding the properties and efficiency of emergent communication in transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the primary applications and performance benchmarks for state-of-the-art transformer-based multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the primary applications and performance benchmarks for state-of-the-art transformer-based multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the identified limitations, challenges, and future research directions for combining transformers with multi-agent architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:30.910Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the identified limitations, challenges, and future research directions for combining transformers with multi-agent architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.967Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural characteristics and components of multi-agent transformer systems in current literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the defining architectural characteristics and components of multi-agent transformer systems in current literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do researchers measure and analyze the development of communication protocols in multi-agent transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do researchers measure and analyze the development of communication protocols in multi-agent transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific self-supervised learning objectives (e.g., contrastive, predictive, reconstruction) are used to facilitate emergent communication in these architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific self-supervised learning objectives (e.g., contrastive, predictive, reconstruction) are used to facilitate emergent communication in these architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented properties (e.g., compositionality, efficiency, generalization) of the protocols that emerge in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented properties (e.g., compositionality, efficiency, generalization) of the protocols that emerge in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different environmental and task structures (e.g., cooperative, competitive, partially observable) influence the emergence of communication in these models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:50.968Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different environmental and task structures (e.g., cooperative, competitive, partially observable) influence the emergence of communication in these models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.757Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the primary vector compression techniques (e.g., product quantization, scalar quantization, residual quantization) used for billion-scale approximate nearest neighbor search, and how do they differ in terms of compression ratio, accuracy, and computational overhead?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.757Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the primary vector compression techniques (e.g., product quantization, scalar quantization, residual quantization) used for billion-scale approximate nearest neighbor search, and how do they differ in terms of compression ratio, accuracy, and computational overhead?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.757Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do quantization-based methods balance the trade-off between search accuracy (recall) and search speed/memory efficiency when scaling to billions of vectors in high-dimensional spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do quantization-based methods balance the trade-off between search accuracy (recall) and search speed/memory efficiency when scaling to billions of vectors in high-dimensional spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What indexing structures (e.g., inverted file indexes, graph-based indexes) are commonly combined with vector quantization to enable efficient billion-scale search, and how do they integrate?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What indexing structures (e.g., inverted file indexes, graph-based indexes) are commonly combined with vector quantization to enable efficient billion-scale search, and how do they integrate?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key implementation challenges and hardware considerations (e.g., memory bandwidth, parallelization) when deploying vector compression and quantization techniques in real-world billion-scale systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key implementation challenges and hardware considerations (e.g., memory bandwidth, parallelization) when deploying vector compression and quantization techniques in real-world billion-scale systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do recent advancements in learned quantization or neural compression methods compare to traditional quantization techniques for billion-scale vector search in terms of performance and adaptability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:49:59.758Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do recent advancements in learned quantization or neural compression methods compare to traditional quantization techniques for billion-scale vector search in terms of performance and adaptability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.457Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the distinct architectural patterns for connecting multiple transformer-based agents in a system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.457Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the distinct architectural patterns for connecting multiple transformer-based agents in a system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.457Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge between agents when trained with self-supervised objectives?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.457Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge between agents when trained with self-supervised objectives?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.457Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific attention mechanisms allow agents to dynamically select which other agents to communicate with?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.458Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific attention mechanisms allow agents to dynamically select which other agents to communicate with?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.458Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do multi-agent transformer architectures differ in their handling of shared versus private parameters?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.458Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do multi-agent transformer architectures differ in their handling of shared versus private parameters?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.458Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists for emergent communication protocols in self-supervised multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:08.458Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical evidence exists for emergent communication protocols in self-supervised multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What is the mathematical formulation of prototype learning in the context of hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What is the mathematical formulation of prototype learning in the context of hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How is optimal transport used to measure or mitigate distribution shift in hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How is optimal transport used to measure or mitigate distribution shift in hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific challenges of applying optimal transport in hyperbolic geometry compared to Euclidean space?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific challenges of applying optimal transport in hyperbolic geometry compared to Euclidean space?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does the proposed method integrate prototype learning with optimal transport to improve robustness under distribution shift?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does the proposed method integrate prototype learning with optimal transport to improve robustness under distribution shift?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What metrics and benchmarks are used to evaluate the performance of this approach on shifted data distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:11.176Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What metrics and benchmarks are used to evaluate the performance of this approach on shifted data distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms and mechanisms used for dynamic token routing in Mixture of Experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms and mechanisms used for dynamic token routing in Mixture of Experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do load balancing techniques in MoE architectures prevent expert underutilization and ensure computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do load balancing techniques in MoE architectures prevent expert underutilization and ensure computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the trade-offs between different token routing strategies (e.g., top-k, noisy top-k, learned routing) in terms of model performance and computational cost?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the trade-offs between different token routing strategies (e.g., top-k, noisy top-k, learned routing) in terms of model performance and computational cost?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do current MoE implementations handle the synchronization and communication overhead when distributing tokens across multiple experts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do current MoE implementations handle the synchronization and communication overhead when distributing tokens across multiple experts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What metrics and evaluation methods are used to assess the effectiveness of token routing and load balancing in MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:15.317Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What metrics and evaluation methods are used to assess the effectiveness of token routing and load balancing in MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.983Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the performance metrics (recall, precision, search speed) of Product Quantization, Scalar Quantization, and Binary Quantization on billion-scale vector datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.983Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the performance metrics (recall, precision, search speed) of Product Quantization, Scalar Quantization, and Binary Quantization on billion-scale vector datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.983Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the compression ratio of each quantization technique correlate with accuracy degradation (measured by recall@k) at billion-scale?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.983Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the compression ratio of each quantization technique correlate with accuracy degradation (measured by recall@k) at billion-scale?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.984Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the memory footprint reductions achieved by each quantization method when applied to billion-scale vector databases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.984Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the memory footprint reductions achieved by each quantization method when applied to billion-scale vector databases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.984Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do computational requirements (indexing time, query processing time, CPU/GPU utilization) differ among quantization techniques in distributed search environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.984Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do computational requirements (indexing time, query processing time, CPU/GPU utilization) differ among quantization techniques in distributed search environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.984Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the implementation challenges and system-level trade-offs (communication overhead, load balancing, scalability) when deploying different quantization methods in distributed vector search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:22.984Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the implementation challenges and system-level trade-offs (communication overhead, load balancing, scalability) when deploying different quantization methods in distributed vector search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What mathematical formulations define optimal transport problems specifically in hyperbolic spaces (e.g., using hyperbolic distances like the Poincaré metric)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What mathematical formulations define optimal transport problems specifically in hyperbolic spaces (e.g., using hyperbolic distances like the Poincaré metric)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How are prototypes defined and learned in hyperbolic embedding models when using optimal transport (e.g., barycenters in hyperbolic space)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How are prototypes defined and learned in hyperbolic embedding models when using optimal transport (e.g., barycenters in hyperbolic space)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What algorithmic implementations exist for computing optimal transport distances or couplings in hyperbolic geometry (e.g., hyperbolic Sinkhorn)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What algorithmic implementations exist for computing optimal transport distances or couplings in hyperbolic geometry (e.g., hyperbolic Sinkhorn)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport measure and mitigate distribution shifts between source and target domains in hyperbolic embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport measure and mitigate distribution shifts between source and target domains in hyperbolic embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical guarantees exist for the convergence or stability of prototype learning with optimal transport in hyperbolic spaces (e.g., generalization bounds)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:32.737Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical guarantees exist for the convergence or stability of prototype learning with optimal transport in hyperbolic spaces (e.g., generalization bounds)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the specific architectural designs and variations of multi-agent transformer systems documented in recent literature?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the specific architectural designs and variations of multi-agent transformer systems documented in recent literature?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge and evolve in self-supervised learning settings without explicit supervision?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do communication protocols emerge and evolve in self-supervised learning settings without explicit supervision?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What attention mechanisms are specifically designed or adapted for multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What attention mechanisms are specifically designed or adapted for multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What routing protocols or information exchange methods are implemented in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What routing protocols or information exchange methods are implemented in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the development of communication in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:34.625Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do self-supervised learning objectives influence the development of communication in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing, BASE layers) are currently considered state-of-the-art for dynamic token routing in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific algorithms (e.g., Top-K, Noisy Top-K, Switch Transformer routing, BASE layers) are currently considered state-of-the-art for dynamic token routing in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the key mechanisms (e.g., auxiliary losses, capacity factors, expert choice routing) used to achieve load balancing across experts in sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the key mechanisms (e.g., auxiliary losses, capacity factors, expert choice routing) used to achieve load balancing across experts in sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing strategies (e.g., token choice vs. expert choice) trade off model quality (e.g., accuracy, perplexity) against computational efficiency?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing strategies (e.g., token choice vs. expert choice) trade off model quality (e.g., accuracy, perplexity) against computational efficiency?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the trade-offs in terms of training stability, convergence speed, and hyperparameter sensitivity between different dynamic routing algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the trade-offs in terms of training stability, convergence speed, and hyperparameter sensitivity between different dynamic routing algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do routing strategies impact system-level performance metrics like throughput, latency, and memory usage in distributed training and inference settings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:41.727Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do routing strategies impact system-level performance metrics like throughput, latency, and memory usage in distributed training and inference settings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.192Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall, query speed, memory footprint) for evaluating vector compression techniques like Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale search scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.192Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall, query speed, memory footprint) for evaluating vector compression techniques like Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale search scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.192Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the choice of quantization method (e.g., Product Quantization vs. Binary Quantization) impact search accuracy, specifically recall rates, when applied to high-dimensional vectors (e.g., 100+ dimensions) in billion-scale datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.192Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the choice of quantization method (e.g., Product Quantization vs. Binary Quantization) impact search accuracy, specifically recall rates, when applied to high-dimensional vectors (e.g., 100+ dimensions) in billion-scale datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.192Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the memory reduction ratios achieved by different quantization techniques (e.g., Product Quantization, Scalar Quantization) on billion-scale vector datasets, and how do these reductions correlate with changes in search accuracy?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.193Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the memory reduction ratios achieved by different quantization techniques (e.g., Product Quantization, Scalar Quantization) on billion-scale vector datasets, and how do these reductions correlate with changes in search accuracy?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.193Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "Which indexing structures (e.g., HNSW, IVF, LSH) are most compatible with specific quantization methods (e.g., Product Quantization) to optimize query throughput and recall in billion-scale approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.193Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "Which indexing structures (e.g., HNSW, IVF, LSH) are most compatible with specific quantization methods (e.g., Product Quantization) to optimize query throughput and recall in billion-scale approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.193Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do hybrid approaches combining indexing structures (e.g., IVF with HNSW) and quantization techniques affect the trade-offs between memory efficiency, search speed, and accuracy in billion-scale vector search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:52.193Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do hybrid approaches combining indexing structures (e.g., IVF with HNSW) and quantization techniques affect the trade-offs between memory efficiency, search speed, and accuracy in billion-scale vector search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.483Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically in hyperbolic spaces (e.g., Poincaré ball, Lorentz model)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.483Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically in hyperbolic spaces (e.g., Poincaré ball, Lorentz model)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport theory integrate with prototype learning frameworks in Euclidean or other metric spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport theory integrate with prototype learning frameworks in Euclidean or other metric spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "In what ways has optimal transport been used to improve representation learning, particularly for structured or hierarchical data?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "In what ways has optimal transport been used to improve representation learning, particularly for structured or hierarchical data?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific techniques to detect and quantify distribution shift in hyperbolic embedding models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific techniques to detect and quantify distribution shift in hyperbolic embedding models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What adaptation or regularization methods exist to make hyperbolic embeddings robust to distribution shifts during training or deployment?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:56.484Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What adaptation or regularization methods exist to make hyperbolic embeddings robust to distribution shifts during training or deployment?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.022Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns used in multi-agent systems built with transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns used in multi-agent systems built with transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do transformer-based multi-agent systems differ in architecture based on their coordination mechanisms (e.g., centralized, decentralized, hierarchical)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do transformer-based multi-agent systems differ in architecture based on their coordination mechanisms (e.g., centralized, decentralized, hierarchical)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the conditions and training methodologies in self-supervised learning that lead to the emergence of structured communication protocols among agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the conditions and training methodologies in self-supervised learning that lead to the emergence of structured communication protocols among agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do emergent communication protocols in self-supervised settings impact task performance and generalization in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do emergent communication protocols in self-supervised settings impact task performance and generalization in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific attention-based mechanisms (e.g., gating, sparse attention, learned routers) are designed to dynamically route information between agents in a transformer architecture?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:50:59.023Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific attention-based mechanisms (e.g., gating, sparse attention, learned routers) are designed to dynamically route information between agents in a transformer architecture?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific algorithms and techniques constitute the current state-of-the-art for dynamic token routing in mixture-of-experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific algorithms and techniques constitute the current state-of-the-art for dynamic token routing in mixture-of-experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do sparse MoE models implement load balancing mechanisms during the training phase?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do sparse MoE models implement load balancing mechanisms during the training phase?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do sparse MoE models implement load balancing mechanisms during the inference phase?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do sparse MoE models implement load balancing mechanisms during the inference phase?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the performance trade-offs (e.g., model quality, computational cost) between top-k routing algorithms and learned routing algorithms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the performance trade-offs (e.g., model quality, computational cost) between top-k routing algorithms and learned routing algorithms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing algorithms in MoE models impact metrics such as expert utilization, communication overhead, and training stability?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:00.642Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing algorithms in MoE models impact metrics such as expert utilization, communication overhead, and training stability?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.540Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall@k, compression ratio, query latency) used to evaluate vector compression techniques in billion-scale search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall@k, compression ratio, query latency) used to evaluate vector compression techniques in billion-scale search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does Product Quantization (PQ) specifically impact search accuracy and computational efficiency when applied to billion-scale vector datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does Product Quantization (PQ) specifically impact search accuracy and computational efficiency when applied to billion-scale vector datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the trade-offs between Scalar Quantization and Binary Quantization in terms of memory footprint reduction and recall performance degradation for billion-scale search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the trade-offs between Scalar Quantization and Binary Quantization in terms of memory footprint reduction and recall performance degradation for billion-scale search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do hybrid quantization methods (e.g., combining PQ with other techniques) compare to standalone methods in balancing compression ratio and search accuracy at billion scale?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do hybrid quantization methods (e.g., combining PQ with other techniques) compare to standalone methods in balancing compression ratio and search accuracy at billion scale?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What hardware and system-level optimizations (e.g., SIMD, GPU acceleration) are most effective for maintaining computational efficiency with compressed vectors in billion-scale search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:14.541Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What hardware and system-level optimizations (e.g., SIMD, GPU acceleration) are most effective for maintaining computational efficiency with compressed vectors in billion-scale search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the key mathematical formulations and algorithms for optimal transport in hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the key mathematical formulations and algorithms for optimal transport in hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How is prototype learning defined and implemented in hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How is prototype learning defined and implemented in hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What empirical studies compare prototype learning with optimal transport in hyperbolic vs. Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What empirical studies compare prototype learning with optimal transport in hyperbolic vs. Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do hyperbolic embeddings change under domain shift or dataset bias in prototype-based classification?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do hyperbolic embeddings change under domain shift or dataset bias in prototype-based classification?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What methods exist for adapting hyperbolic prototypes or metrics to handle distribution shifts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:18.620Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What methods exist for adapting hyperbolic prototypes or metrics to handle distribution shifts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.347Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms currently considered state-of-the-art for dynamic token routing in MoE architectures (e.g., GShard, Switch Transformer, BASE layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.347Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms currently considered state-of-the-art for dynamic token routing in MoE architectures (e.g., GShard, Switch Transformer, BASE layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.347Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different MoE implementations (e.g., Google's GShard, OpenAI's GPT-MoE) specifically implement load balancing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.347Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different MoE implementations (e.g., Google's GShard, OpenAI's GPT-MoE) specifically implement load balancing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.347Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What optimization techniques are used to improve load balancing efficiency in sparse MoE models during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.347Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What optimization techniques are used to improve load balancing efficiency in sparse MoE models during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.348Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the measurable performance differences (throughput, accuracy, training stability) between top-k routing, expert choice routing, and other routing strategies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.348Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the measurable performance differences (throughput, accuracy, training stability) between top-k routing, expert choice routing, and other routing strategies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.348Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do routing strategies in MoE models trade off between computational efficiency and model quality across different hardware configurations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:19.348Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do routing strategies in MoE models trade off between computational efficiency and model quality across different hardware configurations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.138Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer systems documented in recent research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of multi-agent transformer systems documented in recent research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies and algorithms have been developed for emergent communication in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific training methodologies and algorithms have been developed for emergent communication in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different self-supervised learning objectives (e.g., contrastive, predictive, reconstruction) facilitate communication emergence in these systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different self-supervised learning objectives (e.g., contrastive, predictive, reconstruction) facilitate communication emergence in these systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmark environments are used to assess communication protocols in multi-agent transformer research?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What evaluation metrics and benchmark environments are used to assess communication protocols in multi-agent transformer research?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the identified limitations, scalability challenges, and future research directions for communication in multi-agent transformers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:23.139Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the identified limitations, scalability challenges, and future research directions for communication in multi-agent transformers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the specific performance metrics (recall, precision, query latency) of Product Quantization, Scalar Quantization, and Residual Quantization when applied to billion-scale vector datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the specific performance metrics (recall, precision, query latency) of Product Quantization, Scalar Quantization, and Residual Quantization when applied to billion-scale vector datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does compression ratio quantitatively affect search accuracy (e.g., recall@k) and computational overhead (memory usage, query time) in billion-scale vector search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does compression ratio quantitatively affect search accuracy (e.g., recall@k) and computational overhead (memory usage, query time) in billion-scale vector search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the implementation and performance trade-offs when integrating Product Quantization with HNSW versus IVF indexing structures for billion-scale search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the implementation and performance trade-offs when integrating Product Quantization with HNSW versus IVF indexing structures for billion-scale search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do Scalar Quantization and Residual Quantization compare in terms of memory efficiency and search accuracy when combined with LSH for large-scale similarity search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do Scalar Quantization and Residual Quantization compare in terms of memory efficiency and search accuracy when combined with LSH for large-scale similarity search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.292Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the specific computational overhead differences (indexing time, query processing) between various quantization techniques when scaling to billion-sized vector datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:39.293Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the specific computational overhead differences (indexing time, query processing) between various quantization techniques when scaling to billion-sized vector datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific mathematical formulations and computational steps for the top-k routing algorithm commonly used in sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific mathematical formulations and computational steps for the top-k routing algorithm commonly used in sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do gating networks in MoE architectures compute token-to-expert assignment probabilities, and what are the key variations in gating function design?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do gating networks in MoE architectures compute token-to-expert assignment probabilities, and what are the key variations in gating function design?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific techniques (e.g., auxiliary losses, capacity factors, noise injection) used to enforce load balancing across experts during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific techniques (e.g., auxiliary losses, capacity factors, noise injection) used to enforce load balancing across experts during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing strategies (e.g., top-k vs. adaptive k, hash-based vs. learned routing) quantitatively impact model throughput, latency, and memory usage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing strategies (e.g., top-k vs. adaptive k, hash-based vs. learned routing) quantitatively impact model throughput, latency, and memory usage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the comparative advantages and disadvantages of deterministic versus stochastic routing approaches in terms of training stability and final model performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:41.555Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the comparative advantages and disadvantages of deterministic versus stochastic routing approaches in terms of training stability and final model performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport theory adapt to measure distances and similarities between hyperbolic embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport theory adapt to measure distances and similarities between hyperbolic embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific challenges of distribution shift when learning representations in hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific challenges of distribution shift when learning representations in hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.119Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What techniques exist to align or adapt hyperbolic representations across different data distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.120Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What techniques exist to align or adapt hyperbolic representations across different data distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.120Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do methods combining hyperbolic prototype learning and optimal transport address representation robustness?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:43.120Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do methods combining hyperbolic prototype learning and optimal transport address representation robustness?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.874Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific types of data (e.g., neural recordings, connectivity maps, behavioral data) are contained in the retrieved neuroscience dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.880Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific types of data (e.g., neural recordings, connectivity maps, behavioral data) are contained in the retrieved neuroscience dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.885Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metadata (e.g., species, brain region, experimental paradigm) describes the context of the neuroscience dataset?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.885Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metadata (e.g., species, brain region, experimental paradigm) describes the context of the neuroscience dataset?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.895Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What was the explicit rationale or stated purpose for retrieving a neuroscience dataset in response to a machine learning architecture query?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.896Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What was the explicit rationale or stated purpose for retrieving a neuroscience dataset in response to a machine learning architecture query?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.896Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific features or properties of the neuroscience dataset are potentially relevant to the design or analysis of machine learning architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.896Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What specific features or properties of the neuroscience dataset are potentially relevant to the design or analysis of machine learning architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.897Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key structural or functional principles of biological neural systems represented in the dataset (e.g., modularity, hierarchy, plasticity)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:51:47.897Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key structural or functional principles of biological neural systems represented in the dataset (e.g., modularity, hierarchy, plasticity)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.795Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall, latency, memory usage) for evaluating vector compression techniques like Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.795Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall, latency, memory usage) for evaluating vector compression techniques like Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.795Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the compression ratio of each quantization technique impact search accuracy (e.g., recall@k) in billion-scale vector databases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.795Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the compression ratio of each quantization technique impact search accuracy (e.g., recall@k) in billion-scale vector databases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.795Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What computational overhead (e.g., encoding/decoding time, distance calculation complexity) is associated with each quantization technique during search operations at billion-scale?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.795Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What computational overhead (e.g., encoding/decoding time, distance calculation complexity) is associated with each quantization technique during search operations at billion-scale?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.796Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do quantization methods integrate with HNSW graphs to balance memory efficiency and search speed in large-scale similarity search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.796Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do quantization methods integrate with HNSW graphs to balance memory efficiency and search speed in large-scale similarity search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.796Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the trade-offs in combining quantization techniques with IVF or LSH indexing for billion-scale search in terms of accuracy, scalability, and resource consumption?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:03.796Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the trade-offs in combining quantization techniques with IVF or LSH indexing for billion-scale search in terms of accuracy, scalability, and resource consumption?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.491Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific algorithms or methods constitute current state-of-the-art dynamic token routing in MoE architectures (e.g., Top-K gating, noisy Top-K gating, BASE layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.491Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific algorithms or methods constitute current state-of-the-art dynamic token routing in MoE architectures (e.g., Top-K gating, noisy Top-K gating, BASE layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different MoE routing strategies (e.g., token choice, expert choice) handle load balancing, and what specific techniques are used to enforce it (e.g., auxiliary losses, capacity factors)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different MoE routing strategies (e.g., token choice, expert choice) handle load balancing, and what specific techniques are used to enforce it (e.g., auxiliary losses, capacity factors)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the computational efficiency trade-offs (e.g., training/inference speed, memory usage) between different routing strategies in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the computational efficiency trade-offs (e.g., training/inference speed, memory usage) between different routing strategies in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the model performance trade-offs (e.g., accuracy, convergence stability, task specialization) between different routing strategies in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the model performance trade-offs (e.g., accuracy, convergence stability, task specialization) between different routing strategies in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing mechanisms in MoE models scale with increasing numbers of experts and tokens, and what bottlenecks emerge?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:04.492Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing mechanisms in MoE models scale with increasing numbers of experts and tokens, and what bottlenecks emerge?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What mathematical formulations define optimal transport distances specifically in hyperbolic spaces (e.g., using the Poincaré ball or Lorentz model)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What mathematical formulations define optimal transport distances specifically in hyperbolic spaces (e.g., using the Poincaré ball or Lorentz model)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How are prototypes defined and learned in hyperbolic embedding spaces, and what optimization methods are used?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How are prototypes defined and learned in hyperbolic embedding spaces, and what optimization methods are used?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What empirical methods exist to measure the impact of distribution shift on hyperbolic embeddings (e.g., changes in curvature or distance metrics)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What empirical methods exist to measure the impact of distribution shift on hyperbolic embeddings (e.g., changes in curvature or distance metrics)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How is prototype stability quantified in hyperbolic spaces under distribution shift, and what factors influence it?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How is prototype stability quantified in hyperbolic spaces under distribution shift, and what factors influence it?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.573Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical guarantees exist for optimal transport in hyperbolic geometry regarding sample efficiency or metric preservation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:05.574Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical guarantees exist for optimal transport in hyperbolic geometry regarding sample efficiency or metric preservation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.191Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components (e.g., attention mechanisms, shared vs. separate parameters, communication channels) in multi-agent transformer systems that specifically support the emergence of communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.191Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components (e.g., attention mechanisms, shared vs. separate parameters, communication channels) in multi-agent transformer systems that specifically support the emergence of communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.191Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different self-supervised learning objectives (e.g., masked token prediction, contrastive learning, next-token prediction) influence the development and stability of emergent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.191Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different self-supervised learning objectives (e.g., masked token prediction, contrastive learning, next-token prediction) influence the development and stability of emergent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.191Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What quantitative metrics (e.g., topographic similarity, generalization to novel partners/tasks, communicative accuracy, information-theoretic measures) are used to evaluate the quality and effectiveness of emergent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.191Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What quantitative metrics (e.g., topographic similarity, generalization to novel partners/tasks, communicative accuracy, information-theoretic measures) are used to evaluate the quality and effectiveness of emergent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.192Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do environmental and task constraints (e.g., partial observability, cooperative vs. competitive goals) interact with transformer architectures to shape the nature of the emergent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.192Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do environmental and task constraints (e.g., partial observability, cooperative vs. competitive goals) interact with transformer architectures to shape the nature of the emergent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.192Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the limitations or gaps in current evaluation metrics for assessing the complexity, compositionality, and human-interpretability of emergent communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:11.192Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the limitations or gaps in current evaluation metrics for assessing the complexity, compositionality, and human-interpretability of emergent communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.042Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (recall, latency, throughput) for Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale vector search benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (recall, latency, throughput) for Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale vector search benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does memory footprint reduction compare between Product Quantization, Scalar Quantization, and Binary Quantization when applied to billion-scale vector databases?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does memory footprint reduction compare between Product Quantization, Scalar Quantization, and Binary Quantization when applied to billion-scale vector databases?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the accuracy degradation patterns for different quantization methods (PQ, SQ, BQ) as dataset size scales from million to billion vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the accuracy degradation patterns for different quantization methods (PQ, SQ, BQ) as dataset size scales from million to billion vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "Which quantization-aware training techniques (e.g., learned quantization, differentiable quantization) show best performance for billion-scale retrieval tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "Which quantization-aware training techniques (e.g., learned quantization, differentiable quantization) show best performance for billion-scale retrieval tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do hybrid quantization approaches (combining multiple methods) perform compared to single-method quantization at billion scale?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:24.043Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do hybrid quantization approaches (combining multiple methods) perform compared to single-method quantization at billion scale?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.156Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the main categories of dynamic token routing algorithms used in modern Mixture of Experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the main categories of dynamic token routing algorithms used in modern Mixture of Experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different MoE routing methods (e.g., top-k, noisy top-k, learned routers) compare in terms of computational efficiency and model quality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different MoE routing methods (e.g., top-k, noisy top-k, learned routers) compare in terms of computational efficiency and model quality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific techniques are used to ensure balanced expert utilization in sparse MoE models during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What specific techniques are used to ensure balanced expert utilization in sparse MoE models during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do load balancing losses (e.g., auxiliary losses, importance losses) function and what are their implementation details?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do load balancing losses (e.g., auxiliary losses, importance losses) function and what are their implementation details?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What metrics (e.g., expert utilization rate, routing entropy, throughput, model accuracy) are most relevant for evaluating MoE routing algorithm performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:26.157Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What metrics (e.g., expert utilization rate, routing entropy, throughput, model accuracy) are most relevant for evaluating MoE routing algorithm performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.602Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic spaces (e.g., hyperbolic prototypes, hyperbolic k-means)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.602Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations and algorithms for prototype learning specifically designed for hyperbolic spaces (e.g., hyperbolic prototypes, hyperbolic k-means)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.602Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport theory (e.g., Wasserstein distance) define and compute distances between probability distributions in hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.602Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How does optimal transport theory (e.g., Wasserstein distance) define and compute distances between probability distributions in hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.602Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "In what ways has optimal transport been used to regularize, align, or match hyperbolic embeddings in machine learning tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.602Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "In what ways has optimal transport been used to regularize, align, or match hyperbolic embeddings in machine learning tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.603Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the documented causes and types of distribution shift (e.g., domain shift, topological change) that affect hyperbolic representations in practice?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.603Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the documented causes and types of distribution shift (e.g., domain shift, topological change) that affect hyperbolic representations in practice?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.603Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What algorithmic techniques (e.g., hyperbolic domain adaptation, robust hyperbolic losses) have been proposed to improve the robustness of hyperbolic models to distribution shifts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:30.603Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What algorithmic techniques (e.g., hyperbolic domain adaptation, robust hyperbolic losses) have been proposed to improve the robustness of hyperbolic models to distribution shifts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.582Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of transformer models specifically adapted for multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.582Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural designs and variations of transformer models specifically adapted for multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.582Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical studies or benchmarks exist comparing multi-agent transformer architectures to other multi-agent approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.582Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical studies or benchmarks exist comparing multi-agent transformer architectures to other multi-agent approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.582Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methods (e.g., reinforcement learning, evolutionary algorithms, differentiable communication) have been proposed for agents to develop communication protocols from scratch?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.582Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What methods (e.g., reinforcement learning, evolutionary algorithms, differentiable communication) have been proposed for agents to develop communication protocols from scratch?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.583Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented properties (e.g., compositionality, generalization) of emergent communication protocols in simulated AI agent studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.583Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the documented properties (e.g., compositionality, generalization) of emergent communication protocols in simulated AI agent studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.583Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How has self-supervised learning been used to pre-train or structure the observation/action spaces for agents in multi-agent communication tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:35.583Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How has self-supervised learning been used to pre-train or structure the observation/action spaces for agents in multi-agent communication tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.904Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms used for dynamic token-to-expert assignment in current MoE architectures (e.g., top-k gating, noisy top-k gating, BASE layers)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms used for dynamic token-to-expert assignment in current MoE architectures (e.g., top-k gating, noisy top-k gating, BASE layers)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do current MoE implementations measure and enforce load balancing across experts during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do current MoE implementations measure and enforce load balancing across experts during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What techniques are used to optimize computational efficiency in sparse MoE models while maintaining model quality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What techniques are used to optimize computational efficiency in sparse MoE models while maintaining model quality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the trade-offs between expert specialization (utilization) and system-level efficiency in existing MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the trade-offs between expert specialization (utilization) and system-level efficiency in existing MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing algorithms address the challenges of token representation compatibility and expert capacity constraints?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:44.905Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing algorithms address the challenges of token representation compatibility and expert capacity constraints?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.666Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the performance characteristics (compression ratio, reconstruction error, computational overhead) of Product Quantization, Scalar Quantization, and Binary Quantization specifically in billion-scale vector search scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.666Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the performance characteristics (compression ratio, reconstruction error, computational overhead) of Product Quantization, Scalar Quantization, and Binary Quantization specifically in billion-scale vector search scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.666Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does compression ratio quantitatively affect search accuracy (e.g., recall@k, precision) and query latency in billion-scale vector search systems across different quantization methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.666Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does compression ratio quantitatively affect search accuracy (e.g., recall@k, precision) and query latency in billion-scale vector search systems across different quantization methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.666Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the specific integration mechanisms and performance impacts when combining Product Quantization with HNSW, IVF, or LSH indexes for billion-scale similarity search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.667Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the specific integration mechanisms and performance impacts when combining Product Quantization with HNSW, IVF, or LSH indexes for billion-scale similarity search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.667Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do memory footprint reduction and computational efficiency trade-offs differ among quantization techniques when deployed at billion-scale across various hardware configurations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.667Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do memory footprint reduction and computational efficiency trade-offs differ among quantization techniques when deployed at billion-scale across various hardware configurations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.667Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What empirical evidence exists comparing end-to-end system performance (accuracy-latency-memory tradeoffs) of different quantization-index combinations on standardized billion-scale vector search benchmarks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:46.667Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What empirical evidence exists comparing end-to-end system performance (accuracy-latency-memory tradeoffs) of different quantization-index combinations on standardized billion-scale vector search benchmarks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.122Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the existing prototype learning methods that have been adapted or proposed for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.122Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the existing prototype learning methods that have been adapted or proposed for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How has optimal transport been mathematically formulated or applied specifically in hyperbolic geometry?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How has optimal transport been mathematically formulated or applied specifically in hyperbolic geometry?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the documented techniques or algorithms for integrating prototype learning with optimal transport in a hyperbolic setting?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the documented techniques or algorithms for integrating prototype learning with optimal transport in a hyperbolic setting?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do hyperbolic embeddings respond to different types of distribution shifts (e.g., covariate shift, concept drift) in empirical studies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do hyperbolic embeddings respond to different types of distribution shifts (e.g., covariate shift, concept drift) in empirical studies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical properties (e.g., convergence, stability, sample complexity) support using optimal transport over other metrics for aligning prototypes in hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:55.123Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical properties (e.g., convergence, stability, sample complexity) support using optimal transport over other metrics for aligning prototypes in hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.555Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns in current multi-agent transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.555Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the key architectural components and design patterns in current multi-agent transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.555Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different multi-agent transformer architectures compare in terms of scalability, communication efficiency, and task performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.555Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "How do different multi-agent transformer architectures compare in terms of scalability, communication efficiency, and task performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.555Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical studies exist on the emergence of communication protocols in self-supervised multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.556Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What empirical studies exist on the emergence of communication protocols in self-supervised multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.556Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metrics and evaluation frameworks are used to analyze emergent communication in self-supervised learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.556Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What metrics and evaluation frameworks are used to analyze emergent communication in self-supervised learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.556Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the current approaches to dynamic routing mechanisms in multi-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:52:57.556Z** - Topic: `"multi-agent transformer architectures with emergent communication protocols via self-supervised learning"` - Query: "What are the current approaches to dynamic routing mechanisms in multi-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.444Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for dynamic token routing in mixture-of-experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for dynamic token routing in mixture-of-experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different load balancing techniques (e.g., auxiliary losses, capacity factors) quantitatively impact MoE model performance metrics like accuracy and throughput?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different load balancing techniques (e.g., auxiliary losses, capacity factors) quantitatively impact MoE model performance metrics like accuracy and throughput?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different load balancing techniques affect the computational efficiency and resource utilization of MoE models during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different load balancing techniques affect the computational efficiency and resource utilization of MoE models during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the performance and efficiency trade-offs between top-k routing algorithms and learned/adaptive routing algorithms in MoE architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the performance and efficiency trade-offs between top-k routing algorithms and learned/adaptive routing algorithms in MoE architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing algorithms compare in terms of training stability, convergence speed, and generalization capability in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:06.445Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing algorithms compare in terms of training stability, convergence speed, and generalization capability in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.305Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall@k, query latency, memory usage) for evaluating vector compression techniques like Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale vector search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.305Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the key performance metrics (e.g., recall@k, query latency, memory usage) for evaluating vector compression techniques like Product Quantization, Scalar Quantization, and Binary Quantization in billion-scale vector search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.305Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the compression ratio of each quantization method (Product, Scalar, Binary) impact search accuracy (e.g., recall degradation) and computational efficiency (e.g., query speed, CPU/GPU utilization) at billion-scale?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.305Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does the compression ratio of each quantization method (Product, Scalar, Binary) impact search accuracy (e.g., recall degradation) and computational efficiency (e.g., query speed, CPU/GPU utilization) at billion-scale?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.305Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "In what ways do Product Quantization, Scalar Quantization, and Binary Quantization integrate with HNSW graphs, and how does this integration affect search performance and index construction time?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.305Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "In what ways do Product Quantization, Scalar Quantization, and Binary Quantization integrate with HNSW graphs, and how does this integration affect search performance and index construction time?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.306Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do IVF (Inverted File) indexing structures combine with different quantization methods, and what are the trade-offs in terms of accuracy, search speed, and memory footprint for billion-scale datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.306Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do IVF (Inverted File) indexing structures combine with different quantization methods, and what are the trade-offs in terms of accuracy, search speed, and memory footprint for billion-scale datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.306Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the implementation considerations and performance benchmarks when using FAISS with various quantization techniques for billion-scale search, particularly regarding scalability and hardware requirements?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:12.306Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the implementation considerations and performance benchmarks when using FAISS with various quantization techniques for billion-scale search, particularly regarding scalability and hardware requirements?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations of optimal transport problems specifically adapted for hyperbolic spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations of optimal transport problems specifically adapted for hyperbolic spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do existing prototype learning algorithms incorporate hyperbolic geometry in their distance metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do existing prototype learning algorithms incorporate hyperbolic geometry in their distance metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What empirical methods measure the impact of distribution shift on hyperbolic embedding quality in prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What empirical methods measure the impact of distribution shift on hyperbolic embedding quality in prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical guarantees exist for optimal transport distances in hyperbolic spaces compared to Euclidean spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.481Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What theoretical guarantees exist for optimal transport distances in hyperbolic spaces compared to Euclidean spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.482Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do prototype learning frameworks theoretically combine hyperbolic geometry with optimal transport for improved generalization?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:19.482Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do prototype learning frameworks theoretically combine hyperbolic geometry with optimal transport for improved generalization?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for dynamically routing tokens to experts in Mixture of Experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the specific algorithms and techniques currently considered state-of-the-art for dynamically routing tokens to experts in Mixture of Experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do current load balancing mechanisms prevent expert underutilization or overload in sparse MoE models during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do current load balancing mechanisms prevent expert underutilization or overload in sparse MoE models during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the key performance metrics (e.g., model quality, computational efficiency, training stability) used to evaluate different routing algorithms in MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the key performance metrics (e.g., model quality, computational efficiency, training stability) used to evaluate different routing algorithms in MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing strategies (e.g., top-k, noisy top-k, learned routers) impact the trade-off between model accuracy and computational cost?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "How do different routing strategies (e.g., top-k, noisy top-k, learned routers) impact the trade-off between model accuracy and computational cost?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the implementation challenges and optimization techniques for scaling dynamic token routing in large-scale distributed MoE training environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:53:27.849Z** - Topic: `"dynamic token routing and load balancing in MoE architectures"` - Query: "What are the implementation challenges and optimization techniques for scaling dynamic token routing in large-scale distributed MoE training environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
