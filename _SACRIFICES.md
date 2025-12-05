@@ -25957,3 +25957,93 @@
 ⚰️  **2025-12-05T02:13:47.074Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What architectural components or learning algorithms enable skill transfer between agents with different neural network architectures (e.g., transformers vs. CNNs vs. LSTMs)?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T02:13:57.786Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What specific compression techniques (e.g., product quantization, scalar quantization, binary hashing, LSH) are currently considered state-of-the-art for nearest neighbor search on high-dimensional vectors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What specific compression techniques (e.g., product quantization, scalar quantization, binary hashing, LSH) are currently considered state-of-the-art for nearest neighbor search on high-dimensional vectors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do different indexing structures (e.g., HNSW, IVF, Annoy, FAISS indices) integrate with vector compression methods to enable efficient approximate nearest neighbor search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How do different indexing structures (e.g., HNSW, IVF, Annoy, FAISS indices) integrate with vector compression methods to enable efficient approximate nearest neighbor search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the measurable impacts of compression ratio on search accuracy (recall@k, precision@k) across different benchmark datasets and distance metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the measurable impacts of compression ratio on search accuracy (recall@k, precision@k) across different benchmark datasets and distance metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does query latency vary between compressed and uncompressed vector search systems under different dataset scales (millions to billions of vectors) and dimensionality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "How does query latency vary between compressed and uncompressed vector search systems under different dataset scales (millions to billions of vectors) and dimensionality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific memory-accuracy-latency trade-off curves for leading algorithms like IVF-PQ, HNSW with compression, or binary embedding methods in practical deployment scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:13:57.787Z** - Topic: `"efficient nearest neighbor search algorithms for compressed vectors"` - Query: "What are the specific memory-accuracy-latency trade-off curves for leading algorithms like IVF-PQ, HNSW with compression, or binary embedding methods in practical deployment scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and their implementations for selecting sparse experts in current state-of-the-art Mixture of Experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and mathematical formulation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing mechanisms differ from noisy top-k gating in terms of architectural design and mathematical formulation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., accuracy, throughput) and efficiency measures (e.g., computational cost, memory usage) for different gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the comparative performance metrics (e.g., accuracy, throughput) and efficiency measures (e.g., computational cost, memory usage) for different gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges arise in sparse MoE architectures, and what techniques are used to address them?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What specific load balancing challenges arise in sparse MoE architectures, and what techniques are used to address them?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do dynamic token routing mechanisms handle varying input distributions and maintain efficiency in sparse MoE systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:01.211Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do dynamic token routing mechanisms handle varying input distributions and maintain efficiency in sparse MoE systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.537Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the defining architectural components and design patterns in current state-of-the-art multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.537Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the defining architectural components and design patterns in current state-of-the-art multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.537Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems implement and structure inter-agent communication at the architectural level?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.537Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do multi-agent transformer systems implement and structure inter-agent communication at the architectural level?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific learning paradigms (e.g., reinforcement learning, self-supervised learning) are most commonly used to train communication protocols in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What specific learning paradigms (e.g., reinforcement learning, self-supervised learning) are most commonly used to train communication protocols in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent populations in transformer-based systems develop specialized roles or capabilities that lead to emergent tool use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do heterogeneous agent populations in transformer-based systems develop specialized roles or capabilities that lead to emergent tool use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental or training mechanisms (e.g., specific reward structures, curriculum learning) are known to facilitate the emergence of tool use in multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental or training mechanisms (e.g., specific reward structures, curriculum learning) are known to facilitate the emergence of tool use in multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
