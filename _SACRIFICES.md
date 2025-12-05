@@ -12871,3 +12871,33 @@
 ⚰️  **2025-12-05T00:39:37.517Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "Which protocol designs optimize both resource efficiency and robustness against combined decoherence and adversarial syndrome manipulation?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What are the key resource metrics (e.g., qubit overhead, circuit depth, classical communication) for evaluating the efficiency of entanglement distillation protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What are the key resource metrics (e.g., qubit overhead, circuit depth, classical communication) for evaluating the efficiency of entanglement distillation protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "How do adaptive error correction techniques dynamically adjust based on real-time syndrome information in entanglement distillation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "How do adaptive error correction techniques dynamically adjust based on real-time syndrome information in entanglement distillation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What are the specific effects of quantum memory decoherence (e.g., amplitude damping, dephasing) on the fidelity and yield of distilled entangled pairs?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What are the specific effects of quantum memory decoherence (e.g., amplitude damping, dephasing) on the fidelity and yield of distilled entangled pairs?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "How can an adversary manipulate syndrome reports to degrade distillation outcomes, and what are the detectable vs. undetectable attack strategies?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "How can an adversary manipulate syndrome reports to degrade distillation outcomes, and what are the detectable vs. undetectable attack strategies?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What protocol designs or verification steps can mitigate adversarial syndrome manipulation while maintaining resource efficiency under decoherence?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:41:20.566Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive error correction under quantum memory decoherence and adversarial syndrome manipulation"` - Query: "What protocol designs or verification steps can mitigate adversarial syndrome manipulation while maintaining resource efficiency under decoherence?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
