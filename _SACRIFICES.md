@@ -15451,3 +15451,237 @@
 ⚰️  **2025-12-05T01:33:59.686Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do multi-agent transformer systems handle message passing and information aggregation between agents?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T01:34:18.678Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the names and key architectural features of transformer models that use attention-based dynamic routing for multi-agent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.678Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the names and key architectural features of transformer models that use attention-based dynamic routing for multi-agent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.678Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How does attention-based dynamic routing specifically function in transformer architectures for multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.678Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How does attention-based dynamic routing specifically function in transformer architectures for multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.678Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "In transformer-based multi-agent systems, what is the role of cosine similarity in determining routing paths or attention weights?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.679Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "In transformer-based multi-agent systems, what is the role of cosine similarity in determining routing paths or attention weights?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.679Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What metrics (e.g., task performance, communication efficiency) are used to benchmark attention-based dynamic routing against static routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.679Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What metrics (e.g., task performance, communication efficiency) are used to benchmark attention-based dynamic routing against static routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.679Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the reported quantitative results (e.g., accuracy, speed, scalability) from studies comparing attention-based dynamic routing and static routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:18.679Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the reported quantitative results (e.g., accuracy, speed, scalability) from studies comparing attention-based dynamic routing and static routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.238Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental principles and architectural components of sparse mixture of experts (MoE) models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.239Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the fundamental principles and architectural components of sparse mixture of experts (MoE) models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.239Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, hash-based, learned) in MoE models determine expert selection?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.239Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do different routing mechanisms (e.g., top-k, noisy top-k, hash-based, learned) in MoE models determine expert selection?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.239Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key performance metrics (e.g., model capacity, computational efficiency, training stability) used to evaluate MoE routing mechanisms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.239Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the key performance metrics (e.g., model capacity, computational efficiency, training stability) used to evaluate MoE routing mechanisms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.239Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main challenges and limitations (e.g., load balancing, expert utilization, communication costs) associated with current MoE routing approaches?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.240Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What are the main challenges and limitations (e.g., load balancing, expert utilization, communication costs) associated with current MoE routing approaches?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.240Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do recent advancements in routing mechanisms (e.g., expert choice, BASE layers) aim to address existing limitations in sparse MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.240Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do recent advancements in routing mechanisms (e.g., expert choice, BASE layers) aim to address existing limitations in sparse MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.865Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key architectural designs for implementing attention-based dynamic routing in multi-agent reinforcement learning or coordination frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the key architectural designs for implementing attention-based dynamic routing in multi-agent reinforcement learning or coordination frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do transformer-based models, such as the Multi-Agent Transformer (MAT) or CommNet, specifically modify self-attention or cross-attention for agent-to-agent communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do transformer-based models, such as the Multi-Agent Transformer (MAT) or CommNet, specifically modify self-attention or cross-attention for agent-to-agent communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the different mechanisms that utilize attention scores (e.g., thresholding, gating, or sparsification) to dynamically establish or prune communication pathways between agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the different mechanisms that utilize attention scores (e.g., thresholding, gating, or sparsification) to dynamically establish or prune communication pathways between agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do methods like TarMAC, RIIT, or learned attention weights enable selective and context-dependent routing in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How do methods like TarMAC, RIIT, or learned attention weights enable selective and context-dependent routing in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the comparative advantages and limitations of attention-based routing versus traditional fixed or heuristic routing protocols in multi-agent scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:38.866Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the comparative advantages and limitations of attention-based routing versus traditional fixed or heuristic routing protocols in multi-agent scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.753Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific neuroscience topics are explicitly listed or described in the dataset's documentation or metadata?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.753Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What specific neuroscience topics are explicitly listed or described in the dataset's documentation or metadata?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "Which neuroscience concepts in the dataset involve information routing, gating, or selective processing between brain regions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "Which neuroscience concepts in the dataset involve information routing, gating, or selective processing between brain regions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What computational neuroscience models are included in the dataset, and what are their key architectural components?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What computational neuroscience models are included in the dataset, and what are their key architectural components?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do the computational models in the dataset handle selective activation or competition between processing pathways?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "How do the computational models in the dataset handle selective activation or competition between processing pathways?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.754Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What is the stated purpose, collection methodology, and intended applications of the neuroscience dataset as described in its documentation?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:34:55.755Z** - Topic: `"sparse mixture of experts (MoE) routing mechanisms"` - Query: "What is the stated purpose, collection methodology, and intended applications of the neuroscience dataset as described in its documentation?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.347Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific neural network architectures that implement attention-based dynamic routing for decision-making or path planning in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.347Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the specific neural network architectures that implement attention-based dynamic routing for decision-making or path planning in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.347Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What algorithmic methods (e.g., reinforcement learning, graph neural networks) are used to enable attention-based dynamic routing between agents in a multi-agent system?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What algorithmic methods (e.g., reinforcement learning, graph neural networks) are used to enable attention-based dynamic routing between agents in a multi-agent system?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How are transformer architectures (e.g., encoder, decoder, multi-head attention) specifically modified or designed to handle communication and coordination between multiple agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "How are transformer architectures (e.g., encoder, decoder, multi-head attention) specifically modified or designed to handle communication and coordination between multiple agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "In multi-agent transformer adaptations, what mechanisms (e.g., shared attention layers, agent-specific tokens) are used to manage inter-agent information exchange and dynamic interactions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "In multi-agent transformer adaptations, what mechanisms (e.g., shared attention layers, agent-specific tokens) are used to manage inter-agent information exchange and dynamic interactions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the standard evaluation metrics (e.g., task completion rate, communication efficiency, routing accuracy) used to assess the performance of dynamic routing in multi-agent transformer models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:01.348Z** - Topic: `"attention-based dynamic routing for multi-agent communication in transformer architectures"` - Query: "What are the standard evaluation metrics (e.g., task completion rate, communication efficiency, routing accuracy) used to assess the performance of dynamic routing in multi-agent transformer models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "What are the most common mathematical formulas used to compute similarity between embedding vectors (e.g., cosine similarity, Euclidean distance, dot product)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "What are the most common mathematical formulas used to compute similarity between embedding vectors (e.g., cosine similarity, Euclidean distance, dot product)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics (e.g., cosine vs. Euclidean) affect the performance of tasks like semantic search or clustering?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics (e.g., cosine vs. Euclidean) affect the performance of tasks like semantic search or clustering?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "What are the computational trade-offs (speed, memory) between various embedding similarity metrics in large-scale applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "What are the computational trade-offs (speed, memory) between various embedding similarity metrics in large-scale applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "How does the choice of similarity metric interact with the properties of the embedding space (e.g., normalization, dimensionality)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:35:42.671Z** - Topic: `embedding vector similarity metrics` - Query: "How does the choice of similarity metric interact with the properties of the embedding space (e.g., normalization, dimensionality)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.306Z** - Topic: `embedding vector similarity metrics` - Query: "What are the specific mathematical definitions and formulas for embedding similarity metrics mentioned in literature (e.g., cosine similarity, Euclidean distance, Manhattan distance, Jaccard index, etc.)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.307Z** - Topic: `embedding vector similarity metrics` - Query: "What are the specific mathematical definitions and formulas for embedding similarity metrics mentioned in literature (e.g., cosine similarity, Euclidean distance, Manhattan distance, Jaccard index, etc.)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics (cosine, Euclidean, Manhattan, etc.) perform when applied to various embedding types (word embeddings, sentence embeddings, image embeddings, graph embeddings)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics (cosine, Euclidean, Manhattan, etc.) perform when applied to various embedding types (word embeddings, sentence embeddings, image embeddings, graph embeddings)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "What empirical comparisons exist in literature regarding accuracy, precision, and recall of different similarity metrics across benchmark datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "What empirical comparisons exist in literature regarding accuracy, precision, and recall of different similarity metrics across benchmark datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "What are the computational complexity and runtime performance characteristics of different similarity metrics in practical applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "What are the computational complexity and runtime performance characteristics of different similarity metrics in practical applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics scale with embedding dimensionality and dataset size in real-world implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:07.308Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics scale with embedding dimensionality and dataset size in real-world implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.022Z** - Topic: `embedding vector similarity metrics` - Query: "What are the mathematical definitions and formulas for common embedding similarity metrics (cosine similarity, Euclidean distance, Manhattan distance, dot product, etc.)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.022Z** - Topic: `embedding vector similarity metrics` - Query: "What are the mathematical definitions and formulas for common embedding similarity metrics (cosine similarity, Euclidean distance, Manhattan distance, dot product, etc.)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "What empirical studies or benchmarks compare the performance of different similarity metrics on standard embedding datasets or tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "What empirical studies or benchmarks compare the performance of different similarity metrics on standard embedding datasets or tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics perform with sparse embeddings versus dense embeddings?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "How do different similarity metrics perform with sparse embeddings versus dense embeddings?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "What are the computational complexity and runtime performance characteristics of different similarity metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "What are the computational complexity and runtime performance characteristics of different similarity metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.023Z** - Topic: `embedding vector similarity metrics` - Query: "How does the choice of similarity metric interact with different embedding normalization practices and dimensionality?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T01:36:27.024Z** - Topic: `embedding vector similarity metrics` - Query: "How does the choice of similarity metric interact with different embedding normalization practices and dimensionality?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
