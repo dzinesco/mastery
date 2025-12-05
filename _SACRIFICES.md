@@ -12991,3 +12991,33 @@
 ⚰️  **2025-12-05T00:44:53.268Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What feedback control protocols (e.g., real-time correction operations, dynamical decoupling) are most effective for mitigating errors in GKP codes after syndrome extraction, particularly under non-Markovian noise?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the specific error thresholds and resource requirements for implementing fault-tolerant quantum computing using GKP codes under realistic hardware constraints?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the specific error thresholds and resource requirements for implementing fault-tolerant quantum computing using GKP codes under realistic hardware constraints?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "How do different concatenation schemes (e.g., GKP with surface codes, GKP with color codes) compare in terms of logical error rates and resource overhead?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "How do different concatenation schemes (e.g., GKP with surface codes, GKP with color codes) compare in terms of logical error rates and resource overhead?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the most efficient magic state distillation protocols compatible with GKP codes, and what are their resource costs and error suppression capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the most efficient magic state distillation protocols compatible with GKP codes, and what are their resource costs and error suppression capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "How do realistic hardware imperfections (e.g., finite squeezing, thermal noise, measurement inefficiencies) affect the performance of GKP-based fault-tolerant quantum computing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "How do realistic hardware imperfections (e.g., finite squeezing, thermal noise, measurement inefficiencies) affect the performance of GKP-based fault-tolerant quantum computing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the trade-offs between code distance, squeezing levels, and other parameters in optimizing the resource overhead for practical GKP code implementations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:45:40.880Z** - Topic: `"Fault-tolerant quantum computing with GKP codes: concatenation schemes, magic state distillation, and resource overhead analysis under realistic hardware constraints"` - Query: "What are the trade-offs between code distance, squeezing levels, and other parameters in optimizing the resource overhead for practical GKP code implementations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
