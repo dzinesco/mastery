@@ -22429,3 +22429,153 @@
 ⚰️  **2025-12-05T02:01:26.528Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do Binary Quantization methods compare to other quantization techniques in terms of search speed and memory efficiency when paired with LSH for approximate nearest neighbor search at billion-scale?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What architectural components (e.g., attention mechanisms, shared vs. separate parameters, hierarchical structures) in multi-agent transformer systems are empirically linked to the emergence of tool use?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What architectural components (e.g., attention mechanisms, shared vs. separate parameters, hierarchical structures) in multi-agent transformer systems are empirically linked to the emergence of tool use?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "How do different sparse reward formulations (e.g., binary success/failure, extremely delayed rewards) impact the diversity and efficiency of skills learned by agents in transformer-based multi-agent environments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "How do different sparse reward formulations (e.g., binary success/failure, extremely delayed rewards) impact the diversity and efficiency of skills learned by agents in transformer-based multi-agent environments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What patterns of communication (e.g., message frequency, information content, synchronization) emerge between transformer-based agents when they are required to collaborate on tool-use tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What patterns of communication (e.g., message frequency, information content, synchronization) emerge between transformer-based agents when they are required to collaborate on tool-use tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "How does the scale of the transformer model (parameters, layers, agents) correlate with the complexity of tool-use behaviors that emerge in multi-agent systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.618Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "How does the scale of the transformer model (parameters, layers, agents) correlate with the complexity of tool-use behaviors that emerge in multi-agent systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.619Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What is the relationship between the sparsity of the reward signal and the types of communication protocols that develop between agents during cooperative tool-use tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:29.619Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What is the relationship between the sparsity of the reward signal and the types of communication protocols that develop between agents during cooperative tool-use tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations for integrating prototype learning objectives with optimal transport distance metrics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the mathematical formulations for integrating prototype learning objectives with optimal transport distance metrics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do existing methods use optimal transport to align prototype distributions with data distributions in embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do existing methods use optimal transport to align prototype distributions with data distributions in embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific architectures that combine prototype learning modules with optimal transport layers in neural networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the specific architectures that combine prototype learning modules with optimal transport layers in neural networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How are hyperbolic embeddings (e.g., in Poincaré or Lorentz models) used to represent prototypes in few-shot or zero-shot learning scenarios?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How are hyperbolic embeddings (e.g., in Poincaré or Lorentz models) used to represent prototypes in few-shot or zero-shot learning scenarios?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the techniques for measuring and mitigating distribution shifts (e.g., domain adaptation) specifically in hyperbolic embedding spaces?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:37.630Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the techniques for measuring and mitigating distribution shifts (e.g., domain adaptation) specifically in hyperbolic embedding spaces?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.524Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the primary vector compression techniques (e.g., quantization, hashing, pruning) currently considered state-of-the-art for billion-scale similarity search?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.524Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What are the primary vector compression techniques (e.g., quantization, hashing, pruning) currently considered state-of-the-art for billion-scale similarity search?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does Product Quantization (PQ) specifically perform in terms of recall, memory usage, and search speed when applied to billion-scale vector datasets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does Product Quantization (PQ) specifically perform in terms of recall, memory usage, and search speed when applied to billion-scale vector datasets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does Scalar Quantization (SQ) compare to Product Quantization in terms of compression error, search accuracy, and computational overhead at billion-scale?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How does Scalar Quantization (SQ) compare to Product Quantization in terms of compression error, search accuracy, and computational overhead at billion-scale?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What is the relationship between compression ratio (or bits per vector) and search accuracy (e.g., recall@k) in billion-scale vector search systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "What is the relationship between compression ratio (or bits per vector) and search accuracy (e.g., recall@k) in billion-scale vector search systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do different compression techniques impact the computational efficiency (e.g., query latency, throughput) and hardware resource requirements (e.g., memory, CPU) in large-scale search deployments?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:51.525Z** - Topic: `"vector compression and quantization techniques for billion-scale search"` - Query: "How do different compression techniques impact the computational efficiency (e.g., query latency, throughput) and hardware resource requirements (e.g., memory, CPU) in large-scale search deployments?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the key mathematical formulations and algorithms used in optimal transport-based prototype learning methods?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the key mathematical formulations and algorithms used in optimal transport-based prototype learning methods?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do current optimal transport prototype learning methods compare in terms of computational efficiency and performance?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do current optimal transport prototype learning methods compare in terms of computational efficiency and performance?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the primary applications and use cases where hyperbolic embeddings are integrated into prototype learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the primary applications and use cases where hyperbolic embeddings are integrated into prototype learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do hyperbolic embeddings improve representation learning in hierarchical or structured data within prototype frameworks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "How do hyperbolic embeddings improve representation learning in hierarchical or structured data within prototype frameworks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.922Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the main theoretical and practical limitations of hyperbolic embeddings when handling distribution shifts?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:53.923Z** - Topic: `"prototype learning with optimal transport for hyperbolic embeddings under distribution shift"` - Query: "What are the main theoretical and practical limitations of hyperbolic embeddings when handling distribution shifts?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What specific neuroscience topics (e.g., synaptic plasticity, neural development, brain region functions) are explicitly mentioned in the dataset that could serve as analogies for multi-agent coordination or communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What specific neuroscience topics (e.g., synaptic plasticity, neural development, brain region functions) are explicitly mentioned in the dataset that could serve as analogies for multi-agent coordination or communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What developmental biology concepts (e.g., morphogenesis, cell differentiation, regulatory cascades) appear in the dataset that might provide metaphors for hierarchical skill acquisition or specialization in artificial systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What developmental biology concepts (e.g., morphogenesis, cell differentiation, regulatory cascades) appear in the dataset that might provide metaphors for hierarchical skill acquisition or specialization in artificial systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "Which implicit theoretical frameworks about consciousness, cognition, or intelligence in the dataset could suggest novel architectural principles for emergent tool use in AI agents?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "Which implicit theoretical frameworks about consciousness, cognition, or intelligence in the dataset could suggest novel architectural principles for emergent tool use in AI agents?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What specific examples of biological learning, adaptation, or developmental processes in the dataset could inform reward shaping, curriculum learning, or exploration strategies in reinforcement learning?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.290Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "What specific examples of biological learning, adaptation, or developmental processes in the dataset could inform reward shaping, curriculum learning, or exploration strategies in reinforcement learning?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.291Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "How do gene regulatory networks, epigenetic mechanisms, or other biological regulatory systems described in the dataset inspire approaches to modularity, compositionality, or hierarchical control in artificial systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:01:54.291Z** - Topic: `"emergent tool use and skill acquisition in multi-agent transformer systems through reinforcement learning with sparse rewards"` - Query: "How do gene regulatory networks, epigenetic mechanisms, or other biological regulatory systems described in the dataset inspire approaches to modularity, compositionality, or hierarchical control in artificial systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
