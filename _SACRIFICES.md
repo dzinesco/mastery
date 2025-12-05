@@ -12403,3 +12403,33 @@
 ⚰️  **2025-12-05T00:21:51.497Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the key quantum mechanical principles (e.g., superposition, entanglement, interference) that enable speedups in these algorithms?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the fundamental principles and main types of quantum error correction codes (e.g., surface codes, stabilizer codes)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the fundamental principles and main types of quantum error correction codes (e.g., surface codes, stabilizer codes)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "How do fault-tolerant quantum computing protocols enable reliable computation despite imperfect physical qubits and operations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "How do fault-tolerant quantum computing protocols enable reliable computation despite imperfect physical qubits and operations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the key resource overheads (e.g., qubit count, gate operations) and thresholds for implementing quantum error correction?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the key resource overheads (e.g., qubit count, gate operations) and thresholds for implementing quantum error correction?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "How do different error models (e.g., Pauli errors, coherent errors) affect the design and performance of quantum error correction schemes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.153Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "How do different error models (e.g., Pauli errors, coherent errors) affect the design and performance of quantum error correction schemes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.154Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the current experimental implementations and major challenges in scaling quantum error correction to practical fault-tolerant systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:22:32.154Z** - Topic: `Quantum error correction and fault-tolerant quantum computing` - Query: "What are the current experimental implementations and major challenges in scaling quantum error correction to practical fault-tolerant systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
