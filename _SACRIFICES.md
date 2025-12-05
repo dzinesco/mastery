@@ -12961,3 +12961,33 @@
 ⚰️  **2025-12-05T00:43:38.689Z** - Topic: `"Resource-efficient entanglement distillation protocols with adaptive syndrome decoding for continuous-variable quantum repeaters under non-Markovian noise and delayed adversarial feedforward"` - Query: "What protocol designs or modifications can jointly optimize resource efficiency and robustness against both non-Markovian noise and adversarial feedforward delays in a continuous-variable repeater architecture?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:44:53.267Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What are the fundamental principles and encoding methods of Gottesman-Kitaev-Preskill (GKP) codes for continuous-variable quantum systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.267Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What are the fundamental principles and encoding methods of Gottesman-Kitaev-Preskill (GKP) codes for continuous-variable quantum systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.267Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "How does non-Markovian noise, as opposed to Markovian noise, affect the error dynamics and coherence times in continuous-variable quantum information processing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.267Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "How does non-Markovian noise, as opposed to Markovian noise, affect the error dynamics and coherence times in continuous-variable quantum information processing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.267Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What are the specific challenges and requirements for performing syndrome extraction on GKP-encoded qubits under realistic, non-ideal conditions (e.g., finite squeezing, measurement inefficiency)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.268Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What are the specific challenges and requirements for performing syndrome extraction on GKP-encoded qubits under realistic, non-ideal conditions (e.g., finite squeezing, measurement inefficiency)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.268Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "How can adaptive measurement strategies (e.g., adjusting measurement bases or timing based on previous outcomes) improve the fidelity of syndrome extraction for GKP codes?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.268Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "How can adaptive measurement strategies (e.g., adjusting measurement bases or timing based on previous outcomes) improve the fidelity of syndrome extraction for GKP codes?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.268Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What feedback control protocols (e.g., real-time correction operations, dynamical decoupling) are most effective for mitigating errors in GKP codes after syndrome extraction, particularly under non-Markovian noise?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:44:53.268Z** - Topic: `"Quantum error correction for continuous-variable systems using Gottesman-Kitaev-Preskill (GKP) codes under non-Markovian noise with adaptive syndrome extraction and feedback"` - Query: "What feedback control protocols (e.g., real-time correction operations, dynamical decoupling) are most effective for mitigating errors in GKP codes after syndrome extraction, particularly under non-Markovian noise?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
