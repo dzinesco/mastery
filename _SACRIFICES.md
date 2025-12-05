@@ -26047,3 +26047,123 @@
 ⚰️  **2025-12-05T02:14:08.538Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental or training mechanisms (e.g., specific reward structures, curriculum learning) are known to facilitate the emergence of tool use in multi-agent transformer systems?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T02:15:19.093Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and methodologies currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.093Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific algorithms and methodologies currently considered state-of-the-art for selecting sparse experts in Mixture of Experts (MoE) architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.096Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing, noisy top-k routing, and expert choice routing mechanisms differ in their technical approaches to gating?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.096Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "How do top-k routing, noisy top-k routing, and expert choice routing mechanisms differ in their technical approaches to gating?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.096Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., model accuracy, throughput) between various gating mechanisms in MoE models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.097Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the measurable performance differences (e.g., model accuracy, throughput) between various gating mechanisms in MoE models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.097Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific technical challenges associated with achieving balanced computational load across experts during training and inference?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.097Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the specific technical challenges associated with achieving balanced computational load across experts during training and inference?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.097Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the main difficulties in designing dynamic routing algorithms that can effectively assign tokens to experts in real-time based on input characteristics?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.099Z** - Topic: `"sparse expert selection algorithms and gating mechanisms in MoE models"` - Query: "What are the main difficulties in designing dynamic routing algorithms that can effectively assign tokens to experts in real-time based on input characteristics?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.338Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and design patterns in state-of-the-art multi-agent transformer systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.338Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components and design patterns in state-of-the-art multi-agent transformer systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.338Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do current multi-agent transformer architectures differ from single-agent transformer architectures?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.338Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do current multi-agent transformer architectures differ from single-agent transformer architectures?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.338Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the primary methods for learning communication protocols in multi-agent reinforcement learning systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.339Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the primary methods for learning communication protocols in multi-agent reinforcement learning systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.339Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do communication protocols in multi-agent systems balance explicit signaling with emergent coordination?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.339Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do communication protocols in multi-agent systems balance explicit signaling with emergent coordination?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.339Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental conditions and agent capabilities typically lead to emergent tool use in heterogeneous agent populations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:19.339Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What environmental conditions and agent capabilities typically lead to emergent tool use in heterogeneous agent populations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of multi-agent transformer systems that incorporate learned communication protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What are the key architectural components of multi-agent transformer systems that incorporate learned communication protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do different multi-agent transformer architectures (e.g., centralized, decentralized, hybrid) implement and optimize learned communication?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do different multi-agent transformer architectures (e.g., centralized, decentralized, hybrid) implement and optimize learned communication?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training mechanisms or algorithms enable agents in heterogeneous populations to discover and adopt tool-use behaviors?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What training mechanisms or algorithms enable agents in heterogeneous populations to discover and adopt tool-use behaviors?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do environmental factors and reward structures influence the emergence of tool use in multi-agent systems with diverse agent capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "How do environmental factors and reward structures influence the emergence of tool use in multi-agent systems with diverse agent capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods (e.g., distillation, shared representations, meta-learning) facilitate skill transfer between agents with differing action spaces or sensory capabilities?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:39.705Z** - Topic: `"multi-agent transformer systems with learned communication protocols for emergent tool use and skill transfer across heterogeneous agent populations"` - Query: "What methods (e.g., distillation, shared representations, meta-learning) facilitate skill transfer between agents with differing action spaces or sensory capabilities?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.553Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical foundations and computational methods for calculating Wasserstein barycenters in optimal transport?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the mathematical foundations and computational methods for calculating Wasserstein barycenters in optimal transport?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How does domain adaptation using optimal transport specifically leverage Wasserstein barycenters to align source and target distributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How does domain adaptation using optimal transport specifically leverage Wasserstein barycenters to align source and target distributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key algorithmic implementations and practical challenges in applying Wasserstein barycenters for domain adaptation tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the key algorithmic implementations and practical challenges in applying Wasserstein barycenters for domain adaptation tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How does the performance of Wasserstein barycenter-based domain adaptation compare to other domain adaptation methods in benchmark evaluations?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "How does the performance of Wasserstein barycenter-based domain adaptation compare to other domain adaptation methods in benchmark evaluations?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the limitations and potential extensions of using Wasserstein barycenters for domain adaptation in real-world applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T02:15:41.554Z** - Topic: `"Optimal transport for domain adaptation with Wasserstein barycenters"` - Query: "What are the limitations and potential extensions of using Wasserstein barycenters for domain adaptation in real-world applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
