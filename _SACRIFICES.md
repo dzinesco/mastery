@@ -12577,3 +12577,33 @@
 ⚰️  **2025-12-05T00:28:10.138Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "How do the findings on optimized distillation under biased noise integrate into a full fault-tolerant computation stack, affecting the overall resource estimates for executing algorithms like Shor's or quantum simulation?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:28:57.530Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What are the specific steps and circuit-level requirements for implementing a standard magic state distillation protocol (e.g., the 15-to-1 or 10-to-2 protocol) in a fault-tolerant quantum computing architecture?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What are the specific steps and circuit-level requirements for implementing a standard magic state distillation protocol (e.g., the 15-to-1 or 10-to-2 protocol) in a fault-tolerant quantum computing architecture?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "How do biased noise models, where dephasing and relaxation errors occur at different rates, affect the logical error rates of the distilled magic states compared to standard depolarizing noise models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "How do biased noise models, where dephasing and relaxation errors occur at different rates, affect the logical error rates of the distilled magic states compared to standard depolarizing noise models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What are the key resource overhead metrics (e.g., qubit count, gate count, circuit depth, space-time volume) for implementing these distillation protocols under a biased noise assumption?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What are the key resource overhead metrics (e.g., qubit count, gate count, circuit depth, space-time volume) for implementing these distillation protocols under a biased noise assumption?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "How can the distillation protocols or their associated error correction codes be optimized (e.g., through tailored decoding or modified circuits) to leverage the noise bias and reduce the overall resource overhead?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "How can the distillation protocols or their associated error correction codes be optimized (e.g., through tailored decoding or modified circuits) to leverage the noise bias and reduce the overall resource overhead?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What is the comparative resource overhead and distillation yield between different protocols (e.g., 15-to-1 vs. 10-to-2) when operating under a realistic biased noise model, and which is more efficient for achieving a target logical error rate?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What is the comparative resource overhead and distillation yield between different protocols (e.g., 15-to-1 vs. 10-to-2) when operating under a realistic biased noise model, and which is more efficient for achieving a target logical error rate?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
