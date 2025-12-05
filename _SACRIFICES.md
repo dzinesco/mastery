@@ -12343,3 +12343,63 @@
 ⚰️  **2025-12-05T00:18:47.191Z** - Topic: `quantum computing history` - Query: "What are the current challenges, limitations, and future directions in the field of quantum computing?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the key quantum algorithms (e.g., Shor's, Grover's) and their specific computational tasks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the key quantum algorithms (e.g., Shor's, Grover's) and their specific computational tasks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "How do these quantum algorithms achieve speedup compared to the best-known classical algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "How do these quantum algorithms achieve speedup compared to the best-known classical algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the theoretical computational complexity classes (e.g., BQP vs. P, NP) that describe quantum advantage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the theoretical computational complexity classes (e.g., BQP vs. P, NP) that describe quantum advantage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the practical limitations (e.g., error correction, qubit coherence) to realizing computational advantage on current hardware?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the practical limitations (e.g., error correction, qubit coherence) to realizing computational advantage on current hardware?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "In which problem domains (e.g., cryptography, optimization, simulation) has a proven computational advantage been demonstrated or is most promising?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:27.500Z** - Topic: `quantum algorithms and their computational advantage` - Query: "In which problem domains (e.g., cryptography, optimization, simulation) has a proven computational advantage been demonstrated or is most promising?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.495Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the main categories of quantum algorithms (e.g., factoring, search, simulation, optimization) and their primary computational advantages?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.495Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the main categories of quantum algorithms (e.g., factoring, search, simulation, optimization) and their primary computational advantages?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.496Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What experimental or theoretical evidence demonstrates quantum supremacy (e.g., Google's 2019 experiment) and quantum advantage (e.g., practical applications)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.496Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What experimental or theoretical evidence demonstrates quantum supremacy (e.g., Google's 2019 experiment) and quantum advantage (e.g., practical applications)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.496Z** - Topic: `quantum algorithms and their computational advantage` - Query: "How does Shor's algorithm achieve exponential speedup for integer factorization compared to classical algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.496Z** - Topic: `quantum algorithms and their computational advantage` - Query: "How does Shor's algorithm achieve exponential speedup for integer factorization compared to classical algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.496Z** - Topic: `quantum algorithms and their computational advantage` - Query: "How does Grover's algorithm achieve quadratic speedup for unstructured search compared to classical algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.496Z** - Topic: `quantum algorithms and their computational advantage` - Query: "How does Grover's algorithm achieve quadratic speedup for unstructured search compared to classical algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.497Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the key quantum mechanical principles (e.g., superposition, entanglement, interference) that enable speedups in these algorithms?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:21:51.497Z** - Topic: `quantum algorithms and their computational advantage` - Query: "What are the key quantum mechanical principles (e.g., superposition, entanglement, interference) that enable speedups in these algorithms?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
