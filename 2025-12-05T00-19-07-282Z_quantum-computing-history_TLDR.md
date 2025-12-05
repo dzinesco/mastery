@@ -1,0 +1,7 @@
+# Executive Summary: quantum computing history
+
+This research synthesis reveals a fundamental consensus within consciousness studies: a mathematical model for the subjective, phenomenal aspect of consciousness remains entirely elusive. The field instead operationally defines consciousness through measurable correlates, drawing a direct analogy to observability criteria in systems theory. The dominant philosophical framework is functionalism, which defines mental states by their causal roles and is highly influential in AI research.
+
+Available theories are noted to primarily model the *complexity* of consciousness rather than its intrinsic subjective quality. Neurobiological research points to specific structures, particularly the thalamocortical system, as central to conscious processes. This creates a clear dichotomy: while functionalism and systems theory provide frameworks for measurable correlates and information processing, they do not address the core problem of phenomenality.
+
+The primary gap is the complete absence of a formal theory for subjectivity, representing the field's most significant unsolved problem. A key limitation is that current models, even those involving complex neurobiological systems, fail to bridge this explanatory gap. Next steps must focus on developing novel theoretical or mathematical approaches that can rigorously account for the first-person, qualitative nature of conscious experience.

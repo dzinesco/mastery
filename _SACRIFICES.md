@@ -11749,3 +11749,597 @@
 ⚰️  **2025-12-04T19:59:02.055Z** - Topic: `"Mapping the compensatory metabolic rewiring and redox adaptations in xCT-depleted HNSCC cells that bypass ferroptosis via alternative glutathione-independent antioxidant systems"` - Query: "Which compensatory nutrient uptake pathways (e.g., alternative cysteine sources, glutamine metabolism) are activated in xCT-depleted HNSCC cells to sustain proliferation?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-04T19:59:45.294Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased mRNA or protein expression in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.294Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased mRNA or protein expression in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.295Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key regulatory nodes (e.g., transcription factors, signaling pathways, post-translational modifications) controlling the upregulation of these identified antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.295Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key regulatory nodes (e.g., transcription factors, signaling pathways, post-translational modifications) controlling the upregulation of these identified antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.295Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated antioxidant systems in xCT-depleted HNSCC, which ones, when individually inhibited or knocked down, restore sensitivity to ferroptosis inducers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.295Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated antioxidant systems in xCT-depleted HNSCC, which ones, when individually inhibited or knocked down, restore sensitivity to ferroptosis inducers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.295Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the functionally essential antioxidant systems identified in xCT-depleted HNSCC operate in a coordinated network, and does their combined inhibition have a synergistic effect on triggering ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T19:59:45.295Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the functionally essential antioxidant systems identified in xCT-depleted HNSCC operate in a coordinated network, and does their combined inhibition have a synergistic effect on triggering ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.224Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines, what are the quantitative changes in mRNA and protein expression levels of thioredoxin (Trx1/Trx2), peroxiredoxin (Prx1-6), and catalase?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines, what are the quantitative changes in mRNA and protein expression levels of thioredoxin (Trx1/Trx2), peroxiredoxin (Prx1-6), and catalase?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines, what are the quantitative changes in mRNA and protein expression levels of NRF2-target genes, specifically focusing on heme oxygenase-1 (HO-1) and other known antioxidant targets?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines, what are the quantitative changes in mRNA and protein expression levels of NRF2-target genes, specifically focusing on heme oxygenase-1 (HO-1) and other known antioxidant targets?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcription factors (e.g., NRF2, FOXO, p53) and signaling pathways (e.g., KEAP1-NRF2, mTOR, MAPK) that are activated and responsible for the upregulation of identified antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcription factors (e.g., NRF2, FOXO, p53) and signaling pathways (e.g., KEAP1-NRF2, mTOR, MAPK) that are activated and responsible for the upregulation of identified antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the post-translational modifications or protein-protein interactions that regulate the activity of the upregulated antioxidant enzymes (e.g., thioredoxin, peroxiredoxin) in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the post-translational modifications or protein-protein interactions that regulate the activity of the upregulated antioxidant enzymes (e.g., thioredoxin, peroxiredoxin) in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "For each upregulated antioxidant system (thioredoxin, peroxiredoxin, HO-1, catalase) in xCT-depleted HNSCC, what is the functional consequence of its genetic knockdown or pharmacological inhibition on cell viability under ferroptosis-inducing conditions (e.g., erastin, RSL3 treatment)?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:13.225Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "For each upregulated antioxidant system (thioredoxin, peroxiredoxin, HO-1, catalase) in xCT-depleted HNSCC, what is the functional consequence of its genetic knockdown or pharmacological inhibition on cell viability under ferroptosis-inducing conditions (e.g., erastin, RSL3 treatment)?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.976Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the relative expression level (mRNA/protein) of thioredoxin, peroxiredoxin, catalase, and HO-1 in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the relative expression level (mRNA/protein) of thioredoxin, peroxiredoxin, catalase, and HO-1 in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, FOXO, p53) show altered activity or expression in xCT-depleted HNSCC cells, and do they correlate with upregulation of specific antioxidant systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, FOXO, p53) show altered activity or expression in xCT-depleted HNSCC cells, and do they correlate with upregulation of specific antioxidant systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which signaling pathways (e.g., KEAP1-NRF2, PI3K-AKT, MAPK) are activated or suppressed in xCT-depleted HNSCC cells, and how do they link to antioxidant gene expression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which signaling pathways (e.g., KEAP1-NRF2, PI3K-AKT, MAPK) are activated or suppressed in xCT-depleted HNSCC cells, and how do they link to antioxidant gene expression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does pharmacological or genetic inhibition of specific upregulated antioxidant systems (e.g., thioredoxin, peroxiredoxin, catalase, HO-1) restore ferroptosis sensitivity in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does pharmacological or genetic inhibition of specific upregulated antioxidant systems (e.g., thioredoxin, peroxiredoxin, catalase, HO-1) restore ferroptosis sensitivity in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated antioxidant systems, which one(s) are most critical for maintaining redox balance and cell survival under lipid peroxidation stress in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:00:38.977Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated antioxidant systems, which one(s) are most critical for maintaining redox balance and cell survival under lipid peroxidation stress in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.368Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels (mRNA and/or protein) of thioredoxin, peroxiredoxin, catalase, and HO-1 compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels (mRNA and/or protein) of thioredoxin, peroxiredoxin, catalase, and HO-1 compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the specific transcription factors or signaling pathways (e.g., NRF2, ATF4, HIF-1α) that regulate the expression of the upregulated antioxidant systems in xCT-deficient HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the specific transcription factors or signaling pathways (e.g., NRF2, ATF4, HIF-1α) that regulate the expression of the upregulated antioxidant systems in xCT-deficient HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which of the upregulated antioxidant systems (thioredoxin, peroxiredoxin, catalase, HO-1) show increased enzymatic activity in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which of the upregulated antioxidant systems (thioredoxin, peroxiredoxin, catalase, HO-1) show increased enzymatic activity in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "For each upregulated antioxidant system in xCT-depleted HNSCC cells, does genetic or pharmacological inhibition increase susceptibility to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "For each upregulated antioxidant system in xCT-depleted HNSCC cells, does genetic or pharmacological inhibition increase susceptibility to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the antioxidant systems essential for ferroptosis evasion in xCT-depleted HNSCC, which ones demonstrate synthetic lethality when co-inhibited with xCT depletion?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:03.369Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the antioxidant systems essential for ferroptosis evasion in xCT-depleted HNSCC, which ones demonstrate synthetic lethality when co-inhibited with xCT depletion?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.987Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the baseline expression or activity level of glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the baseline expression or activity level of glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific genes or proteins within the thioredoxin system (e.g., TXN, TXNRD1) show significant upregulation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific genes or proteins within the thioredoxin system (e.g., TXN, TXNRD1) show significant upregulation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific genes or proteins within the peroxiredoxin system (e.g., PRDX1-6) show significant upregulation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific genes or proteins within the peroxiredoxin system (e.g., PRDX1-6) show significant upregulation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific NRF2-target antioxidant genes (e.g., HMOX1, NQO1, GCLC, GCLM) show significant upregulation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific NRF2-target antioxidant genes (e.g., HMOX1, NQO1, GCLC, GCLM) show significant upregulation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcription factors or signaling pathways (e.g., NRF2, ATF4, HIF-1α) that show increased activation or expression in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:32.988Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcription factors or signaling pathways (e.g., NRF2, ATF4, HIF-1α) that show increased activation or expression in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the expression levels (mRNA and/or protein) of thioredoxin, peroxiredoxin, catalase, and HO-1 in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the expression levels (mRNA and/or protein) of thioredoxin, peroxiredoxin, catalase, and HO-1 in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors and epigenetic modifiers show altered activity or binding in xCT-depleted HNSCC cells that could regulate antioxidant gene expression?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors and epigenetic modifiers show altered activity or binding in xCT-depleted HNSCC cells that could regulate antioxidant gene expression?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which signaling pathways (e.g., NRF2, ATF4, HIF-1α) are activated in xCT-depleted HNSCC cells and are responsible for upregulating specific antioxidant systems?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which signaling pathways (e.g., NRF2, ATF4, HIF-1α) are activated in xCT-depleted HNSCC cells and are responsible for upregulating specific antioxidant systems?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does genetic or pharmacological inhibition of specific upregulated antioxidant systems (thioredoxin, peroxiredoxin, catalase, HO-1) sensitize xCT-depleted HNSCC cells to ferroptosis?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does genetic or pharmacological inhibition of specific upregulated antioxidant systems (thioredoxin, peroxiredoxin, catalase, HO-1) sensitize xCT-depleted HNSCC cells to ferroptosis?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which compensatory antioxidant system, when inhibited, shows the strongest synergy with xCT depletion in inducing ferroptosis in HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:01:57.892Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which compensatory antioxidant system, when inhibited, shows the strongest synergy with xCT depletion in inducing ferroptosis in HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.272Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) and thioredoxin reductase (TrxR) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.272Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) and thioredoxin reductase (TrxR) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) isoforms (e.g., Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) isoforms (e.g., Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (specifically HO-1, NQO1, and GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (specifically HO-1, NQO1, and GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, FOXO, p53) show altered activity or nuclear localization in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:24.273Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, FOXO, p53) show altered activity or nuclear localization in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression or activity levels of thioredoxin, peroxiredoxin, catalase, and HO-1 compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression or activity levels of thioredoxin, peroxiredoxin, catalase, and HO-1 compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What specific transcription factors or signaling pathways (e.g., NRF2, ATF4, p53) are activated in xCT-deficient HNSCC cells and regulate the expression of thioredoxin, peroxiredoxin, catalase, and HO-1?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What specific transcription factors or signaling pathways (e.g., NRF2, ATF4, p53) are activated in xCT-deficient HNSCC cells and regulate the expression of thioredoxin, peroxiredoxin, catalase, and HO-1?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which of the upregulated antioxidant systems (thioredoxin, peroxiredoxin, catalase, HO-1) show a significant change in protein level or enzymatic activity upon xCT depletion in HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which of the upregulated antioxidant systems (thioredoxin, peroxiredoxin, catalase, HO-1) show a significant change in protein level or enzymatic activity upon xCT depletion in HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does genetic or pharmacological inhibition of each upregulated antioxidant system (thioredoxin, peroxiredoxin, catalase, HO-1) in xCT-depleted HNSCC cells increase sensitivity to ferroptosis inducers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does genetic or pharmacological inhibition of each upregulated antioxidant system (thioredoxin, peroxiredoxin, catalase, HO-1) in xCT-depleted HNSCC cells increase sensitivity to ferroptosis inducers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the antioxidant systems found to be upregulated, which one, when inhibited, causes the most pronounced increase in lipid peroxidation or cell death in xCT-depleted HNSCC cells under ferroptotic stress?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:02:45.116Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the antioxidant systems found to be upregulated, which one, when inhibited, causes the most pronounced increase in lipid peroxidation or cell death in xCT-depleted HNSCC cells under ferroptotic stress?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.281Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines or models, which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity at the protein or mRNA level?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.281Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines or models, which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity at the protein or mRNA level?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.281Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, ATF4, p53) or signaling pathways (e.g., KEAP1-NRF2, integrated stress response) that control the upregulation of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.281Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, ATF4, p53) or signaling pathways (e.g., KEAP1-NRF2, integrated stress response) that control the upregulation of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.281Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when genetically or pharmacologically inhibited, lead to increased ferroptosis sensitivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.282Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when genetically or pharmacologically inhibited, lead to increased ferroptosis sensitivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.282Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the upregulated antioxidant systems in xCT-depleted HNSCC functionally compensate for glutathione loss by directly reducing lipid peroxides or by regenerating other antioxidant networks?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.282Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the upregulated antioxidant systems in xCT-depleted HNSCC functionally compensate for glutathione loss by directly reducing lipid peroxides or by regenerating other antioxidant networks?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.282Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Are there specific upstream stressors (e.g., mitochondrial ROS, iron accumulation) in xCT-depleted HNSCC that preferentially activate certain antioxidant systems over others?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:05.282Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Are there specific upstream stressors (e.g., mitochondrial ROS, iron accumulation) in xCT-depleted HNSCC that preferentially activate certain antioxidant systems over others?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.918Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) and thioredoxin reductase (TrxR) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.919Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) and thioredoxin reductase (TrxR) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.919Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) isoforms (e.g., Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.919Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) isoforms (e.g., Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.919Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (specifically HO-1, NQO1, and GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.919Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (specifically HO-1, NQO1, and GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.919Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.920Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.920Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, ATF4, p53) show altered activation or nuclear localization in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:31.920Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, ATF4, p53) show altered activation or nuclear localization in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.890Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.890Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.890Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.890Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (specifically HO-1) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (specifically HO-1) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors or signaling pathways regulate the expression of thioredoxin and peroxiredoxin in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:03:53.891Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors or signaling pathways regulate the expression of thioredoxin and peroxiredoxin in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.339Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines or models, which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity compared to controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.339Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines or models, which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity compared to controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.339Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, other transcription factors) and signaling pathways that drive the upregulation of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.339Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, other transcription factors) and signaling pathways that drive the upregulation of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.339Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which post-transcriptional or post-translational mechanisms (e.g., protein stability, enzymatic activation) contribute to the regulation of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.339Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which post-transcriptional or post-translational mechanisms (e.g., protein stability, enzymatic activation) contribute to the regulation of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.340Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when inhibited, significantly increase sensitivity to ferroptosis inducers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.340Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when inhibited, significantly increase sensitivity to ferroptosis inducers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.340Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the upregulated antioxidant systems in xCT-depleted HNSCC functionally compensate for glutathione loss by directly inhibiting lipid peroxidation or by maintaining redox balance, and which systems are most critical?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:12.340Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the upregulated antioxidant systems in xCT-depleted HNSCC functionally compensate for glutathione loss by directly inhibiting lipid peroxidation or by maintaining redox balance, and which systems are most critical?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.123Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) and thioredoxin reductase (TrxR) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.123Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin (Trx) and thioredoxin reductase (TrxR) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.123Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) isoforms (e.g., Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.123Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin (Prx) isoforms (e.g., Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.123Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (e.g., HO-1, NQO1, GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.123Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target genes (e.g., HO-1, NQO1, GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.124Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.124Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity level of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.124Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, ATF4, p53) show altered activity or expression in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:37.124Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (e.g., NRF2, ATF4, p53) show altered activity or expression in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.439Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level (mRNA and/or protein) of thioredoxin, peroxiredoxin, NRF2-targets like HO-1, and catalase in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.439Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level (mRNA and/or protein) of thioredoxin, peroxiredoxin, NRF2-targets like HO-1, and catalase in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.439Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors or signaling pathways (e.g., NRF2, ATF4, p53, MAPK) are activated or altered in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.439Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors or signaling pathways (e.g., NRF2, ATF4, p53, MAPK) are activated or altered in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.440Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the effect of genetic or pharmacological inhibition of NRF2 on the expression of antioxidant systems in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.440Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the effect of genetic or pharmacological inhibition of NRF2 on the expression of antioxidant systems in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.440Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does knockdown or inhibition of specific upregulated antioxidant systems (e.g., thioredoxin, peroxiredoxin, HO-1, catalase) increase ferroptosis sensitivity in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.440Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Does knockdown or inhibition of specific upregulated antioxidant systems (e.g., thioredoxin, peroxiredoxin, HO-1, catalase) increase ferroptosis sensitivity in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.440Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which antioxidant system, when inhibited, shows the strongest synergistic effect with xCT depletion in inducing ferroptosis in HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:04:56.440Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which antioxidant system, when inhibited, shows the strongest synergistic effect with xCT depletion in inducing ferroptosis in HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.353Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin system components (Trx1, TrxR1) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.353Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of thioredoxin system components (Trx1, TrxR1) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.353Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin isoforms (Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.353Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of peroxiredoxin isoforms (Prx1-6) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.353Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target antioxidant enzymes (HO-1, NQO1, GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.354Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression level of NRF2-target antioxidant enzymes (HO-1, NQO1, GCLC) in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.354Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.354Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the expression and activity of catalase in xCT-depleted HNSCC cells compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.354Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (NRF2, ATF4, p53, others) show altered activation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:20.354Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which transcription factors (NRF2, ATF4, p53, others) show altered activation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.755Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines or models, which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity compared to controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cell lines or models, which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity compared to controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, other transcription factors) and signaling pathways that drive the upregulation of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, other transcription factors) and signaling pathways that drive the upregulation of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which post-transcriptional or post-translational mechanisms (e.g., protein stability, enzymatic activation) contribute to the regulation of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which post-transcriptional or post-translational mechanisms (e.g., protein stability, enzymatic activation) contribute to the regulation of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when inhibited, significantly increase sensitivity to ferroptosis inducers?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when inhibited, significantly increase sensitivity to ferroptosis inducers?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the upregulated antioxidant systems in xCT-depleted HNSCC functionally compensate for glutathione loss by directly inhibiting lipid peroxidation or by maintaining redox balance, and which systems are most critical?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:05:41.756Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do the upregulated antioxidant systems in xCT-depleted HNSCC functionally compensate for glutathione loss by directly inhibiting lipid peroxidation or by maintaining redox balance, and which systems are most critical?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity in xCT-depleted HNSCC cells compared to controls?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) show increased expression or activity in xCT-depleted HNSCC cells compared to controls?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, ATF4, p53) and signaling pathways (e.g., KEAP1-NRF2, mTOR, MAPK) that control the expression of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What are the key transcriptional regulators (e.g., NRF2, ATF4, p53) and signaling pathways (e.g., KEAP1-NRF2, mTOR, MAPK) that control the expression of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which post-transcriptional or post-translational mechanisms (e.g., protein stability, phosphorylation, ubiquitination) regulate the activity of these antioxidant systems in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which post-transcriptional or post-translational mechanisms (e.g., protein stability, phosphorylation, ubiquitination) regulate the activity of these antioxidant systems in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when individually inhibited, restore ferroptosis sensitivity?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Among the upregulated glutathione-independent antioxidant systems in xCT-depleted HNSCC, which ones, when individually inhibited, restore ferroptosis sensitivity?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do any of these upregulated antioxidant systems show synthetic lethality or compensatory relationships with each other in maintaining ferroptosis resistance in xCT-depleted HNSCC?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:01.314Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Do any of these upregulated antioxidant systems show synthetic lethality or compensatory relationships with each other in maintaining ferroptosis resistance in xCT-depleted HNSCC?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.990Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the baseline expression level of glutathione-independent antioxidant systems (thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.990Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What is the baseline expression level of glutathione-independent antioxidant systems (thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) in xCT-depleted HNSCC cells compared to control HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.990Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific components within the thioredoxin and peroxiredoxin systems show significant upregulation in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which specific components within the thioredoxin and peroxiredoxin systems show significant upregulation in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "How does NRF2 activation status and downstream target expression (including HO-1 and catalase) change in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "How does NRF2 activation status and downstream target expression (including HO-1 and catalase) change in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What transcriptional or post-translational regulatory mechanisms control the upregulation of these alternative antioxidant systems in xCT-deficient HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What transcriptional or post-translational regulatory mechanisms control the upregulation of these alternative antioxidant systems in xCT-deficient HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which of the upregulated antioxidant systems, when individually inhibited, restore ferroptosis sensitivity in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:21.991Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "Which of the upregulated antioxidant systems, when individually inhibited, restore ferroptosis sensitivity in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels of thioredoxin system components (Trx1, TrxR1) compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels of thioredoxin system components (Trx1, TrxR1) compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels of peroxiredoxin isoforms (Prx1-6) compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels of peroxiredoxin isoforms (Prx1-6) compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels of NRF2-target genes (HO-1, NQO1, GCLC) compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression levels of NRF2-target genes (HO-1, NQO1, GCLC) compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression and activity levels of catalase compared to control cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "In xCT-depleted HNSCC cells, what are the expression and activity levels of catalase compared to control cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What transcription factors (besides NRF2) and signaling pathways regulate the antioxidant systems that are upregulated in xCT-depleted HNSCC cells?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-04T20:06:48.529Z** - Topic: `"Identifying the specific glutathione-independent antioxidant systems (e.g., thioredoxin, peroxiredoxin, NRF2-targets like HO-1, catalase) and their regulatory nodes that are upregulated in xCT-depleted HNSCC, and determining which are functionally essential for ferroptosis evasion"` - Query: "What transcription factors (besides NRF2) and signaling pathways regulate the antioxidant systems that are upregulated in xCT-depleted HNSCC cells?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "What were the key theoretical foundations and early concepts that led to the development of quantum computing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "What were the key theoretical foundations and early concepts that led to the development of quantum computing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "Who were the major pioneers and contributors in the field of quantum computing, and what were their significant contributions?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "Who were the major pioneers and contributors in the field of quantum computing, and what were their significant contributions?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "What are the major milestones and breakthroughs in quantum computing hardware development from the 1980s to the present?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "What are the major milestones and breakthroughs in quantum computing hardware development from the 1980s to the present?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "How has quantum computing evolved from theoretical models to practical implementations and commercial applications?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.190Z** - Topic: `quantum computing history` - Query: "How has quantum computing evolved from theoretical models to practical implementations and commercial applications?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.191Z** - Topic: `quantum computing history` - Query: "What are the current challenges, limitations, and future directions in the field of quantum computing?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:18:47.191Z** - Topic: `quantum computing history` - Query: "What are the current challenges, limitations, and future directions in the field of quantum computing?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
