@@ -12607,3 +12607,33 @@
 ⚰️  **2025-12-05T00:28:57.531Z** - Topic: `"Implementing magic state distillation protocols for universal fault-tolerant quantum computation: resource overhead analysis and optimization under biased noise models"` - Query: "What is the comparative resource overhead and distillation yield between different protocols (e.g., 15-to-1 vs. 10-to-2) when operating under a realistic biased noise model, and which is more efficient for achieving a target logical error rate?" (source: web)
    Reason: no_results - Confidence drag: -0.7%
 
+⚰️  **2025-12-05T00:29:49.710Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "What are the specific hardware constraints (e.g., qubit count, connectivity, gate fidelity, coherence times) of current NISQ-era devices that most critically limit the implementation of magic state distillation protocols?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.710Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "What are the specific hardware constraints (e.g., qubit count, connectivity, gate fidelity, coherence times) of current NISQ-era devices that most critically limit the implementation of magic state distillation protocols?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.711Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "Given these constraints, what is the minimal resource footprint (qubits, gates, circuit depth) required to implement the most promising near-term distillation protocols (e.g., Bravyi-Haah, Reed-Muller) on a NISQ device?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.711Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "Given these constraints, what is the minimal resource footprint (qubits, gates, circuit depth) required to implement the most promising near-term distillation protocols (e.g., Bravyi-Haah, Reed-Muller) on a NISQ device?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.711Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "How do intrinsic device errors (gate, measurement, leakage) propagate through a distillation circuit, and what are the resulting output error rates for distilled magic states under realistic noise models?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.711Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "How do intrinsic device errors (gate, measurement, leakage) propagate through a distillation circuit, and what are the resulting output error rates for distilled magic states under realistic noise models?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.711Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "Which error mitigation techniques (e.g., probabilistic error cancellation, zero-noise extrapolation) can be effectively integrated into the distillation routine to improve output fidelity without requiring additional qubits?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.711Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "Which error mitigation techniques (e.g., probabilistic error cancellation, zero-noise extrapolation) can be effectively integrated into the distillation routine to improve output fidelity without requiring additional qubits?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.712Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "What is the overall resource-error trade-off (e.g., total runtime, logical error per distilled state) for a complete distillation cycle on a target NISQ platform, and how does it compare to the error threshold required for practical quantum advantage?" (source: codebase)
+   Reason: no_results - Confidence drag: -0.7%
+
+⚰️  **2025-12-05T00:29:49.712Z** - Topic: `"Magic state distillation protocol optimization for NISQ-era devices: resource estimation and error mitigation under realistic hardware constraints"` - Query: "What is the overall resource-error trade-off (e.g., total runtime, logical error per distilled state) for a complete distillation cycle on a target NISQ platform, and how does it compare to the error threshold required for practical quantum advantage?" (source: web)
+   Reason: no_results - Confidence drag: -0.7%
+
